@@ -1,0 +1,10 @@
+country,reimbursement_gatekeeper,cart_count_source,role,document_language
+United States,Medicare NCDs; Medicaid; commercial payers,CIBMTR,uptake and diagnostics core,English
+England,NICE; NHS England,EBMT,access core,English
+Germany,G-BA with IQWiG; AMNOG pricing,EBMT,access core,German
+France,HAS; CEPS,EBMT,access core,French
+Italy,AIFA,EBMT,access core,Italian
+Spain,AEMPS; CIPM,EBMT,cross-country CAR-T,Spanish
+Canada,CDA-AMC; pCPA,CBMTG or provincial,access core,"English, French"
+Australia,PBAC; MSAC,ABMTRR,access core,English
+Japan,MHLW; Chuikyo,JSTCT,optional seventh system,Japanese

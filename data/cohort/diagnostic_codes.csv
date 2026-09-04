@@ -1,0 +1,10 @@
+test_family,codes,test_name,coverage_event_seed,status,source,verified_date
+"comprehensive genomic profiling, tissue",0037U,FoundationOne CDx,"NCD 90.2, 2018-03",seeded-from-memory,,
+"liquid biopsy, comprehensive",0239U,FoundationOne Liquid CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,
+"liquid biopsy, comprehensive",0242U,Guardant360 CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,
+molecular residual disease,0340U,Signatera (verify),MolDX 2021 onward,seeded-from-memory,,
+"pharmacogenomics, single gene",81225-81231,"CYP2C19, CYP2D6, CYP2C9, CYP3A4, CYP3A5 and related",MolDX pharmacogenomics LCD 2020,seeded-from-memory,,
+"pharmacogenomics, panel",81418,PGx genomic sequence panel,MolDX pharmacogenomics LCD 2020,seeded-from-memory,,
+exome,"81415, 81416",exome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,
+genome,"81425, 81426",genome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,
+breast cancer recurrence score,81519,Oncotype DX,long-covered comparator,seeded-from-memory,,

@@ -54,7 +54,7 @@ manuscript/implementation_blockers.md,20.7,Blocker analysis narrative and per-pl
 manuscript/manuscript.md,65.0,Current draft (v7). Read the revision note at the top first.
 manuscript/technology_timeline_map.md,25.9,Maturity-ladder definitions and per-subfamily timeline narrative.
 manuscript/thesis_architecture.md,18.0,"Argument design: thesis sentence, mechanism, negative results, figure order."
-manuscript/translation_timeline_plan.md,26.0,"Fourth framing document: the translation-timeline direction that supersedes the thesis architecture (4 September 2026). Seed tables must be verified before use."
+manuscript/translation_timeline_plan.md,26.0,Fourth framing document: the translation-timeline direction that supersedes the thesis architecture (4 September 2026). Seed tables must be verified before use.
 review/claim_ledger_raw.csv,46.2,Mechanically extracted candidate claims before consolidation (coverage audit).
 review/claim_review.csv,40.2,"The same ledger, machine-readable."
 review/claim_review_walkthrough.md,60.6,39-claim adversarial ledger with per-claim verdicts and fixes.
@@ -63,3 +63,34 @@ review/referee_discrepancy_table.csv,8.4,Every stated-vs-recomputed discrepancy 
 review/referee_pitch.md,20.6,"Pitch, methodology, findings, relevance, readership, extensions. Start here for orientation."
 review/referee_reanalysis_stratified.csv,1.0,The stratified reanalysis that overturned the v1 framing.
 review/referee_report.md,22.0,Verification referee's report on the numbers.
+data/cohort/README.md,1.0,What each seed table holds and its verification status.
+data/cohort/countries_gatekeepers.csv,0.6,"Systems, reimbursement gatekeepers, CAR-T registries, document languages. Seeded."
+data/cohort/diagnostic_codes.csv,1.1,"Test codes and coverage events for the diagnostics layer. Seeded, unverified."
+data/cohort/investment_events.csv,1.5,"Acquisitions, restructurings and retreats to code by manufacturing model. Seeded, unverified."
+data/cohort/policy_events.csv,2.2,"Policy and market events for event studies. Seeded, unverified."
+data/cohort/product_cohort.csv,11.6,"Cohort: FDA-listed cellular and gene therapy products as of 2026-08-18 plus EU-only history; membership sourced, dates seeded."
+research/DECISIONS.md,3.1,Decision record D001 to D008 with rationale and consequences.
+research/LOG.md,1.9,Chronological research log. Append only.
+research/README.md,2.8,"Research base index: layout, status vocabulary, rules, how to add a finding. Start here for the flagship."
+research/findings/README.md,0.8,Ledger column definitions and how to regenerate.
+research/findings/findings_ledger.csv,8.0,"F001 to F018: every established fact with evidence, source and status."
+research/findings/recompute_2026-09-04.py,3.1,Regenerates F001 to F006 from data/primary. Run from its folder.
+research/methods/README.md,0.5,Method index.
+research/methods/conventions.md,1.2,Analysis conventions carried forward and extended.
+research/methods/cross_country_design.md,1.6,"Same product, different systems: the flagship identification design."
+research/methods/data_sources.md,3.0,Every data source per layer with access route and confirmation status.
+research/methods/diffusion_fits.md,1.0,Logistic and Bass fit specification.
+research/methods/event_studies.md,1.0,Interrupted time series and synthetic control specification.
+research/methods/projection_model.md,2.0,"Monte Carlo projection, donor mapping, backcast, forecast-against-record."
+research/methods/reason_classification.md,2.2,Assessment-reason schema and the disclosure audit protocol.
+research/methods/revenue_to_patients.md,2.0,"Patients per quarter from product revenue, with calibration protocol and gate."
+research/methods/time_to_milestone.md,1.2,Survival and competing-risk specification for stage durations.
+research/sources/bibliography.csv,7.0,"S01 to S27: every source consulted, what it gives, read status."
+research/topics/01_clinical_stage/README.md,2.3,"Topic 01: first-in-human to approval. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/02_access_stage/README.md,2.2,"Topic 02: approval to reimbursement. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/03_uptake_stage/README.md,2.3,"Topic 03: reimbursement to patients treated. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/04_investment/README.md,2.1,"Topic 04: sponsor commitment and capital. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/05_projection/README.md,1.2,"Topic 05: frontier timelines under scenarios. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/06_diagnostics/README.md,1.8,"Topic 06: coverage and uptake of molecular diagnostics. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/07_companion_methods_paper/README.md,2.6,"Topic 07: the registry stated-reason paper. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/README.md,0.9,"Topic index: one folder per layer, in stage order."

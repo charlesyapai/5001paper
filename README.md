@@ -31,6 +31,8 @@ fastest way to confirm the migration is intact.
 | `data/primary/` | `trial_records.csv` — 14,061 retained trial records, one row per (subfamily, NCT). `halted_trials_blockers.csv` — every halted record with its verbatim reason next to its assigned label. `halted_trials_dedup.csv` — the 784-trial analysis set, one row per registration, with the audit flags. |
 | `data/derived/` | 13 summary tables, all regenerable from primary. |
 | `code/` | Three scripts, the query strings, and the literal regex filters. |
+| `research/` | The research base for the flagship translation-timeline paper and the companion methods paper: `LOG.md`, `DECISIONS.md`, `topics/` (one folder per layer), `methods/` (one specification per method), `findings/` (the ledger and the scripts that regenerate it), `sources/` (bibliography with read status). Start at `research/README.md`. |
+| `data/cohort/` | Seed and cohort tables for the new layers, as CSVs with verification columns. Product membership is sourced from the FDA list dated 18 August 2026; dates and events are seeded and unverified. |
 
 ## The three scripts
 

@@ -1,0 +1,6 @@
+boundary_choice,counts,ratio
+as published (biz vs safety+efficacy),251/43,5.8:1
+manufacturing counted as technical,251/63,4.0:1
++ regulatory/ethics hold,251/102,2.5:1
++ protocol redesign,251/124,2.0:1
+business restricted to texts naming a financial cause,76/43,1.8:1

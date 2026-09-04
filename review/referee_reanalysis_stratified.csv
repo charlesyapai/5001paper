@@ -1,0 +1,9 @@
+test,stratum,n,effect_detail,effect,p,referee_verdict
+Modality -> business-cited halt,all halts (as published),817,therap 41.1% vs diag 23.0%,OR 2.33,2.6e-08,reproduced
+Modality -> business-cited halt,INDUSTRY sponsors only,229,therap 66.0% vs diag 26.8%,OR 5.29,9.6e-09,effect present
+Modality -> business-cited halt,NON-INDUSTRY sponsors only,588,therap 22.9% vs diag 22.2%,OR 1.04,0.47,EFFECT ABSENT
+Modality -> business-cited halt,"non-industry, CAR-T excluded",436,therap 20.4% vs diag 22.2%,OR 0.90,0.67,EFFECT ABSENT/REVERSED
+Sponsor class -> business-cited halt,within Therapeutic only,348,industry 66.0% vs non-ind 22.9%,OR 6.54,4.3e-16,"rival exposure, larger effect"
+Sponsor class -> business-cited halt,within Diagnostic only,469,industry 26.8% vs non-ind 22.2%,OR 1.28,0.22,no effect
+Modality -> recruitment-cited halt,INDUSTRY sponsors only,229,diag 28.0% vs therap 10.9%,OR 3.2,-,ROBUST
+Modality -> recruitment-cited halt,NON-INDUSTRY sponsors only,588,diag 38.5% vs therap 22.9%,OR 2.1,-,ROBUST

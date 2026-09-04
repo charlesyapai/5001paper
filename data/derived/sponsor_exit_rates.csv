@@ -1,0 +1,11 @@
+subfamily,n_sponsors,exited,exit_rate,modality
+Pharmacogenomics,69,62,0.899,Diagnostic/analytic
+Clinical WGS/WES,19,12,0.632,Diagnostic/analytic
+Mass-spec / general proteomics,51,32,0.627,Diagnostic/analytic
+Lentiviral ex vivo gene therapy,42,24,0.571,Therapeutic
+Liquid biopsy / ctDNA,96,53,0.552,Diagnostic/analytic
+AAV gene transfer,98,40,0.408,Therapeutic
+AI/ML referenced in protocol,355,139,0.392,Diagnostic/analytic
+CRISPR nuclease editing,21,8,0.381,Therapeutic
+Engineered T-cell therapy (CAR-T),193,58,0.301,Therapeutic
+In vivo LNP genetic medicine,13,3,0.231,Therapeutic

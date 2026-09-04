@@ -1,0 +1,21 @@
+subfamily,modality,stage,trials,industry_pct,halted,dominant_blocker,tech_as_intervention,ph3plus,results_posted_pct
+AI/ML referenced in protocol,Diagnostic/analytic,5,5601,10,139,Recruitment or feasibility,797,14,11.0
+Liquid biopsy / ctDNA,Diagnostic/analytic,5,1368,12,83,Recruitment or feasibility,278,23,10.0
+Mass-spec / general proteomics,Diagnostic/analytic,5,1363,4,93,Recruitment or feasibility,108,11,11.0
+Pharmacogenomics,Diagnostic/analytic,5,1113,12,109,Recruitment or feasibility,341,107,33.0
+Clinical WGS/WES,Diagnostic/analytic,4,650,4,24,Recruitment or feasibility,78,2,25.0
+Single-cell omics,Diagnostic/analytic,4,142,2,1,too few,3,1,14.0
+Polygenic risk scores,Diagnostic/analytic,3,76,10,3,too few,19,1,10.0
+Biobank-linked genomic cohorts,Diagnostic/analytic,2,112,1,1,too few,3,0,
+Spatial omics,Diagnostic/analytic,2,54,0,0,too few,3,1,
+Affinity proteomics platforms,Diagnostic/analytic,2,41,2,2,too few,1,0,
+Companion diagnostics,Diagnostic/analytic,2,23,39,1,too few,5,1,
+AAV gene transfer,Therapeutic,5,316,67,24,Funding / business / strategy,144,32,39.0
+CRISPR nuclease editing,Therapeutic,5,118,47,21,Funding / business / strategy,30,7,19.0
+In vivo LNP genetic medicine,Therapeutic,5,68,35,4,too few,24,3,54.0
+Engineered T-cell therapy (CAR-T),Therapeutic,4,2579,29,233,Funding / business / strategy,1826,54,10.0
+Lentiviral ex vivo gene therapy,Therapeutic,4,279,27,37,Recruitment or feasibility,76,11,26.0
+N-of-1 / individualized genetic therapy,Therapeutic,4,126,5,8,Recruitment or feasibility,43,31,25.0
+Base editing,Therapeutic,3,28,46,1,too few,12,0,
+Epigenome editing,Therapeutic,2,2,50,0,too few,0,0,
+Prime editing,Therapeutic,2,2,100,0,too few,2,0,

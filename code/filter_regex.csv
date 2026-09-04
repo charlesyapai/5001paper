@@ -1,0 +1,21 @@
+subfamily,retained_if_regex_matches
+CRISPR nuclease editing,\bCRISPR|\bCas9\b|\bCas12|\bcas-9\b
+Base editing,base[-\s]edit
+Prime editing,prime[-\s]edit
+Epigenome editing,epigenom\w*[-\s]edit|epigenetic[-\s]edit
+In vivo LNP genetic medicine,lipid[-\s]nanoparticle|\bLNPs?\b
+AAV gene transfer,adeno-?associated\s+virus|\brAAV|\bAAV[0-9]?\b
+Lentiviral ex vivo gene therapy,lentivir
+Engineered T-cell therapy (CAR-T),chimeric\s+antigen\s+receptor|\bCAR[-\s]?T\b
+AI/ML referenced in protocol,machine[-\s]learning|artificial[-\s]intelligence|deep[-\s]learning|neural[-\s]network
+Affinity proteomics platforms,somascan|\bolink\b|proximity[-\s]extension
+Mass-spec / general proteomics,proteomic
+Liquid biopsy / ctDNA,circulating\s+tumou?r\s+DNA|\bctDNA\b|liquid\s+biops
+Single-cell omics,single[-\s]cell\s+(RNA|transcriptom|sequenc)|scRNA[-\s]?seq
+Spatial omics,spatial\s+(transcriptom|proteom|omic)
+Pharmacogenomics,pharmacogenom|pharmacogenet
+Clinical WGS/WES,whole[-\s]genome\s+sequenc|whole[-\s]exome\s+sequenc
+Polygenic risk scores,polygenic\s+(risk\s+)?score
+Companion diagnostics,companion\s+diagnostic
+Biobank-linked genomic cohorts,biobank
+N-of-1 / individualized genetic therapy,n[-\s]of[-\s]1|individuali[sz]ed\s+antisense

@@ -1,0 +1,21 @@
+subfamily,trials_sited,n_countries,any_lmic,lmic_share,top_country,top_share,multinational_share
+AAV gene transfer,303,44,95,0.314,United States,0.634,0.274
+AI/ML referenced in protocol,4987,115,1998,0.401,China,0.242,0.047
+Affinity proteomics platforms,37,15,4,0.108,United States,0.243,0.0
+Base editing,28,10,15,0.536,China,0.5,0.143
+Biobank-linked genomic cohorts,106,63,16,0.151,United States,0.198,0.038
+CRISPR nuclease editing,104,32,43,0.413,United States,0.452,0.212
+Clinical WGS/WES,607,79,167,0.275,United States,0.311,0.048
+Companion diagnostics,21,30,6,0.286,United States,0.381,0.333
+Engineered T-cell therapy (CAR-T),2407,60,1424,0.592,China,0.559,0.057
+Epigenome editing,2,4,0,0.0,Australia,0.5,0.5
+In vivo LNP genetic medicine,56,34,25,0.446,United States,0.518,0.179
+Lentiviral ex vivo gene therapy,265,35,102,0.385,United States,0.408,0.087
+Liquid biopsy / ctDNA,1256,64,402,0.32,China,0.244,0.061
+Mass-spec / general proteomics,1221,69,269,0.22,United States,0.274,0.038
+N-of-1 / individualized genetic therapy,118,19,13,0.11,United States,0.424,0.034
+Pharmacogenomics,1046,72,183,0.175,United States,0.465,0.078
+Polygenic risk scores,72,29,8,0.111,United States,0.319,0.139
+Prime editing,2,4,0,0.0,Canada,0.5,0.5
+Single-cell omics,121,28,39,0.322,China,0.256,0.033
+Spatial omics,47,14,21,0.447,China,0.404,0.043

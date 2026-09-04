@@ -1,0 +1,20 @@
+test,n,therapeutic,diagnostic,effect,p,verdict
+business-cited halt: therapeutic vs diagnostic (trial level),817,143/348 = 0.411,108/469 = 0.230,OR 2.33,2.61e-08,SUPERSEDED by the dedup + stratified rows below (pooled effect is a composition artefact)
+"business-cited halt, excluding CAR-T (sensitivity)",566,39/97 = 0.402,108/469 = 0.230,OR 2.25,0.000519,SUPERSEDED - CAR-T sensitivity on the pre-dedup pooled comparison
+recruitment-cited halt: diagnostic vs therapeutic (trial level),817,62/348 = 0.178,172/469 = 0.367,OR 2.67,1.64e-09,SUPPORTS - recruitment contrast (does not depend on sponsor class)
+maturity stage vs business-halt share (platform level),10,,,Spearman rho 0.00,1.0,NEGATIVE - maturity does not predict business-caused failure
+clinical-entry year vs trials-per-indication (8 editing/transfer subfamilies),8,,,Spearman rho -0.38,0.352,NEGATIVE - no fragmentation trend
+clinical-entry year vs median enrollment (8 editing/transfer subfamilies),8,,,Spearman rho -0.04,0.933,NEGATIVE - enrollment flat (median 10-40) across all generations
+momentum (share of trials post-2020) vs maturity stage,21,,,Spearman rho -0.08,0.74,NEGATIVE - newness uncorrelated with maturity
+business-cited halt: therapeutic vs diagnostic among INDUSTRY sponsors (deduplicated),225,industry 95/144 = 0.660,industry 21/81 = 0.259,OR 5.54,5.66e-09,SUPPORTS - but only within industry sponsors
+business-cited halt: modality effect among NON-INDUSTRY sponsors,559,43/184 = 0.234,83/375 = 0.221,OR 1.07,0.41,NEGATIVE - no modality effect without a commercial sponsor
+business-cited halt: sponsor class within therapeutics,328,industry 95/144 = 0.660,non-industry 43/184 = 0.234,OR 6.36,5.22e-15,SUPPORTS - the actual main effect
+sponsor-exit rate vs business-cited halt share (independent instrument),10,median exit 0.38,median exit 0.63,Spearman rho -0.50,0.138,NEGATIVE - behavioural exit does NOT corroborate stated reasons
+"verbatim reasons naming a payer, price or reimbursement decision",784,,,0 of 784,,NEGATIVE - the category cannot identify a payment mechanism
+"business-cited halt: modality x sponsor class, ONE ROW PER SPONSOR (cluster-robust)",474,industry 64/88 = 0.727,industry 21/69 = 0.304,OR 6.10,1.11e-07,SUPPORTS - interaction survives clustering
+"business-cited halt: modality among NON-INDUSTRY, one row per sponsor",317,33/82 = 0.402,66/235 = 0.281,OR 1.72,0.0294,"QUALIFIES - non-industry contrast is smaller, not absent"
+"business-cited halt: modality among INDUSTRY, excluding CAR-T",128,29/47 = 0.617,21/81 = 0.259,OR 4.60,7.0e-05,SUPPORTS - robust to the dominant subfamily
+"business-cited halt: modality among NON-INDUSTRY, excluding CAR-T",423,10/48 = 0.208,83/375 = 0.221,OR 0.93,0.64,NEGATIVE - no non-industry contrast once CAR-T removed
+"sponsor-exit vs business-cited halt share, >=8 HALTED trials (paper's own rule)",9,median exit 0.38,median exit 0.63,Spearman rho -0.70,0.0358,DISCONFIRMS - significant disagreement with the stated-reason measure
+AAV recruitment-cited halts vs therapeutic base rate,24,0/24 = 0.000,base rate 0.177,exact binomial,0.0094,SUPPORTS - AAV has significantly fewer recruitment halts than expected
+business-cited > recruitment-cited among all halts,784,business 242/784 = 0.309,recruitment 225/784 = 0.287,2.2 pp difference,0.230,NEGATIVE - 'dominated by business' not supported vs recruitment

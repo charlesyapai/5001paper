@@ -1,0 +1,18 @@
+subfamily,COVID-19 disruption,Efficacy failure or futility,"Funding, business or strategic decision","Investigator, site or administrative",Manufacturing or product supply,No reason stated,Protocol redesign or replacement,Recruitment or feasibility failure,Regulatory or ethics hold,Safety or toxicity,Unclear
+AAV gene transfer,1,1,18,1,0,3,0,0,0,1,0
+AI/ML referenced in protocol,8,4,37,12,2,2,7,48,4,0,15
+Affinity proteomics platforms,0,0,1,0,0,0,0,1,0,0,0
+Base editing,0,0,0,0,0,0,0,1,0,1,0
+Biobank-linked genomic cohorts,0,0,0,0,0,0,0,0,1,0,0
+CRISPR nuclease editing,1,0,10,1,1,0,0,3,2,1,2
+Clinical WGS/WES,1,0,9,5,0,1,2,9,1,0,2
+Companion diagnostics,0,0,0,0,0,1,0,1,0,0,0
+Engineered T-cell therapy (CAR-T),0,11,104,22,11,17,4,44,18,9,11
+In vivo LNP genetic medicine,0,0,1,0,0,0,1,1,1,0,0
+Lentiviral ex vivo gene therapy,0,1,8,5,0,8,0,9,1,2,3
+Liquid biopsy / ctDNA,1,4,23,8,2,0,4,37,2,0,3
+Mass-spec / general proteomics,2,1,17,15,1,12,2,38,3,1,3
+N-of-1 / individualized genetic therapy,2,0,2,0,0,0,0,4,0,0,0
+Pharmacogenomics,1,3,20,10,3,19,1,37,6,3,9
+Polygenic risk scores,0,0,1,0,0,0,1,0,0,0,1
+Single-cell omics,0,0,0,0,0,0,0,1,0,0,0

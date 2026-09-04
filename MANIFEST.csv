@@ -1,0 +1,65 @@
+path,kb,description
+OPEN_ITEMS.md,5.8,Prioritised open items; first two block external circulation.
+README.md,6.6,"Migration guide: pitfalls, conventions, instrument limits."
+code/01_retrieve.py,6.3,Registry pull + literal regex re-filter. Regenerates primary data.
+code/02_classify_halts.py,7.6,Halt-reason classification under a fixed 11-label schema; --sample writes a human-coding sheet.
+code/03_analyse.py,8.3,"VERIFICATION HARNESS: recomputes 24 published statistics, exits non-zero on mismatch. Run this first."
+code/filter_regex.csv,1.2,The literal regex each record must match to be retained. Load-bearing; see README point 1.
+code/queries.csv,4.3,The ClinicalTrials.gov and PubMed query string for each subfamily.
+code/requirements.txt,0.1,Python dependencies.
+data/derived/access_equity_by_subfamily.csv,1.3,Country concentration and LMIC participation per subfamily.
+data/derived/ai_originated_candidates.csv,8.5,33-molecule probe of AI-first discovery platforms.
+data/derived/ai_trials_by_application.csv,0.3,"Allocation of 5,601 clinical-AI trials by application area."
+data/derived/blocker_matrix_by_subfamily.csv,1.1,"Blocker counts, 17 subfamilies x 11 categories."
+data/derived/commercial_retreat_cases.csv,1.2,Six curated post-approval withdrawal cases. The ONLY place prices and payers are documented.
+data/derived/constraint_map_data.csv,0.9,Per-platform coordinates behind Figure 1b.
+data/derived/editing_trial_geography.csv,0.7,Trial site countries for gene-editing subfamilies.
+data/derived/evidence_quality_by_family.csv,0.4,"Reporting, design and status-verification metrics per family."
+data/derived/platform_lookup.csv,1.6,"Per-platform decision lookup: dominant blocker, sponsor mix, stage, reporting rate."
+data/derived/publication_timeline.csv,1.7,"PubMed records per year per subfamily, 2012-2025."
+data/derived/sponsor_exit_rates.csv,0.6,Sponsor-exit rate per platform (the disagreeing instrument).
+data/derived/technology_maturity_matrix.csv,7.9,"Master table: 21 subfamilies with queries, stage, momentum, sponsor mix."
+data/derived/thesis_tests.csv,3.3,"19 hypothesis tests with effect size, p-value and verdict (7 negative)."
+data/primary/halted_trials_blockers.csv,270.2,Every halted record with verbatim reason next to assigned label. PRIMARY.
+data/primary/halted_trials_dedup.csv,273.6,"784-trial analysis set, one row per registration, with audit flags. PRIMARY."
+data/primary/trial_records.csv,5055.1,"14,061 retained trial records, one row per (subfamily, NCT). PRIMARY."
+figures/Figure_1_constraint_map.png,367.3,Fig 1 - business discontinuation concentrates in industry-sponsored therapeutics (the main result)
+figures/Figure_2_blocker_profiles.png,234.1,Fig 2 - blocker profile per technology family
+figures/Figure_3_funding_vs_science.png,177.7,Fig 3 - funding vs scientific causes per platform
+figures/Figure_4_technology_timelines.png,246.4,Fig 4 - technology timelines and maturity ladder
+figures/Figure_5_momentum_vs_maturity.png,307.7,Fig 5 - research momentum is uncorrelated with clinical maturity
+figures/Figure_6_commercial_retreat.png,231.5,Fig 6 - post-approval commercial retreat (the only priced evidence)
+figures/Figure_7_evidence_quality.png,143.9,Fig 7 - registry survivorship and results reporting
+figures/Figure_8_access_equity.png,307.7,Fig 8 - geographic concentration of trial access
+figures/Figure_S1_ai_allocation.png,147.3,Fig S1 - allocation of clinical AI activity
+figures/Figure_S2_effect_sizes.png,288.3,Fig S2 - every hypothesis tested with its confidence interval
+figures/Figure_S3_publication_growth.png,438.3,Fig S3 - publication growth trajectories 2012-2025
+figures/Figure_S4_sponsor_exit.png,349.6,Fig S4 - the behavioural instrument that disagrees
+figures/Figure_S5_ai_pipeline.png,259.5,Fig S5 - the AI-originated candidate pipeline
+figures/figure_deck.pdf,3487.4,All 13 figures in narrative order with role labels.
+figures/source_names/fig1_timeline_map.png,246.4,Same figure under the filename the code refers to
+figures/source_names/fig2_maturity_momentum.png,307.7,Same figure under the filename the code refers to
+figures/source_names/fig3_ai_allocation.png,147.3,Same figure under the filename the code refers to
+figures/source_names/fig4_blocker_profiles.png,234.1,Same figure under the filename the code refers to
+figures/source_names/fig5_funding_vs_science.png,177.7,Same figure under the filename the code refers to
+figures/source_names/fig6_evidence_quality.png,143.9,Same figure under the filename the code refers to
+figures/source_names/fig7_access_equity.png,307.7,Same figure under the filename the code refers to
+figures/source_names/fig8_commercial_retreat.png,231.5,Same figure under the filename the code refers to
+figures/source_names/fig9_constraint_map.png,367.3,Same figure under the filename the code refers to
+figures/source_names/figS2_effect_sizes.png,288.3,Same figure under the filename the code refers to
+figures/source_names/figS3_publication_growth.png,438.3,Same figure under the filename the code refers to
+figures/source_names/figS4_sponsor_exit.png,349.6,Same figure under the filename the code refers to
+figures/source_names/figS5_ai_pipeline.png,259.5,Same figure under the filename the code refers to
+manuscript/implementation_blockers.md,20.7,Blocker analysis narrative and per-platform detail.
+manuscript/manuscript.md,65.0,Current draft (v7). Read the revision note at the top first.
+manuscript/technology_timeline_map.md,25.9,Maturity-ladder definitions and per-subfamily timeline narrative.
+manuscript/thesis_architecture.md,18.0,"Argument design: thesis sentence, mechanism, negative results, figure order."
+manuscript/translation_timeline_plan.md,26.0,"Fourth framing document: the translation-timeline direction that supersedes the thesis architecture (4 September 2026). Seed tables must be verified before use."
+review/claim_ledger_raw.csv,46.2,Mechanically extracted candidate claims before consolidation (coverage audit).
+review/claim_review.csv,40.2,"The same ledger, machine-readable."
+review/claim_review_walkthrough.md,60.6,39-claim adversarial ledger with per-claim verdicts and fixes.
+review/referee_boundary_sensitivity.csv,0.3,Ratio endpoints under each category-boundary choice.
+review/referee_discrepancy_table.csv,8.4,Every stated-vs-recomputed discrepancy found.
+review/referee_pitch.md,20.6,"Pitch, methodology, findings, relevance, readership, extensions. Start here for orientation."
+review/referee_reanalysis_stratified.csv,1.0,The stratified reanalysis that overturned the v1 framing.
+review/referee_report.md,22.0,Verification referee's report on the numbers.

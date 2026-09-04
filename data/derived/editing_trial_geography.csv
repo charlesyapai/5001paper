@@ -1,0 +1,8 @@
+subfamily,n_trials_with_site,n_total,top1,top2,top3
+CRISPR nuclease editing,104,118,"United States (47, 40%)","China (39, 33%)","Germany (13, 11%)"
+Base editing,28,28,"China (14, 50%)","United States (8, 29%)","United Kingdom (6, 21%)"
+Prime editing,2,2,"Canada (1, 50%)","New Zealand (1, 50%)","United Kingdom (1, 50%)"
+Epigenome editing,2,2,"Australia (1, 50%)","France (1, 50%)","New Zealand (1, 50%)"
+Engineered T-cell therapy (CAR-T),2407,2579,"China (1345, 52%)","United States (767, 30%)","France (85, 3%)"
+AAV gene transfer,303,316,"United States (192, 61%)","China (64, 20%)","United Kingdom (50, 16%)"
+In vivo LNP genetic medicine,56,68,"United States (29, 43%)","China (14, 21%)","Australia (9, 13%)"

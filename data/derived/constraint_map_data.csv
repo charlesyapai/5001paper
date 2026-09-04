@@ -1,0 +1,11 @@
+subfamily,biz,rec,n_halted,biz_share,rec_share,modality,ind_share
+AAV gene transfer,18.0,0.0,24,0.75,0.0,Therapeutic,0.875
+AI/ML referenced in protocol,37.0,48.0,139,0.266,0.345,Diagnostic/analytic,0.2805755395683453
+CRISPR nuclease editing,10.0,3.0,21,0.476,0.143,Therapeutic,0.5238095238095238
+Clinical WGS/WES,7.0,8.0,24,0.292,0.333,Diagnostic/analytic,0.0
+Engineered T-cell therapy (CAR-T),99.0,41.0,233,0.425,0.176,Therapeutic,0.41630901287553645
+Lentiviral ex vivo gene therapy,8.0,9.0,37,0.216,0.243,Therapeutic,0.35135135135135137
+Liquid biopsy / ctDNA,22.0,37.0,83,0.265,0.446,Diagnostic/analytic,0.21686746987951808
+Mass-spec / general proteomics,17.0,37.0,93,0.183,0.398,Diagnostic/analytic,0.08602150537634409
+N-of-1 / individualized genetic therapy,2.0,4.0,8,0.25,0.5,Therapeutic,0.0
+Pharmacogenomics,19.0,35.0,109,0.174,0.321,Diagnostic/analytic,0.14678899082568808

@@ -43,7 +43,7 @@ redone.
 
 ## 2. The headline result
 
-![Blocker profiles by technology family]({{artifact:art_1cd1a369-ff86-4a03-9b3f-f9eebb993fed}})
+![Blocker profiles by technology family](../figures/Figure_2_blocker_profiles.png)
 
 Across all four families, **251 halted trials cite a funding, business or strategic decision;
 43 cite safety or efficacy failure.** That is a ratio of **5.8 to 1**. Programs in these
@@ -67,7 +67,7 @@ Two secondary findings qualify it, and both matter:
 
 ### The clearest single case
 
-![Funding versus scientific causes by platform]({{artifact:art_39cac88c-1cec-493c-a0b8-a57c124a1855}})
+![Funding versus scientific causes by platform](../figures/Figure_3_funding_vs_science.png)
 
 **AAV gene transfer is failing commercially while succeeding scientifically.** Of its 25
 halted trials, **18 cite business or strategic reasons and 2 cite safety or efficacy** — the
@@ -87,7 +87,7 @@ they fail through recruitment rather than through a sponsor's portfolio review.
 
 The registry undercounts abandonment in two further ways, both measurable.
 
-![Evidence quality and transparency by family]({{artifact:art_de2ccf77-f9b9-4cf6-a754-8ba2db7e65c4}})
+![Evidence quality and transparency by family](../figures/Figure_7_evidence_quality.png)
 
 **Silent abandonment: 2,821 trials (20.1% of all records) carry registry status "unknown"** —
 meaning the sponsor has not verified the record within the expected window. These are neither
@@ -114,7 +114,7 @@ killing these products.
 
 ## 4. Approval is not access: the economic blocker made concrete
 
-![Commercial retreat of approved gene therapies]({{artifact:art_05efcee4-95ba-4c18-9834-afdbada4a6f6}})
+![Commercial retreat of approved gene therapies](../figures/Figure_6_commercial_retreat.png)
 
 The registry cannot show what happens after approval, so this figure is curated from public
 company statements and trade reporting rather than from a queried database — it should be
@@ -279,7 +279,7 @@ contemplated when it was given.
 
 ## 6. Access and equity, measured
 
-![Access and equity by platform]({{artifact:art_db0dfaaa-e7a0-4d7c-aa3a-2357fd35d35c}})
+![Access and equity by platform](../figures/Figure_8_access_equity.png)
 
 Two structural measures, both computed on an any-site basis over the 18 subfamilies with at
 least 20 sited trials.

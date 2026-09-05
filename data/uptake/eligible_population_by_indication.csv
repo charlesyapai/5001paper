@@ -1,0 +1,147 @@
+product_key,geography,family,indication_key,disease,low,high,n_verified_or_derived,estimate_years,measure_types,sources
+abecma,France,annual,MM_3L,MM,1600.0,1600.0,1,2024,gatekeeper_eligible,"HAS Commission de la Transparence, Avis ABECMA extension d'i"
+abecma,France,annual,MM_4L,MM,740.0,740.0,1,2021,gatekeeper_eligible,"HAS Commission de la Transparence, Avis ABECMA (idecabtagene"
+abecma,Germany,annual,MM_3L,MM,4900.0,5250.0,1,2024,gatekeeper_eligible,G-BA Beschluss AM-RL Anlage XII: Idecabtagen vicleucel (Neub
+abecma,Germany,annual,MM_4L,MM,1200.0,1300.0,1,2022,gatekeeper_eligible,G-BA Beschluss ueber eine Aenderung der Arzneimittel-Richtli
+abecma,UK,annual,MM_3L,MM,914.0,2482.0,1,2022,annual_incident_eligible,"Fonseca R et al., Frontline treatment patterns and attrition"
+abecma,UK,annual,MM_4L,MM,980.0,980.0,1,2022,annual_incident_eligible,"Yong K et al., Multiple myeloma: patient outcomes in real-wo"
+abecma,US,annual,MM_3L,MM,8530.0,19620.0,1,2026,annual_incident_eligible,"Fonseca R et al., Frontline treatment patterns and attrition"
+abecma,US,annual,MM_5L,MM,2880.0,10580.0,2,"2021,2026","annual_incident_eligible,gatekeeper_eligible","Fonseca R et al., Frontline treatment patterns and attrition | ICER, Anti B-Cell Maturation Antigen CAR T-cell and Antibody"
+adstiladrin,US,annual,NMIBC_BCGunresp_CIS,NMIBC,2870.0,5740.0,2,2023,annual_incident_eligible,Derived from Ferring/NCI framing (row above) | Derived from Ferring/NCI framing and Ferring statement that 
+alofisel,Germany,annual,CD_fistula,CD,90.0,230.0,1,2018,gatekeeper_eligible,"G-BA Beschluss, Darvadstrocel, 22 Nov 2018"
+amtagvi,US,annual,MEL_postPD1,MEL,13000.0,13000.0,1,2026,annual_incident_eligible,Replimune Group Form 10-K for fiscal year ended 31 March 202
+aucatzyl,England,annual,ALL_adult,ALL,50.0,50.0,1,2025,gatekeeper_eligible,NICE TA1116 resource impact summary report (11 December 2025
+aucatzyl,US,annual,ALL_adult,ALL,3250.0,3250.0,1,2023,company_addressable,Autolus Therapeutics plc Form 10-K for FY2024
+beqvez,US,prevalent,HemB_adult,HEMB,860.0,860.0,1,2022,gatekeeper_eligible,"ICER, Gene Therapy for Hemophilia B and An Update on Gene Th"
+breyanzi,England,annual,LBCL_2L,LBCL,565.0,592.0,1,2025,gatekeeper_eligible,NICE TA1048 resource impact summary report (26 March 2025)
+breyanzi,France,annual,LBCL_2L,LBCL,602.0,602.0,1,2024,gatekeeper_eligible,"HAS, BREYANZI (lisocabtagene maraleucel) LDGCB/LHGCB/LMPGCB/"
+breyanzi,Germany,annual,FL_3L,FL,370.0,840.0,1,2025,gatekeeper_eligible,G-BA Beschluss über eine Änderung der Arzneimittel-Richtlini
+breyanzi,Germany,annual,LBCL_2L,LBCL,1605.0,2353.0,2,2023,gatekeeper_eligible,"Derived from G-BA Tragende Gründe D-951 (16 Nov 2023), secti | G-BA Tragende Gründe zum Beschluss AM-RL Anlage XII: Lisocab"
+breyanzi,Germany,annual,LBCL_3L,LBCL,1420.0,1980.0,1,2021,gatekeeper_eligible,"G-BA Tragende Gründe, Lisocabtagen maraleucel (Breyanzi), D-"
+breyanzi,US,annual,LBCL_2L,LBCL,2984.0,5969.0,1,2024,annual_incident_eligible,Derived from Perales 2022 (Transplant Cell Ther) BIM inputs 
+carvykti,France,annual,MM_2L,MM,1350.0,1350.0,1,2025,gatekeeper_eligible,"HAS CEESP, Avis economique CARVYKTI (ciltacabtagene autoleuc"
+carvykti,Germany,annual,MM_2L,MM,1180.0,2460.0,1,2025,gatekeeper_eligible,G-BA Beschluss AM-RL Anlage XII: Ciltacabtagen autoleucel (n
+carvykti,Germany,annual,MM_4L,MM,1210.0,1310.0,1,2023,gatekeeper_eligible,G-BA Tragende Gruende zum Beschluss AM-RL Anlage XII: Ciltac
+carvykti,Germany,annual,MM_5L,MM,1100.0,1180.0,1,2025,gatekeeper_eligible,"G-BA Beschluss AM-RL Anlage XII: Ciltacabtagen autoleucel, B"
+carvykti,UK,annual,MM_2L,MM,2090.0,3985.0,1,2022,annual_incident_eligible,"Fonseca R et al., Frontline treatment patterns and attrition"
+carvykti,UK,annual,MM_4L,MM,980.0,980.0,1,2022,annual_incident_eligible,"Yong K et al., Multiple myeloma: patient outcomes in real-wo"
+carvykti,US,annual,MM_2L,MM,15480.0,28440.0,1,2026,annual_incident_eligible,"Fonseca R et al., Frontline treatment patterns and attrition"
+carvykti,US,annual,MM_5L,MM,2880.0,10580.0,2,"2021,2026","annual_incident_eligible,gatekeeper_eligible","Fonseca R et al., Frontline treatment patterns and attrition | ICER, Anti B-Cell Maturation Antigen CAR T-cell and Antibody"
+casgevy,Canada,annual,TDT_12plus,TDT,1.0,15.0,1,2025,gatekeeper_eligible,"CDA-AMC Pharmacoeconomic Review, Exagamglogene Autotemcel (C"
+casgevy,Canada,prevalent,SCD_VOC_12plus,SCD,1100.0,1200.0,1,2025,gatekeeper_eligible,"CDA-AMC Pharmacoeconomic Review, Exagamglogene Autotemcel (C"
+casgevy,EU,prevalent,SCD_VOC_12plus,SCD,37000.0,37000.0,1,2025,company_addressable,"Vertex 8-K Ex-99.1, Vertex Reports Third Quarter 2025 Financ"
+casgevy,England,prevalent,SCD_VOC_12plus,SCD,1750.0,1882.0,2,"2024,2025",gatekeeper_eligible,"NICE TA1044 Exagamglogene autotemcel for treating severe sic | NICE TA1044, section 3 Committee discussion (guidance publis"
+casgevy,England,prevalent,TDT_12plus,TDT,475.0,498.0,1,2024,gatekeeper_eligible,NICE TA1003 Exagamglogene autotemcel for treating transfusio
+casgevy,Germany,prevalent,SCD_VOC_12plus,SCD,130.0,330.0,1,2025,gatekeeper_eligible,G-BA Beschluss Anlage XII Exagamglogen autotemcel (Sichelzel
+casgevy,Germany,prevalent,TDT_12plus,TDT,20.0,150.0,1,2025,gatekeeper_eligible,G-BA Beschluss Anlage XII Exagamglogen autotemcel (transfusi
+casgevy,US,prevalent,SCD_TDT_2to11,SCD,5500.0,5500.0,2,2026,company_addressable,"Vertex 8-K Ex-99.1, Vertex Reports Second Quarter 2026 Finan"
+casgevy,US,prevalent,SCD_VOC_12plus,SCD,20000.0,25000.0,1,2023,gatekeeper_eligible,"ICER, Gene Therapies for Sickle Cell Disease, Final Evidence"
+casgevy,multi: US+EU,prevalent,SCD_VOC_12plus,SCD,30000.0,30000.0,1,2023,company_addressable,"Vertex 8-K Ex-99.1, Vertex Reports Fourth Quarter and Full Y"
+casgevy,multi: US+EU,prevalent,TDT_12plus,TDT,5000.0,5000.0,1,2023,company_addressable,"Vertex 8-K Ex-99.1, Vertex Reports Fourth Quarter and Full Y"
+ebvallo,Germany,annual,PTLD_rr,PTLD,7.0,30.0,1,2021,gatekeeper_eligible,"IQWiG Dossierbewertung G23-08, Tabelecleucel (EBV-positives "
+ebvallo,US,annual,PTLD_rr,PTLD,471.0,471.0,1,2024,gatekeeper_eligible,"ICER, Tabelecleucel for Epstein-Barr Virus Positive Post-Tra"
+elevidys,US,annual,DMD_4plus,DMD,364.0,557.0,1,2023,annual_incident_eligible,"Derived from CDC 2023 births, Crisafulli 2020 and FDA SBRA i"
+elevidys,US,prevalent,DMD_4plus_all,DMD,4481.0,15000.0,2,"2024,2026",prevalent_eligible,"Derived from Romitti 2015 (MD STARnet) prevalence and US Cen | Parent Project Muscular Dystrophy, About Duchenne (web page,"
+elevidys,US,prevalent,DMD_4plus_amb,DMD,2657.0,8895.0,1,2024,prevalent_eligible,"Derived from Romitti 2015 x Census 2024 (this file), PPMD ~1"
+elevidys,US,prevalent,DMD_4plus_nonamb,DMD,1792.0,6000.0,1,2024,prevalent_eligible,"Derived from Romitti 2015 x Census 2024 (this file), PPMD ~1"
+elevidys,US,prevalent,DMD_4to5_amb,DMD,728.0,1114.0,1,2023,prevalent_eligible,Derived from annual DMD births
+encelto,US,prevalent,MacTel2,MACTEL2,5560.0,165000.0,2,"2020,2025",prevalent_eligible,"Claritas Rx blog, 'A Breakthrough in Vision Care: The FDA Ap | Derived here from Beaver Dam (0.1%) and Melbourne (0.004%) r"
+genglycos,US,annual,GSD1a,GSD1A,29.0,29.0,1,2023,annual_incident_eligible,Derived here: 3.6 million US live births per year (CDC 2023:
+genglycos,US,prevalent,GSD1a,GSD1A,1500.0,2500.0,1,2026,company_addressable,"Ultragenyx press release, 19 Aug 2026 (GlobeNewswire)"
+genglycos,global,prevalent,GSD1a,GSD1A,6000.0,8000.0,1,2026,company_addressable,"Ultragenyx press release, 19 Aug 2026 (GlobeNewswire)"
+glybera,EU,prevalent,LPLD,LPLD,930.0,930.0,1,2004,prevalent_eligible,"EMA, orphan designation EU/3/04/194, alipogene tiparvovec fo"
+glybera,France,prevalent,LPLD,LPLD,136.0,136.0,1,2023,prevalent_eligible,Derived here: 2 per million x French population about 68.1 m
+glybera,Germany,prevalent,LPLD,LPLD,166.0,166.0,1,2022,prevalent_eligible,Derived here: CHMP/G-BA prevalence 2 per million x German po
+hemgenix,Australia,prevalent,HemB_adult,HEMB,568.0,568.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Canada,prevalent,HemB_adult,HEMB,58.0,742.0,2,"2022,2024","gatekeeper_eligible,prevalent_eligible","CDA-AMC (CADTH) Pharmacoeconomic Review, Etranacogene Dezapa | WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,England,prevalent,HemB_adult,HEMB,250.0,300.0,2,2024,gatekeeper_eligible,"NICE TA989 Etranacogene dezaparvovec for treating moderately | Progress Educational Trust (PET) news, NHS funding approved "
+hemgenix,France,prevalent,HemB_adult,HEMB,1909.0,1909.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Germany,prevalent,HemB_adult,HEMB,340.0,842.0,2,"2022,2023","gatekeeper_eligible,prevalent_eligible","G-BA Beschluss Anlage XII Etranacogen Dezaparvovec (Haemophi | WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Gulf,prevalent,HemB_adult,HEMB,262.0,262.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Italy,prevalent,HemB_adult,HEMB,707.0,707.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Japan,prevalent,HemB_adult,HEMB,1294.0,1294.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,Spain,prevalent,HemB_adult,HEMB,286.0,286.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,UK,prevalent,HemB_adult,HEMB,1721.0,2000.0,2,"2022,2024",prevalent_eligible,"Progress Educational Trust (PET) news, NHS funding approved  | WFH, Report on the Annual Global Survey 2022 (published Octo"
+hemgenix,US,prevalent,HemB_adult,HEMB,860.0,860.0,1,2022,gatekeeper_eligible,"ICER, Gene Therapy for Hemophilia B and An Update on Gene Th"
+imlygic,Germany,annual,MEL_unresectable,MEL,35.0,670.0,4,2016,gatekeeper_eligible,"G-BA Beschluss AM-RL Anlage XII: Talimogen laherparepvec, 15 | G-BA Beschluss AM-RL Anlage XII: Talimogen laherparepvec, Be | Sum of the three subgroup ranges in the G-BA Beschluss Talim"
+itvisma,US,annual,SMA_2plus,SMA,244.0,359.0,1,2023,annual_incident_eligible,Derived from US SMA birth prevalence
+itvisma,US,prevalent,SMA_2plus,SMA,8000.0,9000.0,2,2025,"company_addressable,prevalent_eligible","Derived from Novartis 9,000 and under-2 pool | Novartis press release, FDA approval of Itvisma, 24 Nov 2025"
+kebilidi,EU,annual,AADC,AADC,24.0,71.0,1,2024,annual_incident_eligible,"Derived from Eurostat 2024 births, SMC/PTC incidence and SMC"
+kebilidi,England,annual,AADC,AADC,4.0,11.0,1,2023,annual_incident_eligible,"Derived from ONS 2023 births, SMC/PTC incidence and SMC seve"
+kebilidi,Germany,annual,AADC,AADC,4.0,30.0,1,2023,gatekeeper_eligible,"G-BA Beschluss Eladocagene Exuparvovec, 2 Feb 2023, section "
+kebilidi,UK,prevalent,AADC,AADC,8.0,12.0,1,2023,prevalent_eligible,"SMC, eladocagene exuparvovec (Upstaza), Aug/Sep 2023, p.2"
+kebilidi,US,annual,AADC,AADC,30.0,108.0,1,2023,annual_incident_eligible,Derived from CDC 2023 births and incidence range
+kebilidi,global,prevalent,AADC,AADC,5000.0,5000.0,1,2024,company_addressable,PTC Therapeutics Form 10-K for FY2024
+kresladi,US,annual,LAD1,LAD1,4.0,4.0,1,,annual_incident_eligible,"MedlinePlus Genetics (NIH/NLM), condition page (accessed 202"
+kymriah,Germany,annual,ALL_ped,ALL,50.0,65.0,1,2018,gatekeeper_eligible,"G-BA Beschluss / Zusammenfassende Dokumentation, Tisagenlecl"
+kymriah,Germany,annual,FL_3L,FL,650.0,690.0,1,2022,gatekeeper_eligible,"G-BA Beschluss, Tisagenlecleucel (neues Anwendungsgebiet: fo"
+kymriah,Germany,annual,LBCL_3L,LBCL,440.0,720.0,2,"2018,2020",gatekeeper_eligible,"G-BA Beschluss, Tisagenlecleucel (DLBCL), D-375, Beschluss v | G-BA Beschluss, Tisagenlecleucel (DLBCL, Neubewertung nach F"
+kymriah,US,annual,ALL_ped,ALL,400.0,620.0,3,2017,"company_addressable,gatekeeper_eligible","ICER, Chimeric Antigen Receptor T-Cell Therapy for B-Cell Ca | The Motley Fool, 'Novartis' $475,000 Price Tag Sets the Stag"
+kymriah,US,annual,LBCL_3L,LBCL,5902.0,5902.0,1,2016,gatekeeper_eligible,"ICER, Chimeric Antigen Receptor T-Cell Therapy for B-Cell Ca"
+lenmeldy,EU,annual,MLD_early,MLD,7.0,34.0,1,2024,annual_incident_eligible,"Derived from Eurostat 2024 births, incidence range and ICER "
+lenmeldy,England,annual,MLD_early,MLD,1.0,5.0,1,2023,annual_incident_eligible,"Derived from ONS 2023 births, incidence range and ICER eligi"
+lenmeldy,Germany,annual,MLD_early,MLD,1.0,3.0,1,2021,gatekeeper_eligible,G-BA Beschluss AM-RL Anlage XII Atidarsagen autotemcel (Meta
+lenmeldy,UK,annual,MLD_early,MLD,4.0,17.0,2,2022,"annual_incident_eligible,prevalent_eligible","Horgan C, et al. JIMD Reports 2023;64(5):346-352"
+lenmeldy,US,annual,MLD_early,MLD,7.0,90.0,5,"2021,2023","annual_incident_eligible,gatekeeper_eligible","Derived from CDC 2023 births and incidence range | Derived from birth range and ICER eligibility fraction | ICER MLD Evidence Report, 14 Sep 2023, section 7 | ICER MLD Evidence Report, 14 Sep 2023, section 7 (p.38-39) | ICER MLD Evidence Report, 14 Sep 2023, section 7 - per-year "
+luxturna,Germany,prevalent,RPE65,RPE65,100.0,655.0,3,"2019,2022","gatekeeper_eligible,prevalent_eligible","G-BA, Tragende Gruende zum Beschluss (Neubewertung nach Fris | G-BA, Tragende Gruende zum Beschluss ueber die Nutzenbewertu"
+luxturna,US,prevalent,RPE65,RPE65,1000.0,3000.0,4,"2017,2018","company_addressable,gatekeeper_eligible,prevalent_eligible","ICER, Voretigene Neparvovec for Biallelic RPE65-Mediated Ret | Spark Therapeutics Form 10-K for FY2018 | Spark Therapeutics press release, ""Spark Therapeutics Announ"
+luxturna,multi: US+EU,prevalent,RPE65,RPE65,6000.0,6000.0,1,2018,company_addressable,Spark Therapeutics Form 10-K for FY2018
+luxturna,multi: US+Germany+France+Italy+Spain+EU5,prevalent,RPE65,RPE65,3500.0,3500.0,1,2017,company_addressable,"ICER, Voretigene Neparvovec for Biallelic RPE65-Mediated Ret"
+lyfgenia,US,prevalent,SCD_VOC_12plus,SCD,20000.0,25000.0,2,"2023,2024","company_addressable,gatekeeper_eligible","ICER, Gene Therapies for Sickle Cell Disease, Final Evidence | bluebird bio, Inc. Form 10-K for fiscal year ended 2024-12-3"
+omisirge,US,annual,cordblood_HSCT,CORDBLOOD,1000.0,1000.0,1,2021,company_addressable,Gamida Cell Ltd. Form 10-K for fiscal year 2021
+otarmeni,US,annual,OTOF,OTOF,50.0,50.0,1,2026,annual_incident_eligible,"CGTLive, 'Regeneron Nets Accelerated Approval From FDA for O"
+papzimeos,US,prevalent,RRP_adult,RRP,27000.0,27000.0,2,2025,company_addressable,"Precigen press release, FDA Grants Priority Review to Precig | Precigen, Inc. Form 10-K for fiscal year 2025 (filed 25 Mar "
+provenge,Germany,annual,mCRPC_asymp,MCRPC,13510.0,28800.0,2,2014,"company_addressable,gatekeeper_eligible","G-BA, Tragende Gruende zum Beschluss ueber eine Aenderung de | G-BA, Tragende Gruende, Sipuleucel-T, 19 Maerz 2015"
+roctavian,Australia,prevalent,HemA_severe,HEMA,2445.0,2445.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Canada,prevalent,HemA_severe,HEMA,3442.0,3442.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,France,prevalent,HemA_severe,HEMA,7893.0,7893.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Germany,prevalent,HemA_severe,HEMA,690.0,4245.0,2,"2022,2023","gatekeeper_eligible,prevalent_eligible","G-BA Beschluss Anlage XII Valoctocogen Roxaparvovec (schwere | WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Gulf,prevalent,HemA_severe,HEMA,1134.0,1134.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Italy,prevalent,HemA_severe,HEMA,2944.0,2944.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Japan,prevalent,HemA_severe,HEMA,5776.0,5776.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,Spain,prevalent,HemA_severe,HEMA,1842.0,1842.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,UK,prevalent,HemA_severe,HEMA,7666.0,7666.0,1,2022,prevalent_eligible,"WFH, Report on the Annual Global Survey 2022 (published Octo"
+roctavian,US,prevalent,HemA_severe,HEMA,2500.0,11000.0,4,"2022,2023,2024","company_addressable,gatekeeper_eligible,prevalent_eligible","BioMarin press release via PR Newswire, U.S. FDA Approves Bi | CDC, Data and Statistics on Hemophilia (page last reviewed 2 | ICER, Gene Therapy for Hemophilia B and An Update on Gene Th"
+ryoncil,US,annual,pedSRaGVHD,PEDSRAGVHD,443.0,443.0,1,2016,annual_incident_eligible,Derived from the two rows above
+skysona,EU,annual,CALD,CALD,13.0,69.0,1,2024,annual_incident_eligible,Derived from Eurostat 2024 births and Kemper/HRSA incidence
+skysona,England,annual,CALD,CALD,2.0,11.0,1,2023,annual_incident_eligible,Derived from ONS 2023 births and Kemper/HRSA incidence
+skysona,US,annual,CALD,CALD,10.0,70.0,5,"2016,2022,2023","annual_incident_eligible,company_addressable,gatekeeper_eligible","BioPharma Dive, 17 Sep 2022 | BioPharma Dive, Bluebird wins FDA approval of gene therapy f | Derived from CDC 2023 births and Kemper 2016 / HRSA incidenc | Kemper AR, et al. Newborn screening for X-linked adrenoleuko | bluebird bio Form 10-K for FY2022 (filed 27 Mar 2023): 'appr"
+strimvelis,EU,annual,ADA_SCID,ADA,8.0,8.0,1,,annual_incident_eligible,"MedlinePlus Genetics (NIH/NLM), condition page (accessed 202"
+strimvelis,England,annual,ADA_SCID,ADA,1.0,10.0,3,2017,"annual_incident_eligible,gatekeeper_eligible",NICE HST7 Strimvelis for treating adenosine deaminase defici
+strimvelis,US,annual,ADA_SCID,ADA,7.0,7.0,1,,annual_incident_eligible,"MedlinePlus Genetics (NIH/NLM), condition page (accessed 202"
+tecartus,England,annual,ALL_adult,ALL,90.0,90.0,1,2023,gatekeeper_eligible,NICE technology appraisal TA893 resource impact statement/su
+tecartus,England,annual,MCL,MCL,110.0,110.0,1,2021,gatekeeper_eligible,NICE technology appraisal TA677 resource impact statement/su
+tecartus,Germany,annual,ALL_adult,ALL,81.0,200.0,1,2023,gatekeeper_eligible,"G-BA Zusammenfassende Dokumentation, Brexucabtagen-Autoleuce"
+tecartus,Germany,annual,MCL,MCL,105.0,150.0,1,2021,gatekeeper_eligible,"G-BA Beschluss, Autologe Anti-CD19-transduzierte CD3-positiv"
+tecelra,US,annual,SS_MAGEA4,SS,64.0,400.0,2,"2014,2024","annual_incident_eligible,company_addressable","Adaptimmune Therapeutics Form 10-K FY2024 (filed March 2025) | Derived from Venkataraman et al., The Oncologist 2025 (PMC12"
+tudriqev,US,annual,MEL_postPD1,MEL,10000.0,13000.0,3,2026,"annual_incident_eligible,company_addressable","Derived from Replimune Form 10-K FY2026 | Replimune Group Form 10-K for fiscal year ended 31 March 202 | Replimune, TUDRIQEV FDA Accelerated Approval Investor Call s"
+vyjuvek,England,annual,DEB,DEB,16.0,16.0,1,2021,annual_incident_eligible,"Derived here: 26.1 per million live births x 624,828 live bi"
+vyjuvek,England,prevalent,DEB,DEB,638.0,638.0,1,2021,prevalent_eligible,Derived here: Petrof 2022 DEB prevalence 10.7 per million x 
+vyjuvek,Germany,prevalent,DEB,DEB,240.0,1011.0,5,"2022,2023,2026","gatekeeper_eligible,prevalent_eligible","G-BA Beschluss ueber die Nutzenbewertung von Beremagen geper | IQWiG Dossierbewertung G25-25, Beremagen geperpavec (dystrop"
+vyjuvek,UK,prevalent,DEB,DEB,1250.0,1250.0,1,2021,prevalent_eligible,"Derived here from NIHR Innovation Observatory 2021: 5,000 pe"
+vyjuvek,US,annual,DEB,DEB,19.0,19.0,1,2023,annual_incident_eligible,Derived here: (2.12 + 3.05) per million live births x 3.6 mi
+vyjuvek,US,prevalent,DEB,DEB,951.0,3000.0,3,"2023,2024,2025","company_addressable,prevalent_eligible","Derived here: (1.49 + 1.35) per million x US population abou | Krystal Biotech Form 10-K for FY2024 (filed 19 Feb 2025), Bu | Krystal Biotech Form 10-K for FY2025 (filed 17 Feb 2026), Bu"
+vyjuvek,multi: Germany+France,annual,DEB,DEB,1000.0,1000.0,1,2025,company_addressable,"Krystal Biotech Form 10-K for FY2025 (filed 17 Feb 2026), Bu"
+waskyra,EU,annual,WAS,WAS,8.0,8.0,1,2025,annual_incident_eligible,"Fondazione Telethon press release, FDA approval of Waskyra ("
+waskyra,US,annual,WAS,WAS,7.0,7.0,1,2025,annual_incident_eligible,"Fondazione Telethon press release, FDA approval of Waskyra ("
+yescarta,Canada,annual,LBCL_2L,LBCL,513.0,1140.0,1,2023,annual_incident_eligible,Derived from CADTH NBK601820 statements
+yescarta,EU,annual,LBCL_2L,LBCL,15200.0,15200.0,1,2020,company_addressable,Derived from the Gilead 17 Oct 2022 release
+yescarta,England,annual,LBCL_2L,LBCL,540.0,540.0,1,2023,gatekeeper_eligible,NICE technology appraisal TA895 resource impact statement/su
+yescarta,Germany,annual,LBCL_2L,LBCL,908.0,2640.0,2,2024,"annual_incident_eligible,gatekeeper_eligible","IQWiG Dossierbewertung A24-71 (24 Sep 2024) | IQWiG Dossierbewertung A24-71, Axicabtagen-Ciloleucel (DLBCL"
+yescarta,Germany,annual,LBCL_3L,LBCL,680.0,1200.0,1,2023,gatekeeper_eligible,"G-BA Zusammenfassende Dokumentation, Axicabtagen-Ciloleucel "
+yescarta,US,annual,LBCL_2L,LBCL,5400.0,7200.0,2,"2022,2024","annual_incident_eligible,company_addressable","Derived from the Kite boilerplate above | Derived from the Perales 2022 BIM inputs (SEER, Sehn 2021, M"
+yescarta,US,annual,LBCL_3L,LBCL,5902.0,9678.0,2,2016,"annual_incident_eligible,gatekeeper_eligible","ICER, Chimeric Antigen Receptor T-Cell Therapy for B-Cell Ca"
+zalmoxis,Germany,annual,haploHSCT,HAPLOHSCT,100.0,140.0,1,2018,gatekeeper_eligible,G-BA Beschluss ueber eine Aenderung der Arzneimittel-Richtli
+zevaskyn,US,annual,RDEB_wounds,RDEB,11.0,11.0,1,2023,annual_incident_eligible,Derived here: Fine 2016 RDEB incidence 3.05 per million live
+zevaskyn,US,prevalent,RDEB_wounds,RDEB,452.0,3850.0,3,"2023,2024,2025","company_addressable,prevalent_eligible",Abeona Therapeutics Form 10-K for FY2025 (filed 17 Mar 2026) | Derived here: Fine 2016 RDEB prevalence 1.35 per million x U
+zolgensma,Australia,annual,SMA_under2,SMA,12.0,29.0,2,2023,"annual_incident_eligible,gatekeeper_eligible","Derived from ABS births and PBAC-cited incidence | PBAC Public Summary Document, onasemnogene abeparvovec, Nove"
+zolgensma,EU,annual,SMA_under2,SMA,242.0,355.0,1,2024,annual_incident_eligible,Derived from Eurostat 2024 births and incidence range
+zolgensma,England,annual,SMA_under2,SMA,37.0,52.0,1,2023,annual_incident_eligible,"Derived from ONS 2023 births, NICE-cited incidence and eClin"
+zolgensma,Germany,annual,SMA_under2,SMA,45.0,65.0,1,2021,gatekeeper_eligible,G-BA Beschluss AM-RL Anlage XII Onasemnogen-Abeparvovec (Ueb
+zolgensma,UK,annual,SMA_under2,SMA,65.0,80.0,1,2021,annual_incident_eligible,"Editorial, Gene therapy for spinal muscular atrophy: the ben"
+zolgensma,US,annual,SMA_under2,SMA,215.0,500.0,5,"2019,2023","annual_incident_eligible,company_addressable,gatekeeper_eligible","Derived from CDC 2023 births and Belter 2024 / historic inci | ICER, Spinraza and Zolgensma for SMA: Final Evidence Report, | ICER, Spinraza and Zolgensma for Spinal Muscular Atrophy: Fi | Novartis/AveXis press release, FDA approval of Zolgensma, 24"
+zolgensma,US,prevalent,SMA_under2,SMA,490.0,1000.0,1,2019,prevalent_eligible,Derived from incident flow
+zynteglo,England,prevalent,TDT,TDT,475.0,498.0,1,2024,gatekeeper_eligible,NICE TA1003 Exagamglogene autotemcel for treating transfusio
+zynteglo,Germany,prevalent,TDT,TDT,20.0,150.0,1,2025,gatekeeper_eligible,G-BA Beschluss Anlage XII Exagamglogen autotemcel (transfusi
+zynteglo,US,prevalent,TDT,TDT,1000.0,1500.0,2,"2022,2024","company_addressable,prevalent_eligible","ICER, Betibeglogene Autotemcel for Beta Thalassemia: Effecti | bluebird bio, Inc. Form 10-K for fiscal year ended 2024-12-3"
+zynteglo,multi: US+EU,prevalent,TDT,TDT,5000.0,5000.0,1,2023,company_addressable,"Vertex 8-K Ex-99.1, Vertex Reports Fourth Quarter and Full Y"

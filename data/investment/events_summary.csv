@@ -1,0 +1,44 @@
+product,platform_class,first_approval,n_events_usable,n_all_rows,types,first_retreat_date,first_retreat_type,months_first_approval_to_first_retreat,withdrawn_anywhere,sponsor_acquired_or_asset_sold,product_sold_or_licensed_after_approval
+Abecma,autologous CAR-T,2021-03-26,6,8,"acquisition,restructuring,shipment-pause-or-restriction",2021-11-04,restructuring,7.3,False,True,False
+Adstiladrin,adenoviral intravesical,2022-12-16,1,1,shipment-pause-or-restriction,2025-04-24,shipment-pause-or-restriction,28.3,False,False,False
+Amtagvi,tumour-infiltrating lymphocytes,2024-02-16,2,3,"discontinuation-or-withdrawal,restructuring",2025-08-07,restructuring,17.7,True,False,False
+Aucatzyl,autologous CAR-T,2024-11-08,1,1,restructuring,2026-04-29,restructuring,17.6,False,False,False
+Beqvez / Durveqtix,AAV systemic,2024-04-25,4,6,discontinuation-or-withdrawal,2025-02-21,discontinuation-or-withdrawal,9.9,True,False,False
+Breyanzi,autologous CAR-T,2021-02-05,3,3,"acquisition,shipment-pause-or-restriction",,,,False,True,False
+Carvykti,autologous CAR-T,2022-02-28,1,2,shipment-pause-or-restriction,,,,False,False,False
+Casgevy,CRISPR ex vivo,2023-12-08,0,1,,,,,False,False,False
+Elevidys,AAV systemic,2023-06-22,8,11,"discontinuation-or-withdrawal,restructuring,shipment-pause-or-restriction",2025-06-15,shipment-pause-or-restriction,23.8,True,False,False
+Encelto,encapsulated cell,2025-03-05,0,1,,,,,False,False,False
+Genglycos,AAV systemic,2026-08-19,0,1,,,,,False,False,False
+Hemgenix,AAV systemic,2022-11-22,2,2,"restructuring,shipment-pause-or-restriction",2026-03-17,shipment-pause-or-restriction,39.8,False,False,False
+Imlygic,oncolytic HSV,2015-10-27,1,1,acquisition,,,,False,True,False
+Itvisma,AAV intrathecal,2025-11-24,0,1,,,,,False,False,False
+Kebilidi / Upstaza,AAV intraputaminal,2022-07-18,1,1,asset-sale-or-licence,,,,False,False,False
+Kresladi,lentiviral ex vivo,2026-03-26,2,2,asset-sale-or-licence,,,,False,False,False
+Kymriah,autologous CAR-T,2017-08-30,1,2,shipment-pause-or-restriction,,,,False,False,False
+Lantidra,allogeneic islet cells,2023-06-28,0,1,,,,,False,False,False
+Lenmeldy / Libmeldy,lentiviral ex vivo,2020-12-17,4,5,"acquisition,asset-sale-or-licence,restructuring",2022-03-30,restructuring,15.4,False,True,True
+Luxturna,AAV subretinal,2017-12-19,2,4,"acquisition,restructuring",2025-01-30,restructuring,85.4,False,True,False
+Lyfgenia,lentiviral ex vivo,2023-12-08,4,5,"acquisition,going-private-or-delisting,restructuring",2024-09-24,restructuring,9.6,False,True,False
+Omisirge,expanded cord blood,2023-04-17,7,7,"asset-sale-or-licence,going-private-or-delisting,restructuring,shipment-pause-or-restriction",2023-11-14,restructuring,6.9,False,True,True
+Otarmeni,"AAV dual vector, intracochlear",2026-04-23,0,1,,,,,False,False,False
+Papzimeos,adenoviral immunotherapy,2025-08-14,0,1,,,,,False,False,False
+Roctavian,AAV systemic,2022-08-24,8,9,"asset-sale-or-licence,discontinuation-or-withdrawal,restructuring,shipment-pause-or-restriction",2024-08-05,restructuring,23.4,True,True,True
+Ryoncil,mesenchymal stromal cells,2024-12-19,0,1,,,,,False,False,False
+Skysona,lentiviral ex vivo,2021-07-16,10,12,"acquisition,discontinuation-or-withdrawal,going-private-or-delisting,restructuring,shipment-pause-or-restriction",2021-08-09,restructuring,0.8,True,True,False
+Tecartus,autologous CAR-T,2020-07-24,2,2,"acquisition,shipment-pause-or-restriction",,,,False,True,False
+Tecelra,TCR-T,2024-08-01,4,5,"asset-sale-or-licence,going-private-or-delisting,restructuring",2025-08-13,restructuring,12.4,False,True,True
+Tregzi,allogeneic Treg cell therapy,2026-07-01,0,1,,,,,False,False,False
+Tudriqev,oncolytic HSV,2026-08-06,0,1,,,,,False,False,False
+Vyjuvek,HSV topical,2023-05-19,0,2,,,,,False,False,False
+Waskyra,lentiviral ex vivo,2025-12-09,0,1,,,,,False,False,False
+Yescarta,autologous CAR-T,2017-10-18,2,2,"acquisition,shipment-pause-or-restriction",,,,False,True,False
+Zevaskyn,gene-modified keratinocyte sheets,2025-04-28,1,1,shipment-pause-or-restriction,2026-03-17,shipment-pause-or-restriction,10.6,False,False,False
+Zolgensma,AAV systemic,2019-05-24,1,3,acquisition,,,,False,True,False
+Zynteglo,lentiviral ex vivo,2019-05-29,8,10,"acquisition,discontinuation-or-withdrawal,going-private-or-delisting,restructuring",2021-08-09,restructuring,26.4,True,True,False
+Provenge,autologous cellular immunotherapy,2010-04-29,10,10,"acquisition,discontinuation-or-withdrawal,going-private-or-delisting,restructuring",2011-08-03,restructuring,15.1,True,True,False
+Glybera,AAV intramuscular,2012-10-25,2,2,discontinuation-or-withdrawal,2017-04-20,discontinuation-or-withdrawal,53.8,True,False,False
+Strimvelis,gammaretroviral ex vivo,2016-05-26,3,3,"asset-sale-or-licence,restructuring",2022-03-30,restructuring,70.1,False,True,True
+Zalmoxis,gene-modified T cells,2016-08-18,2,2,discontinuation-or-withdrawal,2019-10-09,discontinuation-or-withdrawal,37.7,True,False,False
+Alofisel,allogeneic MSC,2018-03-23,4,4,"discontinuation-or-withdrawal,restructuring,sponsor-exit-from-modality",2024-02-01,restructuring,70.3,True,False,False
+Ebvallo,allogeneic EBV-specific T cells,2022-12-16,4,4,"asset-sale-or-licence,restructuring",2025-03-07,restructuring,26.7,False,True,True

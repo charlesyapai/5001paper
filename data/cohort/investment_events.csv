@@ -14,3 +14,6 @@ year_seed,event,event_type,manufacturing_model,products,status,source,verified_d
 2025,Gilead / Kite acquires Interius BioTherapeutics,acquisition,in vivo CAR-T,,seeded-from-memory,,
 2025,Sarepta restructuring after Elevidys safety events,retreat,AAV systemic,Elevidys,seeded-from-memory,,
 2025,BioMarin explores options for Roctavian,retreat,AAV systemic,Roctavian,seeded-from-memory,,
+2026,BioMarin voluntarily withdraws Roctavian worldwide; supply ends May 2026,retreat,AAV systemic,Roctavian,verified-from-source,https://www.biomarin.com/news/company-statements/biomarin-voluntarily-withdraws-roctavian-from-the-market/,2026-09-04
+2025,EMA refuses Elevidys marketing authorisation (CHMP negative opinion 2025-07-24; refusal 2025-09-24),retreat,AAV systemic,Elevidys,verified-from-source,https://www.ema.europa.eu/en/medicines/human/EPAR/elevidys,2026-09-04
+2025,"Pfizer withdraws Durveqtix (Beqvez) EU marketing authorisation for commercial reasons, 2025-05-15",retreat,AAV systemic,Beqvez / Durveqtix,verified-from-source,EMA EPAR page for Durveqtix; see product_cohort.csv eu_source_url,2026-09-04

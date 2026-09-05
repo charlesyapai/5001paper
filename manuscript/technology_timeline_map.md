@@ -105,7 +105,7 @@ country shares are conservative.
 
 ## 3. The timeline map
 
-![Technology timeline map: literature take-off, first registered trial and first Phase 3 by subfamily]({{artifact:art_d7c06bb0-73bf-44c3-bf05-397f60ee4102}})
+![Technology timeline map: literature take-off, first registered trial and first Phase 3 by subfamily](../figures/Figure_4_technology_timelines.png)
 
 Three readings matter for the paper.
 
@@ -133,7 +133,7 @@ as intervention or in the title.
 
 ## 4. Maturity against momentum
 
-![Ranked share of trials started since 2021, with trial-stage maturity meter]({{artifact:art_2880b80b-7d18-4c2e-aa8d-76990503f8a7}})
+![Ranked share of trials started since 2021, with trial-stage maturity meter](../figures/Figure_5_momentum_vs_maturity.png)
 
 The ordering here is the investment-relevant one, because it separates *where activity is
 growing* from *where evidence has accumulated*.
@@ -170,7 +170,7 @@ exit structures, and the paper should not treat them as one market.
 
 ## 5. Testing the paper's premise: where clinical AI actually goes
 
-![Distribution of 5,601 AI/ML clinical trials across application areas]({{artifact:art_30880e13-5699-4ac2-81d4-b022c0af9f1b}})
+![Distribution of 5,601 AI/ML clinical trials across application areas](../figures/Figure_S1_ai_allocation.png)
 
 Of the **5,601** registered trials that reference artificial intelligence, machine learning,
 deep learning or neural networks:

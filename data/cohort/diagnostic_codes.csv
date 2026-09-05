@@ -1,10 +1,10 @@
-test_family,codes,test_name,coverage_event_seed,status,source,verified_date
-"comprehensive genomic profiling, tissue",0037U,FoundationOne CDx,"NCD 90.2, 2018-03",seeded-from-memory,,
-"liquid biopsy, comprehensive",0239U,FoundationOne Liquid CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,
-"liquid biopsy, comprehensive",0242U,Guardant360 CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,
-molecular residual disease,0340U,Signatera (verify),MolDX 2021 onward,seeded-from-memory,,
-"pharmacogenomics, single gene",81225-81231,"CYP2C19, CYP2D6, CYP2C9, CYP3A4, CYP3A5 and related",MolDX pharmacogenomics LCD 2020,seeded-from-memory,,
-"pharmacogenomics, panel",81418,PGx genomic sequence panel,MolDX pharmacogenomics LCD 2020,seeded-from-memory,,
-exome,"81415, 81416",exome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,
-genome,"81425, 81426",genome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,
-breast cancer recurrence score,81519,Oncotype DX,long-covered comparator,seeded-from-memory,,
+test_family,codes,test_name,coverage_event_seed,coverage_event_status,source,verified_date,code_descriptor_status,code_source,code_verified_date,code_notes
+"comprehensive genomic profiling, tissue",0037U,FoundationOne CDx,"NCD 90.2, 2018-03",seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,"PLA descriptor matches the intended test; proprietary name not printed in the CLFS file, so name-confirmation is from descriptor content (F031)"
+"liquid biopsy, comprehensive",0239U,FoundationOne Liquid CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,"PLA descriptor matches the intended test; proprietary name not printed in the CLFS file, so name-confirmation is from descriptor content (F031)"
+"liquid biopsy, comprehensive",0242U,Guardant360 CDx (verify),MolDX 2018 to 2020; NCD 90.2,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,"PLA descriptor matches the intended test; proprietary name not printed in the CLFS file, so name-confirmation is from descriptor content (F031)"
+molecular residual disease,0340U,Signatera (verify),MolDX 2021 onward,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,"PLA descriptor matches the intended test; proprietary name not printed in the CLFS file, so name-confirmation is from descriptor content (F031)"
+"pharmacogenomics, single gene","81225, 81226, 81227, 81230, 81231, 81355","CYP2C19, CYP2D6, CYP2C9, CYP3A4, CYP3A5, VKORC1",MolDX pharmacogenomics LCD 2020,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,Seed range 81225-81231 was wrong: 81228 and 81229 are constitutional cytogenomic microarray codes and are dropped; VKORC1 is 81355 (F031)
+"pharmacogenomics, panel",81418,PGx genomic sequence panel,MolDX pharmacogenomics LCD 2020,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,
+exome,"81415, 81416",exome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,
+genome,"81425, 81426",genome sequence analysis,state Medicaid and MolDX decisions,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,
+breast cancer recurrence score,81519,Oncotype DX,long-covered comparator,seeded-from-memory,,,verified-from-source,"data/diagnostics/raw/medicare_code_check.csv (CLFS 26CLABQ1 descriptors, fetched 2026-09-05)",2026-09-05,

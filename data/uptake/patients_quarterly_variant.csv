@@ -1,0 +1,392 @@
+product,quarter,revenue_total_usd_m,revenue_us_usd_m,launch_list_price_usd,us_price_in_force_usd,price_basis,patients_us_at_price_in_force,patients_ex_us_at_factor,patients_variant,cumulative_variant,patients_central_main,cumulative_central_main,in_scope
+abecma,2021Q2,24.0,24.0,419500.0,419500,WAC 2021,57.2,0.0,57.2,57.2,75.3,75.3,True
+abecma,2021Q3,71.0,67.0,419500.0,419500,WAC 2021,159.7,12.5,172.3,229.5,222.7,298.0,True
+abecma,2021Q4,69.0,67.0,419500.0,419500,WAC 2021,159.7,6.3,166.0,395.5,216.4,514.4,True
+abecma,2022Q1,67.0,56.0,419500.0,419500,WAC 2022,133.5,34.5,168.0,563.5,210.1,724.5,True
+abecma,2022Q2,89.0,72.0,419500.0,419500,WAC 2022,171.6,53.3,225.0,788.4,279.2,1003.7,True
+abecma,2022Q3,107.0,75.0,419500.0,419500,WAC 2022,178.8,100.4,279.2,1067.6,335.6,1339.3,True
+abecma,2022Q4,125.0,94.0,419500.0,419500,WAC 2022,224.1,97.2,321.3,1388.9,392.1,1731.4,True
+abecma,2023Q1,147.0,118.0,419500.0,457255,WAC 2023,258.1,91.0,349.0,1737.9,461.1,2192.5,True
+abecma,2023Q2,132.0,115.0,419500.0,456088,implied ASP (CMS payment limit / 1.06),252.1,53.3,305.5,2043.4,414.0,2606.5,True
+abecma,2023Q3,93.0,69.0,419500.0,457255,implied ASP (CMS payment limit / 1.06),150.9,75.3,226.2,2269.5,291.7,2898.2,True
+abecma,2023Q4,100.0,56.0,419500.0,457255,implied ASP (CMS payment limit / 1.06),122.5,138.0,260.5,2530.0,313.7,3211.8,True
+abecma,2024Q1,82.0,52.0,419500.0,474957,implied ASP (CMS payment limit / 1.06),109.5,94.1,203.6,2733.6,257.2,3469.0,True
+abecma,2024Q2,95.0,54.0,419500.0,496781,implied ASP (CMS payment limit / 1.06),108.7,128.6,237.3,2970.9,298.0,3767.0,True
+abecma,2024Q3,124.0,77.0,419500.0,498408,implied ASP (CMS payment limit / 1.06),154.5,147.4,301.9,3272.8,388.9,4156.0,True
+abecma,2024Q4,105.0,59.0,419500.0,497757,implied ASP (CMS payment limit / 1.06),118.5,144.3,262.8,3535.6,329.3,4485.3,True
+abecma,2025Q1,103.0,59.0,419500.0,510623,implied ASP (CMS payment limit / 1.06),115.5,138.0,253.6,3789.2,323.1,4808.4,True
+abecma,2025Q2,87.0,47.0,419500.0,525772,implied ASP (CMS payment limit / 1.06),89.4,125.5,214.9,4004.0,272.9,5081.2,True
+abecma,2025Q3,137.0,51.0,419500.0,526492,implied ASP (CMS payment limit / 1.06),96.9,269.7,366.6,4370.6,429.7,5510.9,True
+abecma,2025Q4,100.0,52.0,419500.0,528095,implied ASP (CMS payment limit / 1.06),98.5,150.6,249.0,4619.7,313.7,5824.6,True
+amtagvi,2024Q1,0.0,,515000.0,515000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+amtagvi,2024Q2,12.8,12.8,515000.0,515000,not in scope: class factor central kept,,,32.7,32.7,32.7,32.7,False
+amtagvi,2024Q3,42.1,42.1,515000.0,515000,not in scope: class factor central kept,,,107.6,140.3,107.6,140.3,False
+amtagvi,2024Q4,48.7,48.7,515000.0,515000,not in scope: class factor central kept,,,124.4,264.7,124.4,264.7,False
+amtagvi,2025Q1,43.6,43.6,515000.0,515000,not in scope: class factor central kept,,,111.4,376.1,111.4,376.1,False
+amtagvi,2025Q2,54.1,54.1,515000.0,515000,not in scope: class factor central kept,,,138.2,514.3,138.2,514.3,False
+amtagvi,2025Q3,58.0,58.0,515000.0,515000,not in scope: class factor central kept,,,148.2,662.5,148.2,662.5,False
+amtagvi,2025Q4,65.0,65.0,515000.0,515000,not in scope: class factor central kept,,,166.1,828.6,166.1,828.6,False
+amtagvi,2026Q1,60.0,60.0,515000.0,515000,not in scope: class factor central kept,,,153.3,981.9,153.3,981.9,False
+amtagvi,2026Q2,91.0,91.0,515000.0,515000,not in scope: class factor central kept,,,232.5,1214.4,232.5,1214.4,False
+aucatzyl,2024Q4,0.0,,525000.0,525000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+aucatzyl,2025Q1,9.0,,525000.0,525000,not in scope: class factor central kept,,,22.6,22.6,22.6,22.6,False
+aucatzyl,2025Q2,20.9,,525000.0,525000,not in scope: class factor central kept,,,52.4,75.0,52.4,74.9,False
+aucatzyl,2025Q3,21.1,,525000.0,525000,not in scope: class factor central kept,,,52.9,127.9,52.9,127.8,False
+aucatzyl,2025Q4,23.3,,525000.0,525000,not in scope: class factor central kept,,,58.4,186.3,58.4,186.2,False
+aucatzyl,2026Q1,26.2,,525000.0,525000,not in scope: class factor central kept,,,65.7,252.0,65.7,251.9,False
+aucatzyl,2026Q2,45.7,,525000.0,525000,not in scope: class factor central kept,,,114.5,366.5,114.5,366.4,False
+breyanzi,2021Q2,17.0,17.0,410300.0,410300,WAC 2021,41.4,0.0,41.4,41.4,54.5,54.5,True
+breyanzi,2021Q3,30.0,29.0,410300.0,410300,WAC 2021,70.7,3.2,73.9,115.3,96.2,150.7,True
+breyanzi,2021Q4,40.0,38.0,410300.0,410300,WAC 2021,92.6,6.4,99.0,214.3,128.3,279.0,True
+breyanzi,2022Q1,44.0,41.0,410300.0,410300,WAC 2022,99.9,9.6,109.5,323.9,141.1,420.1,True
+breyanzi,2022Q2,39.0,33.0,410300.0,410300,WAC 2022,80.4,19.2,99.7,423.6,125.1,545.2,True
+breyanzi,2022Q3,44.0,35.0,410300.0,410300,WAC 2022,85.3,28.9,114.2,537.7,141.1,686.3,True
+breyanzi,2022Q4,55.0,42.0,410300.0,410300,WAC 2022,102.4,41.7,144.1,681.8,176.4,862.7,True
+breyanzi,2023Q1,71.0,58.0,410300.0,428764,implied ASP (CMS payment limit / 1.06),135.3,41.7,177.0,858.7,227.7,1090.3,True
+breyanzi,2023Q2,100.0,83.0,410300.0,446659,implied ASP (CMS payment limit / 1.06),185.8,54.5,240.3,1099.1,320.7,1411.0,True
+breyanzi,2023Q3,92.0,77.0,410300.0,447032,implied ASP (CMS payment limit / 1.06),172.2,48.1,220.4,1319.4,295.0,1706.1,True
+breyanzi,2023Q4,101.0,85.0,410300.0,447227,implied ASP (CMS payment limit / 1.06),190.1,51.3,241.4,1560.8,323.9,2030.0,True
+breyanzi,2024Q1,107.0,87.0,410300.0,468293,implied ASP (CMS payment limit / 1.06),185.8,64.1,249.9,1810.7,343.1,2373.1,True
+breyanzi,2024Q2,153.0,122.0,410300.0,487477,implied ASP (CMS payment limit / 1.06),250.3,99.4,349.7,2160.4,490.7,2863.8,True
+breyanzi,2024Q3,224.0,173.0,410300.0,487251,implied ASP (CMS payment limit / 1.06),355.1,163.6,518.6,2679.0,718.3,3582.1,True
+breyanzi,2024Q4,263.0,209.0,410300.0,487210,implied ASP (CMS payment limit / 1.06),429.0,173.2,602.1,3281.2,843.4,4425.5,True
+breyanzi,2025Q1,263.0,204.0,410300.0,510977,implied ASP (CMS payment limit / 1.06),399.2,189.2,588.4,3869.6,843.4,5268.9,True
+breyanzi,2025Q2,344.0,255.0,410300.0,530696,implied ASP (CMS payment limit / 1.06),480.5,285.4,765.9,4635.5,1103.2,6372.1,True
+breyanzi,2025Q3,359.0,251.0,410300.0,530379,implied ASP (CMS payment limit / 1.06),473.2,346.3,819.6,5455.1,1151.3,7523.4,True
+breyanzi,2025Q4,392.0,284.0,410300.0,530435,implied ASP (CMS payment limit / 1.06),535.4,346.3,881.8,6336.9,1257.1,8780.5,True
+breyanzi,2026Q1,411.0,292.0,410300.0,546765,implied ASP (CMS payment limit / 1.06),534.1,381.6,915.7,7252.5,1318.0,10098.5,True
+breyanzi,2026Q2,484.0,354.0,410300.0,531350,WAC 2025 carried forward,666.2,416.9,1083.1,8335.7,1552.1,11650.7,True
+carvykti,2022Q2,24.0,24.0,465000.0,465000,WAC 2022,51.6,0.0,51.6,51.6,67.9,67.9,True
+carvykti,2022Q3,55.0,55.0,465000.0,465000,WAC 2022,118.3,0.0,118.3,169.9,155.6,223.5,True
+carvykti,2022Q4,54.0,54.0,465000.0,465000,WAC 2022,116.1,0.0,116.1,286.0,152.8,376.3,True
+carvykti,2023Q1,72.0,70.0,465000.0,465000,implied ASP (CMS payment limit / 1.06),150.5,5.7,156.2,442.2,203.7,580.1,True
+carvykti,2023Q2,117.0,114.0,465000.0,468891,implied ASP (CMS payment limit / 1.06),243.1,8.5,251.6,693.8,331.1,911.1,True
+carvykti,2023Q3,152.0,140.0,465000.0,478487,implied ASP (CMS payment limit / 1.06),292.6,34.0,326.5,1020.4,430.1,1341.3,True
+carvykti,2023Q4,159.0,145.0,465000.0,478769,implied ASP (CMS payment limit / 1.06),302.9,39.6,342.5,1362.9,449.9,1791.2,True
+carvykti,2024Q1,157.0,140.0,465000.0,478950,implied ASP (CMS payment limit / 1.06),292.3,48.1,340.4,1703.3,444.3,2235.4,True
+carvykti,2024Q2,186.0,167.0,465000.0,497286,implied ASP (CMS payment limit / 1.06),335.8,53.8,389.6,2092.9,526.3,2761.7,True
+carvykti,2024Q3,286.0,258.0,465000.0,520112,implied ASP (CMS payment limit / 1.06),496.0,79.2,575.3,2668.1,809.3,3571.0,True
+carvykti,2024Q4,334.0,304.0,465000.0,521858,implied ASP (CMS payment limit / 1.06),582.5,84.9,667.4,3335.6,945.1,4516.1,True
+carvykti,2025Q1,369.0,318.0,465000.0,522055,implied ASP (CMS payment limit / 1.06),609.1,144.3,753.4,4089.0,1044.1,5560.3,True
+carvykti,2025Q2,439.0,358.0,465000.0,533839,implied ASP (CMS payment limit / 1.06),670.6,229.2,899.8,4988.8,1242.2,6802.5,True
+carvykti,2025Q3,524.0,396.0,465000.0,554386,implied ASP (CMS payment limit / 1.06),714.3,362.2,1076.5,6065.3,1482.7,8285.2,True
+carvykti,2025Q4,555.0,420.0,465000.0,555184,implied ASP (CMS payment limit / 1.06),756.5,382.0,1138.5,7203.8,1570.5,9855.7,True
+carvykti,2026Q1,597.0,433.0,465000.0,554696,implied ASP (CMS payment limit / 1.06),780.6,464.1,1244.7,8448.5,1689.3,11545.0,True
+carvykti,2026Q2,657.0,472.0,465000.0,555310,WAC 2025 carried forward,850.0,523.5,1373.5,9822.0,1859.1,13404.1,True
+casgevy,2023Q4,0.0,,2200000.0,2200000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+casgevy,2024Q1,0.0,,2200000.0,2200000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+casgevy,2024Q2,0.0,,2200000.0,2200000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+casgevy,2024Q3,2.0,,2200000.0,2200000,not in scope: class factor central kept,,,1.2,1.2,1.2,1.2,False
+casgevy,2024Q4,8.0,,2200000.0,2200000,not in scope: class factor central kept,,,4.8,6.0,4.8,6.0,False
+casgevy,2025Q1,14.2,,2200000.0,2200000,not in scope: class factor central kept,,,8.5,14.5,8.5,14.5,False
+casgevy,2025Q2,30.4,,2200000.0,2200000,not in scope: class factor central kept,,,18.2,32.7,18.2,32.7,False
+casgevy,2025Q3,16.9,,2200000.0,2200000,not in scope: class factor central kept,,,10.1,42.8,10.1,42.8,False
+casgevy,2025Q4,54.3,,2200000.0,2200000,not in scope: class factor central kept,,,32.5,75.3,32.5,75.2,False
+casgevy,2026Q1,42.9,,2200000.0,2200000,not in scope: class factor central kept,,,25.7,101.0,25.7,100.9,False
+casgevy,2026Q2,76.4,,2200000.0,2200000,not in scope: class factor central kept,,,45.7,146.7,45.7,146.6,False
+elevidys,2023Q3,69.11,69.11,3200000.0,3200000,not in scope: class factor central kept,,,28.4,28.4,28.4,28.4,False
+elevidys,2023Q4,131.25,131.25,3200000.0,3200000,not in scope: class factor central kept,,,54.0,82.4,54.0,82.4,False
+elevidys,2024Q1,133.94,133.94,3200000.0,3200000,not in scope: class factor central kept,,,55.1,137.5,55.1,137.5,False
+elevidys,2024Q2,121.72,121.72,3200000.0,3200000,not in scope: class factor central kept,,,50.0,187.5,50.0,187.5,False
+elevidys,2024Q3,180.93,180.93,3200000.0,3200000,not in scope: class factor central kept,,,74.4,261.9,74.4,261.9,False
+elevidys,2024Q4,384.2,384.2,3200000.0,3200000,not in scope: class factor central kept,,,158.0,419.9,158.0,419.9,False
+elevidys,2025Q1,374.99,374.99,3200000.0,3200000,not in scope: class factor central kept,,,154.2,574.1,154.2,574.1,False
+elevidys,2025Q2,281.85,281.85,3200000.0,3200000,not in scope: class factor central kept,,,115.9,690.0,115.9,690.0,False
+elevidys,2025Q3,131.5,131.5,3200000.0,3200000,not in scope: class factor central kept,,,54.1,744.1,54.1,744.0,False
+elevidys,2025Q4,110.4,110.4,3200000.0,3200000,not in scope: class factor central kept,,,45.4,789.5,45.4,789.4,False
+elevidys,2026Q1,102.0,102.0,3200000.0,3200000,not in scope: class factor central kept,,,41.9,831.4,41.9,831.4,False
+elevidys,2026Q2,98.1,98.1,3200000.0,3200000,not in scope: class factor central kept,,,40.3,871.7,40.3,871.7,False
+hemgenix,2023Q3,7.95,,3500000.0,3500000,not in scope: class factor central kept,,,3.0,3.0,3.0,3.0,False
+hemgenix,2023Q4,7.95,,3500000.0,3500000,not in scope: class factor central kept,,,3.0,6.0,3.0,6.0,False
+hemgenix,2024Q1,7.95,,3500000.0,3500000,not in scope: class factor central kept,,,3.0,9.0,3.0,9.0,False
+hemgenix,2024Q2,7.95,,3500000.0,3500000,not in scope: class factor central kept,,,3.0,12.0,3.0,12.0,False
+hemgenix,2024Q3,24.55,,3500000.0,3500000,not in scope: class factor central kept,,,9.2,21.2,9.2,21.2,False
+hemgenix,2024Q4,24.55,,3500000.0,3500000,not in scope: class factor central kept,,,9.2,30.4,9.2,30.4,False
+hemgenix,2025Q1,21.45,,3500000.0,3500000,not in scope: class factor central kept,,,8.1,38.5,8.1,38.5,False
+hemgenix,2025Q2,21.45,,3500000.0,3500000,not in scope: class factor central kept,,,8.1,46.6,8.1,46.5,False
+hemgenix,2025Q3,28.5,,3500000.0,3500000,not in scope: class factor central kept,,,10.7,57.3,10.7,57.3,False
+hemgenix,2025Q4,28.5,,3500000.0,3500000,not in scope: class factor central kept,,,10.7,68.0,10.7,68.0,False
+hemgenix,2026Q1,30.5,,3500000.0,3500000,not in scope: class factor central kept,,,11.5,79.5,11.5,79.4,False
+hemgenix,2026Q2,30.5,,3500000.0,3500000,not in scope: class factor central kept,,,11.5,91.0,11.5,90.9,False
+kresladi,2026Q1,0.0,,,,not in scope: class factor central kept,,,,0.0,,,False
+kresladi,2026Q2,0.0,,,,not in scope: class factor central kept,,,,0.0,,,False
+kymriah,2017Q4,6.0,,475000.0,475000,not in scope: class factor central kept,,,16.6,16.6,16.6,16.6,False
+kymriah,2018Q1,12.0,,475000.0,475000,not in scope: class factor central kept,,,33.2,49.8,33.2,49.9,False
+kymriah,2018Q2,16.0,,475000.0,475000,not in scope: class factor central kept,,,44.3,94.1,44.3,94.2,False
+kymriah,2018Q3,20.0,,475000.0,475000,not in scope: class factor central kept,,,55.4,149.5,55.4,149.6,False
+kymriah,2018Q4,28.0,,475000.0,475000,not in scope: class factor central kept,,,77.6,227.1,77.6,227.1,False
+kymriah,2019Q1,45.0,,475000.0,475000,not in scope: class factor central kept,,,124.7,351.8,124.7,351.8,False
+kymriah,2019Q2,58.0,,475000.0,475000,not in scope: class factor central kept,,,160.7,512.5,160.7,512.5,False
+kymriah,2019Q3,79.0,,475000.0,475000,not in scope: class factor central kept,,,218.8,731.3,218.8,731.3,False
+kymriah,2019Q4,96.0,,475000.0,475000,not in scope: class factor central kept,,,265.9,997.2,265.9,997.2,False
+kymriah,2020Q1,93.0,46.0,475000.0,475000,not in scope: class factor central kept,,,257.6,1254.8,257.6,1254.8,False
+kymriah,2020Q2,118.0,,475000.0,475000,not in scope: class factor central kept,,,326.9,1581.7,326.9,1581.7,False
+kymriah,2020Q3,122.0,,475000.0,475000,not in scope: class factor central kept,,,338.0,1919.7,338.0,1919.7,False
+kymriah,2020Q4,141.0,,475000.0,475000,not in scope: class factor central kept,,,390.6,2310.3,390.6,2310.2,False
+kymriah,2021Q1,89.0,62.0,475000.0,475000,not in scope: class factor central kept,,,246.5,2556.8,246.5,2556.8,False
+kymriah,2021Q2,147.0,,475000.0,475000,not in scope: class factor central kept,,,407.2,2964.0,407.2,2964.0,False
+kymriah,2021Q3,146.0,,475000.0,475000,not in scope: class factor central kept,,,404.4,3368.4,404.4,3368.4,False
+kymriah,2021Q4,143.0,,475000.0,475000,not in scope: class factor central kept,,,396.1,3764.5,396.1,3764.5,False
+kymriah,2022Q1,127.0,,475000.0,475000,not in scope: class factor central kept,,,351.8,4116.3,351.8,4116.3,False
+kymriah,2022Q2,136.0,,475000.0,475000,not in scope: class factor central kept,,,376.7,4493.0,376.7,4493.1,False
+kymriah,2022Q3,134.0,,475000.0,475000,not in scope: class factor central kept,,,371.2,4864.2,371.2,4864.3,False
+kymriah,2022Q4,139.0,,475000.0,475000,not in scope: class factor central kept,,,385.0,5249.2,385.0,5249.3,False
+kymriah,2023Q1,135.0,,475000.0,475000,not in scope: class factor central kept,,,374.0,5623.2,374.0,5623.3,False
+kymriah,2023Q2,129.0,,475000.0,475000,not in scope: class factor central kept,,,357.3,5980.5,357.3,5980.6,False
+kymriah,2023Q3,124.0,,475000.0,475000,not in scope: class factor central kept,,,343.5,6324.0,343.5,6324.1,False
+kymriah,2023Q4,120.0,,475000.0,475000,not in scope: class factor central kept,,,332.4,6656.4,332.4,6656.5,False
+kymriah,2024Q1,120.0,,475000.0,475000,not in scope: class factor central kept,,,332.4,6988.8,332.4,6988.9,False
+kymriah,2024Q2,113.0,,475000.0,475000,not in scope: class factor central kept,,,313.0,7301.8,313.0,7301.9,False
+kymriah,2024Q3,102.0,,475000.0,475000,not in scope: class factor central kept,,,282.5,7584.3,282.5,7584.5,False
+kymriah,2024Q4,108.0,,475000.0,475000,not in scope: class factor central kept,,,299.2,7883.5,299.2,7883.7,False
+kymriah,2025Q1,100.0,,475000.0,475000,not in scope: class factor central kept,,,277.0,8160.5,277.0,8160.7,False
+kymriah,2025Q2,99.0,,475000.0,475000,not in scope: class factor central kept,,,274.2,8434.7,274.2,8434.9,False
+kymriah,2025Q3,97.0,,475000.0,475000,not in scope: class factor central kept,,,268.7,8703.4,268.7,8703.6,False
+kymriah,2025Q4,85.0,,475000.0,475000,not in scope: class factor central kept,,,235.5,8938.9,235.5,8939.1,False
+kymriah,2026Q1,81.0,,475000.0,475000,not in scope: class factor central kept,,,224.4,9163.3,224.4,9163.4,False
+kymriah,2026Q2,88.0,,475000.0,475000,not in scope: class factor central kept,,,243.8,9407.1,243.8,9407.2,False
+lenmeldy,2021Q1,0.0,,4250000.0,4250000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lenmeldy,2021Q2,0.0,,4250000.0,4250000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lenmeldy,2021Q3,0.0,,4250000.0,4250000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lenmeldy,2021Q4,0.0,,4250000.0,4250000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lenmeldy,2022Q1,5.06,,4250000.0,4250000,not in scope: class factor central kept,,,1.6,1.6,1.6,1.6,False
+lenmeldy,2022Q2,3.1,,4250000.0,4250000,not in scope: class factor central kept,,,1.0,2.6,1.0,2.5,False
+lenmeldy,2022Q3,4.78,,4250000.0,4250000,not in scope: class factor central kept,,,1.5,4.1,1.5,4.0,False
+lenmeldy,2022Q4,5.81,,4250000.0,4250000,not in scope: class factor central kept,,,1.8,5.9,1.8,5.8,False
+lenmeldy,2023Q1,0.53,,4250000.0,4250000,not in scope: class factor central kept,,,0.2,6.1,0.2,6.0,False
+lenmeldy,2023Q2,6.65,,4250000.0,4250000,not in scope: class factor central kept,,,2.1,8.2,2.1,8.0,False
+lenmeldy,2023Q3,5.56,,4250000.0,4250000,not in scope: class factor central kept,,,1.7,9.9,1.7,9.8,False
+lenmeldy,2023Q4,,,4250000.0,4250000,not in scope: class factor central kept,,,,9.9,,9.8,False
+lenmeldy,2024Q1,7.37,,4250000.0,4250000,not in scope: class factor central kept,,,2.3,12.2,2.3,12.0,False
+lenmeldy,2024Q2,,,4250000.0,4250000,not in scope: class factor central kept,,,,12.2,,12.0,False
+lenmeldy,2024Q3,,,4250000.0,4250000,not in scope: class factor central kept,,,,12.2,,12.0,False
+lenmeldy,2024Q4,7.37,,4250000.0,4250000,not in scope: class factor central kept,,,2.3,14.5,2.3,14.3,False
+lenmeldy,2025Q1,14.07,,4250000.0,4250000,not in scope: class factor central kept,,,4.4,18.9,4.4,18.7,False
+lenmeldy,2025Q2,15.41,,4250000.0,4250000,not in scope: class factor central kept,,,4.8,23.7,4.8,23.4,False
+lenmeldy,2025Q3,0.0,,4250000.0,4250000,not in scope: class factor central kept,,,0.0,23.7,0.0,23.4,False
+lenmeldy,2025Q4,13.4,,4250000.0,4250000,not in scope: class factor central kept,,,4.1,27.8,4.1,27.6,False
+lenmeldy,2026Q1,10.05,,4250000.0,4250000,not in scope: class factor central kept,,,3.1,30.9,3.1,30.7,False
+lenmeldy,2026Q2,22.78,,4250000.0,4250000,not in scope: class factor central kept,,,7.1,38.0,7.1,37.8,False
+luxturna,2018Q1,2.4,,850000.0,850000,not in scope: class factor central kept,,,3.7,3.7,3.7,3.7,False
+luxturna,2018Q2,4.31,,850000.0,850000,not in scope: class factor central kept,,,6.7,10.4,6.7,10.4,False
+luxturna,2018Q3,8.87,,850000.0,850000,not in scope: class factor central kept,,,13.7,24.1,13.7,24.1,False
+luxturna,2018Q4,11.4,,850000.0,850000,not in scope: class factor central kept,,,17.6,41.7,17.6,41.8,False
+luxturna,2019Q1,9.78,,850000.0,850000,not in scope: class factor central kept,,,15.1,56.8,15.1,56.9,False
+luxturna,2019Q2,11.46,,850000.0,850000,not in scope: class factor central kept,,,17.7,74.5,17.7,74.6,False
+luxturna,2019Q3,6.92,,850000.0,850000,not in scope: class factor central kept,,,10.7,85.2,10.7,85.4,False
+luxturna,2019Q4,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2020Q1,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2020Q2,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2020Q3,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2020Q4,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2021Q1,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2021Q2,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2021Q3,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2021Q4,,,850000.0,850000,not in scope: class factor central kept,,,,85.2,,85.4,False
+luxturna,2022Q1,6.72,,850000.0,850000,not in scope: class factor central kept,,,10.4,95.6,10.4,95.8,False
+luxturna,2022Q2,6.72,,850000.0,850000,not in scope: class factor central kept,,,10.4,106.0,10.4,106.2,False
+luxturna,2022Q3,,,850000.0,850000,not in scope: class factor central kept,,,,106.0,,106.2,False
+luxturna,2022Q4,,,850000.0,850000,not in scope: class factor central kept,,,,106.0,,106.2,False
+luxturna,2023Q1,4.48,,850000.0,850000,not in scope: class factor central kept,,,6.9,112.9,6.9,113.1,False
+luxturna,2023Q2,4.48,,850000.0,850000,not in scope: class factor central kept,,,6.9,119.8,6.9,120.0,False
+luxturna,2023Q3,20.16,,850000.0,850000,not in scope: class factor central kept,,,31.2,151.0,31.2,151.2,False
+luxturna,2023Q4,20.16,,850000.0,850000,not in scope: class factor central kept,,,31.2,182.2,31.2,182.4,False
+luxturna,2024Q1,5.6,,850000.0,850000,not in scope: class factor central kept,,,8.7,190.9,8.7,191.1,False
+luxturna,2024Q2,5.6,,850000.0,850000,not in scope: class factor central kept,,,8.7,199.6,8.7,199.8,False
+luxturna,2024Q3,4.48,,850000.0,850000,not in scope: class factor central kept,,,6.9,206.5,6.9,206.7,False
+luxturna,2024Q4,4.48,,850000.0,850000,not in scope: class factor central kept,,,6.9,213.4,6.9,213.7,False
+luxturna,2025Q1,20.16,,850000.0,850000,not in scope: class factor central kept,,,31.2,244.6,31.2,244.9,False
+luxturna,2025Q2,20.16,,850000.0,850000,not in scope: class factor central kept,,,31.2,275.8,31.2,276.1,False
+luxturna,2025Q3,2.8,,850000.0,850000,not in scope: class factor central kept,,,4.3,280.1,4.3,280.4,False
+luxturna,2025Q4,2.8,,850000.0,850000,not in scope: class factor central kept,,,4.3,284.4,4.3,284.7,False
+luxturna,2026Q1,12.32,,850000.0,850000,not in scope: class factor central kept,,,19.1,303.5,19.1,303.8,False
+luxturna,2026Q2,12.32,,850000.0,850000,not in scope: class factor central kept,,,19.1,322.6,19.1,322.9,False
+lyfgenia,2023Q4,0.0,0.0,3100000.0,3100000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lyfgenia,2024Q1,0.0,0.0,3100000.0,3100000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lyfgenia,2024Q2,0.0,0.0,3100000.0,3100000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+lyfgenia,2024Q3,2.63,2.63,3100000.0,3100000,not in scope: class factor central kept,,,1.1,1.1,1.1,1.1,False
+lyfgenia,2024Q4,8.97,8.97,3100000.0,3100000,not in scope: class factor central kept,,,3.8,4.9,3.8,4.9,False
+lyfgenia,2025Q1,12.4,12.4,3100000.0,3100000,not in scope: class factor central kept,,,5.3,10.2,5.3,10.2,False
+omisirge,2023Q2,0.0,,338000.0,338000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+omisirge,2023Q3,0.67,,338000.0,338000,not in scope: class factor central kept,,,2.6,2.6,2.6,2.6,False
+omisirge,2023Q4,1.11,,338000.0,338000,not in scope: class factor central kept,,,4.3,6.9,4.3,6.9,False
+omisirge,2024Q1,0.89,,338000.0,338000,not in scope: class factor central kept,,,3.5,10.4,3.5,10.4,False
+papzimeos,2025Q4,3.4,,1000000.0,1000000,not in scope: class factor central kept,,,4.5,4.5,4.5,4.5,False
+papzimeos,2026Q1,21.6,,1000000.0,1000000,not in scope: class factor central kept,,,28.4,32.9,28.4,32.9,False
+papzimeos,2026Q2,53.1,,1000000.0,1000000,not in scope: class factor central kept,,,69.9,102.8,69.9,102.8,False
+provenge,2010Q2,2.79,,93000.0,93000,not in scope: class factor central kept,,,39.5,39.5,39.5,39.5,False
+provenge,2010Q3,20.22,,93000.0,93000,not in scope: class factor central kept,,,286.1,325.6,286.1,325.5,False
+provenge,2010Q4,24.95,,93000.0,93000,not in scope: class factor central kept,,,353.0,678.6,353.0,678.5,False
+provenge,2011Q1,28.04,,93000.0,93000,not in scope: class factor central kept,,,396.7,1075.3,396.7,1075.3,False
+provenge,2011Q2,49.53,,93000.0,93000,not in scope: class factor central kept,,,700.8,1776.1,700.8,1776.1,False
+provenge,2011Q3,64.29,,93000.0,93000,not in scope: class factor central kept,,,909.6,2685.7,909.6,2685.6,False
+provenge,2011Q4,76.95,,93000.0,93000,not in scope: class factor central kept,,,1088.7,3774.4,1088.7,3774.3,False
+provenge,2012Q1,81.97,,93000.0,93000,not in scope: class factor central kept,,,1159.8,4934.2,1159.8,4934.1,False
+provenge,2012Q2,79.96,,93000.0,93000,not in scope: class factor central kept,,,1131.4,6065.6,1131.4,6065.5,False
+provenge,2012Q3,77.94,,93000.0,93000,not in scope: class factor central kept,,,1102.7,7168.3,1102.7,7168.2,False
+provenge,2012Q4,85.42,,93000.0,93000,not in scope: class factor central kept,,,1208.6,8376.9,1208.6,8376.8,False
+provenge,2013Q1,67.58,,93000.0,93000,not in scope: class factor central kept,,,956.1,9333.0,956.1,9332.9,False
+provenge,2013Q2,73.29,,93000.0,93000,not in scope: class factor central kept,,,1036.9,10369.9,1036.9,10369.8,False
+provenge,2013Q3,67.98,,93000.0,93000,not in scope: class factor central kept,,,961.8,11331.7,961.8,11331.6,False
+provenge,2013Q4,74.85,,93000.0,93000,not in scope: class factor central kept,,,1059.0,12390.7,1059.0,12390.6,False
+provenge,2014Q1,68.78,,93000.0,93000,not in scope: class factor central kept,,,973.1,13363.8,973.1,13363.8,False
+provenge,2014Q2,82.16,,93000.0,93000,not in scope: class factor central kept,,,1162.5,14526.3,1162.5,14526.2,False
+provenge,2014Q3,73.12,,93000.0,93000,not in scope: class factor central kept,,,1034.5,15560.8,1034.5,15560.7,False
+provenge,2014Q4,,,93000.0,93000,not in scope: class factor central kept,,,,15560.8,,15560.7,False
+provenge,2015Q1,62.5,,93000.0,93000,not in scope: class factor central kept,,,884.3,16445.1,884.3,16445.0,False
+provenge,2015Q2,62.5,,93000.0,93000,not in scope: class factor central kept,,,884.3,17329.4,884.3,17329.3,False
+provenge,2015Q3,62.5,,93000.0,93000,not in scope: class factor central kept,,,884.3,18213.7,884.3,18213.5,False
+provenge,2015Q4,62.5,,93000.0,93000,not in scope: class factor central kept,,,884.3,19098.0,884.3,19097.8,False
+provenge,2016Q1,75.75,,93000.0,93000,not in scope: class factor central kept,,,1071.7,20169.7,1071.7,20169.5,False
+provenge,2016Q2,75.75,,93000.0,93000,not in scope: class factor central kept,,,1071.7,21241.4,1071.7,21241.3,False
+provenge,2016Q3,75.75,,93000.0,93000,not in scope: class factor central kept,,,1071.7,22313.1,1071.7,22313.0,False
+provenge,2016Q4,75.75,,93000.0,93000,not in scope: class factor central kept,,,1071.7,23384.8,1071.7,23384.7,False
+roctavian,2022Q4,0.0,,2900000.0,2900000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+roctavian,2023Q1,0.0,,2900000.0,2900000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+roctavian,2023Q2,0.0,,2900000.0,2900000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+roctavian,2023Q3,0.8,,2900000.0,2900000,not in scope: class factor central kept,,,0.4,0.4,0.4,0.4,False
+roctavian,2023Q4,2.7,,2900000.0,2900000,not in scope: class factor central kept,,,1.2,1.6,1.2,1.6,False
+roctavian,2024Q1,0.8,,2900000.0,2900000,not in scope: class factor central kept,,,0.4,2.0,0.4,2.0,False
+roctavian,2024Q2,7.4,,2900000.0,2900000,not in scope: class factor central kept,,,3.4,5.4,3.4,5.3,False
+roctavian,2024Q3,7.2,,2900000.0,2900000,not in scope: class factor central kept,,,3.3,8.7,3.3,8.6,False
+roctavian,2024Q4,11.0,,2900000.0,2900000,not in scope: class factor central kept,,,5.0,13.7,5.0,13.6,False
+roctavian,2025Q1,11.0,,2900000.0,2900000,not in scope: class factor central kept,,,5.0,18.7,5.0,18.6,False
+roctavian,2025Q2,9.0,,2900000.0,2900000,not in scope: class factor central kept,,,4.1,22.8,4.1,22.6,False
+roctavian,2025Q3,3.2,,2900000.0,2900000,not in scope: class factor central kept,,,1.5,24.3,1.5,24.1,False
+roctavian,2025Q4,13.0,,2900000.0,2900000,not in scope: class factor central kept,,,5.9,30.2,5.9,30.0,False
+roctavian,2026Q1,3.0,,2900000.0,2900000,not in scope: class factor central kept,,,1.4,31.6,1.4,31.4,False
+roctavian,2026Q2,12.0,,2900000.0,2900000,not in scope: class factor central kept,,,5.4,37.0,5.4,36.8,False
+ryoncil,2025Q1,0.0,,1550000.0,1550000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+ryoncil,2025Q2,11.3,,1550000.0,1550000,not in scope: class factor central kept,,,9.6,9.6,9.6,9.6,False
+ryoncil,2025Q3,21.9,,1550000.0,1550000,not in scope: class factor central kept,,,18.6,28.2,18.6,28.2,False
+ryoncil,2025Q4,35.1,,1550000.0,1550000,not in scope: class factor central kept,,,29.8,58.0,29.8,58.0,False
+ryoncil,2026Q1,30.3,,1550000.0,1550000,not in scope: class factor central kept,,,25.7,83.7,25.7,83.7,False
+ryoncil,2026Q2,36.0,,1550000.0,1550000,not in scope: class factor central kept,,,30.6,114.3,30.6,114.3,False
+skysona,2023Q1,2.3,2.3,3000000.0,3000000,not in scope: class factor central kept,,,1.0,1.0,1.0,1.0,False
+skysona,2023Q2,2.66,2.66,3000000.0,3000000,not in scope: class factor central kept,,,1.2,2.2,1.2,2.2,False
+skysona,2023Q3,7.43,7.43,3000000.0,3000000,not in scope: class factor central kept,,,3.3,5.5,3.3,5.4,False
+skysona,2023Q4,-0.01,-0.01,3000000.0,3000000,not in scope: class factor central kept,,,-0.0,5.5,-0.0,5.4,False
+skysona,2024Q1,0.0,0.0,3000000.0,3000000,not in scope: class factor central kept,,,0.0,5.5,0.0,5.4,False
+skysona,2024Q2,4.94,4.94,3000000.0,3000000,not in scope: class factor central kept,,,2.2,7.7,2.2,7.6,False
+skysona,2024Q3,2.49,2.49,3000000.0,3000000,not in scope: class factor central kept,,,1.1,8.8,1.1,8.7,False
+skysona,2024Q4,2.49,2.49,3000000.0,3000000,not in scope: class factor central kept,,,1.1,9.9,1.1,9.8,False
+skysona,2025Q1,0.0,0.0,3000000.0,3000000,not in scope: class factor central kept,,,0.0,9.9,0.0,9.8,False
+tecartus,2020Q3,9.0,5.0,373000.0,373000,WAC 2020,13.4,14.1,27.5,27.5,31.7,31.7,True
+tecartus,2020Q4,34.0,29.0,373000.0,373000,WAC 2020,77.7,17.6,95.4,122.9,119.9,151.7,True
+tecartus,2021Q1,31.0,27.0,373000.0,373000,WAC 2021,72.4,14.1,86.5,209.4,109.4,261.0,True
+tecartus,2021Q2,41.0,32.0,373000.0,373000,WAC 2021,85.8,31.7,117.5,326.9,144.6,405.7,True
+tecartus,2021Q3,47.0,35.0,373000.0,373000,WAC 2021,93.8,42.3,136.2,463.1,165.8,571.5,True
+tecartus,2021Q4,57.0,42.0,373000.0,373000,WAC 2021,112.6,52.9,165.5,628.6,201.1,772.5,True
+tecartus,2022Q1,63.0,47.0,373000.0,399000,WAC 2022,117.8,56.4,174.2,802.9,222.2,994.8,True
+tecartus,2022Q2,73.0,53.0,373000.0,399000,WAC 2022,132.8,70.6,203.4,1006.2,257.5,1252.3,True
+tecartus,2022Q3,81.0,60.0,373000.0,399000,WAC 2022,150.4,74.1,224.5,1230.7,285.7,1538.0,True
+tecartus,2022Q4,82.0,61.0,373000.0,423351,implied ASP (CMS payment limit / 1.06),144.1,74.1,218.2,1448.9,289.3,1827.3,True
+tecartus,2023Q1,89.0,59.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),139.2,105.8,245.0,1693.8,314.0,2141.2,True
+tecartus,2023Q2,88.0,56.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),132.1,112.9,245.0,1938.8,310.4,2451.7,True
+tecartus,2023Q3,96.0,64.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),150.9,112.9,263.8,2202.6,338.6,2790.3,True
+tecartus,2023Q4,98.0,66.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),155.7,112.9,268.5,2471.2,345.7,3136.0,True
+tecartus,2024Q1,100.0,55.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),129.7,158.7,288.5,2759.6,352.8,3488.8,True
+tecartus,2024Q2,107.0,63.0,373000.0,434463,implied ASP (CMS payment limit / 1.06),145.0,155.2,300.2,3059.8,377.5,3866.2,True
+tecartus,2024Q3,98.0,63.0,373000.0,460426,implied ASP (CMS payment limit / 1.06),136.8,123.5,260.3,3320.1,345.7,4211.9,True
+tecartus,2024Q4,98.0,53.0,373000.0,461697,implied ASP (CMS payment limit / 1.06),114.8,158.7,273.5,3593.7,345.7,4557.6,True
+tecartus,2025Q1,78.0,40.0,373000.0,462000,implied ASP (CMS payment limit / 1.06),86.6,134.0,220.6,3814.3,275.2,4832.8,True
+tecartus,2025Q2,92.0,41.0,373000.0,461608,implied ASP (CMS payment limit / 1.06),88.8,179.9,268.7,4083.0,324.5,5157.3,True
+tecartus,2025Q3,83.0,40.0,373000.0,461745,implied ASP (CMS payment limit / 1.06),86.6,151.7,238.3,4321.3,292.8,5450.1,True
+tecartus,2025Q4,90.0,32.0,373000.0,461595,implied ASP (CMS payment limit / 1.06),69.3,204.6,273.9,4595.3,317.5,5767.6,True
+tecartus,2026Q1,75.0,30.0,373000.0,481230,implied ASP (CMS payment limit / 1.06),62.3,158.7,221.1,4816.3,264.6,6032.2,True
+tecartus,2026Q2,70.0,29.0,373000.0,462000,WAC 2025 carried forward,62.8,144.6,207.4,5023.8,246.9,6279.1,True
+tecelra,2024Q3,0.0,,727000.0,727000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+tecelra,2024Q4,1.2,,727000.0,727000,not in scope: class factor central kept,,,2.2,2.2,2.2,2.2,False
+tecelra,2025Q1,4.0,,727000.0,727000,not in scope: class factor central kept,,,7.2,9.4,7.2,9.4,False
+tecelra,2025Q2,11.1,,727000.0,727000,not in scope: class factor central kept,,,20.1,29.5,20.1,29.5,False
+tudriqev,2026Q2,0.0,,,,not in scope: class factor central kept,,,,0.0,,,False
+vyjuvek,2023Q3,8.6,,631000.0,631000,not in scope: class factor central kept,,,17.9,17.9,17.9,17.9,False
+vyjuvek,2023Q4,42.1,,631000.0,631000,not in scope: class factor central kept,,,87.8,105.7,87.8,105.7,False
+vyjuvek,2024Q1,45.3,,631000.0,631000,not in scope: class factor central kept,,,94.5,200.2,94.5,200.2,False
+vyjuvek,2024Q2,70.3,,631000.0,631000,not in scope: class factor central kept,,,146.6,346.8,146.6,346.8,False
+vyjuvek,2024Q3,83.8,,631000.0,631000,not in scope: class factor central kept,,,174.7,521.5,174.7,521.5,False
+vyjuvek,2024Q4,91.1,,631000.0,631000,not in scope: class factor central kept,,,190.0,711.5,190.0,711.5,False
+vyjuvek,2025Q1,88.2,88.18,631000.0,631000,not in scope: class factor central kept,,,183.9,895.4,183.9,895.4,False
+vyjuvek,2025Q2,96.0,96.04,631000.0,631000,not in scope: class factor central kept,,,200.2,1095.6,200.2,1095.6,False
+vyjuvek,2025Q3,97.8,,631000.0,631000,not in scope: class factor central kept,,,203.9,1299.5,203.9,1299.5,False
+vyjuvek,2025Q4,107.1,,631000.0,631000,not in scope: class factor central kept,,,223.3,1522.8,223.3,1522.9,False
+vyjuvek,2026Q1,116.4,87.49,631000.0,631000,not in scope: class factor central kept,,,242.7,1765.5,242.7,1765.6,False
+vyjuvek,2026Q2,119.2,91.63,631000.0,631000,not in scope: class factor central kept,,,248.6,2014.1,248.6,2014.1,False
+yescarta,2017Q4,7.0,7.0,373000.0,373000,WAC 2017,18.8,0.0,18.8,18.8,24.7,24.7,True
+yescarta,2018Q1,40.0,40.0,373000.0,373000,WAC 2017 carried forward,107.2,0.0,107.2,126.0,141.1,165.8,True
+yescarta,2018Q2,68.0,68.0,373000.0,373000,WAC 2017 carried forward,182.3,0.0,182.3,308.3,239.9,405.7,True
+yescarta,2018Q3,75.0,75.0,373000.0,373000,WAC 2017 carried forward,201.1,0.0,201.1,509.4,264.6,670.2,True
+yescarta,2018Q4,81.0,80.0,373000.0,373000,WAC 2017 carried forward,214.5,3.5,218.0,727.4,285.7,956.0,True
+yescarta,2019Q1,96.0,90.0,373000.0,373000,WAC 2017 carried forward,241.3,21.2,262.5,989.8,338.6,1294.6,True
+yescarta,2019Q2,120.0,99.0,373000.0,373000,WAC 2017 carried forward,265.4,74.1,339.5,1329.3,423.3,1717.9,True
+yescarta,2019Q3,118.0,86.0,373000.0,373000,WAC 2017 carried forward,230.6,112.9,343.4,1672.8,416.3,2134.2,True
+yescarta,2019Q4,122.0,98.0,373000.0,373000,WAC 2017 carried forward,262.7,84.7,347.4,2020.2,430.4,2564.6,True
+yescarta,2020Q1,140.0,103.0,373000.0,373000,WAC 2017 carried forward,276.1,130.5,406.7,2426.8,493.9,3058.4,True
+yescarta,2020Q2,156.0,95.0,373000.0,373000,WAC 2017 carried forward,254.7,215.2,469.9,2896.7,550.3,3608.7,True
+yescarta,2020Q3,138.0,85.0,373000.0,373000,WAC 2017 carried forward,227.9,187.0,414.8,3311.6,486.8,4095.5,True
+yescarta,2020Q4,129.0,79.0,373000.0,373000,WAC 2017 carried forward,211.8,176.4,388.2,3699.7,455.1,4550.6,True
+yescarta,2021Q1,160.0,92.0,373000.0,373000,WAC 2017 carried forward,246.6,239.9,486.5,4186.3,564.4,5115.0,True
+yescarta,2021Q2,178.0,108.0,373000.0,373000,WAC 2017 carried forward,289.5,246.9,536.5,4722.7,627.9,5742.9,True
+yescarta,2021Q3,175.0,100.0,373000.0,373000,WAC 2017 carried forward,268.1,264.6,532.7,5255.4,617.3,6360.2,True
+yescarta,2021Q4,182.0,106.0,373000.0,373000,WAC 2017 carried forward,284.2,268.1,552.3,5807.7,642.0,7002.3,True
+yescarta,2022Q1,211.0,125.0,373000.0,399000,WAC 2022,313.3,303.4,616.7,6424.3,744.3,7746.6,True
+yescarta,2022Q2,295.0,193.0,373000.0,399000,WAC 2022,483.7,359.8,843.5,7267.9,1040.6,8787.2,True
+yescarta,2022Q3,317.0,210.0,373000.0,399000,WAC 2022,526.3,377.5,903.8,8171.6,1118.2,9905.5,True
+yescarta,2022Q4,337.0,219.0,373000.0,423817,implied ASP (CMS payment limit / 1.06),516.7,416.3,933.0,9104.6,1188.8,11094.3,True
+yescarta,2023Q1,359.0,210.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),495.3,525.6,1020.9,10125.5,1266.4,12360.7,True
+yescarta,2023Q2,380.0,217.0,373000.0,423907,implied ASP (CMS payment limit / 1.06),511.9,575.0,1086.9,11212.4,1340.5,13701.1,True
+yescarta,2023Q3,391.0,197.0,373000.0,424000,implied ASP (CMS payment limit / 1.06),464.6,684.4,1149.0,12361.4,1379.3,15080.4,True
+yescarta,2023Q4,368.0,187.0,373000.0,433379,implied ASP (CMS payment limit / 1.06),431.5,638.5,1070.0,13431.4,1298.2,16378.6,True
+yescarta,2024Q1,380.0,170.0,373000.0,461450,implied ASP (CMS payment limit / 1.06),368.4,740.8,1109.2,14540.6,1340.5,17719.1,True
+yescarta,2024Q2,414.0,186.0,373000.0,461751,implied ASP (CMS payment limit / 1.06),402.8,804.3,1207.1,15747.7,1460.4,19179.5,True
+yescarta,2024Q3,387.0,145.0,373000.0,461809,implied ASP (CMS payment limit / 1.06),314.0,853.7,1167.7,16915.3,1365.2,20544.7,True
+yescarta,2024Q4,390.0,161.0,373000.0,474378,implied ASP (CMS payment limit / 1.06),339.4,807.8,1147.2,18062.5,1375.8,21920.4,True
+yescarta,2025Q1,386.0,160.0,373000.0,502902,implied ASP (CMS payment limit / 1.06),318.2,797.2,1115.4,19177.9,1361.6,23282.1,True
+yescarta,2025Q2,393.0,162.0,373000.0,503047,implied ASP (CMS payment limit / 1.06),322.0,814.9,1136.9,20314.8,1386.3,24668.4,True
+yescarta,2025Q3,349.0,123.0,373000.0,502068,implied ASP (CMS payment limit / 1.06),245.0,797.2,1042.2,21357.1,1231.1,25899.5,True
+yescarta,2025Q4,368.0,151.0,373000.0,501744,implied ASP (CMS payment limit / 1.06),301.0,765.5,1066.4,22423.5,1298.2,27197.7,True
+yescarta,2026Q1,332.0,120.0,373000.0,530661,implied ASP (CMS payment limit / 1.06),226.1,747.8,974.0,23397.5,1171.2,28368.8,True
+yescarta,2026Q2,346.0,132.0,373000.0,503580,WAC 2025 carried forward,262.1,754.9,1017.0,24414.5,1220.5,29589.4,True
+zevaskyn,2025Q2,0.0,,3100000.0,3100000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+zevaskyn,2025Q3,0.0,,3100000.0,3100000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+zevaskyn,2025Q4,2.42,,3100000.0,3100000,not in scope: class factor central kept,,,1.0,1.0,1.0,1.0,False
+zevaskyn,2026Q1,8.7,,3100000.0,3100000,not in scope: class factor central kept,,,3.7,4.7,3.7,4.7,False
+zevaskyn,2026Q2,11.4,,3100000.0,3100000,not in scope: class factor central kept,,,4.8,9.5,4.8,9.6,False
+zolgensma,2019Q2,15.0,,2125000.0,2125000,not in scope: class factor central kept,,,9.3,9.3,9.3,9.3,False
+zolgensma,2019Q3,160.0,,2125000.0,2125000,not in scope: class factor central kept,,,99.1,108.4,99.1,108.4,False
+zolgensma,2019Q4,186.0,,2125000.0,2125000,not in scope: class factor central kept,,,115.2,223.6,115.2,223.5,False
+zolgensma,2020Q1,170.0,,2125000.0,2125000,not in scope: class factor central kept,,,105.3,328.9,105.3,328.8,False
+zolgensma,2020Q2,205.0,,2125000.0,2125000,not in scope: class factor central kept,,,126.9,455.8,126.9,455.7,False
+zolgensma,2020Q3,291.0,,2125000.0,2125000,not in scope: class factor central kept,,,180.2,636.0,180.2,635.9,False
+zolgensma,2020Q4,254.0,,2125000.0,2125000,not in scope: class factor central kept,,,157.3,793.3,157.3,793.2,False
+zolgensma,2021Q1,319.0,,2125000.0,2125000,not in scope: class factor central kept,,,197.5,990.8,197.5,990.7,False
+zolgensma,2021Q2,315.0,,2125000.0,2125000,not in scope: class factor central kept,,,195.0,1185.8,195.0,1185.8,False
+zolgensma,2021Q3,375.0,,2125000.0,2125000,not in scope: class factor central kept,,,232.2,1418.0,232.2,1418.0,False
+zolgensma,2021Q4,342.0,,2125000.0,2125000,not in scope: class factor central kept,,,211.8,1629.8,211.8,1629.7,False
+zolgensma,2022Q1,363.0,,2125000.0,2125000,not in scope: class factor central kept,,,224.8,1854.6,224.8,1854.5,False
+zolgensma,2022Q2,379.0,,2125000.0,2125000,not in scope: class factor central kept,,,234.7,2089.3,234.7,2089.2,False
+zolgensma,2022Q3,319.0,,2125000.0,2125000,not in scope: class factor central kept,,,197.5,2286.8,197.5,2286.7,False
+zolgensma,2022Q4,309.0,,2125000.0,2125000,not in scope: class factor central kept,,,191.3,2478.1,191.3,2478.0,False
+zolgensma,2023Q1,309.0,,2125000.0,2125000,not in scope: class factor central kept,,,191.3,2669.4,191.3,2669.3,False
+zolgensma,2023Q2,311.0,,2125000.0,2125000,not in scope: class factor central kept,,,192.6,2862.0,192.6,2861.9,False
+zolgensma,2023Q3,308.0,,2125000.0,2125000,not in scope: class factor central kept,,,190.7,3052.7,190.7,3052.6,False
+zolgensma,2023Q4,286.0,,2125000.0,2125000,not in scope: class factor central kept,,,177.1,3229.8,177.1,3229.7,False
+zolgensma,2024Q1,295.0,,2125000.0,2125000,not in scope: class factor central kept,,,182.7,3412.5,182.7,3412.4,False
+zolgensma,2024Q2,349.0,,2125000.0,2125000,not in scope: class factor central kept,,,216.1,3628.6,216.1,3628.5,False
+zolgensma,2024Q3,308.0,,2125000.0,2125000,not in scope: class factor central kept,,,190.7,3819.3,190.7,3819.2,False
+zolgensma,2024Q4,262.0,,2125000.0,2125000,not in scope: class factor central kept,,,162.2,3981.5,162.2,3981.4,False
+zolgensma,2025Q1,327.0,,2125000.0,2125000,not in scope: class factor central kept,,,202.5,4184.0,202.5,4183.9,False
+zolgensma,2025Q2,297.0,,2125000.0,2125000,not in scope: class factor central kept,,,183.9,4367.9,183.9,4367.8,False
+zolgensma,2025Q3,301.0,,2125000.0,2125000,not in scope: class factor central kept,,,186.4,4554.3,186.4,4554.2,False
+zolgensma,2025Q4,307.0,,2125000.0,2125000,not in scope: class factor central kept,,,190.1,4744.4,190.1,4744.3,False
+zolgensma,2026Q1,302.0,,2125000.0,2125000,not in scope: class factor central kept,,,187.0,4931.4,187.0,4931.3,False
+zolgensma,2026Q2,365.0,,2125000.0,2125000,not in scope: class factor central kept,,,226.0,5157.4,226.0,5157.3,False
+zynteglo,2023Q1,0.0,0.0,2800000.0,2800000,not in scope: class factor central kept,,,0.0,0.0,0.0,0.0,False
+zynteglo,2023Q2,4.18,4.18,2800000.0,2800000,not in scope: class factor central kept,,,2.0,2.0,2.0,2.0,False
+zynteglo,2023Q3,4.85,4.85,2800000.0,2800000,not in scope: class factor central kept,,,2.3,4.3,2.3,4.2,False
+zynteglo,2023Q4,7.66,7.66,2800000.0,2800000,not in scope: class factor central kept,,,3.6,7.9,3.6,7.8,False
+zynteglo,2024Q1,18.56,18.56,2800000.0,2800000,not in scope: class factor central kept,,,8.7,16.6,8.7,16.6,False
+zynteglo,2024Q2,11.16,11.16,2800000.0,2800000,not in scope: class factor central kept,,,5.2,21.8,5.2,21.8,False
+zynteglo,2024Q3,5.49,5.49,2800000.0,2800000,not in scope: class factor central kept,,,2.6,24.4,2.6,24.4,False
+zynteglo,2024Q4,27.06,27.06,2800000.0,2800000,not in scope: class factor central kept,,,12.7,37.1,12.7,37.1,False
+zynteglo,2025Q1,26.31,26.31,2800000.0,2800000,not in scope: class factor central kept,,,12.4,49.5,12.4,49.5,False

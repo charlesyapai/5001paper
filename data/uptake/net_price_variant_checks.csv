@@ -1,0 +1,5 @@
+products,as_of_date,through_quarter,disclosed_patients,implied_main_class_factor,main_over_disclosed,implied_variant,variant_over_disclosed,disclosure
+yescarta,2019-12-31,2019Q4,2500,2565,1.03,2020,0.81,"about 2,500 commercial patients, Yescarta only, Cryoport 10-K"
+yescarta+tecartus,2022-12-11,2022Q3,11000,11444,1.04,9402,0.85,"more than 11,000 patients, all Kite CAR-T (Yescarta + Tecartus), Gilead release; floor"
+yescarta+tecartus,2024-01-30,2023Q4,17700,19515,1.1,15903,0.9,"more than 17,700 patients, all Kite CAR-T, Kite release; floor"
+yescarta+tecartus,2025-01-10,2024Q4,25000,26478,1.06,21656,0.87,"more than 25,000 patients, all Kite CAR-T, Kite statement; floor"

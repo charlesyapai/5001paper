@@ -2,7 +2,7 @@
 
 ### A registry analysis of 14,061 clinical trials and 784 halted trial registrations across 21 gene, editing, proteomic and precision-medicine technologies
 
-**Draft v3 — 3 September 2026.** Revised after referee review; see the revision note at the end of
+**Draft v7 — 5 September 2026.** Revised after referee review; see the revision notes at the end of
 this section. All counts computed from ClinicalTrials.gov (API v2) and PubMed records retrieved on
 that date. Every number is traceable to a named column in the supplementary tables.
 
@@ -57,6 +57,15 @@ falsification criterion in Section 3.4 has been narrowed to the joint condition 
 support. A pointer to a non-existent supplementary row has been corrected, the censoring figure
 recomputed on a strict deduplicated basis (24.7%, not 30.6%), and a reference list added.
 
+**Revision note (v7, 5 September 2026).** Two defects recorded in the referee pitch (section 6a) are
+fixed. The heading of Section 2.3 and the Conclusion claimed the "most mature" modality is the
+most fragile while the body of 2.3 withdrew that property; both now state the property the argument
+uses, earliest genetic modality to reach pivotal trials, which AAV holds uniquely on
+`technology_maturity_matrix.csv` (`first_ph3_year`). The References note pointed the untested
+non-molecular comparator at Section 8 item 5, which is the human-validation item; the comparator is
+now Section 8 item 6 and the note points there. The header version, which still read v3, is
+corrected. No number in the paper changed.
+
 ---
 
 ## 1. Introduction
@@ -99,7 +108,7 @@ of a financing layer is the single largest gap in this work and is discussed in 
 
 ### 2.1 Business-attributed discontinuation concentrates in industry-sponsored therapeutics
 
-![Figure 1]({{artifact:art_7eba8e64-c0f9-4325-a3c8-cc7bbddd18a1}})
+![Figure 1](../figures/Figure_1_constraint_map.png)
 *(bundle path: `figures/Figure_1_constraint_map.png`)*
 
 **Figure 1. Where sponsor-attributed business discontinuation occurs.** *(a)* Share of halted
@@ -186,7 +195,7 @@ was not due to safety or efficacy concerns — so the business category is an up
 
 ### 2.2 The pattern holds in every technology family
 
-![Figure 2]({{artifact:art_1cd1a369-ff86-4a03-9b3f-f9eebb993fed}})
+![Figure 2](../figures/Figure_2_blocker_profiles.png)
 *(bundle path: `figures/Figure_2_blocker_profiles.png`)*
 
 **Figure 2. Blocker profile by technology family.** Share of each family's halted trials
@@ -217,9 +226,9 @@ The scientific categories are small throughout: across all 784 deduplicated halt
 cite safety or efficacy failure in total. All figures and counts in this paper are computed on
 that same deduplicated set.
 
-### 2.3 The most mature modality is the most commercially fragile
+### 2.3 The earliest genetic modality to reach pivotal trials is the most commercially fragile
 
-![Figure 3]({{artifact:art_39cac88c-1cec-493c-a0b8-a57c124a1855}})
+![Figure 3](../figures/Figure_3_funding_vs_science.png)
 *(bundle path: `figures/Figure_3_funding_vs_science.png`)*
 
 **Figure 3. Funding versus scientific causes of trial halt, by platform.** Platforms with at
@@ -232,8 +241,12 @@ first Phase 3 in 2003, 32 Phase 3 or later trials, 67.4% industry-sponsored — 
 halted trials cite business or strategic reasons against 1 citing safety or efficacy**, the
 widest gap of any platform in the dataset. (Four
 therapeutic platforms tie at the top stage of the maturity ladder, so "most mature" is not a
-property we can assign uniquely; "earliest to pivotal trials" is, and is the property the argument
-uses.) Among trials that halted, this is not a technology stopped by its biology — though
+property we can assign uniquely; "earliest genetic modality to reach pivotal trials" is, and it is
+the property the argument uses and the heading states. Among genetic therapeutic subfamilies the
+first Phase 3 years are AAV 2003, lentiviral ex vivo 2010, in vivo LNP 2013, CAR-T 2015 and CRISPR
+nuclease 2018; the N-of-1 subfamily's Phase 4 entry in 2000, NCT00000428, is an N-of-1-design trial
+of fibromyalgia treatments caught by the query, not a genetic therapy, and is excluded from this
+comparison.) Among trials that halted, this is not a technology stopped by its biology — though
 Section 2.1's censoring limit means we cannot speak to programs that completed and missed.
 
 CAR-T reproduces the pattern at scale (104 business versus 20 scientific across 251 halts) and
@@ -243,7 +256,7 @@ trials are predominantly academic and smaller, and fail earlier, through recruit
 
 ### 2.4 How maturity was measured, and what it shows
 
-![Figure 4]({{artifact:art_d7c06bb0-73bf-44c3-bf05-397f60ee4102}})
+![Figure 4](../figures/Figure_4_technology_timelines.png)
 *(bundle path: `figures/Figure_4_technology_timelines.png`)*
 
 **Figure 4. Technology timelines.** For each subfamily: the year publication volume first
@@ -270,7 +283,7 @@ bounds our thesis, and Section 4 states the bound explicitly.
 
 ### 2.5 Research momentum does not track clinical maturity
 
-![Figure 5]({{artifact:art_2880b80b-7d18-4c2e-aa8d-76990503f8a7}})
+![Figure 5](../figures/Figure_5_momentum_vs_maturity.png)
 *(bundle path: `figures/Figure_5_momentum_vs_maturity.png`)*
 
 **Figure 5. Momentum against maturity.** Share of each platform's registered trials that
@@ -293,7 +306,7 @@ its most deployable ones.
 
 ### 2.6 The failure mode survives regulatory approval
 
-![Figure 6]({{artifact:art_05efcee4-95ba-4c18-9834-afdbada4a6f6}})
+![Figure 6](../figures/Figure_6_commercial_retreat.png)
 *(bundle path: `figures/Figure_6_commercial_retreat.png`)*
 
 **Figure 6. Commercial retreats of gene therapies, with the approval-to-retreat interval where
@@ -328,7 +341,7 @@ observed one stage later: the technology clears the scientific bar and fails the
 
 ### 2.7 The visible evidence base is thinner than the trial counts imply
 
-![Figure 7]({{artifact:art_de2ccf77-f9b9-4cf6-a754-8ba2db7e65c4}})
+![Figure 7](../figures/Figure_7_evidence_quality.png)
 *(bundle path: `figures/Figure_7_evidence_quality.png`)*
 
 **Figure 7. Evidence quality and reporting by family.** Results-posting rate among
@@ -359,7 +372,7 @@ determining these products' fate.
 
 ### 2.8 Access is structurally uneven, in a specific direction
 
-![Figure 8]({{artifact:art_db0dfaaa-e7a0-4d7c-aa3a-2357fd35d35c}})
+![Figure 8](../figures/Figure_8_access_equity.png)
 *(bundle path: `figures/Figure_8_access_equity.png`)*
 
 **Figure 8. Access and concentration.** Left: share of each platform's sited trials with at
@@ -689,7 +702,7 @@ outnumber stated scientific failures by somewhere between 0.8 and 6.1 to one dep
 the category boundaries are drawn — a range wide enough that the aggregate ratio should not be
 quoted as a finding. What does survive every boundary choice is where the excess sits: it is
 concentrated, by a factor of five to six, in industry-sponsored therapeutic programs, and the
-most scientifically mature therapeutic modality in the field is its most commercially fragile. The constraint is not
+earliest genetic modality to reach pivotal trials, AAV gene transfer, is the field's most commercially fragile. The constraint is not
 uniform: technologies that must become priced products fail on payment, and technologies that
 must change a clinical decision fail on evidence. Neither failure is a biology failure, and
 neither is addressed by the research agenda the field is currently running.
@@ -789,6 +802,11 @@ alphabetical assignment had biased.
    the required fields are already in the published trial table.
 5. **Human validation of the halt-reason classification** on a stratified sample, with
    inter-rater agreement reported.
+6. **A matched non-molecular comparator.** The same regex re-filter and the same classifier run
+   on industry-sponsored Phase 1 and Phase 1/2 oncology small molecules and antibodies started
+   2015 or later, matched on phase and start year, to test whether the industry-therapeutic
+   elevation is specific to molecular precision medicine or generic to industry-sponsored
+   early-phase trials (Limitation 3c). Neither prior referee round saw this run.
 
 ---
 
@@ -830,7 +848,7 @@ checked against its primary announcement before publication. Retrieved 2–3 Sep
 
 **Not cited because not consulted.** The registry-wide clinical-trial termination literature
 referenced in Limitation 3c is invoked as a general expectation, not as a specific finding, and
-the non-molecular comparator that would test it has not been run (Section 8, item 5).
+the non-molecular comparator that would test it has not been run (Section 8, item 6).
 
 ---
 
@@ -838,7 +856,7 @@ the non-molecular comparator that would test it has not been run (Section 8, ite
 
 ### Figure S1 — allocation of clinical AI activity
 
-![Figure S1]({{artifact:art_30880e13-5699-4ac2-81d4-b022c0af9f1b}})
+![Figure S1](../figures/Figure_S1_ai_allocation.png)
 *(bundle path: `figures/Figure_S1_ai_allocation.png`)*
 
 Distribution of 5,601 trials referencing artificial intelligence or machine learning across
@@ -848,7 +866,7 @@ different quantity (attention allocation) from the paper's principal analysis (f
 
 ### Figure S2 — every hypothesis tested, with its confidence interval
 
-![Figure S2]({{artifact:art_ffdc745d-ff6d-4b56-8436-46abb6294655}})
+![Figure S2](../figures/Figure_S2_effect_sizes.png)
 *(bundle path: `figures/Figure_S2_effect_sizes.png`)*
 
 *(a)* All six contingency tests on the 784-trial analysis set, as odds ratios with 95% Wald
@@ -866,7 +884,7 @@ the contingency cells in `halted_trials_dedup.csv`.
 
 ### Figure S3 — publication growth trajectories, 2012–2025
 
-![Figure S3]({{artifact:art_c3f704cc-3de6-43bf-adea-413d5e74f29d}})
+![Figure S3](../figures/Figure_S3_publication_growth.png)
 *(bundle path: `figures/Figure_S3_publication_growth.png`)*
 
 Annual PubMed record counts per subfamily on a log scale, in small multiples by family.
@@ -884,7 +902,7 @@ literature volume and clinical readiness are separate quantities. Source:
 
 ### Figure S4 — sponsor exit: an independent instrument that disagrees
 
-![Figure S4]({{artifact:art_9838a85a-7751-4514-a3f5-94440b87358a}})
+![Figure S4](../figures/Figure_S4_sponsor_exit.png)
 *(bundle path: `figures/Figure_S4_sponsor_exit.png`)*
 
 *(a)* Share of each platform's distinct industry sponsors whose most recent trial start was 2022
@@ -901,7 +919,7 @@ than tabulated because the disagreement is the point. Source: `sponsor_exit_rate
 
 ### Figure S5 — the AI-originated candidate pipeline
 
-![Figure S5]({{artifact:art_220d83bc-ff13-424e-82d7-65f562584214}})
+![Figure S5](../figures/Figure_S5_ai_pipeline.png)
 *(bundle path: `figures/Figure_S5_ai_pipeline.png`)*
 
 Each row is one candidate molecule from an AI-first discovery platform with at least one

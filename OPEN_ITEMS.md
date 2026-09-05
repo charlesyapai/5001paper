@@ -1,10 +1,16 @@
 # Open items
 
-Priority order. The first two block external circulation of the manuscript.
+Priority order. Item 2 blocks external circulation of the manuscript; item 1 was resolved on 5 September 2026.
 
 ---
 
 ## 1. Two defects in the current draft (v7)
+
+**Resolved 5 September 2026.** Section 2.3 heading and the Conclusion now say "the earliest genetic
+modality to reach pivotal trials" (AAV holds it uniquely; the N-of-1 subfamily's earlier Phase 3
+year is a fibromyalgia N-of-1 trial caught by the query, F038); the comparator is Section 8 item 6
+and the References note points there; the header reads v7. A v7 revision note in the manuscript
+records the changes. The text below is kept as the record of the defect.
 
 **A superlative the paper's own caveat retracts.** Section heading 2.3 reads *"The most
 mature modality is the most commercially fragile"*, and the Conclusion repeats it. Two

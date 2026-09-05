@@ -19,7 +19,7 @@ study.
 - The imaging-AI subset cannot serve as the comparator (F005; D003).
 - Published phase 1 oncology baselines put sponsor or strategic reasons at about half of terminations across all sponsors and about 60% implied for industry (F007, F008); industry terminations rarely cite accrual (F009).
 - Business reasons and non-disclosure differ by sponsor type in an all-phase cancer analysis (F010, provisional).
-- The manuscript header still says v3 (F018).
+- The manuscript header said v3 until 5 September 2026 (F018, fixed). AAV is uniquely the earliest genetic modality to reach pivotal trials; the N-of-1 subfamily's 2000 Phase 3 year is a query artefact (F038).
 
 ## Sources
 S01 to S05; the bundle's review record.
@@ -30,7 +30,7 @@ S01 to S05; the bundle's review record.
 - Kappa: `02_classify_halts.py --sample 200`, two human coders, Cohen's kappa by label.
 
 ## Tasks
-1. Fix the two v7 defects in OPEN_ITEMS item 1 and the v3 header (F018).
+1. Fix the two v7 defects in OPEN_ITEMS item 1 and the v3 header (F018). **Done 2026-09-05 (F038); v7 revision note added to the manuscript.**
 2. Run the comparator pull.
 3. Run the disclosure audit and the kappa.
 4. Rewrite the abstract and title around the instrument.

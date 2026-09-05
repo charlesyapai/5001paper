@@ -1,0 +1,259 @@
+product_key,system,n_rows,n_usable,first_decision_date,first_outcome,first_body,months_approval_to_first_decision,approval_basis,months_fda_to_first_decision,first_funding_body,first_funding_date,months_approval_to_first_funding,months_approval_to_first_funding_excl_early_access,latest_outcome,latest_decision_date,arrangement_types,any_not_recommended,statuses
+abecma,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+abecma,Canada,3,3,2021-05-14,not-recommended,CADTH,-0.4,stated by agent,1.6,,,,,terminated-or-withdrawn,2024-04-18,none,True,verified-from-source
+abecma,England,2,2,2023-11-30,terminated-or-withdrawn,NICE,27.4,stated by agent,32.2,,,,,terminated-or-withdrawn,2025-07-23,none,False,verified-from-source
+abecma,France,9,9,2021-04-29,recommended-managed-access,ANSM (accès précoce),-3.6,stated by agent,1.1,ANSM (accès précoce),2021-04-29,-3.6,38.6,recommended,2025-12-05,"confidential-discount,managed-access-agreement,none,unknown",False,verified-from-source
+abecma,Germany,3,3,2022-06-16,recommended-restricted,G-BA,9.9,stated by agent,14.7,G-BA,2022-06-16,9.9,9.9,not-recommended,2024-09-19,none,True,verified-from-source
+abecma,Italy,3,3,2023-08-19,not-recommended,AIFA,24.0,stated by agent,28.8,AIFA,2024-02-08,29.7,29.7,recommended-restricted,2026-05-20,"confidential-discount,none",True,verified-from-source
+adstiladrin,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+adstiladrin,Canada,1,0,,not-found,,,,,,,,,,,,False,not-found
+adstiladrin,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+adstiladrin,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+adstiladrin,Germany,1,0,,not-found,,,,,,,,,,,,False,not-found
+adstiladrin,Italy,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+alofisel,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+alofisel,Canada,1,0,,not-found,,,,,,,,,,,,False,not-found
+alofisel,England,1,1,2019-01-09,not-recommended,NICE,9.6,stated by agent,,,,,,not-recommended,2019-01-09,none,True,verified-from-source
+alofisel,France,3,2,2019-02-06,recommended-restricted,HAS-CT,10.5,stated by agent,,,,,,not-recommended,2019-02-06,"none,unknown",True,"not-found,verified-from-source"
+alofisel,Germany,1,1,2018-11-22,recommended-restricted,G-BA,8.0,stated by agent,,G-BA,2018-11-22,8.0,8.0,recommended-restricted,2018-11-22,none,False,verified-from-source
+alofisel,Italy,1,1,2018-10-08,not-recommended,AIFA,6.5,stated by agent,,,,,,not-recommended,2018-10-08,none,True,verified-from-source
+amtagvi,Australia,1,0,,recommended,,,,,,,,,,,,False,provisional-from-snippet
+amtagvi,Canada,1,0,,not-found,,,,,,,,,,,,False,not-found
+amtagvi,England,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+amtagvi,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+amtagvi,Germany,1,0,,not-submitted,,,,,,,,,,,,False,verified-from-source
+amtagvi,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+aucatzyl,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+aucatzyl,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+aucatzyl,England,1,1,2025-12-11,recommended-restricted,NICE,4.8,stated by agent,13.1,NICE,2025-12-11,4.8,4.8,recommended-restricted,2025-12-11,confidential-discount,False,verified-from-source
+aucatzyl,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+aucatzyl,Germany,1,0,,not-found,,,,,,,,,,,,False,not-found
+aucatzyl,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+beqvez,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+beqvez,Canada,2,2,2023-12-20,recommended-restricted,CADTH,-0.2,stated by agent,-4.2,,,,,not-recommended,2025-04-04,"confidential-discount,none",True,verified-from-source
+beqvez,England,1,1,2026-06-04,terminated-or-withdrawn,NICE,22.3,stated by agent,25.3,,,,,terminated-or-withdrawn,2026-06-04,none,False,verified-from-source
+beqvez,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+beqvez,Germany,1,0,,terminated-or-withdrawn,,,,,,,,,,,,False,verified-from-source
+beqvez,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+breyanzi,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+breyanzi,Canada,4,4,2022-04-13,recommended-restricted,CADTH,-0.8,stated by agent,14.2,pCPA,2023-12-12,19.2,19.2,recommended,2025-06-06,confidential-discount,False,verified-from-source
+breyanzi,England,7,6,2024-07-10,terminated-or-withdrawn,NICE,27.2,stated by agent,41.1,NICE,2025-03-26,35.7,35.7,terminated-or-withdrawn,2026-08-20,"confidential-discount,none",False,verified-from-source
+breyanzi,France,8,6,2023-09-07,recommended-managed-access,ANSM (accès précoce),17.1,stated by agent,31.0,ANSM (accès précoce),2023-09-07,17.1,27.1,recommended,2026-06-03,"confidential-discount,managed-access-agreement,none,unknown",False,"provisional-from-snippet,verified-from-source"
+breyanzi,Germany,7,7,2023-04-06,not-recommended,G-BA,12.1,stated by agent,26.0,G-BA,2023-11-16,6.6,6.6,not-recommended,2026-06-04,none,True,verified-from-source
+breyanzi,Italy,2,2,2024-02-08,recommended-restricted,AIFA,22.2,stated by agent,36.1,AIFA,2024-02-08,22.2,22.2,recommended-restricted,2025-12-15,confidential-discount,False,verified-from-source
+carvykti,Australia,6,4,2022-07-28,not-recommended,MSAC,-10.3,stated by agent,4.9,MSAC,2024-04-04,10.0,10.0,recommended-restricted,2024-11-29,"none,outcomes-based",True,"not-found,verified-from-source"
+carvykti,Canada,6,4,2023-03-08,recommended-restricted,CADTH,0.9,stated by agent,12.3,,,,,not-recommended,2025-09-18,"confidential-discount,none",True,verified-from-source
+carvykti,England,2,1,2023-05-17,terminated-or-withdrawn,NICE,11.7,stated by agent,14.6,,,,,terminated-or-withdrawn,2023-05-17,none,False,verified-from-source
+carvykti,France,4,2,2022-11-23,recommended,HAS-CT,6.0,stated by agent,8.8,,,,,recommended,2025-07-16,unknown,False,"not-found,provisional-from-snippet,verified-from-source"
+carvykti,Germany,3,3,2023-08-17,recommended-restricted,G-BA,14.8,stated by agent,17.6,G-BA,2023-08-17,14.8,14.8,not-recommended,2025-05-15,none,True,verified-from-source
+carvykti,Italy,2,2,2025-03-24,terminated-or-withdrawn,AIFA,34.0,stated by agent,36.8,AIFA,2026-04-03,23.5,23.5,recommended-restricted,2026-04-03,"confidential-discount,none",False,verified-from-source
+casgevy,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+casgevy,Canada,4,2,2024-10-23,recommended-restricted,CDA-AMC,1.0,stated by agent,10.5,,,,,recommended-restricted,2024-10-23,confidential-discount,False,verified-from-source
+casgevy,England,2,2,2024-09-11,recommended-managed-access,NICE,7.1,stated by agent,9.1,NICE,2024-09-11,7.1,7.1,recommended-managed-access,2025-02-26,managed-access-agreement,False,verified-from-source
+casgevy,France,7,6,2024-01-18,recommended-managed-access,ANSM (accès précoce),-0.7,stated by agent,1.3,ANSM (accès précoce),2024-01-18,-0.7,,not-recommended,2024-09-25,"managed-access-agreement,none,unknown",True,"not-found,verified-from-source"
+casgevy,Germany,3,3,2025-07-03,recommended-restricted,G-BA,16.8,stated by agent,18.8,G-BA,2025-07-03,16.8,16.8,recommended-restricted,2025-09-18,"none,outcomes-based",False,verified-from-source
+casgevy,Italy,2,2,2025-10-07,recommended-managed-access,AIFA,19.9,stated by agent,22.0,AIFA,2025-10-07,19.9,19.9,recommended-managed-access,2025-10-07,managed-access-agreement,False,verified-from-source
+ebvallo,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+ebvallo,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+ebvallo,England,1,1,2023-10-19,terminated-or-withdrawn,NICE,10.1,stated by agent,,,,,,terminated-or-withdrawn,2023-10-19,none,False,verified-from-source
+ebvallo,France,4,4,2023-06-01,recommended-managed-access,ANSM (accès précoce),5.5,stated by agent,,ANSM (accès précoce),2023-06-01,5.5,29.5,recommended,2025-07-04,"confidential-discount,managed-access-agreement,none,unknown",False,verified-from-source
+ebvallo,Germany,1,1,2023-10-05,recommended-restricted,G-BA,9.6,stated by agent,,G-BA,2023-10-05,9.6,9.6,recommended-restricted,2023-10-05,none,False,verified-from-source
+ebvallo,Italy,1,1,2025-03-13,recommended-managed-access,AIFA,26.9,stated by agent,,AIFA,2025-03-13,26.9,26.9,recommended-managed-access,2025-03-13,managed-access-agreement,False,verified-from-source
+elevidys,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+elevidys,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+elevidys,England,1,0,,not-submitted,,,,,,,,,,,,False,verified-from-source
+elevidys,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+elevidys,Germany,1,0,,not-submitted,,,,,,,,,,,,False,verified-from-source
+elevidys,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+encelto,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+encelto,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+encelto,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+encelto,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+encelto,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+encelto,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+genglycos,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+genglycos,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+genglycos,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+genglycos,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+genglycos,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+genglycos,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+glybera,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+glybera,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+glybera,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+glybera,France,1,1,2015-11-04,not-recommended,HAS-CT,36.3,stated by agent,,,,,,not-recommended,2015-11-04,none,True,verified-from-source
+glybera,Germany,3,3,2015-05-21,recommended-restricted,G-BA,30.8,stated by agent,,G-BA,2015-05-21,30.8,30.8,recommended-restricted,2017-05-18,none,False,verified-from-source
+glybera,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+hemgenix,Australia,4,3,2024-03-15,recommended-managed-access,TGA,-0.1,stated by agent,15.7,MSAC,2025-07-31,16.4,16.4,recommended-restricted,2025-07-31,"none,unknown",True,"not-found,verified-from-source"
+hemgenix,Canada,2,2,2024-02-28,recommended-restricted,CADTH,4.2,stated by agent,15.2,pCPA,2025-09-22,23.0,23.0,recommended,2025-09-22,confidential-discount,False,verified-from-source
+hemgenix,England,1,1,2024-07-24,recommended-managed-access,NICE,17.1,stated by agent,20.0,NICE,2024-07-24,17.1,17.1,recommended-managed-access,2024-07-24,managed-access-agreement,False,verified-from-source
+hemgenix,France,2,2,2023-08-30,recommended,HAS-CT,6.3,stated by agent,9.2,JO (inscription),2023-12-05,9.5,9.5,recommended-managed-access,2023-12-05,"other,unknown",False,verified-from-source
+hemgenix,Germany,2,2,2023-05-12,recommended-restricted,G-BA,2.7,stated by agent,5.6,G-BA,2023-05-12,2.7,2.7,recommended-restricted,2023-10-19,outcomes-based,False,verified-from-source
+hemgenix,Italy,1,1,2025-09-03,recommended-managed-access,AIFA,30.4,stated by agent,33.4,AIFA,2025-09-03,30.4,30.4,recommended-managed-access,2025-09-03,outcomes-based,False,verified-from-source
+imlygic,Australia,3,2,2015-12-21,recommended,TGA,0.0,stated by agent,1.8,,,,,not-recommended,2016-07-01,none,True,"not-found,verified-from-source"
+imlygic,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+imlygic,England,1,1,2016-09-28,recommended-restricted,NICE,9.4,stated by agent,11.1,NICE,2016-09-28,9.4,9.4,recommended-restricted,2016-09-28,confidential-discount,False,verified-from-source
+imlygic,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+imlygic,Germany,3,3,2016-12-15,not-recommended,G-BA,12.0,stated by agent,13.6,,,,,not-recommended,2016-12-15,none,True,verified-from-source
+imlygic,Italy,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+itvisma,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+itvisma,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+itvisma,England,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+itvisma,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+itvisma,Germany,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+itvisma,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+kebilidi,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+kebilidi,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+kebilidi,England,1,1,2023-04-19,recommended,NICE,9.0,stated by agent,-18.9,NICE,2023-04-19,9.0,9.0,recommended,2023-04-19,confidential-discount,False,verified-from-source
+kebilidi,France,3,2,2022-12-07,recommended,HAS-CT,4.7,stated by agent,-23.2,ANSM (accès précoce),2022-12-15,4.9,,recommended-managed-access,2022-12-15,"managed-access-agreement,unknown",False,"not-found,verified-from-source"
+kebilidi,Germany,1,1,2023-02-02,recommended-restricted,G-BA,6.5,stated by agent,-21.4,G-BA,2023-02-02,6.5,6.5,recommended-restricted,2023-02-02,none,False,verified-from-source
+kebilidi,Italy,1,1,2023-12-04,recommended-restricted,AIFA,16.6,stated by agent,-11.3,AIFA,2023-12-04,16.6,16.6,recommended-restricted,2023-12-04,confidential-discount,False,verified-from-source
+kresladi,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+kresladi,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+kresladi,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+kresladi,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+kresladi,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+kresladi,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+kymriah,Australia,13,9,2018-11-22,not-recommended,MSAC,-0.9,stated by agent,14.8,MSAC,2019-04-09,3.6,3.6,recommended-restricted,2023-07-27,"none,outcomes-based",True,"not-found,provisional-from-snippet,verified-from-source"
+kymriah,Canada,4,2,2023-07-12,recommended-restricted,CADTH,6.7,stated by agent,70.4,pCPA,2025-06-12,29.8,29.8,recommended,2025-06-12,confidential-discount,False,verified-from-source
+kymriah,England,6,6,2018-12-21,recommended-managed-access,NICE,3.9,stated by agent,15.7,NICE,2018-12-21,3.9,3.9,recommended,2024-05-15,"cancer-drugs-fund,confidential-discount,none",False,verified-from-source
+kymriah,France,14,13,2018-12-12,recommended,HAS-CT,3.6,stated by agent,15.4,JO (inscription),2019-12-20,15.9,15.9,recommended,2023-09-14,"confidential-discount,managed-access-agreement,none,unknown",True,"provisional-from-snippet,verified-from-source"
+kymriah,Germany,7,7,2019-03-07,recommended-restricted,G-BA,6.4,stated by agent,18.2,G-BA,2019-03-07,6.4,6.4,recommended-restricted,2024-02-15,none,False,verified-from-source
+kymriah,Italy,4,4,2019-08-12,recommended-managed-access,AIFA,11.6,stated by agent,23.4,AIFA,2019-08-12,11.6,11.6,recommended-restricted,2023-08-08,"confidential-discount,outcomes-based",False,verified-from-source
+lantidra,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+lantidra,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lantidra,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+lantidra,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lantidra,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lantidra,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lenmeldy,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+lenmeldy,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lenmeldy,England,1,1,2022-03-28,recommended,NICE,15.3,stated by agent,-23.7,NICE,2022-03-28,15.3,15.3,recommended,2022-03-28,confidential-discount,False,verified-from-source
+lenmeldy,France,5,4,2021-04-21,recommended-restricted,HAS-CT,4.1,stated by agent,-34.9,,,,,recommended,2024-11-06,"none,unknown",True,"not-found,verified-from-source"
+lenmeldy,Germany,4,3,2021-11-04,recommended-restricted,G-BA,10.6,stated by agent,-28.4,G-BA,2021-11-04,10.6,10.6,recommended-restricted,2024-06-20,none,False,verified-from-source
+lenmeldy,Italy,2,2,2022-04-07,recommended-restricted,AIFA,15.6,stated by agent,-23.4,AIFA,2022-04-07,15.6,15.6,recommended-restricted,2025-06-17,confidential-discount,False,verified-from-source
+luxturna,Australia,4,2,2020-08-04,recommended,TGA,-0.0,stated by agent,31.5,MSAC,2020-11-26,3.7,3.7,recommended-restricted,2020-11-26,"none,outcomes-based",False,"not-found,verified-from-source"
+luxturna,Canada,2,2,2020-09-16,recommended-restricted,CADTH,-0.9,stated by agent,32.9,pCPA,2022-09-16,23.1,23.1,recommended,2022-09-16,confidential-discount,False,verified-from-source
+luxturna,England,1,1,2019-10-09,recommended,NICE,10.5,stated by agent,21.6,NICE,2019-10-09,10.5,10.5,recommended,2019-10-09,confidential-discount,False,verified-from-source
+luxturna,France,5,5,2018-10-19,recommended-managed-access,ANSM (accès précoce),-1.1,stated by agent,10.0,ANSM (accès précoce),2018-10-19,-1.1,32.4,recommended,2024-07-17,"confidential-discount,managed-access-agreement,none,unknown",False,verified-from-source
+luxturna,Germany,3,3,2019-10-17,recommended-restricted,G-BA,10.8,stated by agent,21.9,G-BA,2019-10-17,10.8,10.8,recommended,2022-09-15,none,False,verified-from-source
+luxturna,Italy,1,1,2021-01-09,recommended-managed-access,AIFA,25.6,stated by agent,36.7,AIFA,2021-01-09,25.6,25.6,recommended-managed-access,2021-01-09,price-volume,False,verified-from-source
+lyfgenia,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+lyfgenia,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lyfgenia,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+lyfgenia,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lyfgenia,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+lyfgenia,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+omisirge,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+omisirge,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+omisirge,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+omisirge,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+omisirge,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+omisirge,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+otarmeni,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+otarmeni,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+otarmeni,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+otarmeni,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+otarmeni,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+otarmeni,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+papzimeos,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+papzimeos,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+papzimeos,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+papzimeos,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+papzimeos,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+papzimeos,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+provenge,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+provenge,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+provenge,England,1,1,2015-02-23,not-recommended,NICE,17.6,stated by agent,57.9,,,,,not-recommended,2015-02-23,none,True,verified-from-source
+provenge,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+provenge,Germany,1,1,2015-03-19,recommended-restricted,G-BA,18.4,stated by agent,58.6,G-BA,2015-03-19,18.4,18.4,recommended-restricted,2015-03-19,none,False,verified-from-source
+provenge,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+roctavian,Australia,2,0,,not-found,,,,,,,,,,,,False,"provisional-from-snippet,verified-from-source"
+roctavian,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+roctavian,England,1,0,,not-submitted,,,,,,,,,,,,False,verified-from-source
+roctavian,France,1,1,2023-09-06,recommended,HAS-CT,12.4,stated by agent,2.2,,,,,recommended,2023-09-06,unknown,False,verified-from-source
+roctavian,Germany,2,2,2023-02-02,recommended-restricted,G-BA,5.3,stated by agent,-4.9,G-BA,2023-02-02,5.3,5.3,recommended-restricted,2023-03-16,outcomes-based,False,verified-from-source
+roctavian,Italy,1,1,2024-01-22,recommended-restricted,AIFA,17.0,stated by agent,6.8,AIFA,2024-01-22,17.0,17.0,recommended-restricted,2024-01-22,confidential-discount,False,verified-from-source
+ryoncil,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+ryoncil,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+ryoncil,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+ryoncil,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+ryoncil,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+ryoncil,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+skysona,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+skysona,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+skysona,England,1,1,2023-02-10,terminated-or-withdrawn,NICE,18.9,stated by agent,4.8,,,,,terminated-or-withdrawn,2023-02-10,none,False,verified-from-source
+skysona,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+skysona,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+skysona,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+strimvelis,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+strimvelis,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+strimvelis,England,1,1,2018-02-07,recommended,NICE,20.4,stated by agent,,NICE,2018-02-07,20.4,20.4,recommended,2018-02-07,none,False,verified-from-source
+strimvelis,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+strimvelis,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+strimvelis,Italy,1,1,2016-08-01,recommended-managed-access,AIFA,2.2,stated by agent,,AIFA,2016-08-01,2.2,2.2,recommended-managed-access,2016-08-01,outcomes-based,False,verified-from-source
+tecartus,Australia,8,5,2021-07-21,recommended,TGA,0.0,stated by agent,11.9,MSAC,2021-07-29,0.3,0.3,recommended-restricted,2023-11-23,"none,outcomes-based",True,"not-found,provisional-from-snippet,verified-from-source"
+tecartus,Canada,4,4,2021-05-13,recommended-restricted,CADTH,-0.9,stated by agent,9.6,pCPA,2022-11-10,17.1,17.1,recommended,2023-10-27,confidential-discount,False,verified-from-source
+tecartus,England,3,2,2021-02-24,recommended-managed-access,NICE,2.4,stated by agent,7.1,NICE,2021-02-24,2.4,2.4,recommended-managed-access,2023-06-07,cancer-drugs-fund,False,verified-from-source
+tecartus,France,9,8,2021-04-21,recommended,HAS-CT,4.2,stated by agent,8.9,JO (inscription),2022-08-03,19.6,19.6,recommended,2024-11-06,"confidential-discount,none,unknown",True,verified-from-source
+tecartus,Germany,2,2,2021-08-05,recommended-restricted,G-BA,7.7,stated by agent,12.4,G-BA,2021-08-05,7.7,7.7,recommended-restricted,2023-03-16,"none,outcomes-based",False,verified-from-source
+tecartus,Italy,2,2,2022-03-11,recommended-restricted,AIFA,14.8,stated by agent,19.5,AIFA,2022-03-11,14.8,14.8,recommended-restricted,2023-12-04,confidential-discount,False,verified-from-source
+tecelra,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+tecelra,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tecelra,England,1,0,,not-submitted,,,,,,,,,,,,False,verified-from-source
+tecelra,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tecelra,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tecelra,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tregzi,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+tregzi,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tregzi,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+tregzi,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tregzi,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tregzi,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tudriqev,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+tudriqev,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tudriqev,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+tudriqev,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tudriqev,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+tudriqev,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+vyjuvek,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+vyjuvek,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+vyjuvek,England,1,0,,under-assessment,,,,,,,,,,,,False,verified-from-source
+vyjuvek,France,4,3,2024-09-12,recommended-managed-access,ANSM (accès précoce),-7.3,stated by agent,15.8,ANSM (accès précoce),2024-09-12,-7.3,,recommended,2025-10-08,"managed-access-agreement,unknown",False,"provisional-from-snippet,verified-from-source"
+vyjuvek,Germany,1,1,2026-02-19,recommended-restricted,G-BA,9.9,stated by agent,33.1,G-BA,2026-02-19,9.9,9.9,recommended-restricted,2026-02-19,none,False,verified-from-source
+vyjuvek,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+waskyra,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+waskyra,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+waskyra,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+waskyra,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+waskyra,Germany,1,0,,not-found,,,,,,,,,,,,False,not-found
+waskyra,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found
+yescarta,Australia,10,8,2020-01-16,recommended-restricted,MSAC,-0.9,stated by agent,26.9,MSAC,2020-01-16,-0.9,-0.9,recommended-restricted,2025-07-31,"none,outcomes-based",True,"not-found,verified-from-source"
+yescarta,Canada,5,4,2022-11-08,recommended-restricted,CADTH,-0.9,stated by agent,60.7,pCPA,2024-09-06,21.0,21.0,recommended,2024-09-06,confidential-discount,False,verified-from-source
+yescarta,England,4,4,2019-01-23,recommended-managed-access,NICE,5.0,stated by agent,15.2,NICE,2019-01-23,5.0,5.0,not-recommended,2023-06-07,"cancer-drugs-fund,confidential-discount,none",True,verified-from-source
+yescarta,France,15,10,2018-12-05,recommended,HAS-CT,3.4,stated by agent,13.6,JO (inscription),2019-07-08,10.5,10.5,recommended,2026-05-06,"confidential-discount,managed-access-agreement,none,unknown",False,"provisional-from-snippet,verified-from-source"
+yescarta,Germany,11,11,2019-05-02,recommended-restricted,G-BA,8.3,stated by agent,18.4,G-BA,2019-05-02,8.3,8.3,recommended,2024-12-19,none,True,verified-from-source
+yescarta,Italy,4,4,2019-11-11,recommended-managed-access,AIFA,14.6,stated by agent,24.8,AIFA,2019-11-11,14.6,14.6,recommended-restricted,2023-11-11,"confidential-discount,outcomes-based",False,verified-from-source
+zalmoxis,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+zalmoxis,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zalmoxis,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+zalmoxis,France,1,0,,not-found,,,,,,,,,,,,False,not-found
+zalmoxis,Germany,1,1,2018-07-05,recommended-restricted,G-BA,22.5,stated by agent,,G-BA,2018-07-05,22.5,22.5,recommended-restricted,2018-07-05,none,False,verified-from-source
+zalmoxis,Italy,1,1,2018-02-14,recommended-managed-access,AIFA,17.9,stated by agent,,AIFA,2018-02-14,17.9,17.9,recommended-managed-access,2018-02-14,other,False,verified-from-source
+zevaskyn,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+zevaskyn,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zevaskyn,England,1,0,,not-found,,,,,,,,,,,,False,not-found
+zevaskyn,France,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zevaskyn,Germany,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zevaskyn,Italy,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zolgensma,Australia,8,6,2021-02-24,recommended,TGA,-0.3,stated by agent,21.1,PBAC,2021-09-01,5.9,5.9,recommended-restricted,2025-11-01,"none,outcomes-based",True,verified-from-source
+zolgensma,Canada,3,3,2020-11-18,recommended-restricted,CADTH,-0.9,stated by agent,17.9,pCPA,2021-10-08,9.8,9.8,recommended,2021-10-08,confidential-discount,False,verified-from-source
+zolgensma,England,2,2,2021-07-07,recommended-restricted,NICE,13.6,stated by agent,25.5,NICE,2021-07-07,13.6,13.6,recommended,2023-04-19,"confidential-discount,managed-access-agreement",False,verified-from-source
+zolgensma,France,10,9,2020-05-15,recommended-managed-access,ANSM (accès précoce),-0.1,stated by agent,11.7,ANSM (accès précoce),2020-05-15,-0.1,,not-recommended,2023-05-10,"managed-access-agreement,none,unknown",True,"not-found,verified-from-source"
+zolgensma,Germany,6,6,2020-12-03,terminated-or-withdrawn,G-BA,6.5,stated by agent,18.4,G-BA,2021-02-04,8.6,8.6,not-recommended,2021-11-04,"none,outcomes-based",True,verified-from-source
+zolgensma,Italy,2,2,2021-03-13,recommended-managed-access,AIFA,9.8,stated by agent,21.6,AIFA,2021-03-13,9.8,9.8,recommended-restricted,2024-03-16,"confidential-discount,outcomes-based",False,verified-from-source
+zynteglo,Australia,1,0,,not-submitted,,,,,,,,,,,,False,provisional-from-snippet
+zynteglo,Canada,1,0,,not-submitted,,,,,,,,,,,,False,not-found
+zynteglo,England,1,1,2022-12-16,terminated-or-withdrawn,NICE,42.6,stated by agent,4.0,,,,,terminated-or-withdrawn,2022-12-16,none,False,verified-from-source
+zynteglo,France,3,2,2020-03-18,recommended-restricted,HAS-CT,9.7,stated by agent,-29.0,,,,,not-recommended,2020-03-18,"none,unknown",True,"not-found,verified-from-source"
+zynteglo,Germany,2,1,2020-05-14,recommended-restricted,G-BA,11.5,stated by agent,-27.1,G-BA,2020-05-14,11.5,11.5,recommended-restricted,2020-05-14,outcomes-based,False,"provisional-from-snippet,verified-from-source"
+zynteglo,Italy,1,0,,not-found,,,,,,,,,,,,False,not-found

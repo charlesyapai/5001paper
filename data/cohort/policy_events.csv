@@ -21,3 +21,4 @@ date_seed,event,layer,jurisdiction,status,source,verified_date
 2025,bluebird bio acquired by private equity,investment,US,seeded-from-memory,,
 2025,2seventy bio acquired by Bristol Myers Squibb,investment,US,seeded-from-memory,,
 2023,Germany GKV financial stabilisation act changes orphan drug thresholds,access,Germany,seeded-from-memory,,
+2026-03,Hemgenix global stockout announced 17 March 2026; limited supply resumed April 2026,uptake,global,verified-from-source,https://www.hemophiliafed.org/csl-provides-update-on-hemgenix-supply-and-patient-access/,2026-09-04

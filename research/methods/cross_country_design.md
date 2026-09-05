@@ -30,3 +30,12 @@ to bound it. Cross-border treatment is small for CAR-T but not zero.
 **Output.** `data/uptake/cart_by_country.csv`: country, year, product_or_class, infusions,
 population, eligible_low, eligible_high, reimbursement_date, centres, delivery_setting,
 source.
+
+
+**Implementation, 5 September 2026 (F041).** `research/findings/build_cart_by_country_2026-09-05.py` merges the
+registry counts (`data/uptake/raw/cart_registry_counts.csv`, `cart_country_supplement.csv`), World Bank populations
+(`raw/country_population.csv`) and the per-indication eligible ranges into `data/uptake/cart_by_country.csv`, one row per
+country, year and registry, with patients per million and per 100 eligible (range). The country eligible flow sums the
+diseases the approved CAR-Ts treat, each ranged across products and lines. Rows with an EBMT published rate but no count
+carry the rate only. Reimbursement dates and centre counts join from `data/access/decisions.csv` and the centre rows of
+the supplement in the next pass.

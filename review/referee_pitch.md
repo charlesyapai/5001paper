@@ -87,7 +87,7 @@ non-industry sponsors OR 1.07 (p = 0.41). Sponsor class within therapeutics give
 (p = 5×10⁻¹⁵); within diagnostics 1.23 (p = 0.27). It survives dropping the dominant subfamily
 (OR 4.60) and survives one-row-per-sponsor clustering (OR 6.10 versus 1.72).
 
-![Figure 1]({{artifact:art_7eba8e64-c0f9-4325-a3c8-cc7bbddd18a1}})
+![Figure 1](../figures/Figure_1_constraint_map.png)
 *(bundle path: `figures/Figure_1_constraint_map.png`)*
 
 **The mirror-image result.** Diagnostic programs fail on recruitment and feasibility rather
@@ -128,7 +128,7 @@ reports them:
    regulatory holds are counted as technical. The range includes parity, so only the stratified
    contrast carries weight.
 
-![Figure S4]({{artifact:art_9838a85a-7751-4514-a3f5-94440b87358a}})
+![Figure S4](../figures/Figure_S4_sponsor_exit.png)
 *(bundle path: `figures/Figure_S4_sponsor_exit.png`)*
 
 ---

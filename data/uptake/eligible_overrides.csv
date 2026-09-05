@@ -1,0 +1,54 @@
+product_key,geography,measure_type,value_low,value_high,action,reason
+zolgensma,US,prevalent_eligible,9000,9000,exclude,all-age US SMA prevalence; the Zolgensma label covers children under 2 years so the under-2 pool is the denominator
+yescarta,US,annual_incident_eligible,560,560,exclude,SEER-Medicare areas only (about a third of the US population aged 65 and over); not a national eligible count
+omisirge,US,company_addressable,8000,8000,exclude,all allogeneic transplants per year; the label population is the cord-blood subset recorded in the 1000 row
+luxturna,US,gatekeeper_eligible,350,350,exclude,ICER budget-impact assumption spreading the prevalent pool over five years; not an incident inflow
+luxturna,Germany,gatekeeper_eligible,100,530,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool at launch (duplicate of the prevalent row)
+luxturna,Canada,gatekeeper_eligible,43,43,exclude,sponsor budget-impact analysis year-1 treated assumption; not an eligible count
+luxturna,Canada,gatekeeper_eligible,25,25,exclude,sponsor budget-impact analysis year-2 treated assumption; not an eligible count
+luxturna,Canada,gatekeeper_eligible,18,18,exclude,sponsor budget-impact analysis year-3 treated assumption; not an eligible count
+vyjuvek,Germany,gatekeeper_eligible,240,896,family=prevalent,chronic therapy: the G-BA per-year target population is the prevalent pool on therapy
+vyjuvek,Germany,gatekeeper_eligible,244,910,family=prevalent,chronic therapy: the G-BA per-year target population is the prevalent pool on therapy
+vyjuvek,Germany,gatekeeper_eligible,270,860,family=prevalent,chronic therapy: the G-BA per-year target population is the prevalent pool on therapy
+vyjuvek,France,gatekeeper_eligible,522,522,family=prevalent,chronic therapy: the HAS population cible is the prevalent pool
+vyjuvek,US,company_addressable,3000,3000,family=prevalent,Krystal's count of US patients with DEB is a prevalent pool
+vyjuvek,US,company_addressable,3000,3500,family=prevalent,diagnosed prevalent patients
+vyjuvek,UK,prevalent_eligible,5000,5000,exclude,all epidermolysis bullosa types; the label is dystrophic EB only (the derived 1250 row keeps the DEB share)
+genglycos,US,company_addressable,1500,2500,family=prevalent,"company prevalent count, all ages"
+zevaskyn,US,company_addressable,750,750,family=prevalent,claims-based prevalent count of treatable RDEB patients
+hemgenix,US,prevalent_eligible,30000,33000,family=disease_prevalence,all people with haemophilia A and B; not the haemophilia B label population
+hemgenix,US,prevalent_eligible,33000,33000,family=disease_prevalence,all males with haemophilia; not the label population
+hemgenix,US,prevalent_eligible,7200,7920,family=disease_prevalence,all-severity all-age haemophilia B; the label needs adults on prophylaxis or with bleeding history (ICER 860 row is the eligible estimate)
+hemgenix,US,prevalent_eligible,6600,8250,family=disease_prevalence,all-severity all-age males with haemophilia B
+hemgenix,EU,prevalent_eligible,10000,10000,family=disease_prevalence,"all haemophilia B in the EU, all severities"
+hemgenix,Germany,gatekeeper_eligible,340,340,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool
+roctavian,US,prevalent_eligible,22800,25080,family=disease_prevalence,all-severity haemophilia A; label is severe adults
+roctavian,EU,prevalent_eligible,36000,36000,family=disease_prevalence,all haemophilia A in the EU
+roctavian,US,company_addressable,2500,2500,family=prevalent,BioMarin's eligible adults after antibody and other exclusions
+roctavian,Germany,gatekeeper_eligible,690,800,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool
+casgevy,US,prevalent_eligible,100000,100000,family=disease_prevalence,all people living with sickle cell disease; label is age 12 and over with recurrent crises
+casgevy,EU,prevalent_eligible,67000,67000,family=disease_prevalence,all sickle cell disease in the EU
+casgevy,EU,company_addressable,37000,37000,family=prevalent,Vertex eligible SCD plus TDT patients aged 12 and over in Europe
+casgevy,US,company_addressable,5500,5500,key=SCD_TDT_2to11,"children aged 2 to 11 (SCD and TDT combined) added by the FDA label extension of 2026-07-01; counted from that date through label_events.csv (D012), not part of the launch-label pool"
+casgevy,England,gatekeeper_eligible,29,96,exclude,"people selected for treatment per year: an uptake assumption, not an eligible count"
+casgevy,England,gatekeeper_eligible,10,14,exclude,"people treated per year: an uptake assumption, not an eligible count"
+casgevy,Germany,gatekeeper_eligible,130,330,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool
+casgevy,Germany,gatekeeper_eligible,20,150,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool
+casgevy,Canada,prevalent_eligible,4391,4391,family=disease_prevalence,all sickle cell disease in Canada
+casgevy,Canada,gatekeeper_eligible,0,65,exclude,"patients treated per year in the budget-impact analysis, not an eligible count"
+lyfgenia,US,prevalent_eligible,100000,100000,family=disease_prevalence,all people with sickle cell disease
+zynteglo,US,gatekeeper_eligible,666,666,exclude,ICER budget-impact spreading of the eligible pool over years; not an eligible count
+zynteglo,global,prevalent_eligible,300000,300000,family=disease_prevalence,all transfusion-dependent thalassaemia worldwide
+zynteglo,Germany,gatekeeper_eligible,20,150,family=prevalent,G-BA target population for a one-time therapy is the prevalent pool
+elevidys,US,company_addressable,80,80,exclude,"a percentage (share of the addressable population untreated), not a count"
+otarmeni,US,prevalent_eligible,10000,20000,exclude,unverified attribution and not the label population (profound biallelic OTOF hearing loss without implant)
+abecma,US,prevalent_eligible,52900,52900,family=disease_prevalence,prevalent triple- or quad-refractory pool; the annual initiating count (10580) is the eligible flow used for oncology products
+carvykti,US,prevalent_eligible,52900,52900,family=disease_prevalence,prevalent triple- or quad-refractory pool; the annual initiating count (10580) is the eligible flow used for oncology products
+abecma,US,gatekeeper_eligible,5290,5290,exclude,ICER's arbitrary split of the eligible population between two products; not an eligible count
+carvykti,US,gatekeeper_eligible,5290,5290,exclude,ICER's arbitrary split of the eligible population between two products; not an eligible count
+imlygic,England,gatekeeper_eligible,10,15,exclude,"a percentage share, not a count"
+abecma,France,gatekeeper_eligible,1034,1034,exclude,"cumulative over three years, not a per-year count (the 740 per year row stands)"
+abecma,Japan,company_addressable,149,149,exclude,"peak treated-per-year forecast accepted at price listing, not an eligible count"
+amtagvi,UK,annual_incident_eligible,1756,4565,family=disease_prevalence,all stage 3 to 4 melanoma diagnoses; the label is progression after PD-1 therapy
+yescarta,US,gatekeeper_eligible,9,9,exclude,"a rate (9 eligible per million plan members, Perales 2022), not a count; the derived national flow from the same source is kept"
+casgevy,US,company_addressable,5500,5500,family=prevalent,"Vertex counts children aged 2 to 11 newly eligible at the 2026-07-01 extension: a one-time stock, not a per-year flow"

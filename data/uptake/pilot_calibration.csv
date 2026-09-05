@@ -1,0 +1,18 @@
+product,as_of_date,disclosed_patients,numerator_products,cumulative_revenue_usd_m,periods_used,last_period_end,list_price_usd,implied_patients_at_list,implied_over_disclosed,implied_net_to_list,gate_pass_at_list,reason,class_factor_applied,implied_patients_calibrated,calibrated_over_disclosed,gate_pass_calibrated
+casgevy,2025-06-30,29,casgevy,54.6,7,2025-06-30,2200000.0,25,0.86,1.17,True,"cumulative infusions since launch, Vertex Q2 2025 release; revenue recognised at infusion",0.76,33.0,1.14,True
+casgevy,2025-09-30,39,casgevy,71.5,8,2025-09-30,2200000.0,32,0.83,1.2,True,"cumulative infusions since launch, Vertex Q3 2025 release",0.76,42.0,1.08,True
+casgevy,2025-12-31,69,casgevy,125.8,9,2025-12-31,2200000.0,57,0.83,1.21,True,derived: 64 infusions in 2025 (Vertex FY2025) + 5 in 2024 (29 cumulative at Q2 2025 minus 16 in Q2 minus 8 in Q1 2025),0.76,75.0,1.09,True
+hemgenix,2024-06-30,12,hemgenix,31.8,1,2024-06-30,3500000.0,9,0.76,1.32,True,"12 patients in the 12 months to June 2024, FiercePharma snippet; provisional",0.76,12.0,1.0,True
+hemgenix,2026-06-30,100,hemgenix,241.8,5,2026-06-30,3500000.0,69,0.69,1.45,False,"'more than 100 people' treated commercially worldwide, CSL letter 2026-07-28; floor; matched to revenue through FY2026 (30 June 2026)",0.76,91.0,0.91,True
+yescarta,2019-12-31,2500,yescarta,727.0,9,2019-12-31,373000.0,1949,0.78,1.28,True,"about 2,500 commercial patients, Yescarta only, Cryoport 10-K",0.76,2564.0,1.03,True
+yescarta,2022-12-11,11000,yescarta+tecartus,3244.0,29,2022-09-30,373000.0,8697,0.79,1.26,True,"more than 11,000 patients, all Kite CAR-T (Yescarta + Tecartus), Gilead release; floor",0.76,11443.0,1.04,True
+yescarta,2024-01-30,17700,yescarta+tecartus,5532.0,39,2023-12-31,373000.0,14831,0.84,1.19,True,"more than 17,700 patients, all Kite CAR-T, Kite release; floor",0.76,19514.0,1.1,True
+yescarta,2025-01-10,25000,yescarta+tecartus,7506.0,47,2024-12-31,373000.0,20123,0.8,1.24,True,"more than 25,000 patients, all Kite CAR-T, Kite statement; floor",0.76,26478.0,1.06,True
+zolgensma,2021-06-18,1200,zolgensma,1600.0,8,2021-03-31,2125000.0,753,0.63,1.59,False,"more than 1,200 patients worldwide incl. trials and managed access, Novartis; floor",0.76,991.0,0.83,True
+zolgensma,2022-06-17,2000,zolgensma,2995.0,12,2022-03-31,2125000.0,1409,0.7,1.42,True,"more than 2,000 patients worldwide incl. trials and managed access, Novartis; floor",0.76,1854.0,0.93,True
+zolgensma,2023-03-20,3000,zolgensma,4002.0,15,2022-12-31,2125000.0,1883,0.63,1.59,False,"more than 3,000 patients worldwide, Novartis; floor",0.76,2478.0,0.83,True
+zolgensma,2024-04-23,4000,zolgensma,5511.0,20,2024-03-31,2125000.0,2593,0.65,1.54,False,"more than 4,000 patients worldwide, Novartis; floor",0.76,3412.0,0.85,True
+zolgensma,2025-01-31,4500,zolgensma,6430.0,23,2024-12-31,2125000.0,3026,0.67,1.49,False,"more than 4,500 patients worldwide, Novartis; floor",0.76,3982.0,0.88,True
+zolgensma,2025-10-28,5000,zolgensma,7355.0,26,2025-09-30,2125000.0,3461,0.69,1.44,False,"more than 5,000 patients worldwide, Novartis; floor",0.76,4554.0,0.91,True
+zolgensma,2026-07-21,5500,zolgensma,8329.0,29,2026-06-30,2125000.0,3920,0.71,1.4,True,"more than 5,500 patients worldwide since launch, Novartis; floor; revenue through 2026Q2",0.76,5158.0,0.94,True
+luxturna,2018-12-31,75,luxturna,27.0,4,2018-12-31,425000.0,63,0.85,1.18,True,"75 vials shipped in the US in 2018 (Spark FY2018 10-K); unit is vials, priced at USD 425,000 per vial; Spark disclosed no patient counts after 2018",0.76,83.0,1.11,True

@@ -89,7 +89,7 @@ populations per program.
 
 ## 3. The mechanism figure
 
-![The constraint map]({{artifact:art_7eba8e64-c0f9-4325-a3c8-cc7bbddd18a1}})
+![The constraint map](../figures/Figure_1_constraint_map.png)
 *(bundle path: `figures/Figure_1_constraint_map.png`)*
 
 The right panel is the map your abstract promises and the earlier drafts did not deliver: a

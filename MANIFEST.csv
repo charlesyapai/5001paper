@@ -1,6 +1,6 @@
 path,kb,description
-OPEN_ITEMS.md,5.8,Prioritised open items; first two block external circulation.
-README.md,6.6,"Migration guide: pitfalls, conventions, instrument limits."
+OPEN_ITEMS.md,6.5,Prioritised open items; first two block external circulation.
+README.md,7.8,"Migration guide: pitfalls, conventions, instrument limits."
 code/01_retrieve.py,6.3,Registry pull + literal regex re-filter. Regenerates primary data.
 code/02_classify_halts.py,7.6,Halt-reason classification under a fixed 11-label schema; --sample writes a human-coding sheet.
 code/03_analyse.py,8.3,"VERIFICATION HARNESS: recomputes 24 published statistics, exits non-zero on mismatch. Run this first."
@@ -51,7 +51,7 @@ figures/source_names/figS3_publication_growth.png,438.3,Same figure under the fi
 figures/source_names/figS4_sponsor_exit.png,349.6,Same figure under the filename the code refers to
 figures/source_names/figS5_ai_pipeline.png,259.5,Same figure under the filename the code refers to
 manuscript/implementation_blockers.md,20.7,Blocker analysis narrative and per-platform detail.
-manuscript/manuscript.md,65.0,Current draft (v7). Read the revision note at the top first.
+manuscript/manuscript.md,66.6,"Current draft (v7, 5 September 2026). Read the revision notes at the top first."
 manuscript/technology_timeline_map.md,25.9,Maturity-ladder definitions and per-subfamily timeline narrative.
 manuscript/thesis_architecture.md,18.0,"Argument design: thesis sentence, mechanism, negative results, figure order."
 manuscript/translation_timeline_plan.md,26.0,Fourth framing document: the translation-timeline direction that supersedes the thesis architecture (4 September 2026). Seed tables must be verified before use.
@@ -63,34 +63,165 @@ review/referee_discrepancy_table.csv,8.4,Every stated-vs-recomputed discrepancy 
 review/referee_pitch.md,20.6,"Pitch, methodology, findings, relevance, readership, extensions. Start here for orientation."
 review/referee_reanalysis_stratified.csv,1.0,The stratified reanalysis that overturned the v1 framing.
 review/referee_report.md,22.0,Verification referee's report on the numbers.
-data/cohort/README.md,1.0,What each seed table holds and its verification status.
+data/cohort/README.md,1.8,What each seed table holds and its verification status.
 data/cohort/countries_gatekeepers.csv,0.6,"Systems, reimbursement gatekeepers, CAR-T registries, document languages. Seeded."
-data/cohort/diagnostic_codes.csv,1.1,"Test codes and coverage events for the diagnostics layer. Seeded, unverified."
-data/cohort/investment_events.csv,1.5,"Acquisitions, restructurings and retreats to code by manufacturing model. Seeded, unverified."
-data/cohort/policy_events.csv,2.2,"Policy and market events for event studies. Seeded, unverified."
-data/cohort/product_cohort.csv,11.6,"Cohort: FDA-listed cellular and gene therapy products as of 2026-08-18 plus EU-only history; membership sourced, dates seeded."
-research/DECISIONS.md,3.1,Decision record D001 to D008 with rationale and consequences.
-research/LOG.md,1.9,Chronological research log. Append only.
+data/cohort/diagnostic_codes.csv,3.0,"Test codes and coverage events; code descriptors verified 2026-09-05 (F031), coverage events seeded."
+data/cohort/investment_events.csv,2.2,"Acquisitions, restructurings and retreats to code by manufacturing model. Seeded, unverified."
+data/cohort/policy_events.csv,2.4,"Policy and market events for event studies. Seeded, unverified."
+data/cohort/product_cohort.csv,32.2,Cohort: FDA-listed cellular and gene therapy products as of 2026-08-18 plus EU-only history; membership sourced; FDA and EMA dates verified 2026-09-04 with per-row URLs.
+research/DECISIONS.md,7.0,Decision record D001 to D011 with rationale and consequences.
+research/LOG.md,9.9,Chronological research log. Append only.
 research/README.md,2.8,"Research base index: layout, status vocabulary, rules, how to add a finding. Start here for the flagship."
-research/findings/README.md,0.8,Ledger column definitions and how to regenerate.
-research/findings/findings_ledger.csv,8.0,"F001 to F018: every established fact with evidence, source and status."
+research/findings/README.md,2.7,Ledger column definitions and how to regenerate.
+research/findings/findings_ledger.csv,43.2,"F001 to F037: every established fact with evidence, source and status."
 research/findings/recompute_2026-09-04.py,3.1,Regenerates F001 to F006 from data/primary. Run from its folder.
 research/methods/README.md,0.5,Method index.
 research/methods/conventions.md,1.2,Analysis conventions carried forward and extended.
-research/methods/cross_country_design.md,1.6,"Same product, different systems: the flagship identification design."
-research/methods/data_sources.md,3.0,Every data source per layer with access route and confirmation status.
+research/methods/cross_country_design.md,2.3,"Same product, different systems: the flagship identification design."
+research/methods/data_sources.md,4.7,Every data source per layer with access route and confirmation status.
 research/methods/diffusion_fits.md,1.0,Logistic and Bass fit specification.
 research/methods/event_studies.md,1.0,Interrupted time series and synthetic control specification.
 research/methods/projection_model.md,2.0,"Monte Carlo projection, donor mapping, backcast, forecast-against-record."
 research/methods/reason_classification.md,2.2,Assessment-reason schema and the disclosure audit protocol.
-research/methods/revenue_to_patients.md,2.0,"Patients per quarter from product revenue, with calibration protocol and gate."
-research/methods/time_to_milestone.md,1.2,Survival and competing-risk specification for stage durations.
-research/sources/bibliography.csv,7.0,"S01 to S27: every source consulted, what it gives, read status."
-research/topics/01_clinical_stage/README.md,2.3,"Topic 01: first-in-human to approval. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/02_access_stage/README.md,2.2,"Topic 02: approval to reimbursement. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/03_uptake_stage/README.md,2.3,"Topic 03: reimbursement to patients treated. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/04_investment/README.md,2.1,"Topic 04: sponsor commitment and capital. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/05_projection/README.md,1.2,"Topic 05: frontier timelines under scenarios. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/06_diagnostics/README.md,1.8,"Topic 06: coverage and uptake of molecular diagnostics. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/07_companion_methods_paper/README.md,2.6,"Topic 07: the registry stated-reason paper. Scope, questions, what we know, sources, method, tasks, open questions."
+research/methods/revenue_to_patients.md,5.5,"Patients per quarter from product revenue, with calibration protocol and gate."
+research/methods/time_to_milestone.md,3.9,Survival and competing-risk specification for stage durations.
+research/sources/bibliography.csv,23.7,"S01 to S44: every source consulted, what it gives, read status."
+research/topics/01_clinical_stage/README.md,3.2,"Topic 01: first-in-human to approval. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/02_access_stage/README.md,3.6,"Topic 02: approval to reimbursement. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/03_uptake_stage/README.md,5.6,"Topic 03: reimbursement to patients treated. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/04_investment/README.md,3.3,"Topic 04: sponsor commitment and capital. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/05_projection/README.md,1.7,"Topic 05: frontier timelines under scenarios. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/06_diagnostics/README.md,2.1,"Topic 06: coverage and uptake of molecular diagnostics. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/07_companion_methods_paper/README.md,2.8,"Topic 07: the registry stated-reason paper. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/README.md,0.9,"Topic index: one folder per layer, in stage order."
+data/cohort/product_cohort_verification_report.csv,0.5,Seed-versus-source disagreements and unverified rows after the 4 September 2026 date verification.
+data/cohort/raw/batch_A.csv,7.8,"Raw agent output: FDA and EMA dates with URLs, products A to H."
+data/cohort/raw/batch_B.csv,10.1,Raw agent output: products I to R.
+data/cohort/raw/batch_C.csv,8.2,Raw agent output: products S to Z.
+data/cohort/raw/batch_D.csv,8.7,Raw agent output: non-genetic comparators and EU-only products.
+data/uptake/pilot_revenue.csv,145.0,Every revenue row retrieved for the six pilot products with parsed period bounds and source URL.
+data/uptake/pilot_disclosures.csv,66.2,"Every list price, patient count and centre count disclosure retrieved, with verbatim text and URL."
+data/uptake/pilot_calibration.csv,3.4,"17 calibration points: cumulative revenue, implied patients at list, ratio to disclosed, class-calibrated estimate, gate result."
+data/uptake/raw/,2.3,"Per-product raw agent tables (revenue and disclosures) for Zolgensma, Yescarta, Tecartus, Casgevy, Hemgenix, Luxturna."
+research/findings/verify_cohort_dates_2026-09-04.py,3.9,Merges raw approval-date batches into product_cohort.csv and writes the verification report.
+research/findings/calibrate_revenue_to_patients_2026-09-04.py,13.2,"Revenue-to-patients calibration: period parsing, curated calibration points, class factor, gate."
+data/cohort/first_in_human.csv,21.2,Earliest registered trial per product with NCT id and years to first approval (F032).
+data/cohort/raw/fih_candidates.csv,221.4,Every registry study matched per product behind first_in_human.csv.
+data/cohort/raw/s06_success_rates.csv,73.9,Phase transition probabilities and LOA from the S06 supplementary data (F027).
+data/cohort/raw/projections_S16_S17.csv,209.6,"Projected approvals and patients series from S16, its predecessor brief, S17 and S20 (F033)."
+data/uptake/README.md,3.4,What each uptake table holds and which finding it supports.
+data/uptake/patients_quarterly.csv,231.6,"Patients per quarter from revenue at list and at the class factor, by product and region (F035)."
+data/uptake/uptake_summary.csv,9.6,"One row per product: approvals, first-revenue lag, cumulative revenue and patients, price used (F035)."
+data/uptake/net_price_asp.csv,17.4,Implied Medicare ASP against list price by quarter for the CAR-Ts (F030).
+data/uptake/eligible_population_rows.csv,408.6,"Every eligible-population estimate normalised, with family, grade and exclusion (F034)."
+data/uptake/eligible_population.csv,26.5,"Eligible ranges per product, geography and family (F034)."
+data/uptake/eligible_overrides.csv,7.2,Documented exclusions and reclassifications applied to the eligible rows (D010).
+data/uptake/milestones.csv,13.1,"Stage durations, penetration ranges, time to a quarter and half of the pool, H1 reading per product (F037)."
+data/uptake/raw/cms_asp_payment_limits.csv,55.5,"Medicare ASP payment limits per HCPCS code per quarterly file, 2011 to 2026 (F030)."
+data/uptake/raw/cms_asp_codes.csv,22.4,HCPCS code confirmation per product (F030).
+data/uptake/raw/cart_registry_counts.csv,99.8,"CAR-T patients by registry, country and year (F036)."
+data/uptake/raw/verification_hemgenix_tecartus.csv,32.1,"Primary-source checks: CSL Hemgenix statements, Tecartus prices (F028, F029)."
+data/uptake/raw/eligible_E1a.csv,37.9,Eligible-population rows: CD19 CAR-T products.
+data/uptake/raw/eligible_E1b.csv,54.0,Eligible-population rows: BCMA CAR-T and solid-tumour cell and gene therapies.
+data/uptake/raw/eligible_E2.csv,95.3,"Eligible-population rows: haemophilia, sickle cell, thalassaemia and immune disorders."
+data/uptake/raw/eligible_E3a.csv,59.7,"Eligible-population rows: SMA, DMD, CALD, MLD, AADC."
+data/uptake/raw/eligible_E3b.csv,51.2,"Eligible-population rows: retinal, hearing, metabolic and skin conditions."
+data/uptake/raw/eligible_E4.csv,37.9,Eligible-population rows: comparators and EU-only products.
+data/diagnostics/README.md,0.3,Diagnostics layer raw tables.
+data/diagnostics/raw/medicare_partb_volumes_check.csv,52.8,2024 Part B allowed services per seed code (F031).
+data/diagnostics/raw/medicare_code_check.csv,12.6,CLFS descriptor check per seed code; two codes corrected (F031).
+data/projection/README.md,0.3,Projection layer tables.
+data/projection/forecast_vs_record.csv,7.2,Projected against realised approvals and patients (F033).
+research/findings/build_uptake_series_2026-09-04.py,18.9,Builds patients_quarterly.csv and uptake_summary.csv from the raw revenue tables.
+research/findings/first_in_human_2026-09-04.py,13.9,Queries ClinicalTrials.gov for each product's earliest trial; writes first_in_human.csv.
+research/findings/net_price_asp_2026-09-05.py,3.9,Implied ASP against list price; writes net_price_asp.csv.
+research/findings/build_eligible_ranges_2026-09-05.py,10.9,Merges eligible rows into ranges with overrides; writes eligible_population.csv.
+research/findings/build_milestones_2026-09-05.py,21.1,"Stage durations, penetration and H1 reading; writes milestones.csv."
+research/findings/forecast_vs_record_2026-09-05.py,6.6,Forecast against record; writes data/projection/forecast_vs_record.csv.
+data/uptake/raw/abecma_revenue.csv,20.4,Raw agent table: abecma revenue with per-row URLs and status (F035).
+data/uptake/raw/amtagvi_revenue.csv,8.5,Raw agent table: amtagvi revenue with per-row URLs and status (F035).
+data/uptake/raw/aucatzyl_revenue.csv,3.9,Raw agent table: aucatzyl revenue with per-row URLs and status (F035).
+data/uptake/raw/beqvez_revenue.csv,2.2,Raw agent table: beqvez revenue with per-row URLs and status (F035).
+data/uptake/raw/breyanzi_revenue.csv,21.6,Raw agent table: breyanzi revenue with per-row URLs and status (F035).
+data/uptake/raw/carvykti_revenue.csv,15.7,Raw agent table: carvykti revenue with per-row URLs and status (F035).
+data/uptake/raw/casgevy_revenue.csv,4.5,Raw agent table: casgevy revenue with per-row URLs and status (F035).
+data/uptake/raw/elevidys_revenue.csv,12.3,Raw agent table: elevidys revenue with per-row URLs and status (F035).
+data/uptake/raw/hemgenix_revenue.csv,6.5,Raw agent table: hemgenix revenue with per-row URLs and status (F035).
+data/uptake/raw/imlygic_revenue.csv,44.9,Raw agent table: imlygic revenue with per-row URLs and status (F035).
+data/uptake/raw/kebilidi_revenue.csv,8.5,Raw agent table: kebilidi revenue with per-row URLs and status (F035).
+data/uptake/raw/kymriah_revenue.csv,19.6,Raw agent table: kymriah revenue with per-row URLs and status (F035).
+data/uptake/raw/launches2026_revenue.csv,4.0,Raw agent table: launches2026 revenue with per-row URLs and status (F035).
+data/uptake/raw/lenmeldy_revenue.csv,15.6,Raw agent table: lenmeldy revenue with per-row URLs and status (F035).
+data/uptake/raw/luxturna_revenue.csv,6.8,Raw agent table: luxturna revenue with per-row URLs and status (F035).
+data/uptake/raw/lyfgenia_revenue.csv,3.8,Raw agent table: lyfgenia revenue with per-row URLs and status (F035).
+data/uptake/raw/omisirge_revenue.csv,2.9,Raw agent table: omisirge revenue with per-row URLs and status (F035).
+data/uptake/raw/papzimeos_revenue.csv,2.8,Raw agent table: papzimeos revenue with per-row URLs and status (F035).
+data/uptake/raw/provenge_revenue.csv,12.9,Raw agent table: provenge revenue with per-row URLs and status (F035).
+data/uptake/raw/roctavian_revenue.csv,12.5,Raw agent table: roctavian revenue with per-row URLs and status (F035).
+data/uptake/raw/ryoncil_revenue.csv,4.7,Raw agent table: ryoncil revenue with per-row URLs and status (F035).
+data/uptake/raw/skysona_revenue.csv,5.5,Raw agent table: skysona revenue with per-row URLs and status (F035).
+data/uptake/raw/tecartus_revenue.csv,37.0,Raw agent table: tecartus revenue with per-row URLs and status (F035).
+data/uptake/raw/tecelra_revenue.csv,3.7,Raw agent table: tecelra revenue with per-row URLs and status (F035).
+data/uptake/raw/vyjuvek_revenue.csv,9.8,Raw agent table: vyjuvek revenue with per-row URLs and status (F035).
+data/uptake/raw/yescarta_revenue.csv,53.9,Raw agent table: yescarta revenue with per-row URLs and status (F035).
+data/uptake/raw/zevaskyn_revenue.csv,2.7,Raw agent table: zevaskyn revenue with per-row URLs and status (F035).
+data/uptake/raw/zolgensma_revenue.csv,14.7,Raw agent table: zolgensma revenue with per-row URLs and status (F035).
+data/uptake/raw/zynteglo_revenue.csv,5.5,Raw agent table: zynteglo revenue with per-row URLs and status (F035).
+data/uptake/raw/abecma_disclosures.csv,9.9,Raw agent table: abecma disclosures with per-row URLs and status (F035).
+data/uptake/raw/amtagvi_disclosures.csv,8.9,Raw agent table: amtagvi disclosures with per-row URLs and status (F035).
+data/uptake/raw/aucatzyl_disclosures.csv,6.9,Raw agent table: aucatzyl disclosures with per-row URLs and status (F035).
+data/uptake/raw/beqvez_disclosures.csv,3.4,Raw agent table: beqvez disclosures with per-row URLs and status (F035).
+data/uptake/raw/breyanzi_disclosures.csv,8.7,Raw agent table: breyanzi disclosures with per-row URLs and status (F035).
+data/uptake/raw/carvykti_disclosures.csv,8.2,Raw agent table: carvykti disclosures with per-row URLs and status (F035).
+data/uptake/raw/casgevy_disclosures.csv,16.7,Raw agent table: casgevy disclosures with per-row URLs and status (F035).
+data/uptake/raw/elevidys_disclosures.csv,9.9,Raw agent table: elevidys disclosures with per-row URLs and status (F035).
+data/uptake/raw/hemgenix_disclosures.csv,8.4,Raw agent table: hemgenix disclosures with per-row URLs and status (F035).
+data/uptake/raw/imlygic_disclosures.csv,3.1,Raw agent table: imlygic disclosures with per-row URLs and status (F035).
+data/uptake/raw/kebilidi_disclosures.csv,3.3,Raw agent table: kebilidi disclosures with per-row URLs and status (F035).
+data/uptake/raw/kymriah_disclosures.csv,15.2,Raw agent table: kymriah disclosures with per-row URLs and status (F035).
+data/uptake/raw/launches2026_disclosures.csv,6.3,Raw agent table: launches2026 disclosures with per-row URLs and status (F035).
+data/uptake/raw/lenmeldy_disclosures.csv,9.8,Raw agent table: lenmeldy disclosures with per-row URLs and status (F035).
+data/uptake/raw/luxturna_disclosures.csv,10.4,Raw agent table: luxturna disclosures with per-row URLs and status (F035).
+data/uptake/raw/lyfgenia_disclosures.csv,9.3,Raw agent table: lyfgenia disclosures with per-row URLs and status (F035).
+data/uptake/raw/omisirge_disclosures.csv,6.0,Raw agent table: omisirge disclosures with per-row URLs and status (F035).
+data/uptake/raw/papzimeos_disclosures.csv,5.5,Raw agent table: papzimeos disclosures with per-row URLs and status (F035).
+data/uptake/raw/provenge_disclosures.csv,10.5,Raw agent table: provenge disclosures with per-row URLs and status (F035).
+data/uptake/raw/roctavian_disclosures.csv,11.6,Raw agent table: roctavian disclosures with per-row URLs and status (F035).
+data/uptake/raw/ryoncil_disclosures.csv,6.3,Raw agent table: ryoncil disclosures with per-row URLs and status (F035).
+data/uptake/raw/skysona_disclosures.csv,8.3,Raw agent table: skysona disclosures with per-row URLs and status (F035).
+data/uptake/raw/tecartus_disclosures.csv,1.0,Raw agent table: tecartus disclosures with per-row URLs and status (F035).
+data/uptake/raw/tecelra_disclosures.csv,8.2,Raw agent table: tecelra disclosures with per-row URLs and status (F035).
+data/uptake/raw/vyjuvek_disclosures.csv,17.7,Raw agent table: vyjuvek disclosures with per-row URLs and status (F035).
+data/uptake/raw/yescarta_disclosures.csv,14.6,Raw agent table: yescarta disclosures with per-row URLs and status (F035).
+data/uptake/raw/zevaskyn_disclosures.csv,9.6,Raw agent table: zevaskyn disclosures with per-row URLs and status (F035).
+data/uptake/raw/zolgensma_disclosures.csv,14.7,Raw agent table: zolgensma disclosures with per-row URLs and status (F035).
+data/uptake/raw/zynteglo_disclosures.csv,15.1,Raw agent table: zynteglo disclosures with per-row URLs and status (F035).
+research/findings/curate_label_events_2026-09-05.py,3.3,"Curates the raw label events into data/uptake/label_events.csv with explicit replacement and alias rules (D012, F039)."
+research/findings/net_price_variant_2026-09-05.py,8.8,"Product-level net-price variant for the five CAR-Ts with an ASP series, checked against disclosed counts (F040)."
+research/findings/build_cart_by_country_2026-09-05.py,7.2,CAR-T patients by country and year with per-million and per-eligible denominators (F041).
+research/findings/build_investment_events_2026-09-05.py,11.1,Merges sponsor commitment and retreat events per product into data/investment/events.csv (F042).
+research/findings/build_access_decisions_2026-09-05.py,9.9,Merges the per-system access decision tables into data/access/decisions.csv with approval-to-decision durations (F043).
+data/uptake/raw/label_events.csv,33.2,Raw agent table: 47 FDA and EC label events for eight products with verbatim indication text and URLs (F039).
+data/uptake/label_events.csv,12.4,"Curated label events applied by the milestones builder (D012, F039)."
+data/uptake/raw/eligible_E5_label_expansions.csv,31.5,Raw agent table: eligible-population rows for populations added by label extensions (F039).
+data/uptake/eligible_population_by_indication.csv,23.2,"Eligible range per product, geography, family and indication key (F034, D012)."
+data/uptake/pool_quarterly.csv,12.9,Label-dated eligible pool per quarter for eight products (F039).
+data/uptake/patients_quarterly_variant.csv,42.1,Net-price variant patient series (F040).
+data/uptake/net_price_variant_summary.csv,1.3,Net-price variant per product against the main series (F040).
+data/uptake/net_price_variant_checks.csv,0.7,Net-price variant and class-factor series against disclosed counts (F040).
+data/uptake/raw/cart_country_supplement.csv,316.7,"Raw agent table: EBMT 2024 country tables and 2018 to 2024 rates, DESCAR-T, national centre counts (F041)."
+data/uptake/raw/country_population.csv,24.8,World Bank populations 2017 to 2025 for ten countries (F041).
+data/uptake/cart_by_country.csv,140.5,"CAR-T patients by country, year and registry with both denominators (F041)."
+data/investment/README.md,1.2,Investment layer table guide.
+data/investment/raw/events_by_product.csv,86.1,Raw agent table: 102 sponsor events per cohort product with verbatim reasons and URLs (F042).
+data/investment/events.csv,109.9,Unified post-approval event rows with retreat flags and months from first approval (F042).
+data/investment/events_summary.csv,5.1,"One row per cohort product: events by type, first retreat, withdrawals, ownership changes (F042)."
+data/access/README.md,1.8,Access layer table guide.
+data/access/raw/decisions_nice.csv,68.6,Raw agent table: NICE decisions for the cohort (F043).
+data/access/raw/decisions_gba.csv,75.4,Raw agent table: G-BA resolutions for the cohort (F043).
+data/access/raw/decisions_cda_amc.csv,66.4,Raw agent table: CADTH/CDA-AMC and pCPA decisions for the cohort (F043).
+data/access/raw/decisions_aifa.csv,60.9,Raw agent table: AIFA determinations for the cohort (F043).
+data/access/raw/decisions_has.csv,140.8,"Raw agent table: HAS, ANSM, JO and CEPS rows for the cohort (F043)."
+data/access/decisions.csv,545.2,All access decision rows normalised with durations (F043).
+data/access/access_summary.csv,28.5,First decision and first funding step per product and system (F043).
+data/access/raw/decisions_australia.csv,99.7,"Raw agent table: TGA, MSAC, PBAC and funding rows for the cohort (F043)."

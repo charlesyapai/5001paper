@@ -51,7 +51,7 @@ figures/source_names/figS3_publication_growth.png,438.3,Same figure under the fi
 figures/source_names/figS4_sponsor_exit.png,349.6,Same figure under the filename the code refers to
 figures/source_names/figS5_ai_pipeline.png,259.5,Same figure under the filename the code refers to
 manuscript/implementation_blockers.md,20.7,Blocker analysis narrative and per-platform detail.
-manuscript/manuscript.md,66.6,"Current draft (v7, 5 September 2026). Read the revision notes at the top first."
+manuscript/manuscript.md,64.0,"Current draft (v7, 5 September 2026). Read the revision notes at the top first."
 manuscript/technology_timeline_map.md,25.9,Maturity-ladder definitions and per-subfamily timeline narrative.
 manuscript/thesis_architecture.md,18.0,"Argument design: thesis sentence, mechanism, negative results, figure order."
 manuscript/translation_timeline_plan.md,26.0,Fourth framing document: the translation-timeline direction that supersedes the thesis architecture (4 September 2026). Seed tables must be verified before use.
@@ -69,11 +69,11 @@ data/cohort/diagnostic_codes.csv,3.0,"Test codes and coverage events; code descr
 data/cohort/investment_events.csv,2.2,"Acquisitions, restructurings and retreats to code by manufacturing model. Seeded, unverified."
 data/cohort/policy_events.csv,2.4,"Policy and market events for event studies. Seeded, unverified."
 data/cohort/product_cohort.csv,32.2,Cohort: FDA-listed cellular and gene therapy products as of 2026-08-18 plus EU-only history; membership sourced; FDA and EMA dates verified 2026-09-04 with per-row URLs.
-research/DECISIONS.md,7.0,Decision record D001 to D011 with rationale and consequences.
-research/LOG.md,9.9,Chronological research log. Append only.
+research/DECISIONS.md,9.3,Decision record D001 to D011 with rationale and consequences.
+research/LOG.md,12.1,Chronological research log. Append only.
 research/README.md,2.8,"Research base index: layout, status vocabulary, rules, how to add a finding. Start here for the flagship."
 research/findings/README.md,2.7,Ledger column definitions and how to regenerate.
-research/findings/findings_ledger.csv,43.2,"F001 to F037: every established fact with evidence, source and status."
+research/findings/findings_ledger.csv,47.0,"F001 to F037: every established fact with evidence, source and status."
 research/findings/recompute_2026-09-04.py,3.1,Regenerates F001 to F006 from data/primary. Run from its folder.
 research/methods/README.md,0.5,Method index.
 research/methods/conventions.md,1.2,Analysis conventions carried forward and extended.
@@ -81,16 +81,16 @@ research/methods/cross_country_design.md,2.3,"Same product, different systems: t
 research/methods/data_sources.md,4.7,Every data source per layer with access route and confirmation status.
 research/methods/diffusion_fits.md,1.0,Logistic and Bass fit specification.
 research/methods/event_studies.md,1.0,Interrupted time series and synthetic control specification.
-research/methods/projection_model.md,2.0,"Monte Carlo projection, donor mapping, backcast, forecast-against-record."
+research/methods/projection_model.md,3.4,"Monte Carlo projection, donor mapping, backcast, forecast-against-record."
 research/methods/reason_classification.md,2.2,Assessment-reason schema and the disclosure audit protocol.
 research/methods/revenue_to_patients.md,5.5,"Patients per quarter from product revenue, with calibration protocol and gate."
 research/methods/time_to_milestone.md,3.9,Survival and competing-risk specification for stage durations.
 research/sources/bibliography.csv,23.7,"S01 to S44: every source consulted, what it gives, read status."
 research/topics/01_clinical_stage/README.md,3.2,"Topic 01: first-in-human to approval. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/02_access_stage/README.md,3.6,"Topic 02: approval to reimbursement. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/02_access_stage/README.md,4.1,"Topic 02: approval to reimbursement. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/03_uptake_stage/README.md,5.6,"Topic 03: reimbursement to patients treated. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/04_investment/README.md,3.3,"Topic 04: sponsor commitment and capital. Scope, questions, what we know, sources, method, tasks, open questions."
-research/topics/05_projection/README.md,1.7,"Topic 05: frontier timelines under scenarios. Scope, questions, what we know, sources, method, tasks, open questions."
+research/topics/05_projection/README.md,2.4,"Topic 05: frontier timelines under scenarios. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/06_diagnostics/README.md,2.1,"Topic 06: coverage and uptake of molecular diagnostics. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/07_companion_methods_paper/README.md,2.8,"Topic 07: the registry stated-reason paper. Scope, questions, what we know, sources, method, tasks, open questions."
 research/topics/README.md,0.9,"Topic index: one folder per layer, in stage order."
@@ -130,7 +130,7 @@ data/uptake/raw/eligible_E4.csv,37.9,Eligible-population rows: comparators and E
 data/diagnostics/README.md,0.3,Diagnostics layer raw tables.
 data/diagnostics/raw/medicare_partb_volumes_check.csv,52.8,2024 Part B allowed services per seed code (F031).
 data/diagnostics/raw/medicare_code_check.csv,12.6,CLFS descriptor check per seed code; two codes corrected (F031).
-data/projection/README.md,0.3,Projection layer tables.
+data/projection/README.md,1.3,Projection layer tables.
 data/projection/forecast_vs_record.csv,7.2,Projected against realised approvals and patients (F033).
 research/findings/build_uptake_series_2026-09-04.py,18.9,Builds patients_quarterly.csv and uptake_summary.csv from the raw revenue tables.
 research/findings/first_in_human_2026-09-04.py,13.9,Queries ClinicalTrials.gov for each product's earliest trial; writes first_in_human.csv.
@@ -225,3 +225,24 @@ data/access/raw/decisions_has.csv,140.8,"Raw agent table: HAS, ANSM, JO and CEPS
 data/access/decisions.csv,545.2,All access decision rows normalised with durations (F043).
 data/access/access_summary.csv,28.5,First decision and first funding step per product and system (F043).
 data/access/raw/decisions_australia.csv,99.7,"Raw agent table: TGA, MSAC, PBAC and funding rows for the cohort (F043)."
+index.md,2.6,GitHub Pages landing page with the reading order.
+_config.yml,0.7,"GitHub Pages configuration (Primer theme, relative links; internal review files excluded)."
+review/revision_notes.md,2.4,"Manuscript revision notes (v3 and v7), moved out of the public manuscript on 6 September 2026."
+research/findings/render_ledger_view.py,1.0,Renders findings_ledger.csv as research/findings/ledger.md for Pages.
+research/findings/ledger.md,44.1,Rendered view of the findings ledger (regenerate after ledger changes).
+research/findings/project_landscape_2026-09-06.py,35.5,"Staged Monte Carlo landscape projection with backcast and calibration (D013, F044)."
+research/findings/figures_projection_2026-09-06.py,4.4,Figures P1 and P2 from the projection tables (F044).
+research/findings/build_governance_by_region_2026-09-06.py,6.9,Governance and stated-reason coding by system (F045).
+data/projection/pipeline_programmes.csv,16.1,"Industry programmes per platform at highest active phase, 2026 and end-2019 (F044)."
+data/projection/projection_parameters.csv,7.1,"Every fitted or assumed projection parameter with its source (F044, D013)."
+data/projection/approvals_projection.csv,11.7,Backcast against the record and forecast approvals 2027 to 2036 (F044).
+data/projection/access_projection.csv,7.2,Products with funded access per system and year (F044).
+data/projection/diffusion_fits.csv,0.5,Class diffusion curve fits (F044).
+data/projection/patients_projection.csv,39.2,"Patients per year by class, region and scenario (F044)."
+data/projection/capacity_projection.csv,0.8,CAR-T demand against centres and throughput (F044).
+data/access/governance_by_region.csv,1.5,"Governance signature per system: bodies, lag, funded share, arrangements, reason categories (F045)."
+data/access/stated_reasons.csv,177.5,Usable decision rows with keyword-coded reason categories (F045).
+manuscript/landscape_projection.md,6.1,"Reader page: the landscape to 2036, method, results, assumptions (F044)."
+manuscript/governance_by_region.md,5.1,"Reader page: governance and blockers by region (F043, F045)."
+figures/Figure_P1_approvals_projection.png,104.1,Approvals per year: backcast against the record and forecast (F044).
+figures/Figure_P2_patients_projection.png,113.6,"Patients per year by class and region, baseline (F044)."

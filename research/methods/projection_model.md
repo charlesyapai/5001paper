@@ -35,3 +35,17 @@ skipped.
 
 **Output.** `data/projection/frontier_milestones.csv`: platform, scenario, milestone, p10, p50,
 p90, donor_class, n_programs.
+
+**Implementation, 6 September 2026 (D013).** `research/findings/project_landscape_2026-09-06.py` implements a
+staged Monte Carlo for the whole class rather than per frontier programme: pipeline survival (S06 rates, measured
+clinical-stage distributions, phase-remaining shares 0.70 to 1.00, 0.40 to 0.70, 0.15 to 0.40; programme entry at
+the 2021 to 2025 rate), access lags and funding probabilities per system (F043, F035), class diffusion curves
+S(1 - exp(-t/tau)) fitted to the observed penetration paths (CAR-T: run-rate over the label-dated flow, S 0.92, tau
+8.6 years; one-time therapies: cumulative over the prevalent pool, initial rate 0.06 of the pool per year, saturation
+not identified), CAR-T as a class anchored on the 2024 registry totals with new-disease approvals adding their own
+pools, and a capacity check against qualified centres and observed throughput. Backcast: the pipeline at end-2019
+predicted 30 (24 to 35) approvals in the five classes for 2020 to 2025 against 16 realised; calibration factors
+CAR-T 0.45, AAV 0.50, lentiviral 1.0, CRISPR 0.50, in vivo 0.58 bring the backcast to 16 (12 to 21) with every year
+inside the band. Outputs under `data/projection/`; figures `Figure_P1_approvals_projection.png` and
+`Figure_P2_patients_projection.png` from `figures_projection_2026-09-06.py`. The donor-mapped frontier milestone
+table above is still to be produced.

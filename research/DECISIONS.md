@@ -95,3 +95,27 @@ source disagreement. Dating the pool to the label separates the two.
 `build_eligible_ranges_2026-09-05.py` writes `eligible_population_by_indication.csv`. Only events with status
 verified-from-source or derived are applied (rule 3). The launch-label reading in F037 is superseded for the
 label-dated products by F039.
+
+## D013 · 2026-09-06 · The projection is a staged Monte Carlo chained on the measured stages, backcast before use
+**Decision.** Approvals, funded access and patients treated to 2036 are projected by chaining the three measured
+stages: (A) industry programmes in the registry pipeline (one per sponsor per platform at its highest active phase)
+survive phase transitions at the S06 rates (F027) and reach approval after a clinical stage drawn from the cohort's
+measured distribution for the class (F032), scaled by the share remaining at the current phase; new programmes
+enter phase 1 at the 2021 to 2025 rate; (B) each approval draws a lag to the first positive funding step from the
+measured lags per system (F043) with the system's observed share of approvals ever funded; (C) patients follow class
+diffusion curves fitted to the observed penetration paths against the label-dated pools (F039), CAR-T as a class
+against its eligible flow anchored on the registry totals (F041), one-time therapies product by product with pools
+drawn from the observed range. The model is run first as a backcast from the pipeline at the end of 2019 against the
+2020 to 2025 record; where the record falls outside the band, a per-class calibration factor (realised over backcast
+median, capped at 1) is applied and reported. Scenarios: baseline, compressed access, capacity-constrained. Every
+output is a 10th, 50th and 90th percentile.
+**Rationale.** Prior projections (S16, S17, S20) skipped the access and diffusion stages and overshot the patient
+record while getting the approval count right (F033). A chained model with measured stage distributions is the
+simplest structure that can be backcast, and the calibration step makes the registry's overcount of approvable
+programmes explicit rather than hidden.
+**Consequences.** `research/findings/project_landscape_2026-09-06.py` writes `data/projection/approvals_projection.csv`,
+`access_projection.csv`, `patients_projection.csv`, `capacity_projection.csv`, `diffusion_fits.csv`,
+`pipeline_programmes.csv` and `projection_parameters.csv` (every fitted or assumed value with its source). The
+frontier-platform milestone table in `projection_model.md` remains a month-4 output. Assumptions to revisit: the
+programme proxy, the share of CAR-T approvals opening a new disease (0.25), the Europe population ratio (1.5), the
+Europe share of ex-US patients (0.75), and the rest-of-world share.

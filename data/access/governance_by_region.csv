@@ -1,0 +1,7 @@
+system,bodies,n_decision_rows_usable,n_products_with_funding,median_months_approval_to_funding,iqr_months,share_rows_not_recommended_or_terminated,n_deferrals_or_under_assessment,arrangement_types,share_rows_with_arrangement,top_stated_reason_categories,share_rows_with_no_stated_reason,share_rows_stating_an_eligible_count,source
+Australia,"Funding, MSAC, PBAC, TGA",39,7,3.7,1.9 to 8.0,0.23,9,outcomes-based 18,0.46,price 19; cost-effectiveness 18; population-or-restriction 18,0.33,0.15,decisions.csv (F043)
+Canada,"CADTH, CDA-AMC, pCPA",32,7,21.0,18.1 to 23.1,0.19,4,confidential-discount 26,0.81,price 19; uncertainty-durability 14; cost-effectiveness 14,0.38,0.0,decisions.csv (F043)
+England,NICE,38,13,9.4,5.0 to 15.3,0.45,6,confidential-discount 10; cancer-drugs-fund 6; managed-access-agreement 4,0.53,cost-effectiveness 26; population-or-restriction 22; price 20,0.21,0.29,decisions.csv (F043)
+France,"ANSM (accès précoce), CEPS (price), HAS-CT, JO (inscription)",89,12,5.2,-0.8 to 11.8,0.11,0,managed-access-agreement 14; confidential-discount 9,0.26,population-or-restriction 55; comparator-or-evidence 54; uncertainty-durability 18,0.25,0.6,decisions.csv (F043)
+Germany,G-BA,65,20,9.8,7.4 to 12.3,0.34,2,outcomes-based 13,0.2,comparator-or-evidence 49; price 32; uncertainty-durability 27,0.14,0.78,decisions.csv (F043)
+Italy,AIFA,31,16,17.4,14.8 to 24.0,0.1,2,confidential-discount 16; outcomes-based 7; managed-access-agreement 3; price-volume 1,0.87,price 24; population-or-restriction 5; uncertainty-durability 2,0.13,0.06,decisions.csv (F043)

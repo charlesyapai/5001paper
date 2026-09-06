@@ -1,0 +1,721 @@
+scenario,class,region,year,patients_p10,patients_p50,patients_p90
+baseline,CAR-T,US,2027,5399,6230,6652
+baseline,CAR-T,US,2028,5487,6553,7190
+baseline,CAR-T,US,2029,5606,6973,8101
+baseline,CAR-T,US,2030,5884,7564,9457
+baseline,CAR-T,US,2031,6234,8263,10930
+baseline,CAR-T,US,2032,6567,9007,12562
+baseline,CAR-T,US,2033,6873,9729,14111
+baseline,CAR-T,US,2034,7164,10431,15547
+baseline,CAR-T,US,2035,7383,11041,16859
+baseline,CAR-T,US,2036,7570,11622,18117
+baseline,CAR-T,Europe,2027,6332,7294,7731
+baseline,CAR-T,Europe,2028,6383,7643,8346
+baseline,CAR-T,Europe,2029,6521,8130,9429
+baseline,CAR-T,Europe,2030,6864,8836,11165
+baseline,CAR-T,Europe,2031,7389,9792,13267
+baseline,CAR-T,Europe,2032,7953,10878,15530
+baseline,CAR-T,Europe,2033,8392,11989,17824
+baseline,CAR-T,Europe,2034,8738,13059,20037
+baseline,CAR-T,Europe,2035,9084,14000,21941
+baseline,CAR-T,Europe,2036,9365,14834,24059
+baseline,CAR-T,rest of world,2027,2111,2431,2577
+baseline,CAR-T,rest of world,2028,2128,2548,2782
+baseline,CAR-T,rest of world,2029,2174,2710,3143
+baseline,CAR-T,rest of world,2030,2288,2945,3722
+baseline,CAR-T,rest of world,2031,2463,3264,4422
+baseline,CAR-T,rest of world,2032,2651,3626,5177
+baseline,CAR-T,rest of world,2033,2797,3996,5941
+baseline,CAR-T,rest of world,2034,2913,4353,6679
+baseline,CAR-T,rest of world,2035,3028,4667,7314
+baseline,CAR-T,rest of world,2036,3122,4945,8020
+baseline,CAR-T,worldwide,2027,13883,15917,16944
+baseline,CAR-T,worldwide,2028,14048,16719,18230
+baseline,CAR-T,worldwide,2029,14419,17820,20545
+baseline,CAR-T,worldwide,2030,15194,19336,24147
+baseline,CAR-T,worldwide,2031,16239,21322,28395
+baseline,CAR-T,worldwide,2032,17331,23508,32990
+baseline,CAR-T,worldwide,2033,18143,25727,37844
+baseline,CAR-T,worldwide,2034,18885,27833,42061
+baseline,CAR-T,worldwide,2035,19483,29716,46275
+baseline,CAR-T,worldwide,2036,20115,31388,50318
+baseline,AAV,US,2027,571,632,912
+baseline,AAV,US,2028,348,610,1319
+baseline,AAV,US,2029,443,986,2051
+baseline,AAV,US,2030,514,1266,2529
+baseline,AAV,US,2031,563,1407,2787
+baseline,AAV,US,2032,581,1468,2839
+baseline,AAV,US,2033,585,1487,2772
+baseline,AAV,US,2034,587,1475,2691
+baseline,AAV,US,2035,579,1429,2555
+baseline,AAV,US,2036,568,1368,2397
+baseline,AAV,Europe,2027,285,295,386
+baseline,AAV,Europe,2028,151,236,501
+baseline,AAV,Europe,2029,198,401,853
+baseline,AAV,Europe,2030,241,572,1170
+baseline,AAV,Europe,2031,269,679,1356
+baseline,AAV,Europe,2032,284,724,1419
+baseline,AAV,Europe,2033,291,745,1403
+baseline,AAV,Europe,2034,291,740,1364
+baseline,AAV,Europe,2035,289,723,1301
+baseline,AAV,Europe,2036,285,695,1228
+baseline,AAV,rest of world,2027,95,98,129
+baseline,AAV,rest of world,2028,50,79,167
+baseline,AAV,rest of world,2029,66,134,284
+baseline,AAV,rest of world,2030,80,191,390
+baseline,AAV,rest of world,2031,90,226,452
+baseline,AAV,rest of world,2032,95,241,473
+baseline,AAV,rest of world,2033,97,248,468
+baseline,AAV,rest of world,2034,97,247,455
+baseline,AAV,rest of world,2035,96,241,434
+baseline,AAV,rest of world,2036,95,232,409
+baseline,AAV,worldwide,2027,951,1037,1403
+baseline,AAV,worldwide,2028,564,935,1933
+baseline,AAV,worldwide,2029,713,1536,3148
+baseline,AAV,worldwide,2030,839,2056,4083
+baseline,AAV,worldwide,2031,924,2327,4577
+baseline,AAV,worldwide,2032,963,2443,4719
+baseline,AAV,worldwide,2033,974,2487,4641
+baseline,AAV,worldwide,2034,975,2469,4500
+baseline,AAV,worldwide,2035,966,2401,4252
+baseline,AAV,worldwide,2036,947,2299,4036
+baseline,lentiviral ex vivo,US,2027,22,22,73
+baseline,lentiviral ex vivo,US,2028,10,57,509
+baseline,lentiviral ex vivo,US,2029,23,232,984
+baseline,lentiviral ex vivo,US,2030,88,430,1476
+baseline,lentiviral ex vivo,US,2031,156,617,1900
+baseline,lentiviral ex vivo,US,2032,218,790,2213
+baseline,lentiviral ex vivo,US,2033,259,914,2399
+baseline,lentiviral ex vivo,US,2034,291,1006,2501
+baseline,lentiviral ex vivo,US,2035,324,1047,2584
+baseline,lentiviral ex vivo,US,2036,347,1085,2600
+baseline,lentiviral ex vivo,Europe,2027,11,11,13
+baseline,lentiviral ex vivo,Europe,2028,5,9,152
+baseline,lentiviral ex vivo,Europe,2029,5,72,391
+baseline,lentiviral ex vivo,Europe,2030,30,173,635
+baseline,lentiviral ex vivo,Europe,2031,66,277,868
+baseline,lentiviral ex vivo,Europe,2032,97,364,1054
+baseline,lentiviral ex vivo,Europe,2033,123,431,1172
+baseline,lentiviral ex vivo,Europe,2034,142,489,1237
+baseline,lentiviral ex vivo,Europe,2035,157,518,1285
+baseline,lentiviral ex vivo,Europe,2036,171,537,1301
+baseline,lentiviral ex vivo,rest of world,2027,4,4,4
+baseline,lentiviral ex vivo,rest of world,2028,2,3,51
+baseline,lentiviral ex vivo,rest of world,2029,2,24,130
+baseline,lentiviral ex vivo,rest of world,2030,10,58,212
+baseline,lentiviral ex vivo,rest of world,2031,22,92,289
+baseline,lentiviral ex vivo,rest of world,2032,32,121,351
+baseline,lentiviral ex vivo,rest of world,2033,41,144,391
+baseline,lentiviral ex vivo,rest of world,2034,47,163,412
+baseline,lentiviral ex vivo,rest of world,2035,52,173,428
+baseline,lentiviral ex vivo,rest of world,2036,57,179,434
+baseline,lentiviral ex vivo,worldwide,2027,37,37,109
+baseline,lentiviral ex vivo,worldwide,2028,17,88,699
+baseline,lentiviral ex vivo,worldwide,2029,45,346,1473
+baseline,lentiviral ex vivo,worldwide,2030,145,682,2285
+baseline,lentiviral ex vivo,worldwide,2031,259,1003,3020
+baseline,lentiviral ex vivo,worldwide,2032,359,1290,3589
+baseline,lentiviral ex vivo,worldwide,2033,435,1509,3903
+baseline,lentiviral ex vivo,worldwide,2034,485,1668,4141
+baseline,lentiviral ex vivo,worldwide,2035,538,1749,4249
+baseline,lentiviral ex vivo,worldwide,2036,579,1828,4348
+baseline,CRISPR ex vivo,US,2027,40,40,99
+baseline,CRISPR ex vivo,US,2028,18,18,646
+baseline,CRISPR ex vivo,US,2029,17,102,1302
+baseline,CRISPR ex vivo,US,2030,16,220,1728
+baseline,CRISPR ex vivo,US,2031,15,325,2011
+baseline,CRISPR ex vivo,US,2032,14,400,2172
+baseline,CRISPR ex vivo,US,2033,24,443,2203
+baseline,CRISPR ex vivo,US,2034,31,476,2178
+baseline,CRISPR ex vivo,US,2035,37,495,2174
+baseline,CRISPR ex vivo,US,2036,40,511,2173
+baseline,CRISPR ex vivo,Europe,2027,20,20,21
+baseline,CRISPR ex vivo,Europe,2028,9,9,173
+baseline,CRISPR ex vivo,Europe,2029,9,30,508
+baseline,CRISPR ex vivo,Europe,2030,8,84,775
+baseline,CRISPR ex vivo,Europe,2031,8,137,947
+baseline,CRISPR ex vivo,Europe,2032,7,185,1051
+baseline,CRISPR ex vivo,Europe,2033,10,216,1081
+baseline,CRISPR ex vivo,Europe,2034,15,231,1095
+baseline,CRISPR ex vivo,Europe,2035,18,242,1080
+baseline,CRISPR ex vivo,Europe,2036,20,252,1078
+baseline,CRISPR ex vivo,rest of world,2027,7,7,7
+baseline,CRISPR ex vivo,rest of world,2028,3,3,58
+baseline,CRISPR ex vivo,rest of world,2029,3,10,169
+baseline,CRISPR ex vivo,rest of world,2030,3,28,258
+baseline,CRISPR ex vivo,rest of world,2031,3,46,316
+baseline,CRISPR ex vivo,rest of world,2032,2,62,350
+baseline,CRISPR ex vivo,rest of world,2033,3,72,360
+baseline,CRISPR ex vivo,rest of world,2034,5,77,365
+baseline,CRISPR ex vivo,rest of world,2035,6,81,360
+baseline,CRISPR ex vivo,rest of world,2036,7,84,359
+baseline,CRISPR ex vivo,worldwide,2027,67,67,160
+baseline,CRISPR ex vivo,worldwide,2028,30,30,917
+baseline,CRISPR ex vivo,worldwide,2029,29,166,1932
+baseline,CRISPR ex vivo,worldwide,2030,27,362,2741
+baseline,CRISPR ex vivo,worldwide,2031,25,532,3243
+baseline,CRISPR ex vivo,worldwide,2032,24,665,3539
+baseline,CRISPR ex vivo,worldwide,2033,43,736,3642
+baseline,CRISPR ex vivo,worldwide,2034,54,787,3623
+baseline,CRISPR ex vivo,worldwide,2035,64,826,3631
+baseline,CRISPR ex vivo,worldwide,2036,68,851,3635
+baseline,in vivo editing and LNP,US,2027,0,0,0
+baseline,in vivo editing and LNP,US,2028,0,0,105
+baseline,in vivo editing and LNP,US,2029,0,0,675
+baseline,in vivo editing and LNP,US,2030,0,81,1311
+baseline,in vivo editing and LNP,US,2031,0,186,1702
+baseline,in vivo editing and LNP,US,2032,0,266,1873
+baseline,in vivo editing and LNP,US,2033,0,350,2003
+baseline,in vivo editing and LNP,US,2034,0,403,2082
+baseline,in vivo editing and LNP,US,2035,15,434,2159
+baseline,in vivo editing and LNP,US,2036,30,477,2211
+baseline,in vivo editing and LNP,Europe,2027,0,0,0
+baseline,in vivo editing and LNP,Europe,2028,0,0,12
+baseline,in vivo editing and LNP,Europe,2029,0,0,198
+baseline,in vivo editing and LNP,Europe,2030,0,21,499
+baseline,in vivo editing and LNP,Europe,2031,0,73,758
+baseline,in vivo editing and LNP,Europe,2032,0,127,903
+baseline,in vivo editing and LNP,Europe,2033,0,163,974
+baseline,in vivo editing and LNP,Europe,2034,0,189,1012
+baseline,in vivo editing and LNP,Europe,2035,6,212,1074
+baseline,in vivo editing and LNP,Europe,2036,12,229,1109
+baseline,in vivo editing and LNP,rest of world,2027,0,0,0
+baseline,in vivo editing and LNP,rest of world,2028,0,0,4
+baseline,in vivo editing and LNP,rest of world,2029,0,0,66
+baseline,in vivo editing and LNP,rest of world,2030,0,7,166
+baseline,in vivo editing and LNP,rest of world,2031,0,24,253
+baseline,in vivo editing and LNP,rest of world,2032,0,42,301
+baseline,in vivo editing and LNP,rest of world,2033,0,54,325
+baseline,in vivo editing and LNP,rest of world,2034,0,63,337
+baseline,in vivo editing and LNP,rest of world,2035,2,71,358
+baseline,in vivo editing and LNP,rest of world,2036,4,76,370
+baseline,in vivo editing and LNP,worldwide,2027,0,0,0
+baseline,in vivo editing and LNP,worldwide,2028,0,0,158
+baseline,in vivo editing and LNP,worldwide,2029,0,0,927
+baseline,in vivo editing and LNP,worldwide,2030,0,133,1960
+baseline,in vivo editing and LNP,worldwide,2031,0,310,2707
+baseline,in vivo editing and LNP,worldwide,2032,0,451,3052
+baseline,in vivo editing and LNP,worldwide,2033,0,581,3269
+baseline,in vivo editing and LNP,worldwide,2034,0,660,3415
+baseline,in vivo editing and LNP,worldwide,2035,29,719,3597
+baseline,in vivo editing and LNP,worldwide,2036,53,787,3660
+compressed access,CAR-T,US,2027,5424,6241,6653
+compressed access,CAR-T,US,2028,5491,6564,7170
+compressed access,CAR-T,US,2029,5636,6980,8109
+compressed access,CAR-T,US,2030,5920,7542,9414
+compressed access,CAR-T,US,2031,6292,8275,10902
+compressed access,CAR-T,US,2032,6674,9054,12478
+compressed access,CAR-T,US,2033,6983,9815,14031
+compressed access,CAR-T,US,2034,7295,10486,15519
+compressed access,CAR-T,US,2035,7545,11088,16883
+compressed access,CAR-T,US,2036,7721,11672,18163
+compressed access,CAR-T,Europe,2027,6340,7323,7738
+compressed access,CAR-T,Europe,2028,6472,7769,8539
+compressed access,CAR-T,Europe,2029,6771,8420,10218
+compressed access,CAR-T,Europe,2030,7301,9368,12322
+compressed access,CAR-T,Europe,2031,7894,10522,14685
+compressed access,CAR-T,Europe,2032,8375,11675,17098
+compressed access,CAR-T,Europe,2033,8810,12712,19481
+compressed access,CAR-T,Europe,2034,9181,13777,21583
+compressed access,CAR-T,Europe,2035,9456,14610,23555
+compressed access,CAR-T,Europe,2036,9682,15498,25433
+compressed access,CAR-T,rest of world,2027,2113,2441,2579
+compressed access,CAR-T,rest of world,2028,2157,2590,2846
+compressed access,CAR-T,rest of world,2029,2257,2807,3406
+compressed access,CAR-T,rest of world,2030,2434,3123,4107
+compressed access,CAR-T,rest of world,2031,2631,3507,4895
+compressed access,CAR-T,rest of world,2032,2792,3892,5699
+compressed access,CAR-T,rest of world,2033,2937,4237,6494
+compressed access,CAR-T,rest of world,2034,3060,4592,7194
+compressed access,CAR-T,rest of world,2035,3152,4870,7852
+compressed access,CAR-T,rest of world,2036,3227,5166,8478
+compressed access,CAR-T,worldwide,2027,13927,15960,16977
+compressed access,CAR-T,worldwide,2028,14173,16852,18528
+compressed access,CAR-T,worldwide,2029,14773,18167,21636
+compressed access,CAR-T,worldwide,2030,15765,20016,25835
+compressed access,CAR-T,worldwide,2031,16917,22304,30351
+compressed access,CAR-T,worldwide,2032,17871,24617,35161
+compressed access,CAR-T,worldwide,2033,18660,26808,39857
+compressed access,CAR-T,worldwide,2034,19613,28856,44204
+compressed access,CAR-T,worldwide,2035,20247,30585,48255
+compressed access,CAR-T,worldwide,2036,20728,32273,52058
+compressed access,AAV,US,2027,571,631,892
+compressed access,AAV,US,2028,347,598,1301
+compressed access,AAV,US,2029,449,948,2057
+compressed access,AAV,US,2030,521,1217,2541
+compressed access,AAV,US,2031,563,1354,2755
+compressed access,AAV,US,2032,588,1415,2831
+compressed access,AAV,US,2033,593,1434,2770
+compressed access,AAV,US,2034,593,1411,2646
+compressed access,AAV,US,2035,582,1381,2510
+compressed access,AAV,US,2036,574,1331,2367
+compressed access,AAV,Europe,2027,285,333,502
+compressed access,AAV,Europe,2028,190,354,762
+compressed access,AAV,Europe,2029,241,540,1146
+compressed access,AAV,Europe,2030,276,664,1361
+compressed access,AAV,Europe,2031,295,708,1447
+compressed access,AAV,Europe,2032,299,725,1439
+compressed access,AAV,Europe,2033,300,724,1377
+compressed access,AAV,Europe,2034,298,708,1311
+compressed access,AAV,Europe,2035,292,686,1229
+compressed access,AAV,Europe,2036,287,660,1159
+compressed access,AAV,rest of world,2027,95,111,167
+compressed access,AAV,rest of world,2028,63,118,254
+compressed access,AAV,rest of world,2029,80,180,382
+compressed access,AAV,rest of world,2030,92,221,454
+compressed access,AAV,rest of world,2031,98,236,482
+compressed access,AAV,rest of world,2032,100,242,480
+compressed access,AAV,rest of world,2033,100,241,459
+compressed access,AAV,rest of world,2034,99,236,437
+compressed access,AAV,rest of world,2035,97,229,410
+compressed access,AAV,rest of world,2036,96,220,386
+compressed access,AAV,worldwide,2027,951,1080,1560
+compressed access,AAV,worldwide,2028,605,1084,2316
+compressed access,AAV,worldwide,2029,774,1684,3563
+compressed access,AAV,worldwide,2030,890,2107,4349
+compressed access,AAV,worldwide,2031,952,2293,4677
+compressed access,AAV,worldwide,2032,988,2399,4743
+compressed access,AAV,worldwide,2033,995,2397,4618
+compressed access,AAV,worldwide,2034,992,2349,4401
+compressed access,AAV,worldwide,2035,974,2296,4146
+compressed access,AAV,worldwide,2036,956,2216,3913
+compressed access,lentiviral ex vivo,US,2027,22,22,77
+compressed access,lentiviral ex vivo,US,2028,10,54,487
+compressed access,lentiviral ex vivo,US,2029,24,224,1022
+compressed access,lentiviral ex vivo,US,2030,86,416,1488
+compressed access,lentiviral ex vivo,US,2031,155,610,1871
+compressed access,lentiviral ex vivo,US,2032,217,775,2215
+compressed access,lentiviral ex vivo,US,2033,268,894,2399
+compressed access,lentiviral ex vivo,US,2034,305,971,2532
+compressed access,lentiviral ex vivo,US,2035,329,1019,2587
+compressed access,lentiviral ex vivo,US,2036,347,1057,2628
+compressed access,lentiviral ex vivo,Europe,2027,11,11,56
+compressed access,lentiviral ex vivo,Europe,2028,5,43,308
+compressed access,lentiviral ex vivo,Europe,2029,21,144,580
+compressed access,lentiviral ex vivo,Europe,2030,58,244,816
+compressed access,lentiviral ex vivo,Europe,2031,91,344,1006
+compressed access,lentiviral ex vivo,Europe,2032,122,413,1157
+compressed access,lentiviral ex vivo,Europe,2033,147,465,1233
+compressed access,lentiviral ex vivo,Europe,2034,159,502,1290
+compressed access,lentiviral ex vivo,Europe,2035,170,529,1315
+compressed access,lentiviral ex vivo,Europe,2036,178,540,1322
+compressed access,lentiviral ex vivo,rest of world,2027,4,4,19
+compressed access,lentiviral ex vivo,rest of world,2028,2,14,103
+compressed access,lentiviral ex vivo,rest of world,2029,7,48,193
+compressed access,lentiviral ex vivo,rest of world,2030,19,81,272
+compressed access,lentiviral ex vivo,rest of world,2031,30,115,335
+compressed access,lentiviral ex vivo,rest of world,2032,41,138,386
+compressed access,lentiviral ex vivo,rest of world,2033,49,155,411
+compressed access,lentiviral ex vivo,rest of world,2034,53,167,430
+compressed access,lentiviral ex vivo,rest of world,2035,57,176,438
+compressed access,lentiviral ex vivo,rest of world,2036,59,180,441
+compressed access,lentiviral ex vivo,worldwide,2027,37,37,160
+compressed access,lentiviral ex vivo,worldwide,2028,17,117,898
+compressed access,lentiviral ex vivo,worldwide,2029,61,419,1778
+compressed access,lentiviral ex vivo,worldwide,2030,171,741,2563
+compressed access,lentiviral ex vivo,worldwide,2031,284,1064,3198
+compressed access,lentiviral ex vivo,worldwide,2032,385,1340,3739
+compressed access,lentiviral ex vivo,worldwide,2033,467,1516,4018
+compressed access,lentiviral ex vivo,worldwide,2034,518,1647,4248
+compressed access,lentiviral ex vivo,worldwide,2035,556,1737,4322
+compressed access,lentiviral ex vivo,worldwide,2036,584,1782,4394
+compressed access,CRISPR ex vivo,US,2027,40,40,107
+compressed access,CRISPR ex vivo,US,2028,18,18,645
+compressed access,CRISPR ex vivo,US,2029,17,99,1255
+compressed access,CRISPR ex vivo,US,2030,16,222,1687
+compressed access,CRISPR ex vivo,US,2031,15,319,1962
+compressed access,CRISPR ex vivo,US,2032,14,388,2107
+compressed access,CRISPR ex vivo,US,2033,23,438,2146
+compressed access,CRISPR ex vivo,US,2034,32,462,2136
+compressed access,CRISPR ex vivo,US,2035,38,479,2126
+compressed access,CRISPR ex vivo,US,2036,43,489,2092
+compressed access,CRISPR ex vivo,Europe,2027,20,20,94
+compressed access,CRISPR ex vivo,Europe,2028,9,16,403
+compressed access,CRISPR ex vivo,Europe,2029,9,69,723
+compressed access,CRISPR ex vivo,Europe,2030,8,131,909
+compressed access,CRISPR ex vivo,Europe,2031,8,179,1019
+compressed access,CRISPR ex vivo,Europe,2032,7,209,1080
+compressed access,CRISPR ex vivo,Europe,2033,14,224,1090
+compressed access,CRISPR ex vivo,Europe,2034,17,238,1073
+compressed access,CRISPR ex vivo,Europe,2035,21,244,1073
+compressed access,CRISPR ex vivo,Europe,2036,22,247,1037
+compressed access,CRISPR ex vivo,rest of world,2027,7,7,31
+compressed access,CRISPR ex vivo,rest of world,2028,3,5,134
+compressed access,CRISPR ex vivo,rest of world,2029,3,23,241
+compressed access,CRISPR ex vivo,rest of world,2030,3,44,303
+compressed access,CRISPR ex vivo,rest of world,2031,3,60,340
+compressed access,CRISPR ex vivo,rest of world,2032,2,70,360
+compressed access,CRISPR ex vivo,rest of world,2033,5,75,363
+compressed access,CRISPR ex vivo,rest of world,2034,6,79,358
+compressed access,CRISPR ex vivo,rest of world,2035,7,81,358
+compressed access,CRISPR ex vivo,rest of world,2036,7,82,346
+compressed access,CRISPR ex vivo,worldwide,2027,67,67,266
+compressed access,CRISPR ex vivo,worldwide,2028,30,46,1161
+compressed access,CRISPR ex vivo,worldwide,2029,29,206,2177
+compressed access,CRISPR ex vivo,worldwide,2030,27,403,2896
+compressed access,CRISPR ex vivo,worldwide,2031,25,562,3322
+compressed access,CRISPR ex vivo,worldwide,2032,24,665,3538
+compressed access,CRISPR ex vivo,worldwide,2033,44,741,3577
+compressed access,CRISPR ex vivo,worldwide,2034,57,785,3562
+compressed access,CRISPR ex vivo,worldwide,2035,67,813,3552
+compressed access,CRISPR ex vivo,worldwide,2036,74,816,3476
+compressed access,in vivo editing and LNP,US,2027,0,0,0
+compressed access,in vivo editing and LNP,US,2028,0,0,101
+compressed access,in vivo editing and LNP,US,2029,0,0,632
+compressed access,in vivo editing and LNP,US,2030,0,81,1229
+compressed access,in vivo editing and LNP,US,2031,0,194,1615
+compressed access,in vivo editing and LNP,US,2032,0,287,1823
+compressed access,in vivo editing and LNP,US,2033,0,349,1998
+compressed access,in vivo editing and LNP,US,2034,0,408,2079
+compressed access,in vivo editing and LNP,US,2035,17,462,2163
+compressed access,in vivo editing and LNP,US,2036,28,499,2219
+compressed access,in vivo editing and LNP,Europe,2027,0,0,0
+compressed access,in vivo editing and LNP,Europe,2028,0,0,89
+compressed access,in vivo editing and LNP,Europe,2029,0,5,412
+compressed access,in vivo editing and LNP,Europe,2030,0,61,676
+compressed access,in vivo editing and LNP,Europe,2031,0,116,859
+compressed access,in vivo editing and LNP,Europe,2032,0,157,950
+compressed access,in vivo editing and LNP,Europe,2033,0,187,1024
+compressed access,in vivo editing and LNP,Europe,2034,0,219,1050
+compressed access,in vivo editing and LNP,Europe,2035,11,240,1083
+compressed access,in vivo editing and LNP,Europe,2036,16,257,1111
+compressed access,in vivo editing and LNP,rest of world,2027,0,0,0
+compressed access,in vivo editing and LNP,rest of world,2028,0,0,30
+compressed access,in vivo editing and LNP,rest of world,2029,0,2,137
+compressed access,in vivo editing and LNP,rest of world,2030,0,20,225
+compressed access,in vivo editing and LNP,rest of world,2031,0,39,286
+compressed access,in vivo editing and LNP,rest of world,2032,0,52,317
+compressed access,in vivo editing and LNP,rest of world,2033,0,62,341
+compressed access,in vivo editing and LNP,rest of world,2034,0,73,350
+compressed access,in vivo editing and LNP,rest of world,2035,4,80,361
+compressed access,in vivo editing and LNP,rest of world,2036,5,86,370
+compressed access,in vivo editing and LNP,worldwide,2027,0,0,0
+compressed access,in vivo editing and LNP,worldwide,2028,0,0,240
+compressed access,in vivo editing and LNP,worldwide,2029,0,15,1156
+compressed access,in vivo editing and LNP,worldwide,2030,0,179,2099
+compressed access,in vivo editing and LNP,worldwide,2031,0,359,2756
+compressed access,in vivo editing and LNP,worldwide,2032,0,506,3062
+compressed access,in vivo editing and LNP,worldwide,2033,0,604,3359
+compressed access,in vivo editing and LNP,worldwide,2034,0,706,3476
+compressed access,in vivo editing and LNP,worldwide,2035,34,785,3591
+compressed access,in vivo editing and LNP,worldwide,2036,52,846,3708
+capacity-constrained,CAR-T,US,2027,5399,6230,6622
+capacity-constrained,CAR-T,US,2028,5487,6553,7190
+capacity-constrained,CAR-T,US,2029,5606,6973,8101
+capacity-constrained,CAR-T,US,2030,5884,7564,9344
+capacity-constrained,CAR-T,US,2031,6234,8263,10481
+capacity-constrained,CAR-T,US,2032,6567,9007,11756
+capacity-constrained,CAR-T,US,2033,6873,9729,13187
+capacity-constrained,CAR-T,US,2034,7164,10431,14791
+capacity-constrained,CAR-T,US,2035,7383,11041,16590
+capacity-constrained,CAR-T,US,2036,7570,11622,18117
+capacity-constrained,CAR-T,Europe,2027,6332,7294,7731
+capacity-constrained,CAR-T,Europe,2028,6383,7643,8346
+capacity-constrained,CAR-T,Europe,2029,6521,8130,9429
+capacity-constrained,CAR-T,Europe,2030,6864,8836,11165
+capacity-constrained,CAR-T,Europe,2031,7389,9792,13267
+capacity-constrained,CAR-T,Europe,2032,7953,10878,15530
+capacity-constrained,CAR-T,Europe,2033,8392,11989,17824
+capacity-constrained,CAR-T,Europe,2034,8738,13059,20037
+capacity-constrained,CAR-T,Europe,2035,9084,14000,21941
+capacity-constrained,CAR-T,Europe,2036,9365,14834,24059
+capacity-constrained,CAR-T,rest of world,2027,2111,2431,2577
+capacity-constrained,CAR-T,rest of world,2028,2128,2548,2782
+capacity-constrained,CAR-T,rest of world,2029,2174,2710,3143
+capacity-constrained,CAR-T,rest of world,2030,2288,2945,3722
+capacity-constrained,CAR-T,rest of world,2031,2463,3264,4422
+capacity-constrained,CAR-T,rest of world,2032,2651,3626,5177
+capacity-constrained,CAR-T,rest of world,2033,2797,3996,5941
+capacity-constrained,CAR-T,rest of world,2034,2913,4353,6679
+capacity-constrained,CAR-T,rest of world,2035,3028,4667,7314
+capacity-constrained,CAR-T,rest of world,2036,3122,4945,8020
+capacity-constrained,CAR-T,worldwide,2027,13883,15917,16895
+capacity-constrained,CAR-T,worldwide,2028,14048,16719,18211
+capacity-constrained,CAR-T,worldwide,2029,14419,17820,20475
+capacity-constrained,CAR-T,worldwide,2030,15194,19336,23994
+capacity-constrained,CAR-T,worldwide,2031,16239,21322,27945
+capacity-constrained,CAR-T,worldwide,2032,17331,23508,32299
+capacity-constrained,CAR-T,worldwide,2033,18143,25727,36772
+capacity-constrained,CAR-T,worldwide,2034,18885,27833,41329
+capacity-constrained,CAR-T,worldwide,2035,19483,29716,45732
+capacity-constrained,CAR-T,worldwide,2036,20115,31388,50145
+capacity-constrained,AAV,US,2027,571,632,912
+capacity-constrained,AAV,US,2028,348,610,1319
+capacity-constrained,AAV,US,2029,443,986,2051
+capacity-constrained,AAV,US,2030,514,1266,2529
+capacity-constrained,AAV,US,2031,563,1407,2787
+capacity-constrained,AAV,US,2032,581,1468,2839
+capacity-constrained,AAV,US,2033,585,1487,2772
+capacity-constrained,AAV,US,2034,587,1475,2691
+capacity-constrained,AAV,US,2035,579,1429,2555
+capacity-constrained,AAV,US,2036,568,1368,2397
+capacity-constrained,AAV,Europe,2027,285,295,386
+capacity-constrained,AAV,Europe,2028,151,236,501
+capacity-constrained,AAV,Europe,2029,198,401,853
+capacity-constrained,AAV,Europe,2030,241,572,1170
+capacity-constrained,AAV,Europe,2031,269,679,1356
+capacity-constrained,AAV,Europe,2032,284,724,1419
+capacity-constrained,AAV,Europe,2033,291,745,1403
+capacity-constrained,AAV,Europe,2034,291,740,1364
+capacity-constrained,AAV,Europe,2035,289,723,1301
+capacity-constrained,AAV,Europe,2036,285,695,1228
+capacity-constrained,AAV,rest of world,2027,95,98,129
+capacity-constrained,AAV,rest of world,2028,50,79,167
+capacity-constrained,AAV,rest of world,2029,66,134,284
+capacity-constrained,AAV,rest of world,2030,80,191,390
+capacity-constrained,AAV,rest of world,2031,90,226,452
+capacity-constrained,AAV,rest of world,2032,95,241,473
+capacity-constrained,AAV,rest of world,2033,97,248,468
+capacity-constrained,AAV,rest of world,2034,97,247,455
+capacity-constrained,AAV,rest of world,2035,96,241,434
+capacity-constrained,AAV,rest of world,2036,95,232,409
+capacity-constrained,AAV,worldwide,2027,951,1037,1403
+capacity-constrained,AAV,worldwide,2028,564,935,1933
+capacity-constrained,AAV,worldwide,2029,713,1536,3148
+capacity-constrained,AAV,worldwide,2030,839,2056,4083
+capacity-constrained,AAV,worldwide,2031,924,2327,4577
+capacity-constrained,AAV,worldwide,2032,963,2443,4719
+capacity-constrained,AAV,worldwide,2033,974,2487,4641
+capacity-constrained,AAV,worldwide,2034,975,2469,4500
+capacity-constrained,AAV,worldwide,2035,966,2401,4252
+capacity-constrained,AAV,worldwide,2036,947,2299,4036
+capacity-constrained,lentiviral ex vivo,US,2027,22,22,73
+capacity-constrained,lentiviral ex vivo,US,2028,10,57,509
+capacity-constrained,lentiviral ex vivo,US,2029,23,232,984
+capacity-constrained,lentiviral ex vivo,US,2030,88,430,1476
+capacity-constrained,lentiviral ex vivo,US,2031,156,617,1900
+capacity-constrained,lentiviral ex vivo,US,2032,218,790,2213
+capacity-constrained,lentiviral ex vivo,US,2033,259,914,2399
+capacity-constrained,lentiviral ex vivo,US,2034,291,1006,2501
+capacity-constrained,lentiviral ex vivo,US,2035,324,1047,2584
+capacity-constrained,lentiviral ex vivo,US,2036,347,1085,2600
+capacity-constrained,lentiviral ex vivo,Europe,2027,11,11,13
+capacity-constrained,lentiviral ex vivo,Europe,2028,5,9,152
+capacity-constrained,lentiviral ex vivo,Europe,2029,5,72,391
+capacity-constrained,lentiviral ex vivo,Europe,2030,30,173,635
+capacity-constrained,lentiviral ex vivo,Europe,2031,66,277,868
+capacity-constrained,lentiviral ex vivo,Europe,2032,97,364,1054
+capacity-constrained,lentiviral ex vivo,Europe,2033,123,431,1172
+capacity-constrained,lentiviral ex vivo,Europe,2034,142,489,1237
+capacity-constrained,lentiviral ex vivo,Europe,2035,157,518,1285
+capacity-constrained,lentiviral ex vivo,Europe,2036,171,537,1301
+capacity-constrained,lentiviral ex vivo,rest of world,2027,4,4,4
+capacity-constrained,lentiviral ex vivo,rest of world,2028,2,3,51
+capacity-constrained,lentiviral ex vivo,rest of world,2029,2,24,130
+capacity-constrained,lentiviral ex vivo,rest of world,2030,10,58,212
+capacity-constrained,lentiviral ex vivo,rest of world,2031,22,92,289
+capacity-constrained,lentiviral ex vivo,rest of world,2032,32,121,351
+capacity-constrained,lentiviral ex vivo,rest of world,2033,41,144,391
+capacity-constrained,lentiviral ex vivo,rest of world,2034,47,163,412
+capacity-constrained,lentiviral ex vivo,rest of world,2035,52,173,428
+capacity-constrained,lentiviral ex vivo,rest of world,2036,57,179,434
+capacity-constrained,lentiviral ex vivo,worldwide,2027,37,37,109
+capacity-constrained,lentiviral ex vivo,worldwide,2028,17,88,699
+capacity-constrained,lentiviral ex vivo,worldwide,2029,45,346,1473
+capacity-constrained,lentiviral ex vivo,worldwide,2030,145,682,2285
+capacity-constrained,lentiviral ex vivo,worldwide,2031,259,1003,3020
+capacity-constrained,lentiviral ex vivo,worldwide,2032,359,1290,3589
+capacity-constrained,lentiviral ex vivo,worldwide,2033,435,1509,3903
+capacity-constrained,lentiviral ex vivo,worldwide,2034,485,1668,4141
+capacity-constrained,lentiviral ex vivo,worldwide,2035,538,1749,4249
+capacity-constrained,lentiviral ex vivo,worldwide,2036,579,1828,4348
+capacity-constrained,CRISPR ex vivo,US,2027,40,40,99
+capacity-constrained,CRISPR ex vivo,US,2028,18,18,646
+capacity-constrained,CRISPR ex vivo,US,2029,17,102,1302
+capacity-constrained,CRISPR ex vivo,US,2030,16,220,1728
+capacity-constrained,CRISPR ex vivo,US,2031,15,325,2011
+capacity-constrained,CRISPR ex vivo,US,2032,14,400,2172
+capacity-constrained,CRISPR ex vivo,US,2033,24,443,2203
+capacity-constrained,CRISPR ex vivo,US,2034,31,476,2178
+capacity-constrained,CRISPR ex vivo,US,2035,37,495,2174
+capacity-constrained,CRISPR ex vivo,US,2036,40,511,2173
+capacity-constrained,CRISPR ex vivo,Europe,2027,20,20,21
+capacity-constrained,CRISPR ex vivo,Europe,2028,9,9,173
+capacity-constrained,CRISPR ex vivo,Europe,2029,9,30,508
+capacity-constrained,CRISPR ex vivo,Europe,2030,8,84,775
+capacity-constrained,CRISPR ex vivo,Europe,2031,8,137,947
+capacity-constrained,CRISPR ex vivo,Europe,2032,7,185,1051
+capacity-constrained,CRISPR ex vivo,Europe,2033,10,216,1081
+capacity-constrained,CRISPR ex vivo,Europe,2034,15,231,1095
+capacity-constrained,CRISPR ex vivo,Europe,2035,18,242,1080
+capacity-constrained,CRISPR ex vivo,Europe,2036,20,252,1078
+capacity-constrained,CRISPR ex vivo,rest of world,2027,7,7,7
+capacity-constrained,CRISPR ex vivo,rest of world,2028,3,3,58
+capacity-constrained,CRISPR ex vivo,rest of world,2029,3,10,169
+capacity-constrained,CRISPR ex vivo,rest of world,2030,3,28,258
+capacity-constrained,CRISPR ex vivo,rest of world,2031,3,46,316
+capacity-constrained,CRISPR ex vivo,rest of world,2032,2,62,350
+capacity-constrained,CRISPR ex vivo,rest of world,2033,3,72,360
+capacity-constrained,CRISPR ex vivo,rest of world,2034,5,77,365
+capacity-constrained,CRISPR ex vivo,rest of world,2035,6,81,360
+capacity-constrained,CRISPR ex vivo,rest of world,2036,7,84,359
+capacity-constrained,CRISPR ex vivo,worldwide,2027,67,67,160
+capacity-constrained,CRISPR ex vivo,worldwide,2028,30,30,917
+capacity-constrained,CRISPR ex vivo,worldwide,2029,29,166,1932
+capacity-constrained,CRISPR ex vivo,worldwide,2030,27,362,2741
+capacity-constrained,CRISPR ex vivo,worldwide,2031,25,532,3243
+capacity-constrained,CRISPR ex vivo,worldwide,2032,24,665,3539
+capacity-constrained,CRISPR ex vivo,worldwide,2033,43,736,3642
+capacity-constrained,CRISPR ex vivo,worldwide,2034,54,787,3623
+capacity-constrained,CRISPR ex vivo,worldwide,2035,64,826,3631
+capacity-constrained,CRISPR ex vivo,worldwide,2036,68,851,3635
+capacity-constrained,in vivo editing and LNP,US,2027,0,0,0
+capacity-constrained,in vivo editing and LNP,US,2028,0,0,105
+capacity-constrained,in vivo editing and LNP,US,2029,0,0,675
+capacity-constrained,in vivo editing and LNP,US,2030,0,81,1311
+capacity-constrained,in vivo editing and LNP,US,2031,0,186,1702
+capacity-constrained,in vivo editing and LNP,US,2032,0,266,1873
+capacity-constrained,in vivo editing and LNP,US,2033,0,350,2003
+capacity-constrained,in vivo editing and LNP,US,2034,0,403,2082
+capacity-constrained,in vivo editing and LNP,US,2035,15,434,2159
+capacity-constrained,in vivo editing and LNP,US,2036,30,477,2211
+capacity-constrained,in vivo editing and LNP,Europe,2027,0,0,0
+capacity-constrained,in vivo editing and LNP,Europe,2028,0,0,12
+capacity-constrained,in vivo editing and LNP,Europe,2029,0,0,198
+capacity-constrained,in vivo editing and LNP,Europe,2030,0,21,499
+capacity-constrained,in vivo editing and LNP,Europe,2031,0,73,758
+capacity-constrained,in vivo editing and LNP,Europe,2032,0,127,903
+capacity-constrained,in vivo editing and LNP,Europe,2033,0,163,974
+capacity-constrained,in vivo editing and LNP,Europe,2034,0,189,1012
+capacity-constrained,in vivo editing and LNP,Europe,2035,6,212,1074
+capacity-constrained,in vivo editing and LNP,Europe,2036,12,229,1109
+capacity-constrained,in vivo editing and LNP,rest of world,2027,0,0,0
+capacity-constrained,in vivo editing and LNP,rest of world,2028,0,0,4
+capacity-constrained,in vivo editing and LNP,rest of world,2029,0,0,66
+capacity-constrained,in vivo editing and LNP,rest of world,2030,0,7,166
+capacity-constrained,in vivo editing and LNP,rest of world,2031,0,24,253
+capacity-constrained,in vivo editing and LNP,rest of world,2032,0,42,301
+capacity-constrained,in vivo editing and LNP,rest of world,2033,0,54,325
+capacity-constrained,in vivo editing and LNP,rest of world,2034,0,63,337
+capacity-constrained,in vivo editing and LNP,rest of world,2035,2,71,358
+capacity-constrained,in vivo editing and LNP,rest of world,2036,4,76,370
+capacity-constrained,in vivo editing and LNP,worldwide,2027,0,0,0
+capacity-constrained,in vivo editing and LNP,worldwide,2028,0,0,158
+capacity-constrained,in vivo editing and LNP,worldwide,2029,0,0,927
+capacity-constrained,in vivo editing and LNP,worldwide,2030,0,133,1960
+capacity-constrained,in vivo editing and LNP,worldwide,2031,0,310,2707
+capacity-constrained,in vivo editing and LNP,worldwide,2032,0,451,3052
+capacity-constrained,in vivo editing and LNP,worldwide,2033,0,581,3269
+capacity-constrained,in vivo editing and LNP,worldwide,2034,0,660,3415
+capacity-constrained,in vivo editing and LNP,worldwide,2035,29,719,3597
+capacity-constrained,in vivo editing and LNP,worldwide,2036,53,787,3660
+baseline,all classes,US,2027,6032,6924,7736
+baseline,all classes,US,2028,5863,7238,9769
+baseline,all classes,US,2029,6089,8293,13113
+baseline,all classes,US,2030,6502,9561,16501
+baseline,all classes,US,2031,6968,10798,19330
+baseline,all classes,US,2032,7380,11931,21659
+baseline,all classes,US,2033,7741,12923,23488
+baseline,all classes,US,2034,8073,13791,24999
+baseline,all classes,US,2035,8338,14446,26331
+baseline,all classes,US,2036,8555,15063,27498
+baseline,all classes,Europe,2027,6648,7620,8151
+baseline,all classes,Europe,2028,6548,7897,9184
+baseline,all classes,Europe,2029,6733,8633,11379
+baseline,all classes,Europe,2030,7143,9686,14244
+baseline,all classes,Europe,2031,7732,10958,17196
+baseline,all classes,Europe,2032,8341,12278,19957
+baseline,all classes,Europe,2033,8816,13544,22454
+baseline,all classes,Europe,2034,9186,14708,24745
+baseline,all classes,Europe,2035,9554,15695,26681
+baseline,all classes,Europe,2036,9853,16547,28775
+baseline,all classes,rest of world,2027,2217,2540,2717
+baseline,all classes,rest of world,2028,2183,2633,3062
+baseline,all classes,rest of world,2029,2245,2878,3792
+baseline,all classes,rest of world,2030,2381,3229,4748
+baseline,all classes,rest of world,2031,2578,3652,5732
+baseline,all classes,rest of world,2032,2780,4092,6652
+baseline,all classes,rest of world,2033,2938,4514,7485
+baseline,all classes,rest of world,2034,3062,4903,8248
+baseline,all classes,rest of world,2035,3184,5233,8894
+baseline,all classes,rest of world,2036,3285,5516,9592
+baseline,all classes,worldwide,2027,14938,17058,18616
+baseline,all classes,worldwide,2028,14659,17772,21937
+baseline,all classes,worldwide,2029,15206,19868,28025
+baseline,all classes,worldwide,2030,16205,22569,35216
+baseline,all classes,worldwide,2031,17447,25494,41942
+baseline,all classes,worldwide,2032,18677,28357,47889
+baseline,all classes,worldwide,2033,19595,31040,53299
+baseline,all classes,worldwide,2034,20399,33417,57740
+baseline,all classes,worldwide,2035,21080,35411,62004
+baseline,all classes,worldwide,2036,21762,37153,65997
+compressed access,all classes,US,2027,6057,6934,7729
+compressed access,all classes,US,2028,5866,7234,9704
+compressed access,all classes,US,2029,6126,8251,13075
+compressed access,all classes,US,2030,6543,9478,16359
+compressed access,all classes,US,2031,7025,10752,19105
+compressed access,all classes,US,2032,7493,11919,21454
+compressed access,all classes,US,2033,7867,12930,23344
+compressed access,all classes,US,2034,8225,13738,24912
+compressed access,all classes,US,2035,8511,14429,26269
+compressed access,all classes,US,2036,8713,15048,27469
+compressed access,all classes,Europe,2027,6656,7687,8390
+compressed access,all classes,Europe,2028,6676,8182,10101
+compressed access,all classes,Europe,2029,7042,9178,13079
+compressed access,all classes,Europe,2030,7643,10468,16084
+compressed access,all classes,Europe,2031,8288,11869,19016
+compressed access,all classes,Europe,2032,8803,13179,21724
+compressed access,all classes,Europe,2033,9271,14312,24205
+compressed access,all classes,Europe,2034,9655,15444,26307
+compressed access,all classes,Europe,2035,9950,16309,28255
+compressed access,all classes,Europe,2036,10185,17202,30062
+compressed access,all classes,rest of world,2027,2219,2563,2796
+compressed access,all classes,rest of world,2028,2225,2727,3367
+compressed access,all classes,rest of world,2029,2347,3060,4359
+compressed access,all classes,rest of world,2030,2548,3489,5361
+compressed access,all classes,rest of world,2031,2762,3957,6338
+compressed access,all classes,rest of world,2032,2935,4394,7242
+compressed access,all classes,rest of world,2033,3091,4770,8068
+compressed access,all classes,rest of world,2034,3218,5147,8769
+compressed access,all classes,rest of world,2035,3317,5436,9419
+compressed access,all classes,rest of world,2036,3394,5734,10021
+compressed access,all classes,worldwide,2027,14982,17144,18963
+compressed access,all classes,worldwide,2028,14825,18099,23143
+compressed access,all classes,worldwide,2029,15637,20491,30310
+compressed access,all classes,worldwide,2030,16853,23446,37742
+compressed access,all classes,worldwide,2031,18178,26582,44304
+compressed access,all classes,worldwide,2032,19268,29527,50243
+compressed access,all classes,worldwide,2033,20166,32066,55429
+compressed access,all classes,worldwide,2034,21180,34343,59891
+compressed access,all classes,worldwide,2035,21878,36216,63866
+compressed access,all classes,worldwide,2036,22394,37933,67549
+capacity-constrained,all classes,US,2027,6032,6924,7706
+capacity-constrained,all classes,US,2028,5863,7238,9769
+capacity-constrained,all classes,US,2029,6089,8293,13113
+capacity-constrained,all classes,US,2030,6502,9561,16388
+capacity-constrained,all classes,US,2031,6968,10798,18881
+capacity-constrained,all classes,US,2032,7380,11931,20853
+capacity-constrained,all classes,US,2033,7741,12923,22564
+capacity-constrained,all classes,US,2034,8073,13791,24243
+capacity-constrained,all classes,US,2035,8338,14446,26062
+capacity-constrained,all classes,US,2036,8555,15063,27498
+capacity-constrained,all classes,Europe,2027,6648,7620,8151
+capacity-constrained,all classes,Europe,2028,6548,7897,9184
+capacity-constrained,all classes,Europe,2029,6733,8633,11379
+capacity-constrained,all classes,Europe,2030,7143,9686,14244
+capacity-constrained,all classes,Europe,2031,7732,10958,17196
+capacity-constrained,all classes,Europe,2032,8341,12278,19957
+capacity-constrained,all classes,Europe,2033,8816,13544,22454
+capacity-constrained,all classes,Europe,2034,9186,14708,24745
+capacity-constrained,all classes,Europe,2035,9554,15695,26681
+capacity-constrained,all classes,Europe,2036,9853,16547,28775
+capacity-constrained,all classes,rest of world,2027,2217,2540,2717
+capacity-constrained,all classes,rest of world,2028,2183,2633,3062
+capacity-constrained,all classes,rest of world,2029,2245,2878,3792
+capacity-constrained,all classes,rest of world,2030,2381,3229,4748
+capacity-constrained,all classes,rest of world,2031,2578,3652,5732
+capacity-constrained,all classes,rest of world,2032,2780,4092,6652
+capacity-constrained,all classes,rest of world,2033,2938,4514,7485
+capacity-constrained,all classes,rest of world,2034,3062,4903,8248
+capacity-constrained,all classes,rest of world,2035,3184,5233,8894
+capacity-constrained,all classes,rest of world,2036,3285,5516,9592
+capacity-constrained,all classes,worldwide,2027,14938,17058,18567
+capacity-constrained,all classes,worldwide,2028,14659,17772,21918
+capacity-constrained,all classes,worldwide,2029,15206,19868,27955
+capacity-constrained,all classes,worldwide,2030,16205,22569,35063
+capacity-constrained,all classes,worldwide,2031,17447,25494,41492
+capacity-constrained,all classes,worldwide,2032,18677,28357,47198
+capacity-constrained,all classes,worldwide,2033,19595,31040,52227
+capacity-constrained,all classes,worldwide,2034,20399,33417,57008
+capacity-constrained,all classes,worldwide,2035,21080,35411,61461
+capacity-constrained,all classes,worldwide,2036,21762,37153,65824

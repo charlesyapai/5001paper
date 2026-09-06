@@ -18,6 +18,11 @@ readme_index:
   remove_originals: false
 exclude:
   - .venv
+  - review
+  - OPEN_ITEMS.md
+  - referee_pitch.md
+  - research/README.md
+  - research/findings/README.md
   - code/__pycache__
   - "**/__pycache__"
   - Gemfile

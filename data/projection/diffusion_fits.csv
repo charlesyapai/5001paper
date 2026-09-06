@@ -1,0 +1,3 @@
+family,n_products,n_points,S_saturation_share,tau_years,initial_rate_S_over_tau_per_year,S_p10,S_p90,tau_p10,tau_p90,rmse_share,products,note
+CAR-T,7,40,0.915,8.57,0.107,0.318,1.0,2.29,9.98,0.195,"abecma, aucatzyl, breyanzi, carvykti, kymriah, tecartus, yescarta",
+one-time gene therapy,8,34,1.0,16.43,0.061,0.663,1.0,8.71,40.0,0.179,"casgevy, elevidys, hemgenix, luxturna, lyfgenia, roctavian, zolgensma, zynteglo",S and tau trade off on early curves; the initial rate S/tau is the identified quantity

@@ -42,6 +42,10 @@ Later scripts (run from this folder with `../../.venv/bin/python`):
 | `build_cart_by_country_2026-09-05.py` | `data/uptake/cart_by_country.csv` (F041) |
 | `build_investment_events_2026-09-05.py` | `data/investment/events.csv`, `events_summary.csv` (F042) |
 | `build_access_decisions_2026-09-05.py` | `data/access/decisions.csv`, `access_summary.csv` (F043) |
+| `project_landscape_2026-09-06.py [n_runs]` | `data/projection/approvals_projection.csv`, `access_projection.csv`, `patients_projection.csv`, `capacity_projection.csv`, `diffusion_fits.csv`, `pipeline_programmes.csv`, `projection_parameters.csv` (F044; D013) |
+| `figures_projection_2026-09-06.py` | `figures/Figure_P1_approvals_projection.png`, `Figure_P2_patients_projection.png` (F044) |
+| `build_governance_by_region_2026-09-06.py` | `data/access/governance_by_region.csv`, `stated_reasons.csv` (F045) |
+| `render_ledger_view.py` | `ledger.md`, the Pages view of this ledger; run after every ledger change |
 
 Order after a raw-table change: `build_uptake_series`, `build_eligible_ranges`, `curate_label_events`, `build_milestones`, then the
 independent builders (`net_price_variant`, `build_cart_by_country`, `build_investment_events`, `build_access_decisions`).

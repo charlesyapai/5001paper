@@ -2,8 +2,8 @@
 
 *How each health system decides whether to pay for a gene or cell therapy, how long it takes, and what it says when
 it says no. Tables: `data/access/governance_by_region.csv`, `stated_reasons.csv`, `decisions.csv`; findings F043 and
-F045. The regional sections for the United States, Singapore and China are being assembled from their own source
-tables and appear below as they are verified.*
+F045. The regional sections for the United States, Singapore and China draw on their own source tables
+(`data/access/raw/governance_{us,singapore,china}.csv`).*
 
 ## The pattern in one table
 
@@ -57,13 +57,89 @@ projection).
 ## Regional sections
 
 ### United States
-*In retrieval: Medicare coverage determination and payment rules, the Medicaid Cell and Gene Therapy Access Model,
-commercial coverage statements, treatment-centre counts and turnaround times.*
+
+The United States has no funding decision. Products are sold from approval (median 4.7 months to first revenue),
+and the questions the other systems settle in one committee are settled payer by payer and hospital by hospital.
+Three mechanisms carry the weight. Medicare covers CAR-T under a 2019 national coverage determination and pays
+inpatient cases through a dedicated diagnosis-related group created in 2021, whose relative weight rose from 36.1 in
+fiscal 2023 to 45.1 in fiscal 2027, topped up by new-technology add-on payments that are granted product by product
+and expire (Kymriah and Yescarta 186,500 then 242,450 dollars in 2019 and 2020; Casgevy 1.65 million and Lyfgenia
+2.33 million in fiscal 2025; Zevaskyn 2.05 million in fiscal 2027; Breyanzi refused once, Aucatzyl ruled not new).
+Medicaid, the payer for most sickle cell patients, was given a federal outcomes-based purchasing model in 2024 that 33
+states plus the District of Columbia and Puerto Rico had joined by July 2025, covering about 84 percent of Medicaid
+sickle cell beneficiaries, after a 2022 rule allowed manufacturers to report several "best prices" for value-based
+contracts. Commercial coverage is negotiated by sponsors: Krystal reports 97 percent of commercial lives covered for
+Vyjuvek, Vertex about 90 percent of United States patients with reimbursed access to Casgevy by the end of 2025,
+Autolus more than 90 percent of covered lives for Aucatzyl, and bluebird outcomes-based agreements covering about 200
+million lives.
+
+The friction shows up as time and travel rather than refusal. Published surveys find commercial prior authorisation
+for CAR-T taking 62 days against 32 for Medicare, a quarter of patients requiring single-case agreements, state
+Medicaid restriction rates of 54 to 68 percent, and a median 104 miles to a treatment centre for patients who go
+untreated against 34 for those treated. Capacity is the visible constraint: Yescarta opened with 16 certified centres
+in 2017 and had more than 150 by 2026, Kymriah 25 in 2018, Carvykti more than 140 with a stated 10,000-dose annual
+capacity target for 2025 after slot rationing in 2023, Casgevy 12 United States centres at launch in 2024 against a
+goal of about 50, bluebird's network growing from 27 to more than 70 qualified centres between December 2023 and
+November 2024, and 171 FACT-accredited immune effector cell programmes in all. Vein-to-vein times fell from 17 to 14
+days for Yescarta and stand at 70 to 105 days for bluebird's manufacturing.
+
+The blocker pattern is therefore a distributed one: no gate refuses a product, but every product must build its own
+network of certified hospitals, its own payer contracts and its own add-on payment, and the patients who fall out are
+those far from a centre or behind a slow authorisation. Sources and per-row status:
+`data/access/raw/governance_us.csv` (122 rows, 112 verified, mostly Federal Register texts and sponsor filings).
 
 ### Singapore
-*In retrieval: HSA registrations, ACE guidance and MOH subsidy listings, MediShield Life coverage, delivering
-hospitals and patient numbers, policy statements.*
+
+Singapore built a dedicated regulatory class and a dedicated funding list, and used both slowly and selectively.
+The Health Sciences Authority's cell, tissue and gene therapy framework came into force on 1 March 2021; Kymriah was
+approved eight days later as the first commercial CAR-T in Southeast Asia, Yescarta in March 2023, and five class-2
+products (including Zolgensma and Luxturna) were registered by April 2024. Elevidys is supplied unregistered under
+the Special Access Route. Funding followed a separate, later track: the Ministry of Health's CTGTP List opened on 1
+August 2024 with Kymriah as its only product, 41 months after registration, with a means-tested subsidy of up to 75
+percent capped at 150,000 Singapore dollars per course; MediShield Life and MediSave coverage (a claim limit of
+141,000 dollars) began in October 2025. Yescarta was refused in July 2024 on an "unacceptable pricing proposal",
+reversed in November 2024 after a revised price, and listed for second-line use from April 2025 and third-line from
+August 2025. Zolgensma was refused for the list in September 2025 after a cost comparison with risdiplam, for about
+three babies a year; families have crowdfunded the 2.4 million dollar price. The Rare Disease Fund can pay for
+CTGTPs case by case and had supported eight patients by November 2023, none of them a cohort gene therapy.
+
+Delivery is concentrated: Singapore General Hospital was the sole centre reporting CAR-T to the EBMT survey in 2024,
+with 12 patients, about 2 per million residents against 17 in Germany. The National University Hospital has run an
+in-house CD7 CAR-T programme since 2019 (17 patients) and KK Women's and Children's Hospital a point-of-care CD19
+CAR-T trial since 2022; ACTRIS, the national manufacturing centre, was established in 2020 and launched in 2023.
+The ministry's own estimate of 20 to 30 patients a year who could benefit from Yescarta sets the scale.
+
+The blocker pattern is therefore not the regulator, which moved early, nor the hospitals, which manufacture their own
+constructs, but the value gate: one committee (the Drug Advisory Committee, on Agency for Care Effectiveness
+evaluations, with a Health Technology Advisory Council for high-cost cases) deciding product by product, with price
+the stated reason both times a product was refused. Sources and per-row status: `data/access/raw/governance_singapore.csv`
+(95 rows, 44 verified; HSA's product database is a web application whose listing dates could not be read directly).
 
 ### China
-*In retrieval: NMPA approvals of imported and domestic CAR-T and gene therapies, launch prices and cuts, National
-Reimbursement Drug List outcomes, city insurance coverage, centres and treated patients.*
+
+China approved quickly, built the widest hospital network, and left payment to insurers outside the state scheme.
+The regulator treated cell therapies as drugs from the December 2017 guideline and has approved eight CAR-Ts since
+June 2021: Fosun Kite's licensed axicabtagene ciloleucel (Yikaida, 22 June 2021), JW's relmacabtagene autoleucel
+(September 2021), IASO's equecabtagene autoleucel and Juventas's inaticabtagene autoleucel (2023), CARsgen's
+zevorcabtagene autoleucel (March 2024), Legend's ciltacabtagene autoleucel (August 2024, a Chinese-origin construct
+approved in the United States two years earlier), and in June 2026 the first CAR-T for a solid tumour, CARsgen's
+satricabtagene autoleucel for Claudin18.2-positive gastric cancer. China's first haemophilia B gene therapy (BBM-H901,
+Belief BioMed with Takeda) followed in April 2025. Registered CAR-T trials in China outnumber those in the United States
+for leukaemia and lymphoma.
+
+Payment is the blocker, and it has taken an unusual form. Launch prices were 1.2 million yuan for Yikaida, 1.29
+million for Carteyva and 1.17 million for Fucaso; domestic products launched later priced near 1 million. No CAR-T has
+entered the basic National Reimbursement Drug List in any round from 2021 to 2025 (Yikaida applied in July 2023 and July
+2024 and was not admitted). Instead, coverage came through city supplementary schemes (Huiminbao) and commercial
+policies: Yikaida was in more than 110 city schemes and 80 commercial products by the end of 2024, and Shanghai's
+Huhuibao names three CAR-Ts in its claims guide. In December 2025 the National Healthcare Security Administration
+created a second list, the Commercial Health Insurance Innovative Drug List, and placed all five domestically marketed
+CAR-Ts on it (Carvykti excluded), valid from January 2026 to December 2027. The state has thus formalised a two-tier
+architecture: the basic list will not carry a million-yuan therapy, and a parallel list signals to private insurers what
+they should.
+
+Delivery scaled fastest of any system: more than 180 registered treatment centres across 28 provinces for Yikaida alone
+by the end of 2024, against 160 in the whole United States, yet cumulative treated patients were about 800 for Yikaida
+after three and a half years, so the network is broad and thin. Sources and per-row status:
+`data/access/raw/governance_china.csv` (111 rows, 40 verified; nmpa.gov.cn and cde.org.cn block direct fetches, so
+approval dates come from sponsor filings and the NHSA notices).

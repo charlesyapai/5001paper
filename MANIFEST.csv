@@ -233,11 +233,9 @@ research/findings/ledger.md,50.1,Rendered view of the findings ledger (regenerat
 research/findings/project_landscape_2026-09-06.py,35.5,"Staged Monte Carlo landscape projection with backcast and calibration (D013, F044)."
 research/findings/figures_projection_2026-09-06.py,4.4,Figures P1 and P2 from the projection tables (F044).
 research/findings/build_governance_by_region_2026-09-06.py,6.9,Governance and stated-reason coding by system (F045).
-data/projection/pipeline_programmes.csv,16.1,"Industry programmes per platform at highest active phase, 2026 and end-2019 (F044)."
 data/projection/projection_parameters.csv,7.1,"Every fitted or assumed projection parameter with its source (F044, D013)."
 data/projection/approvals_projection.csv,11.7,Backcast against the record and forecast approvals 2027 to 2036 (F044).
 data/projection/access_projection.csv,7.2,Products with funded access per system and year (F044).
-data/projection/diffusion_fits.csv,0.5,Class diffusion curve fits (F044).
 data/projection/patients_projection.csv,39.2,"Patients per year by class, region and scenario (F044)."
 data/projection/capacity_projection.csv,0.8,CAR-T demand against centres and throughput (F044).
 data/access/governance_by_region.csv,2.9,"Governance signature per system: bodies, lag, funded share, arrangements, reason categories (F045)."
@@ -256,3 +254,17 @@ data/access/access_survival_summary.csv,1.7,"Share funded by 12 to 60 months wit
 data/access/access_indication_durations.csv,26.1,"EU-system decision rows re-dated from the extension indication's authorisation (F047)."
 research/findings/fetch_trial_interventions_2026-09-07.py,3.9,"Registry fetch of intervention names and site countries by NCT id for the genetic subfamilies."
 data/projection/raw/trial_interventions.csv,593.1,"Intervention names, other names, site countries and sponsor for 2,982 interventional trials (fetched 2026-09-07)."
+research/findings/build_pipeline_constructs_2026-09-07.py,13.0,"Industry pipeline at construct level and the cohort's phase durations (F048)."
+data/projection/pipeline_constructs.csv,59.3,"Constructs per sponsor and class with phases, starts, sites and approved product (F048)."
+data/projection/phase_durations.csv,4.3,"Phase-2 and phase-3 start to approval durations from the cohort's own trials (F048)."
+research/findings/fit_diffusion_2026-09-07.py,14.9,"Bass diffusion fits with shrinkage and leave-one-product-out checks (F049)."
+data/projection/diffusion_bass_fits.csv,13.9,"Pooled, per-product and class-level Bass parameters (F049)."
+data/projection/diffusion_loo.csv,2.5,"Leave-one-product-out predictive checks (F049)."
+data/projection/diffusion_paths.csv,44.1,"Observed and fitted penetration per product and quarter (F049)."
+research/findings/project_landscape_2026-09-07.py,47.0,"Landscape projection version 2 with validated pipeline unit, cumulative-incidence funding, Bass diffusion and sensitivity (D014, F050)."
+research/findings/figures_projection_2026-09-07.py,8.8,"Figures P1 to P4 from the projection tables (F050)."
+data/projection/sensitivity_oneway.csv,2.3,"One-way sensitivity (tornado) of the projection (F050)."
+data/projection/sensitivity_structural.csv,1.0,"Structural alternatives: pipeline units, calibration, pooled diffusion (F050)."
+data/projection/validation.csv,1.4,"Validation of the projection in ISPOR-SMDM terms (F050)."
+figures/Figure_P3_sensitivity.png,124.0,"Fig P3 - one-way sensitivity and structural alternatives of the projection"
+figures/Figure_P4_access_incidence.png,70.9,"Fig P4 - cumulative incidence of funded access per system (F047)"

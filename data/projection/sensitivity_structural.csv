@@ -1,0 +1,8 @@
+alternative,approvals_2027_2036_all_genetic_p50,approvals_2027_2036_uncalibrated_p50,patients_worldwide_2031_p50,patients_worldwide_2036_p50,patients_worldwide_2036_p10,patients_worldwide_2036_p90,patients_us_2036_p50,cart_us_2036_p50,funded_products_germany_2036_p50,funded_products_england_2036_p50
+"base (assumptions at base values, sampling uncertainty only)",62,62,28670,40885,27635,56916,16586,12802,61,39
+"pipeline: construct, US or EU site (calibrated where the backcast misses)",54,79,27849,41181,26806,57712,16455,13701,54,34
+"pipeline: construct, all sites",58,122,26232,39471,25626,58089,16517,12209,57,36
+"pipeline: sponsor, all sites (D013 proxy)",59,87,27659,38770,26220,58295,16226,12282,58,37
+"primary variant, calibration forced",52,63,27261,38268,26153,53376,15520,12385,53,34
+"construct, US or EU site, no calibration",78,78,31929,48248,34226,66232,20403,15531,73,47
+diffusion: pooled curve instead of per-product tuples,62,62,29424,44201,30432,60860,17883,14474,61,39

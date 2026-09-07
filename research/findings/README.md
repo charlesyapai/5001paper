@@ -47,7 +47,12 @@ Later scripts (run from this folder with `../../.venv/bin/python`):
 | `build_governance_by_region_2026-09-06.py` | `data/access/governance_by_region.csv`, `stated_reasons.csv` (F045) |
 | `access_time_to_event_2026-09-07.py` | `data/access/access_time_to_event.csv`, `access_survival_curves.csv`, `access_survival_summary.csv`, `access_indication_durations.csv` (F047); run after `build_access_decisions` |
 | `fetch_trial_interventions_2026-09-07.py` | `data/projection/raw/trial_interventions.csv` (live registry query by NCT id: intervention names, site countries) |
+| `build_pipeline_constructs_2026-09-07.py` | `data/projection/pipeline_constructs.csv`, `phase_durations.csv` (F048); needs `raw/trial_interventions.csv` |
+| `fit_diffusion_2026-09-07.py` | `data/projection/diffusion_bass_fits.csv`, `diffusion_loo.csv`, `diffusion_paths.csv` (F049); run after `build_milestones` |
+| `project_landscape_2026-09-07.py [n_runs]` | supersedes the 09-06 script (D014): `approvals_projection.csv`, `access_projection.csv`, `patients_projection.csv`, `capacity_projection.csv`, `projection_parameters.csv`, `sensitivity_oneway.csv`, `sensitivity_structural.csv`, `validation.csv` (F050); needs F047, F048, F049 outputs |
+| `figures_projection_2026-09-07.py` | `figures/Figure_P1` to `Figure_P4` (F050) |
 | `render_ledger_view.py` | `ledger.md`, the Pages view of this ledger; run after every ledger change |
 
 Order after a raw-table change: `build_uptake_series`, `build_eligible_ranges`, `curate_label_events`, `build_milestones`, then the
-independent builders (`net_price_variant`, `build_cart_by_country`, `build_investment_events`, `build_access_decisions`).
+independent builders (`net_price_variant`, `build_cart_by_country`, `build_investment_events`, `build_access_decisions`), then
+`access_time_to_event`, `build_pipeline_constructs`, `fit_diffusion`, `project_landscape_2026-09-07`, `figures_projection_2026-09-07`.

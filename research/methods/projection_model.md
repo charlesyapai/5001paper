@@ -49,3 +49,21 @@ CAR-T 0.45, AAV 0.50, lentiviral 1.0, CRISPR 0.50, in vivo 0.58 bring the backca
 inside the band. Outputs under `data/projection/`; figures `Figure_P1_approvals_projection.png` and
 `Figure_P2_patients_projection.png` from `figures_projection_2026-09-06.py`. The donor-mapped frontier milestone
 table above is still to be produced.
+
+**Implementation, version 2, 7 September 2026 (D014).** `research/findings/project_landscape_2026-09-07.py` replaces the
+6 September script. Stage A: constructs from `pipeline_constructs.csv` (F048); the primary unit is one lead programme per
+sponsor and class among constructs with a US or European site, chosen because its uncalibrated backcast (18, 13 to 23)
+covers the 16 approvals of 2020 to 2025 while the construct-level and all-site units overpredict (26 to 38); each
+programme survives its remaining S06 transitions and its time to approval is drawn from the class lognormal (F032)
+conditional on the time already elapsed since its first trial (left truncation), or for phase-3 programmes from the
+cohort's phase-3-start-to-approval lognormal (3.6 years median, sigma 0.55, n 18) conditional on the time since the
+phase-3 start. Stage B: funding times per system are inverse draws from the Aalen-Johansen cumulative incidence (F047),
+scaled within its bootstrap band in the probabilistic run. Stage C: Bass curves (F049); CAR-T as a class follows the
+registry-total fits per region with a bootstrap tuple per run, new-disease approvals add their own pools with a
+per-product tuple; one-time therapies continue their own shrunk fits and new approvals draw a tuple and a pool; rest
+of world is a share of US plus Europe. Uncertainty: fourteen assumptions with ranges and sources
+(`projection_parameters.csv`, block "assumption") are drawn per block of runs in the headline run; `sensitivity_oneway.csv`
+holds the tornado, `sensitivity_structural.csv` the pipeline units, calibration on and off and the pooled diffusion
+curve; `validation.csv` records face, internal, cross, external and predictive validity in ISPOR-SMDM terms. Figures
+P1 to P4 from `figures_projection_2026-09-07.py`. The per-platform frontier milestone table above is still to be
+produced.

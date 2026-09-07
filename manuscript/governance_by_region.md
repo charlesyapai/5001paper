@@ -3,19 +3,19 @@
 *How each health system decides whether to pay for a gene or cell therapy, how long it takes, and what it says when
 it says no. Tables: `data/access/governance_by_region.csv`, `stated_reasons.csv`, `decisions.csv`; findings F043 and
 F045. The regional sections for the United States, Singapore and China draw on their own source tables
-(`data/access/raw/governance_{us,singapore,china}.csv`).*
+(`data/access/raw/governance_{us,singapore,china}.csv`). The funded shares are cumulative incidence at five years from authorisation with every authorised product at risk and refusals and withdrawals as competing events (F047; Figure P4 in the landscape page).*
 
 ## The pattern in one table
 
-| System | Bodies | Months from authorisation to a funding decision (median) | Share of approvals ever funded | What the refusals and conditions say |
+| System | Bodies | Months from authorisation to funding, among funded products (median) | Share of authorised products funded within five years (routine listing only) | What the refusals and conditions say |
 |---|---|---|---|---|
-| Germany | G-BA benefit assessment, negotiated reimbursement amount | 9.8 | 0.91 | Added benefit "not quantifiable" for almost every first resolution; evidence and comparator language in three quarters of rows; price in half; the only system that states an eligible count almost every time |
-| United States | Medicare coverage rules, Medicaid, commercial payers; no single decision | 4.7 to first revenue | 0.82 | Payment settled product by product; coverage restrictions rather than refusals (regional section below) |
-| Italy | AIFA determination in the Gazzetta Ufficiale | 17.4 | 0.84 | Price in four fifths of rows; managed-entry agreements (payment at or by result, capping, registries) in 87 percent; innovativeness often conditional |
-| France | HAS opinion, early access, JO listing, CEPS price | 5.2 with early access, 23.4 without | 0.67 | Population restriction and comparator or evidence in two thirds of rows; no cost-effectiveness language in the opinion; early access gives patients the product before the price exists |
-| England | NICE appraisal, Cancer Drugs Fund, managed access | 9.4 | 0.57 | Cost-effectiveness in two thirds of rows; a third of first appraisals terminated because the company did not submit; managed access for CAR-T |
-| Australia | MSAC or PBAC advice, then funding | 3.7 to committee support | 0.70 | Price, cost-effectiveness and restriction in equal measure; nine deferrals before support; committee runs alongside registration |
-| Canada | CADTH or CDA-AMC recommendation, then pCPA negotiation | 21.0 to a negotiated letter | 0.64 | Reimburse with conditions in ten of eleven first recommendations; price reductions of 10 to 99 percent demanded; two negotiations closed without agreement |
+| Germany | G-BA benefit assessment, negotiated reimbursement amount | 9.9 | 0.83 | Added benefit "not quantifiable" for almost every first resolution; evidence and comparator language in three quarters of rows; price in half; the only system that states an eligible count almost every time |
+| United States | Medicare coverage rules, Medicaid, commercial payers; no single decision | 4.4 to first revenue | 1.00 of products with public sales | Payment settled product by product; coverage restrictions rather than refusals (regional section below) |
+| Italy | AIFA determination in the Gazzetta Ufficiale | 17.4 | 0.70 | Price in four fifths of rows; managed-entry agreements (payment at or by result, capping, registries) in 87 percent; innovativeness often conditional |
+| France | HAS opinion, early access, JO listing, CEPS price | 5.2 with early access, 23.4 without | 0.48 (0.36) | Population restriction and comparator or evidence in two thirds of rows; no cost-effectiveness language in the opinion; early access gives patients the product before the price exists |
+| England | NICE appraisal, Cancer Drugs Fund, managed access | 9.4 | 0.53 (0.40) | Cost-effectiveness in two thirds of rows; a third of first appraisals terminated because the company did not submit; managed access for CAR-T |
+| Australia | MSAC or PBAC advice, then funding | 3.7 to committee support | 0.88 (eight products) | Price, cost-effectiveness and restriction in equal measure; nine deferrals before support; committee runs alongside registration |
+| Canada | CADTH or CDA-AMC recommendation, then pCPA negotiation | 23.0 to a negotiated letter | 0.42 | Reimburse with conditions in ten of eleven first recommendations; price reductions of 10 to 99 percent demanded; two negotiations closed without agreement |
 
 Read across the columns and three different kinds of system appear.
 
@@ -24,7 +24,7 @@ lets the benefit assessment set the price; the friction shows up as "not quantif
 requirements and negotiated prices that fall at re-assessment (Kymriah from 320,000 to 239,000 euros). Italy funds most
 products but wraps them in outcomes-based contracts and registries, and takes a year and a half to do it.
 
-**Systems that gate on value and let a third of products fall out.** England's appraisal decides whether the product
+**Systems that gate on value and let half of products fall out.** Counting every authorised product, including the ones never submitted, England and France fund about half within five years and Canada two fifths. England's appraisal decides whether the product
 enters at all; the products that never reach NICE (Abecma, Carvykti, the bluebird therapies) are the blocker, not the
 appraisal time. Canada's committee is fast but the negotiation that follows takes two years and fails outright for some
 products (Carvykti, Beqvez).

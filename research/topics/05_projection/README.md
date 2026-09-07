@@ -18,6 +18,8 @@ CAR-T; and the comparison of the field's earlier forecasts with the realized rec
 
 - Landscape projection to 2036 (F044, D013): 54 (46 to 63) genetic-product approvals 2027 to 2036, front-loaded 2028 to 2030 then falling to 2 to 3 a year as the phase-2 stock clears; the calibrated backcast reproduces the 2020 to 2025 record after halving the registry-implied rate for CAR-T and AAV. Patients treated rise from about 17,000 a year worldwide to 25,000 (17,000 to 42,000) in 2031 and 37,000 (22,000 to 66,000) in 2036, four fifths of them CAR-T; compressing access lags adds 3 percent; centre capacity keeps pace only if centre growth continues at 12 percent a year.
 
+- Projection version 2 (D014; F048 to F050). Pipeline at construct level with four units backcast: only one lead programme per sponsor and class among constructs with a US or European site reproduces the 2020 to 2025 record without calibration (18, 13 to 23, against 16). Bass diffusion with per-product parameters and leave-one-out checks: a class curve predicts a held-out one-time therapy within a factor of two to three only. Forecast: 63 (54 to 73) genetic approvals 2027 to 2036; patients treated 31,800 (20,800 to 50,000) in 2031 and 48,900 (28,900 to 79,800) in 2036 worldwide, CAR-T seven eighths; the eligible flow of newly opened CAR-T diseases is the assumption that moves the answer most; US centre capacity binds at the US accreditation trend. Tables and sensitivity under `data/projection/`; figures P1 to P4.
+
 ## Sources
 S16, S17, S20; layers 01 to 04.
 
@@ -26,7 +28,7 @@ S16, S17, S20; layers 01 to 04.
 
 ## Tasks
 1. Month 1: extract the projected series from S16 and S17. **Done 2026-09-04 (F033); S16 full text still paywalled.**
-2. Month 4: build the Monte Carlo; run the backcast; run scenarios; produce figures 6 and 7. **Class-level version done 2026-09-06 (F044; Figures P1 and P2); the per-platform frontier milestone table with donor mapping remains.**
+2. Month 4: build the Monte Carlo; run the backcast; run scenarios; produce figures 6 and 7. **Class-level version done 2026-09-06 (F044) and rebuilt 2026-09-07 with a validated pipeline unit, measured durations, cumulative-incidence funding, Bass diffusion and sensitivity (F050; Figures P1 to P4); the per-platform frontier milestone table with donor mapping remains.**
 
 ## Open questions
 - Which mature class is the right donor of stage durations for each frontier platform. Proposal in the method file; to be argued in the paper.

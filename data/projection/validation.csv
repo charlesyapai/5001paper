@@ -1,0 +1,8 @@
+validity,test,result,status
+face,every parameter traced to a table and finding id; assumptions listed with ranges and sources,"projection_parameters.csv, 14 assumptions with ranges",done
+internal (verification),deterministic replication under a fixed seed; conservation (patients by region sum to worldwide; cumulative approvals equal the sum of annual),"seeds 20260907, 500 and 100 to 109; tables regenerate byte for byte",done
+cross,approvals against NEWDIGS 2020 and Tufts 2023 (F033); patients against S16 and S17,"all-genetic approvals 2027 to 2036 median 63 (54 to 73); worldwide patients 2036 48927 (28940 to 79779) against S16's 93,000 in 2030",done; see forecast_vs_record.csv
+external,"backcast from the end-2019 pipeline against the 2020 to 2025 record, per variant and per class",primary variant cumulative 18 (14 to 22) against 16; calibration needed: no; four variants in approvals_projection.csv,done
+external (diffusion),leave-one-product-out predictive checks of the Bass curves,"diffusion_loo.csv: median absolute log error at year 3 CAR-T 0.24, one-time 0.62; coverage by the other products' p10 to p90 0.67",done (F049)
+predictive,"2027 approvals and 2026 registry totals (CIBMTR, EBMT) against the projection when published",to be assessed in 2027,open
+uncertainty,probabilistic run with every assumption drawn within its range; one-way tornado; structural alternatives,"sensitivity_oneway.csv, sensitivity_structural.csv",done

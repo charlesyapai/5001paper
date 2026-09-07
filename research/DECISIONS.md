@@ -119,3 +119,25 @@ programmes explicit rather than hidden.
 frontier-platform milestone table in `projection_model.md` remains a month-4 output. Assumptions to revisit: the
 programme proxy, the share of CAR-T approvals opening a new disease (0.25), the Europe population ratio (1.5), the
 Europe share of ex-US patients (0.75), and the rest-of-world share.
+
+## D014 · 2026-09-07 · The projection is rebuilt on measured distributions, validated by unit, and carries its assumptions as ranges
+**Decision.** `research/findings/project_landscape_2026-09-07.py` supersedes the D013 implementation. (A) The pipeline unit is
+one lead programme per sponsor and class among registry constructs with a US or European trial site (F048); approved constructs
+leave the pipeline at approval. Four units were backcast from the end-2019 pipeline and the one whose uncalibrated band covers the
+2020 to 2025 record is used forward without calibration; the other three are reported as structural alternatives. If a future
+rerun's primary backcast misses the record, the correction is estimated per class as a Gamma posterior of realised over predicted
+and drawn per run, never fixed. Time to approval is drawn from the class distribution conditional on the time already elapsed since
+the construct's first trial, and from the cohort's phase-3-start-to-approval distribution for phase-3 constructs; the remaining-share
+ranges of D013 are dropped. (B) Each approval draws its funding time per system from the Aalen-Johansen cumulative incidence of
+F047, which carries the never-funded mass. (C) Uptake follows Bass curves with per-product parameters drawn from the shrunk
+per-product set (F049); CAR-T as a class follows the registry-total fits per region with bootstrap tuples; rest of world is an
+explicit share. (D) Every fixed assumption is listed with a range and a source in `projection_parameters.csv`, drawn per run in the
+headline probabilistic run, and varied one at a time in a tornado; structural alternatives and an ISPOR-SMDM validation table are
+written with the outputs.
+**Rationale.** The referee objections listed in the 7 September handover: the sponsor proxy and its fudge factor, the assumed
+remaining shares, the naive funded share, the unidentified diffusion ceiling and the sampling-only bands. Choosing the pipeline unit
+on the backcast is model selection on the validation data; it is stated as such and the alternatives are shown.
+**Consequences.** F048, F049, F050 replace F044. `data/projection/pipeline_programmes.csv` and `diffusion_fits.csv` (D013 outputs)
+are removed; `pipeline_constructs.csv`, `phase_durations.csv`, `diffusion_bass_fits.csv`, `diffusion_loo.csv`,
+`sensitivity_oneway.csv`, `sensitivity_structural.csv` and `validation.csv` are added. Figures P3 (sensitivity) and P4 (funded
+access as cumulative incidence) join P1 and P2.

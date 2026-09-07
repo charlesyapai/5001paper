@@ -1,44 +1,64 @@
-block,class,parameter,value,source
-pipeline,CAR-T,industry programmes at phase 1 / 2 / 3 (2026-09),60/59/15,"trial_records.csv, sponsor x platform at highest active phase"
-pipeline,CAR-T,new programmes entering phase 1 per year,15.4,"first industry phase-1 start per sponsor, 2021 to 2025"
-pipeline,AAV,industry programmes at phase 1 / 2 / 3 (2026-09),13/37/19,"trial_records.csv, sponsor x platform at highest active phase"
-pipeline,AAV,new programmes entering phase 1 per year,3.0,"first industry phase-1 start per sponsor, 2021 to 2025"
-pipeline,lentiviral ex vivo,industry programmes at phase 1 / 2 / 3 (2026-09),8/10/4,"trial_records.csv, sponsor x platform at highest active phase"
-pipeline,lentiviral ex vivo,new programmes entering phase 1 per year,2.0,"first industry phase-1 start per sponsor, 2021 to 2025"
-pipeline,CRISPR ex vivo,industry programmes at phase 1 / 2 / 3 (2026-09),5/6/2,"trial_records.csv, sponsor x platform at highest active phase"
-pipeline,CRISPR ex vivo,new programmes entering phase 1 per year,1.2,"first industry phase-1 start per sponsor, 2021 to 2025"
-pipeline,in vivo editing and LNP,industry programmes at phase 1 / 2 / 3 (2026-09),5/7/0,"trial_records.csv, sponsor x platform at highest active phase"
-pipeline,in vivo editing and LNP,new programmes entering phase 1 per year,1.8,"first industry phase-1 start per sponsor, 2021 to 2025"
-clinical stage,CAR-T,"FIH to approval, lognormal (median years, sigma, n, donor)","6.4, 0.25, 7, CAR-T",first_in_human.csv (F032)
-clinical stage,AAV,"FIH to approval, lognormal (median years, sigma, n, donor)","6.2, 0.37, 11, AAV",first_in_human.csv (F032)
-clinical stage,lentiviral ex vivo,"FIH to approval, lognormal (median years, sigma, n, donor)","9.7, 0.35, 7, lentiviral ex vivo",first_in_human.csv (F032)
-clinical stage,CRISPR ex vivo,"FIH to approval, lognormal (median years, sigma, n, donor)","6.2, 0.37, 11, AAV",first_in_human.csv (F032)
-clinical stage,in vivo editing and LNP,"FIH to approval, lognormal (median years, sigma, n, donor)","6.2, 0.37, 11, AAV",first_in_human.csv (F032)
-pipeline,other genetic,"approvals per year outside the five projected classes, historical 2020 to 2025 rate (Poisson)",1.0,product_cohort.csv
-calibration,CAR-T,registry-to-approval calibration factor (realised 2020-2025 / backcast median; capped at 1),0.45,this script; the sponsor-level programme proxy overcounts programmes that never seek FDA or EMA approval
-calibration,AAV,registry-to-approval calibration factor (realised 2020-2025 / backcast median; capped at 1),0.5,this script; the sponsor-level programme proxy overcounts programmes that never seek FDA or EMA approval
-calibration,lentiviral ex vivo,registry-to-approval calibration factor (realised 2020-2025 / backcast median; capped at 1),1.0,this script; the sponsor-level programme proxy overcounts programmes that never seek FDA or EMA approval
-calibration,CRISPR ex vivo,registry-to-approval calibration factor (realised 2020-2025 / backcast median; capped at 1),0.5,this script; the sponsor-level programme proxy overcounts programmes that never seek FDA or EMA approval
-calibration,in vivo editing and LNP,registry-to-approval calibration factor (realised 2020-2025 / backcast median; capped at 1),0.58,this script; the sponsor-level programme proxy overcounts programmes that never seek FDA or EMA approval
-access,all,"Australia: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","3.7, 7; 0.70","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"Canada: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","21.0, 7; 0.64","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"England: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","9.4, 13; 0.57","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"France: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","5.2, 12; 0.67","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"Germany: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","9.8, 20; 0.91","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"Italy: months to first positive funding step (median, n); share of products authorised before 2025 that reached it","17.4, 16; 0.84","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"United States (first revenue): months to first positive funding step (median, n); share of products authorised before 2025 that reached it","4.7, 25; 0.82","access_summary.csv, decisions.csv (F043); uptake_summary.csv (F035) for the US"
-access,all,"compressed-access scenario lag (best observed system median, months)",3.7,min over systems
-diffusion,CAR-T,"saturating curve S(1-exp(-t/tau)) on penetration (S, tau years)","0.915, 8.57",patients_quarterly.csv over label-dated pools (F039); bootstrap over products
-diffusion,one-time gene therapy,"saturating curve S(1-exp(-t/tau)) on penetration (S, tau years)","1.000, 16.43",patients_quarterly.csv over label-dated pools (F039); bootstrap over products
-region,one-time gene therapy,"US share of worldwide patients (median over products with a real US split, else 0.6)",0.60 (n=0),patients_quarterly.csv; assumption where no split
-region,all,Europe share of ex-US patients (assumption),0.75,Gilead and BMS report Europe as most of ex-US CAR-T revenue; assumption for gene therapies
-CAR-T class,CAR-T,2024 anchors: US CIBMTR infusions; Europe EBMT patients,5266; 6082,cart_by_country.csv (F041)
-CAR-T class,CAR-T,"US class eligible flow per year (low, high); Europe = US x 1.5","6264, 41368",cart_by_country.csv eligible columns (F041); population ratio assumption
-CAR-T class,CAR-T,"share of projected CAR-T approvals opening a new disease, and its pool range",0.25; 400 to 9678,assumption; observed indication flows
-pools,AAV,"prevalent pool for a projected approval, log-uniform min to max of observed one-time therapy pools",860 to 11000,milestones.csv (F039)
-pools,lentiviral ex vivo,"prevalent pool for a projected approval, log-uniform min to max of observed one-time therapy pools",1000 to 25000,milestones.csv (F039)
-pools,CRISPR ex vivo,"prevalent pool for a projected approval, log-uniform min to max of observed one-time therapy pools",860 to 62000,milestones.csv (F039)
-pools,in vivo editing and LNP,"prevalent pool for a projected approval, log-uniform min to max of observed one-time therapy pools",860 to 62000,milestones.csv (F039)
-capacity,CAR-T,European CAR-T centres reporting to EBMT (2021 to 2024) and annual growth,"{2024: 278.0, 2023: 258.0, 2022: 214.0, 2021: 197.0}; 12.2%",cart_country_supplement.csv (F041)
-capacity,CAR-T,patients per centre-year: Europe average 2024; Germany 2024 (used as maximum),21.9; 36.9,cart_by_country.csv (F041)
-capacity,CAR-T,US authorised CAR-T treatment centres 2026 (Kite network),160,yescarta_disclosures.csv
+block,class,parameter,value,low,high,source
+pipeline,CAR-T,"constructs at phase 1 / 2 / 3, sponsor, US or EU site: 2026 active; end-2019",26/32/9; 10/12/1,,,pipeline_constructs.csv (F048)
+pipeline,AAV,"constructs at phase 1 / 2 / 3, sponsor, US or EU site: 2026 active; end-2019",8/29/12; 7/21/4,,,pipeline_constructs.csv (F048)
+pipeline,lentiviral ex vivo,"constructs at phase 1 / 2 / 3, sponsor, US or EU site: 2026 active; end-2019",3/5/3; 2/9/2,,,pipeline_constructs.csv (F048)
+pipeline,CRISPR ex vivo,"constructs at phase 1 / 2 / 3, sponsor, US or EU site: 2026 active; end-2019",3/5/1; 0/3/1,,,pipeline_constructs.csv (F048)
+pipeline,in vivo editing and LNP,"constructs at phase 1 / 2 / 3, sponsor, US or EU site: 2026 active; end-2019",2/6/0; 0/0/1,,,pipeline_constructs.csv (F048)
+pipeline,CAR-T,"constructs at phase 1 / 2 / 3, construct, US or EU site: 2026 active; end-2019",42/47/11; 21/17/1,,,pipeline_constructs.csv (F048)
+pipeline,AAV,"constructs at phase 1 / 2 / 3, construct, US or EU site: 2026 active; end-2019",12/39/12; 10/37/5,,,pipeline_constructs.csv (F048)
+pipeline,lentiviral ex vivo,"constructs at phase 1 / 2 / 3, construct, US or EU site: 2026 active; end-2019",3/6/3; 2/12/2,,,pipeline_constructs.csv (F048)
+pipeline,CRISPR ex vivo,"constructs at phase 1 / 2 / 3, construct, US or EU site: 2026 active; end-2019",3/5/1; 0/3/1,,,pipeline_constructs.csv (F048)
+pipeline,in vivo editing and LNP,"constructs at phase 1 / 2 / 3, construct, US or EU site: 2026 active; end-2019",3/7/0; 0/0/1,,,pipeline_constructs.csv (F048)
+pipeline,CAR-T,"constructs at phase 1 / 2 / 3, sponsor, all sites: 2026 active; end-2019",57/57/11; 23/29/1,,,pipeline_constructs.csv (F048)
+pipeline,AAV,"constructs at phase 1 / 2 / 3, sponsor, all sites: 2026 active; end-2019",11/37/16; 7/22/4,,,pipeline_constructs.csv (F048)
+pipeline,lentiviral ex vivo,"constructs at phase 1 / 2 / 3, sponsor, all sites: 2026 active; end-2019",8/10/3; 4/10/2,,,pipeline_constructs.csv (F048)
+pipeline,CRISPR ex vivo,"constructs at phase 1 / 2 / 3, sponsor, all sites: 2026 active; end-2019",5/6/1; 1/3/1,,,pipeline_constructs.csv (F048)
+pipeline,in vivo editing and LNP,"constructs at phase 1 / 2 / 3, sponsor, all sites: 2026 active; end-2019",5/7/0; 0/0/1,,,pipeline_constructs.csv (F048)
+pipeline,CAR-T,"constructs at phase 1 / 2 / 3, construct, all sites: 2026 active; end-2019",118/90/13; 54/47/1,,,pipeline_constructs.csv (F048)
+pipeline,AAV,"constructs at phase 1 / 2 / 3, construct, all sites: 2026 active; end-2019",19/50/17; 10/39/5,,,pipeline_constructs.csv (F048)
+pipeline,lentiviral ex vivo,"constructs at phase 1 / 2 / 3, construct, all sites: 2026 active; end-2019",11/11/3; 4/13/2,,,pipeline_constructs.csv (F048)
+pipeline,CRISPR ex vivo,"constructs at phase 1 / 2 / 3, construct, all sites: 2026 active; end-2019",6/6/1; 1/3/1,,,pipeline_constructs.csv (F048)
+pipeline,in vivo editing and LNP,"constructs at phase 1 / 2 / 3, construct, all sites: 2026 active; end-2019",9/8/0; 0/0/1,,,pipeline_constructs.csv (F048)
+pipeline,CAR-T,"new programmes entering per year, 2021 to 2025, by variant (sponsor, US or EU site; construct, US or EU site; sponsor, all sites; construct, all sites)",10.8; 18.2; 18.8; 42.2,,,pipeline_constructs.csv first_start
+clinical stage,CAR-T,"first trial to approval, lognormal (median years, sigma, n, donor); drawn conditional on time already elapsed","6.4, 0.25, 7, CAR-T",,,first_in_human.csv (F032)
+pipeline,AAV,"new programmes entering per year, 2021 to 2025, by variant (sponsor, US or EU site; construct, US or EU site; sponsor, all sites; construct, all sites)",6.8; 9.6; 9.4; 14.4,,,pipeline_constructs.csv first_start
+clinical stage,AAV,"first trial to approval, lognormal (median years, sigma, n, donor); drawn conditional on time already elapsed","6.2, 0.37, 11, AAV",,,first_in_human.csv (F032)
+pipeline,lentiviral ex vivo,"new programmes entering per year, 2021 to 2025, by variant (sponsor, US or EU site; construct, US or EU site; sponsor, all sites; construct, all sites)",1.2; 1.6; 3.0; 4.0,,,pipeline_constructs.csv first_start
+clinical stage,lentiviral ex vivo,"first trial to approval, lognormal (median years, sigma, n, donor); drawn conditional on time already elapsed","9.7, 0.35, 7, lentiviral ex vivo",,,first_in_human.csv (F032)
+pipeline,CRISPR ex vivo,"new programmes entering per year, 2021 to 2025, by variant (sponsor, US or EU site; construct, US or EU site; sponsor, all sites; construct, all sites)",1.2; 2.6; 2.0; 4.4,,,pipeline_constructs.csv first_start
+clinical stage,CRISPR ex vivo,"first trial to approval, lognormal (median years, sigma, n, donor); drawn conditional on time already elapsed","6.2, 0.37, 11, AAV",,,first_in_human.csv (F032)
+pipeline,in vivo editing and LNP,"new programmes entering per year, 2021 to 2025, by variant (sponsor, US or EU site; construct, US or EU site; sponsor, all sites; construct, all sites)",1.6; 2.2; 2.2; 3.4,,,pipeline_constructs.csv first_start
+clinical stage,in vivo editing and LNP,"first trial to approval, lognormal (median years, sigma, n, donor); drawn conditional on time already elapsed","6.2, 0.37, 11, AAV",,,first_in_human.csv (F032)
+clinical stage,all genetic,"phase-3 start to approval, lognormal (median years, sigma, n); drawn conditional on time elapsed since the phase-3 start","3.6, 0.55, 18",,,phase_durations.csv (F048)
+pipeline,other genetic,"approvals per year outside the five classes, 2020 to 2025 rate (Poisson)",1.0,,,product_cohort.csv
+calibration,five classes,"primary backcast 2020 to 2025 cumulative (p10, p50, p90) against the record; calibration applied","14, 18, 22 vs 16; no",,,this script
+access,all,"United States: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","1.00 (1.00 to 1.00), 27; 25",,,access_survival_summary.csv (F047)
+access,all,"Germany: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.83 (0.72 to 0.92), 28; 20",,,access_survival_summary.csv (F047)
+access,all,"Italy: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.70 (0.57 to 0.81), 28; 16",,,access_survival_summary.csv (F047)
+access,all,"England: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.53 (0.39 to 0.65), 28; 13",,,access_survival_summary.csv (F047)
+access,all,"France: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.48 (0.36 to 0.61), 28; 12",,,access_survival_summary.csv (F047)
+access,all,"Canada: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.42 (0.23 to 0.59), 14; 7",,,access_survival_summary.csv (F047)
+access,all,"Australia: share funded by 60 months (bootstrap p10 to p90), n at risk; funded today","0.88 (0.75 to 1.00), 8; 7",,,access_survival_summary.csv (F047)
+diffusion,CAR-T class,"US: Bass on registry totals, p, q, ceiling m patients per year (bootstrap p10 to p90)","0.110, 0.001, 9026 (4126 to 21699)",,,diffusion_bass_fits.csv (F049)
+diffusion,CAR-T class,"Europe: Bass on registry totals, p, q, ceiling m patients per year (bootstrap p10 to p90)","0.083, 0.001, 13815 (5210 to 42744)",,,diffusion_bass_fits.csv (F049)
+diffusion,CAR-T,"per-product Bass tuples (p, q, c) drawn for new approvals: n products; c range; pooled (p, q, c)","7; 0.19 to 1.00; 0.270, 0.401, 1.00",,,diffusion_bass_fits.csv (F049)
+diffusion,one-time,"per-product Bass tuples (p, q, c) drawn for new approvals: n products; c range; pooled (p, q, c)","10; 0.02 to 1.00; 0.025, 1.056, 0.26",,,diffusion_bass_fits.csv (F049)
+pools,AAV,"prevalent pool for a projected approval, log-uniform over the observed one-time therapy pools",860 to 11000,,,milestones.csv (F039)
+pools,lentiviral ex vivo,"prevalent pool for a projected approval, log-uniform over the observed one-time therapy pools",1000 to 25000,,,milestones.csv (F039)
+pools,CRISPR ex vivo,"prevalent pool for a projected approval, log-uniform over the observed one-time therapy pools",860 to 62000,,,milestones.csv (F039)
+pools,in vivo editing and LNP,"prevalent pool for a projected approval, log-uniform over the observed one-time therapy pools",860 to 62000,,,milestones.csv (F039)
+capacity,CAR-T,European centres reporting CAR-T to EBMT and annual growth; patients per centre-year (Europe average; Germany),"{2024: 278.0, 2023: 258.0, 2022: 214.0, 2021: 197.0}; 12.2%; 21.9; 36.9",,,"cart_country_supplement.csv, cart_by_country.csv (F041)"
+assumption,all,pipeline_variant,"sponsor, US or EU site",,,"F048: one lead programme per sponsor and class among constructs with a US or European trial site, the only variant whose uncalibrated backcast band covers the 2020 to 2025 record; the other three variants are backcast in approvals_projection.csv and run in sensitivity_structural.csv"
+assumption,all,phase12_success_as,2,1,2,a PHASE1|PHASE2 construct clears the phase-2 and phase-3 transitions only (base) or all three (low)
+assumption,all,entry_multiplier,1.0,0.5,1.5,new constructs entering per year relative to the 2021 to 2025 rate
+assumption,all,new_disease_share,0.25,0.1,0.4,"share of projected CAR-T approvals that open a disease not already served (assumption, D013)"
+assumption,all,new_disease_pool,1968.0,400.0,9678.0,"annual US eligible flow of a newly opened CAR-T disease: log-uniform over the observed indication flows (F034, F039); base is the geometric mid"
+assumption,all,eu_pop_ratio,1.5,1.2,1.8,Europe (EBMT survey area) eligible flow over the US flow: population ratio with similar incidence (assumption)
+assumption,all,row_share,0.17,0.1,0.3,"rest of world as a share of US plus Europe patients: 2024 registry rows give Japan 503 (JDCHCT, provisional), China about 300 to 600 a year from sponsor statements (F046), Saudi Arabia 41, Singapore 12; Australia, Canada and Korea unpublished"
+assumption,all,us_share_gt,0.6,0.45,0.75,US share of worldwide patients for one-time therapies (no sponsor reports a true US split; n=0 observed)
+assumption,all,count_basis,1.0,0.83,1.13,revenue-derived patient counts carry the class net-to-list factor 0.76; the calibration range 0.63 to 0.86 (F024) moves counts by this factor
+assumption,all,centre_growth,0.122,0.012,0.18,annual growth of qualified CAR-T centres: European EBMT rate 2021 to 2024 (base); US reporting centres 159 (CIBMTR 2020) to 171 (FACT 2026) (low)
+assumption,all,us_centres_2026,171,150,195,"US centres: FACT-accredited institutions with an immune effector cell service (171, read 2026-09-06); Kite 150+, Carvykti 140+ (F046)"
+assumption,all,throughput_max,36.897,21.878,36.897,patients per centre-year at capacity: Germany 2024 (base); Europe average (low)
+assumption,all,access_scale,1.0,p10,p90,cumulative incidence of funding per system scaled within its bootstrap band (F047)
+assumption,all,diffusion_source,per-product tuples,,,Bass parameters drawn per product from the shrunk per-product set (F049); structural alternative: pooled curve

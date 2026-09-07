@@ -29,6 +29,8 @@ events after approval.
 - Cross-country CAR-T table with both denominators (F041): 2024 patients per million Germany 17.2, France 15.9, US 15.5, Spain 15.3, Italy 12.8, UK 8.2; per 100 eligible France 50 to 81, US 13 to 84, Germany 16 to 70, UK 14 to 62; the per-eligible ranking cannot yet separate the US from Germany. Table: `data/uptake/cart_by_country.csv`.
 - Product-level net-price variant (US CAR-T at ASP or WAC in force, ex-US at the class factor) recovers 81 to 90% of Kite's disclosed cumulative floors against 103 to 110% for the class-factor series; the class factor stays primary (F040; D011 confirmed).
 
+- Bass diffusion fits with shrinkage and leave-one-product-out checks (F049): per-product ceilings run from 0.02 to 1.00 of the pool; a class curve predicts a held-out one-time therapy within a factor of two to three only; CAR-T class ceilings from the registry totals are identified within a factor of two (US 9,000 a year, 4,100 to 21,700). Tables: `data/projection/diffusion_bass_fits.csv`, `diffusion_loo.csv`.
+
 ## Sources
 Company 10-K, 10-Q, annual reports and earnings releases; disclosed patient counts; S11, S12, S13, S24 for CAR-T counts; FDA and EMA safety communications for restriction events.
 

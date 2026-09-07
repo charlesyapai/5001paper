@@ -33,7 +33,7 @@ Per product per system: approval date, submission date where public, decision da
 ## Tasks
 1. Month 1: confirm each body's document archive is searchable by product and yields decision dates. **Done 2026-09-05: NICE (curl), G-BA, AIFA (Gazzetta Ufficiale and TrovaNormeFarmaco), CDA-AMC (via NCBI Bookshelf and CJHT; cda-amc.ca returns 403) and HAS (via the BDPM bulk extracts; has-sante.fr returns 403) all yield dates; PBAC and MSAC via pbs.gov.au PSDs and Wayback (msac.gov.au and tga.gov.au unreachable).**
 2. Month 2: build `data/access/decisions.csv` for the cohort across six systems. **First pass done 2026-09-05 for six systems (F043); extension-indication dates re-derived from the EMA label events for 37 rows 2026-09-07 (F047); Australian funding start dates still to fill.**
-3. Month 2: draft and pilot the reason schema on 30 documents; human-code a validation sample. **Keyword schema piloted on all 294 usable rows 2026-09-06 (F045); human validation sample still to code.**
+3. Month 2: draft and pilot the reason schema on 30 documents; human-code a validation sample. **Keyword schema piloted on all 294 usable rows 2026-09-06 (F045); stratified validation sample of 60 rows and the kappa script written 2026-09-07 (`data/access/reason_validation_sample.csv`, `reason_kappa_2026-09-07.py`); the human coding itself is outstanding.**
 4. Month 2: compute approval-to-decision durations by class and system. **By system done 2026-09-05 (F043); by class next.**
 
 ## Open questions

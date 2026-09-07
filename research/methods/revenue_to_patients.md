@@ -68,3 +68,11 @@ times 0.76. It writes `data/uptake/patients_quarterly_variant.csv`, `net_price_v
 `net_price_variant_checks.csv`. The variant recovers 81 to 90 percent of Kite's disclosed cumulative
 floors where the class-factor series recovers 103 to 110 percent, so the class factor remains the primary
 series (D011). The variant is kept as a sensitivity bound.
+
+**Ex-US price series, 7 September 2026 (F051).** `research/findings/ex_us_price_variant_2026-09-07.py` assembles the
+public ex-US prices in the access tables (G-BA annual therapy cost, CEPS tarif, NICE and AIFA list prices) into
+`data/uptake/ex_us_price_series.csv` at ECB annual reference rates and reprices the Europe revenue of the five CAR-Ts
+with a Europe split at the German price in force (`patients_quarterly_exus_variant.csv`). The German negotiated price
+settles at 0.55 to 0.82 of the US launch list for CAR-T, and the repriced Europe counts sit within 12 percent of the
+class-factor counts, which supports keeping the 0.76 factor (D011) while giving every product with a German or French
+price a product-level ex-US alternative.

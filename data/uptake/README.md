@@ -28,3 +28,6 @@ Conventions: every penetration is a range (low = lower-bound patients over upper
 patients over lower-bound pool); worldwide revenue divided by a US or US-plus-EU denominator is flagged in
 the `flags` column; chronic therapies (Vyjuvek) are patient-years, course therapies (Provenge, Ryoncil) are
 courses.
+
+| `ex_us_price_series.csv`, `ex_us_price_summary.csv`, `patients_quarterly_exus_variant.csv` | Dated ex-US prices (Germany, France, England, Italy) at ECB annual rates with ratios to the US launch list; Europe CAR-T patients at the German price in force; built by `ex_us_price_variant_2026-09-07.py` | F051 |
+| `raw/ecb_fx_annual.csv` | ECB annual average USD and GBP per EUR, 2010 to 2025 (fetched 2026-09-07) | F051 |

@@ -51,6 +51,8 @@ Later scripts (run from this folder with `../../.venv/bin/python`):
 | `fit_diffusion_2026-09-07.py` | `data/projection/diffusion_bass_fits.csv`, `diffusion_loo.csv`, `diffusion_paths.csv` (F049); run after `build_milestones` |
 | `project_landscape_2026-09-07.py [n_runs]` | supersedes the 09-06 script (D014): `approvals_projection.csv`, `access_projection.csv`, `patients_projection.csv`, `capacity_projection.csv`, `projection_parameters.csv`, `sensitivity_oneway.csv`, `sensitivity_structural.csv`, `validation.csv` (F050); needs F047, F048, F049 outputs |
 | `figures_projection_2026-09-07.py` | `figures/Figure_P1` to `Figure_P4` (F050) |
+| `ex_us_price_variant_2026-09-07.py` | `data/uptake/ex_us_price_series.csv`, `ex_us_price_summary.csv`, `patients_quarterly_exus_variant.csv`, `raw/ecb_fx_annual.csv` (F051; live ECB fetch with the saved file as fallback) |
+| `reason_kappa_2026-09-07.py` | `data/access/reason_kappa.csv` from the human-coded `reason_validation_sample.csv` against `reason_validation_key.csv` (topic 02 task 3; waits for the coder) |
 | `render_ledger_view.py` | `ledger.md`, the Pages view of this ledger; run after every ledger change |
 
 Order after a raw-table change: `build_uptake_series`, `build_eligible_ranges`, `curate_label_events`, `build_milestones`, then the

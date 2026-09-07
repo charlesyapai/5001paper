@@ -20,3 +20,5 @@ Built 5 September 2026 by `research/findings/build_access_decisions_2026-09-05.p
 Conventions: outcome vocabulary recommended, recommended-restricted, recommended-managed-access, not-recommended,
 terminated-or-withdrawn, under-assessment, not-submitted, not-found; rows with status provisional-from-snippet or
 not-found never enter a duration; HAS avis rows read from the official BDPM extract are graded verified in the merge and say so in notes.
+
+Human validation of the reason coding (topic 02 task 3): `reason_validation_sample.csv` holds 60 rows (10 per system) with the verbatim committee text and blank `human_<category>` columns for a coder who has not seen the machine codes; `reason_validation_key.csv` holds the keyword codes for the same rows; `research/findings/reason_kappa_2026-09-07.py` computes agreement and Cohen's kappa per category into `reason_kappa.csv` once the sample is coded.

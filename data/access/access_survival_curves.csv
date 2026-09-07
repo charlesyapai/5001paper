@@ -1,0 +1,1695 @@
+endpoint,system,months,cif_funded,cif_competing,km_funded_competing_censored,n_at_risk_after
+primary,Australia,0,0.125,0.0,0.125,7
+primary,Australia,1,0.25,0.0,0.25,6
+primary,Australia,2,0.25,0.0,0.25,6
+primary,Australia,3,0.25,0.0,0.25,6
+primary,Australia,4,0.5,0.0,0.5,4
+primary,Australia,5,0.5,0.0,0.5,4
+primary,Australia,6,0.625,0.0,0.625,3
+primary,Australia,7,0.625,0.125,0.625,2
+primary,Australia,8,0.625,0.125,0.625,2
+primary,Australia,9,0.625,0.125,0.625,2
+primary,Australia,10,0.75,0.125,0.8125,1
+primary,Australia,11,0.75,0.125,0.8125,1
+primary,Australia,12,0.75,0.125,0.8125,1
+primary,Australia,13,0.75,0.125,0.8125,1
+primary,Australia,14,0.75,0.125,0.8125,1
+primary,Australia,15,0.75,0.125,0.8125,1
+primary,Australia,16,0.75,0.125,0.8125,1
+primary,Australia,17,0.875,0.125,1.0,0
+primary,Australia,18,0.875,0.125,1.0,0
+primary,Australia,19,0.875,0.125,1.0,0
+primary,Australia,20,0.875,0.125,1.0,0
+primary,Australia,21,0.875,0.125,1.0,0
+primary,Australia,22,0.875,0.125,1.0,0
+primary,Australia,23,0.875,0.125,1.0,0
+primary,Australia,24,0.875,0.125,1.0,0
+primary,Australia,25,0.875,0.125,1.0,0
+primary,Australia,26,0.875,0.125,1.0,0
+primary,Australia,27,0.875,0.125,1.0,0
+primary,Australia,28,0.875,0.125,1.0,0
+primary,Australia,29,0.875,0.125,1.0,0
+primary,Australia,30,0.875,0.125,1.0,0
+primary,Australia,31,0.875,0.125,1.0,0
+primary,Australia,32,0.875,0.125,1.0,0
+primary,Australia,33,0.875,0.125,1.0,0
+primary,Australia,34,0.875,0.125,1.0,0
+primary,Australia,35,0.875,0.125,1.0,0
+primary,Australia,36,0.875,0.125,1.0,0
+primary,Australia,37,0.875,0.125,1.0,0
+primary,Australia,38,0.875,0.125,1.0,0
+primary,Australia,39,0.875,0.125,1.0,0
+primary,Australia,40,0.875,0.125,1.0,0
+primary,Australia,41,0.875,0.125,1.0,0
+primary,Australia,42,0.875,0.125,1.0,0
+primary,Australia,43,0.875,0.125,1.0,0
+primary,Australia,44,0.875,0.125,1.0,0
+primary,Australia,45,0.875,0.125,1.0,0
+primary,Australia,46,0.875,0.125,1.0,0
+primary,Australia,47,0.875,0.125,1.0,0
+primary,Australia,48,0.875,0.125,1.0,0
+primary,Australia,49,0.875,0.125,1.0,0
+primary,Australia,50,0.875,0.125,1.0,0
+primary,Australia,51,0.875,0.125,1.0,0
+primary,Australia,52,0.875,0.125,1.0,0
+primary,Australia,53,0.875,0.125,1.0,0
+primary,Australia,54,0.875,0.125,1.0,0
+primary,Australia,55,0.875,0.125,1.0,0
+primary,Australia,56,0.875,0.125,1.0,0
+primary,Australia,57,0.875,0.125,1.0,0
+primary,Australia,58,0.875,0.125,1.0,0
+primary,Australia,59,0.875,0.125,1.0,0
+primary,Australia,60,0.875,0.125,1.0,0
+primary,Australia,61,0.875,0.125,1.0,0
+primary,Australia,62,0.875,0.125,1.0,0
+primary,Australia,63,0.875,0.125,1.0,0
+primary,Australia,64,0.875,0.125,1.0,0
+primary,Australia,65,0.875,0.125,1.0,0
+primary,Australia,66,0.875,0.125,1.0,0
+primary,Australia,67,0.875,0.125,1.0,0
+primary,Australia,68,0.875,0.125,1.0,0
+primary,Australia,69,0.875,0.125,1.0,0
+primary,Australia,70,0.875,0.125,1.0,0
+primary,Australia,71,0.875,0.125,1.0,0
+primary,Australia,72,0.875,0.125,1.0,0
+primary,Australia,73,0.875,0.125,1.0,0
+primary,Australia,74,0.875,0.125,1.0,0
+primary,Australia,75,0.875,0.125,1.0,0
+primary,Australia,76,0.875,0.125,1.0,0
+primary,Australia,77,0.875,0.125,1.0,0
+primary,Australia,78,0.875,0.125,1.0,0
+primary,Australia,79,0.875,0.125,1.0,0
+primary,Australia,80,0.875,0.125,1.0,0
+primary,Australia,81,0.875,0.125,1.0,0
+primary,Australia,82,0.875,0.125,1.0,0
+primary,Australia,83,0.875,0.125,1.0,0
+primary,Australia,84,0.875,0.125,1.0,0
+primary,Australia,85,0.875,0.125,1.0,0
+primary,Australia,86,0.875,0.125,1.0,0
+primary,Australia,87,0.875,0.125,1.0,0
+primary,Australia,88,0.875,0.125,1.0,0
+primary,Australia,89,0.875,0.125,1.0,0
+primary,Australia,90,0.875,0.125,1.0,0
+primary,Australia,91,0.875,0.125,1.0,0
+primary,Australia,92,0.875,0.125,1.0,0
+primary,Australia,93,0.875,0.125,1.0,0
+primary,Australia,94,0.875,0.125,1.0,0
+primary,Australia,95,0.875,0.125,1.0,0
+primary,Australia,96,0.875,0.125,1.0,0
+primary,Australia,97,0.875,0.125,1.0,0
+primary,Australia,98,0.875,0.125,1.0,0
+primary,Australia,99,0.875,0.125,1.0,0
+primary,Australia,100,0.875,0.125,1.0,0
+primary,Australia,101,0.875,0.125,1.0,0
+primary,Australia,102,0.875,0.125,1.0,0
+primary,Australia,103,0.875,0.125,1.0,0
+primary,Australia,104,0.875,0.125,1.0,0
+primary,Australia,105,0.875,0.125,1.0,0
+primary,Australia,106,0.875,0.125,1.0,0
+primary,Australia,107,0.875,0.125,1.0,0
+primary,Australia,108,0.875,0.125,1.0,0
+primary,Australia,109,0.875,0.125,1.0,0
+primary,Australia,110,0.875,0.125,1.0,0
+primary,Australia,111,0.875,0.125,1.0,0
+primary,Australia,112,0.875,0.125,1.0,0
+primary,Australia,113,0.875,0.125,1.0,0
+primary,Australia,114,0.875,0.125,1.0,0
+primary,Australia,115,0.875,0.125,1.0,0
+primary,Australia,116,0.875,0.125,1.0,0
+primary,Australia,117,0.875,0.125,1.0,0
+primary,Australia,118,0.875,0.125,1.0,0
+primary,Australia,119,0.875,0.125,1.0,0
+primary,Australia,120,0.875,0.125,1.0,0
+primary,Canada,0,0.0,0.0714,0.0,13
+primary,Canada,1,0.0,0.0714,0.0,13
+primary,Canada,2,0.0,0.0714,0.0,13
+primary,Canada,3,0.0,0.0714,0.0,13
+primary,Canada,4,0.0,0.0714,0.0,13
+primary,Canada,5,0.0,0.0714,0.0,13
+primary,Canada,6,0.0,0.0714,0.0,12
+primary,Canada,7,0.0,0.0714,0.0,12
+primary,Canada,8,0.0,0.0714,0.0,12
+primary,Canada,9,0.0,0.0714,0.0,12
+primary,Canada,10,0.0774,0.0714,0.0833,11
+primary,Canada,11,0.0774,0.0714,0.0833,11
+primary,Canada,12,0.0774,0.0714,0.0833,11
+primary,Canada,13,0.0774,0.0714,0.0833,10
+primary,Canada,14,0.0774,0.0714,0.0833,10
+primary,Canada,15,0.0774,0.0714,0.0833,10
+primary,Canada,16,0.0774,0.1565,0.0833,9
+primary,Canada,17,0.0774,0.1565,0.0833,9
+primary,Canada,18,0.1625,0.1565,0.1852,8
+primary,Canada,19,0.1625,0.1565,0.1852,8
+primary,Canada,20,0.2476,0.1565,0.287,7
+primary,Canada,21,0.2476,0.1565,0.287,7
+primary,Canada,22,0.2476,0.1565,0.287,7
+primary,Canada,23,0.3327,0.1565,0.3889,6
+primary,Canada,24,0.4179,0.1565,0.4907,4
+primary,Canada,25,0.4179,0.1565,0.4907,4
+primary,Canada,26,0.4179,0.1565,0.4907,4
+primary,Canada,27,0.4179,0.1565,0.4907,4
+primary,Canada,28,0.4179,0.1565,0.4907,4
+primary,Canada,29,0.4179,0.1565,0.4907,4
+primary,Canada,30,0.4179,0.1565,0.4907,4
+primary,Canada,31,0.4179,0.1565,0.4907,4
+primary,Canada,32,0.4179,0.2629,0.4907,3
+primary,Canada,33,0.4179,0.2629,0.4907,3
+primary,Canada,34,0.4179,0.2629,0.4907,3
+primary,Canada,35,0.4179,0.2629,0.4907,3
+primary,Canada,36,0.4179,0.2629,0.4907,3
+primary,Canada,37,0.4179,0.2629,0.4907,3
+primary,Canada,38,0.4179,0.2629,0.4907,3
+primary,Canada,39,0.4179,0.2629,0.4907,3
+primary,Canada,40,0.4179,0.2629,0.4907,3
+primary,Canada,41,0.4179,0.2629,0.4907,3
+primary,Canada,42,0.4179,0.2629,0.4907,3
+primary,Canada,43,0.4179,0.2629,0.4907,3
+primary,Canada,44,0.4179,0.2629,0.4907,3
+primary,Canada,45,0.4179,0.2629,0.4907,3
+primary,Canada,46,0.4179,0.2629,0.4907,3
+primary,Canada,47,0.4179,0.2629,0.4907,3
+primary,Canada,48,0.4179,0.2629,0.4907,3
+primary,Canada,49,0.4179,0.2629,0.4907,3
+primary,Canada,50,0.4179,0.2629,0.4907,3
+primary,Canada,51,0.4179,0.2629,0.4907,3
+primary,Canada,52,0.4179,0.2629,0.4907,3
+primary,Canada,53,0.4179,0.2629,0.4907,3
+primary,Canada,54,0.4179,0.2629,0.4907,3
+primary,Canada,55,0.4179,0.2629,0.4907,3
+primary,Canada,56,0.4179,0.2629,0.4907,3
+primary,Canada,57,0.4179,0.2629,0.4907,3
+primary,Canada,58,0.4179,0.2629,0.4907,3
+primary,Canada,59,0.4179,0.2629,0.4907,3
+primary,Canada,60,0.4179,0.2629,0.4907,3
+primary,Canada,61,0.4179,0.2629,0.4907,3
+primary,Canada,62,0.4179,0.2629,0.4907,3
+primary,Canada,63,0.4179,0.2629,0.4907,3
+primary,Canada,64,0.4179,0.2629,0.4907,3
+primary,Canada,65,0.4179,0.2629,0.4907,3
+primary,Canada,66,0.4179,0.2629,0.4907,3
+primary,Canada,67,0.5243,0.2629,0.6605,2
+primary,Canada,68,0.5243,0.2629,0.6605,2
+primary,Canada,69,0.5243,0.2629,0.6605,2
+primary,Canada,70,0.5243,0.2629,0.6605,2
+primary,Canada,71,0.5243,0.2629,0.6605,2
+primary,Canada,72,0.5243,0.2629,0.6605,2
+primary,Canada,73,0.5243,0.2629,0.6605,2
+primary,Canada,74,0.5243,0.2629,0.6605,2
+primary,Canada,75,0.5243,0.2629,0.6605,2
+primary,Canada,76,0.5243,0.2629,0.6605,2
+primary,Canada,77,0.5243,0.2629,0.6605,2
+primary,Canada,78,0.5243,0.2629,0.6605,2
+primary,Canada,79,0.5243,0.2629,0.6605,2
+primary,Canada,80,0.5243,0.2629,0.6605,2
+primary,Canada,81,0.5243,0.2629,0.6605,2
+primary,Canada,82,0.6307,0.2629,0.8302,1
+primary,Canada,83,0.6307,0.2629,0.8302,1
+primary,Canada,84,0.6307,0.2629,0.8302,1
+primary,Canada,85,0.6307,0.2629,0.8302,1
+primary,Canada,86,0.6307,0.2629,0.8302,1
+primary,Canada,87,0.6307,0.2629,0.8302,0
+primary,Canada,88,0.6307,0.2629,0.8302,0
+primary,Canada,89,0.6307,0.2629,0.8302,0
+primary,Canada,90,0.6307,0.2629,0.8302,0
+primary,Canada,91,0.6307,0.2629,0.8302,0
+primary,Canada,92,0.6307,0.2629,0.8302,0
+primary,Canada,93,0.6307,0.2629,0.8302,0
+primary,Canada,94,0.6307,0.2629,0.8302,0
+primary,Canada,95,0.6307,0.2629,0.8302,0
+primary,Canada,96,0.6307,0.2629,0.8302,0
+primary,Canada,97,0.6307,0.2629,0.8302,0
+primary,Canada,98,0.6307,0.2629,0.8302,0
+primary,Canada,99,0.6307,0.2629,0.8302,0
+primary,Canada,100,0.6307,0.2629,0.8302,0
+primary,Canada,101,0.6307,0.2629,0.8302,0
+primary,Canada,102,0.6307,0.2629,0.8302,0
+primary,Canada,103,0.6307,0.2629,0.8302,0
+primary,Canada,104,0.6307,0.2629,0.8302,0
+primary,Canada,105,0.6307,0.2629,0.8302,0
+primary,Canada,106,0.6307,0.2629,0.8302,0
+primary,Canada,107,0.6307,0.2629,0.8302,0
+primary,Canada,108,0.6307,0.2629,0.8302,0
+primary,Canada,109,0.6307,0.2629,0.8302,0
+primary,Canada,110,0.6307,0.2629,0.8302,0
+primary,Canada,111,0.6307,0.2629,0.8302,0
+primary,Canada,112,0.6307,0.2629,0.8302,0
+primary,Canada,113,0.6307,0.2629,0.8302,0
+primary,Canada,114,0.6307,0.2629,0.8302,0
+primary,Canada,115,0.6307,0.2629,0.8302,0
+primary,Canada,116,0.6307,0.2629,0.8302,0
+primary,Canada,117,0.6307,0.2629,0.8302,0
+primary,Canada,118,0.6307,0.2629,0.8302,0
+primary,Canada,119,0.6307,0.2629,0.8302,0
+primary,Canada,120,0.6307,0.2629,0.8302,0
+primary,England,0,0.0,0.0,0.0,28
+primary,England,1,0.0,0.0,0.0,28
+primary,England,2,0.0,0.0,0.0,28
+primary,England,3,0.037,0.0,0.037,26
+primary,England,4,0.0756,0.0,0.0756,24
+primary,England,5,0.1526,0.0385,0.1559,21
+primary,England,6,0.1526,0.0385,0.1559,21
+primary,England,7,0.1526,0.0385,0.1559,21
+primary,England,8,0.1911,0.0385,0.1961,19
+primary,England,9,0.2317,0.0385,0.2384,18
+primary,England,10,0.2722,0.1196,0.2808,15
+primary,England,11,0.3127,0.1602,0.3321,13
+primary,England,12,0.3127,0.2007,0.3321,12
+primary,England,13,0.3127,0.2007,0.3321,12
+primary,England,14,0.3533,0.2007,0.3878,11
+primary,England,15,0.3533,0.2007,0.3878,11
+primary,England,16,0.3938,0.2007,0.4434,10
+primary,England,17,0.3938,0.2007,0.4434,9
+primary,England,18,0.4389,0.2458,0.5053,7
+primary,England,19,0.4389,0.2458,0.5053,7
+primary,England,20,0.4389,0.2458,0.5053,7
+primary,England,21,0.4839,0.2458,0.576,6
+primary,England,22,0.4839,0.2458,0.576,6
+primary,England,23,0.4839,0.2458,0.576,6
+primary,England,24,0.4839,0.2458,0.576,6
+primary,England,25,0.4839,0.2458,0.576,6
+primary,England,26,0.4839,0.2458,0.576,6
+primary,England,27,0.4839,0.2458,0.576,6
+primary,England,28,0.4839,0.2908,0.576,5
+primary,England,29,0.4839,0.2908,0.576,5
+primary,England,30,0.4839,0.2908,0.576,5
+primary,England,31,0.4839,0.2908,0.576,5
+primary,England,32,0.4839,0.2908,0.576,5
+primary,England,33,0.4839,0.2908,0.576,5
+primary,England,34,0.4839,0.3359,0.576,4
+primary,England,35,0.4839,0.3359,0.576,4
+primary,England,36,0.529,0.3359,0.682,3
+primary,England,37,0.529,0.3359,0.682,3
+primary,England,38,0.529,0.3809,0.682,2
+primary,England,39,0.529,0.3809,0.682,2
+primary,England,40,0.529,0.3809,0.682,2
+primary,England,41,0.529,0.3809,0.682,2
+primary,England,42,0.529,0.3809,0.682,2
+primary,England,43,0.529,0.3809,0.682,2
+primary,England,44,0.529,0.3809,0.682,2
+primary,England,45,0.529,0.3809,0.682,2
+primary,England,46,0.529,0.3809,0.682,2
+primary,England,47,0.529,0.3809,0.682,2
+primary,England,48,0.529,0.3809,0.682,2
+primary,England,49,0.529,0.3809,0.682,1
+primary,England,50,0.529,0.3809,0.682,1
+primary,England,51,0.529,0.3809,0.682,1
+primary,England,52,0.529,0.3809,0.682,1
+primary,England,53,0.529,0.3809,0.682,1
+primary,England,54,0.529,0.3809,0.682,1
+primary,England,55,0.529,0.3809,0.682,1
+primary,England,56,0.529,0.3809,0.682,1
+primary,England,57,0.529,0.3809,0.682,1
+primary,England,58,0.529,0.3809,0.682,1
+primary,England,59,0.529,0.3809,0.682,1
+primary,England,60,0.529,0.3809,0.682,1
+primary,England,61,0.529,0.471,0.682,0
+primary,England,62,0.529,0.471,0.682,0
+primary,England,63,0.529,0.471,0.682,0
+primary,England,64,0.529,0.471,0.682,0
+primary,England,65,0.529,0.471,0.682,0
+primary,England,66,0.529,0.471,0.682,0
+primary,England,67,0.529,0.471,0.682,0
+primary,England,68,0.529,0.471,0.682,0
+primary,England,69,0.529,0.471,0.682,0
+primary,England,70,0.529,0.471,0.682,0
+primary,England,71,0.529,0.471,0.682,0
+primary,England,72,0.529,0.471,0.682,0
+primary,England,73,0.529,0.471,0.682,0
+primary,England,74,0.529,0.471,0.682,0
+primary,England,75,0.529,0.471,0.682,0
+primary,England,76,0.529,0.471,0.682,0
+primary,England,77,0.529,0.471,0.682,0
+primary,England,78,0.529,0.471,0.682,0
+primary,England,79,0.529,0.471,0.682,0
+primary,England,80,0.529,0.471,0.682,0
+primary,England,81,0.529,0.471,0.682,0
+primary,England,82,0.529,0.471,0.682,0
+primary,England,83,0.529,0.471,0.682,0
+primary,England,84,0.529,0.471,0.682,0
+primary,England,85,0.529,0.471,0.682,0
+primary,England,86,0.529,0.471,0.682,0
+primary,England,87,0.529,0.471,0.682,0
+primary,England,88,0.529,0.471,0.682,0
+primary,England,89,0.529,0.471,0.682,0
+primary,England,90,0.529,0.471,0.682,0
+primary,England,91,0.529,0.471,0.682,0
+primary,England,92,0.529,0.471,0.682,0
+primary,England,93,0.529,0.471,0.682,0
+primary,England,94,0.529,0.471,0.682,0
+primary,England,95,0.529,0.471,0.682,0
+primary,England,96,0.529,0.471,0.682,0
+primary,England,97,0.529,0.471,0.682,0
+primary,England,98,0.529,0.471,0.682,0
+primary,England,99,0.529,0.471,0.682,0
+primary,England,100,0.529,0.471,0.682,0
+primary,England,101,0.529,0.471,0.682,0
+primary,England,102,0.529,0.471,0.682,0
+primary,England,103,0.529,0.471,0.682,0
+primary,England,104,0.529,0.471,0.682,0
+primary,England,105,0.529,0.471,0.682,0
+primary,England,106,0.529,0.471,0.682,0
+primary,England,107,0.529,0.471,0.682,0
+primary,England,108,0.529,0.471,0.682,0
+primary,England,109,0.529,0.471,0.682,0
+primary,England,110,0.529,0.471,0.682,0
+primary,England,111,0.529,0.471,0.682,0
+primary,England,112,0.529,0.471,0.682,0
+primary,England,113,0.529,0.471,0.682,0
+primary,England,114,0.529,0.471,0.682,0
+primary,England,115,0.529,0.471,0.682,0
+primary,England,116,0.529,0.471,0.682,0
+primary,England,117,0.529,0.471,0.682,0
+primary,England,118,0.529,0.471,0.682,0
+primary,England,119,0.529,0.471,0.682,0
+primary,England,120,0.529,0.471,0.682,0
+primary,France,0,0.1786,0.0,0.1786,23
+primary,France,1,0.1786,0.0,0.1786,23
+primary,France,2,0.1786,0.0,0.1786,23
+primary,France,3,0.1786,0.0,0.1786,22
+primary,France,4,0.1786,0.0,0.1786,21
+primary,France,5,0.2177,0.0782,0.2218,18
+primary,France,6,0.2568,0.0782,0.265,17
+primary,France,7,0.2568,0.0782,0.265,17
+primary,France,8,0.2568,0.0782,0.265,16
+primary,France,9,0.2568,0.0782,0.265,16
+primary,France,10,0.2984,0.1614,0.311,13
+primary,France,11,0.3399,0.2029,0.364,11
+primary,France,12,0.3399,0.2029,0.364,11
+primary,France,13,0.3399,0.2029,0.364,11
+primary,France,14,0.3399,0.2029,0.364,10
+primary,France,15,0.3399,0.2029,0.364,10
+primary,France,16,0.3856,0.2029,0.4276,9
+primary,France,17,0.3856,0.2029,0.4276,9
+primary,France,18,0.4314,0.2029,0.4912,8
+primary,France,19,0.4314,0.2029,0.4912,8
+primary,France,20,0.4771,0.2486,0.5548,6
+primary,France,21,0.4771,0.2486,0.5548,6
+primary,France,22,0.4771,0.2486,0.5548,6
+primary,France,23,0.4771,0.2486,0.5548,6
+primary,France,24,0.4771,0.2486,0.5548,6
+primary,France,25,0.4771,0.2486,0.5548,6
+primary,France,26,0.4771,0.2486,0.5548,6
+primary,France,27,0.4771,0.2486,0.5548,6
+primary,France,28,0.4771,0.2486,0.5548,6
+primary,France,29,0.4771,0.2486,0.5548,6
+primary,France,30,0.4771,0.2486,0.5548,6
+primary,France,31,0.4771,0.2486,0.5548,6
+primary,France,32,0.4771,0.2486,0.5548,6
+primary,France,33,0.4771,0.2486,0.5548,6
+primary,France,34,0.4771,0.2486,0.5548,6
+primary,France,35,0.4771,0.2486,0.5548,6
+primary,France,36,0.4771,0.2486,0.5548,6
+primary,France,37,0.4771,0.2943,0.5548,5
+primary,France,38,0.4771,0.3401,0.5548,4
+primary,France,39,0.4771,0.3401,0.5548,4
+primary,France,40,0.4771,0.3401,0.5548,4
+primary,France,41,0.4771,0.3401,0.5548,4
+primary,France,42,0.4771,0.3401,0.5548,4
+primary,France,43,0.4771,0.3401,0.5548,4
+primary,France,44,0.4771,0.3401,0.5548,4
+primary,France,45,0.4771,0.3401,0.5548,4
+primary,France,46,0.4771,0.3401,0.5548,4
+primary,France,47,0.4771,0.3401,0.5548,4
+primary,France,48,0.4771,0.3401,0.5548,4
+primary,France,49,0.4771,0.3401,0.5548,3
+primary,France,50,0.4771,0.3401,0.5548,3
+primary,France,51,0.4771,0.3401,0.5548,3
+primary,France,52,0.4771,0.3401,0.5548,2
+primary,France,53,0.4771,0.3401,0.5548,2
+primary,France,54,0.4771,0.3401,0.5548,2
+primary,France,55,0.4771,0.3401,0.5548,2
+primary,France,56,0.4771,0.3401,0.5548,2
+primary,France,57,0.4771,0.3401,0.5548,2
+primary,France,58,0.4771,0.3401,0.5548,2
+primary,France,59,0.4771,0.3401,0.5548,2
+primary,France,60,0.4771,0.3401,0.5548,2
+primary,France,61,0.4771,0.3401,0.5548,2
+primary,France,62,0.4771,0.3401,0.5548,2
+primary,France,63,0.4771,0.3401,0.5548,2
+primary,France,64,0.4771,0.3401,0.5548,2
+primary,France,65,0.4771,0.3401,0.5548,2
+primary,France,66,0.4771,0.3401,0.5548,2
+primary,France,67,0.4771,0.3401,0.5548,2
+primary,France,68,0.4771,0.3401,0.5548,2
+primary,France,69,0.4771,0.3401,0.5548,2
+primary,France,70,0.4771,0.3401,0.5548,2
+primary,France,71,0.4771,0.3401,0.5548,2
+primary,France,72,0.4771,0.3401,0.5548,2
+primary,France,73,0.4771,0.3401,0.5548,2
+primary,France,74,0.4771,0.3401,0.5548,2
+primary,France,75,0.4771,0.3401,0.5548,2
+primary,France,76,0.4771,0.3401,0.5548,2
+primary,France,77,0.4771,0.3401,0.5548,2
+primary,France,78,0.4771,0.3401,0.5548,2
+primary,France,79,0.4771,0.3401,0.5548,2
+primary,France,80,0.4771,0.3401,0.5548,2
+primary,France,81,0.4771,0.3401,0.5548,2
+primary,France,82,0.4771,0.3401,0.5548,2
+primary,France,83,0.4771,0.3401,0.5548,2
+primary,France,84,0.4771,0.3401,0.5548,2
+primary,France,85,0.4771,0.3401,0.5548,2
+primary,France,86,0.4771,0.3401,0.5548,2
+primary,France,87,0.4771,0.3401,0.5548,2
+primary,France,88,0.4771,0.3401,0.5548,2
+primary,France,89,0.4771,0.3401,0.5548,2
+primary,France,90,0.4771,0.3401,0.5548,2
+primary,France,91,0.4771,0.3401,0.5548,2
+primary,France,92,0.4771,0.3401,0.5548,2
+primary,France,93,0.4771,0.3401,0.5548,2
+primary,France,94,0.4771,0.3401,0.5548,2
+primary,France,95,0.4771,0.3401,0.5548,2
+primary,France,96,0.4771,0.3401,0.5548,2
+primary,France,97,0.4771,0.3401,0.5548,2
+primary,France,98,0.4771,0.3401,0.5548,2
+primary,France,99,0.4771,0.3401,0.5548,2
+primary,France,100,0.4771,0.3401,0.5548,2
+primary,France,101,0.4771,0.3401,0.5548,2
+primary,France,102,0.4771,0.3401,0.5548,2
+primary,France,103,0.4771,0.3401,0.5548,2
+primary,France,104,0.4771,0.3401,0.5548,2
+primary,France,105,0.4771,0.3401,0.5548,2
+primary,France,106,0.4771,0.3401,0.5548,2
+primary,France,107,0.4771,0.3401,0.5548,2
+primary,France,108,0.4771,0.3401,0.5548,2
+primary,France,109,0.4771,0.3401,0.5548,2
+primary,France,110,0.4771,0.3401,0.5548,2
+primary,France,111,0.4771,0.3401,0.5548,2
+primary,France,112,0.4771,0.3401,0.5548,2
+primary,France,113,0.4771,0.3401,0.5548,2
+primary,France,114,0.4771,0.3401,0.5548,2
+primary,France,115,0.4771,0.3401,0.5548,2
+primary,France,116,0.4771,0.3401,0.5548,2
+primary,France,117,0.4771,0.3401,0.5548,2
+primary,France,118,0.4771,0.3401,0.5548,2
+primary,France,119,0.4771,0.3401,0.5548,2
+primary,France,120,0.4771,0.3401,0.5548,2
+primary,Germany,0,0.0,0.0,0.0,28
+primary,Germany,1,0.0,0.0,0.0,28
+primary,Germany,2,0.0,0.0,0.0,28
+primary,Germany,3,0.037,0.0,0.037,26
+primary,Germany,4,0.037,0.0,0.037,25
+primary,Germany,5,0.037,0.0385,0.037,24
+primary,Germany,6,0.0756,0.0385,0.0772,23
+primary,Germany,7,0.1526,0.0385,0.1574,21
+primary,Germany,8,0.2317,0.0385,0.2398,18
+primary,Germany,9,0.3127,0.0385,0.3242,16
+primary,Germany,10,0.4344,0.0791,0.457,12
+primary,Germany,11,0.5155,0.0791,0.5475,10
+primary,Germany,12,0.556,0.1196,0.5927,8
+primary,Germany,13,0.556,0.1196,0.5927,8
+primary,Germany,14,0.556,0.1196,0.5927,7
+primary,Germany,15,0.6024,0.1196,0.6509,6
+primary,Germany,16,0.6024,0.1196,0.6509,6
+primary,Germany,17,0.6487,0.1196,0.7091,5
+primary,Germany,18,0.6487,0.1196,0.7091,5
+primary,Germany,19,0.695,0.1196,0.7673,4
+primary,Germany,20,0.7414,0.1196,0.8255,3
+primary,Germany,21,0.7414,0.1196,0.8255,3
+primary,Germany,22,0.7414,0.1196,0.8255,3
+primary,Germany,23,0.7877,0.1196,0.8836,2
+primary,Germany,24,0.7877,0.1196,0.8836,2
+primary,Germany,25,0.7877,0.1196,0.8836,2
+primary,Germany,26,0.7877,0.1196,0.8836,2
+primary,Germany,27,0.7877,0.1196,0.8836,2
+primary,Germany,28,0.7877,0.1196,0.8836,2
+primary,Germany,29,0.7877,0.1196,0.8836,2
+primary,Germany,30,0.7877,0.1196,0.8836,2
+primary,Germany,31,0.8341,0.1196,0.9418,1
+primary,Germany,32,0.8341,0.1196,0.9418,1
+primary,Germany,33,0.8341,0.1196,0.9418,1
+primary,Germany,34,0.8341,0.1196,0.9418,1
+primary,Germany,35,0.8341,0.1196,0.9418,1
+primary,Germany,36,0.8341,0.1196,0.9418,1
+primary,Germany,37,0.8341,0.1196,0.9418,1
+primary,Germany,38,0.8341,0.1196,0.9418,1
+primary,Germany,39,0.8341,0.1196,0.9418,1
+primary,Germany,40,0.8341,0.1196,0.9418,1
+primary,Germany,41,0.8341,0.1196,0.9418,1
+primary,Germany,42,0.8341,0.1196,0.9418,1
+primary,Germany,43,0.8341,0.1196,0.9418,1
+primary,Germany,44,0.8341,0.1196,0.9418,1
+primary,Germany,45,0.8341,0.1196,0.9418,1
+primary,Germany,46,0.8341,0.1196,0.9418,1
+primary,Germany,47,0.8341,0.1196,0.9418,1
+primary,Germany,48,0.8341,0.1196,0.9418,1
+primary,Germany,49,0.8341,0.1196,0.9418,1
+primary,Germany,50,0.8341,0.1196,0.9418,1
+primary,Germany,51,0.8341,0.1196,0.9418,1
+primary,Germany,52,0.8341,0.1196,0.9418,1
+primary,Germany,53,0.8341,0.1196,0.9418,1
+primary,Germany,54,0.8341,0.1196,0.9418,1
+primary,Germany,55,0.8341,0.1196,0.9418,1
+primary,Germany,56,0.8341,0.1196,0.9418,1
+primary,Germany,57,0.8341,0.1196,0.9418,1
+primary,Germany,58,0.8341,0.1196,0.9418,1
+primary,Germany,59,0.8341,0.1196,0.9418,1
+primary,Germany,60,0.8341,0.1196,0.9418,1
+primary,Germany,61,0.8341,0.1196,0.9418,1
+primary,Germany,62,0.8341,0.1196,0.9418,1
+primary,Germany,63,0.8341,0.1196,0.9418,1
+primary,Germany,64,0.8341,0.1196,0.9418,1
+primary,Germany,65,0.8341,0.1196,0.9418,1
+primary,Germany,66,0.8341,0.1196,0.9418,1
+primary,Germany,67,0.8341,0.1196,0.9418,1
+primary,Germany,68,0.8341,0.1196,0.9418,1
+primary,Germany,69,0.8341,0.1196,0.9418,1
+primary,Germany,70,0.8341,0.1196,0.9418,1
+primary,Germany,71,0.8341,0.1196,0.9418,1
+primary,Germany,72,0.8341,0.1196,0.9418,1
+primary,Germany,73,0.8341,0.1196,0.9418,1
+primary,Germany,74,0.8341,0.1196,0.9418,1
+primary,Germany,75,0.8341,0.1196,0.9418,1
+primary,Germany,76,0.8341,0.1196,0.9418,1
+primary,Germany,77,0.8341,0.1196,0.9418,1
+primary,Germany,78,0.8341,0.1196,0.9418,1
+primary,Germany,79,0.8341,0.1196,0.9418,1
+primary,Germany,80,0.8341,0.1196,0.9418,1
+primary,Germany,81,0.8341,0.1196,0.9418,1
+primary,Germany,82,0.8341,0.1196,0.9418,1
+primary,Germany,83,0.8341,0.1196,0.9418,1
+primary,Germany,84,0.8341,0.1196,0.9418,1
+primary,Germany,85,0.8341,0.1196,0.9418,1
+primary,Germany,86,0.8341,0.1196,0.9418,1
+primary,Germany,87,0.8341,0.1196,0.9418,1
+primary,Germany,88,0.8341,0.1196,0.9418,1
+primary,Germany,89,0.8341,0.1196,0.9418,1
+primary,Germany,90,0.8341,0.1196,0.9418,1
+primary,Germany,91,0.8341,0.1196,0.9418,1
+primary,Germany,92,0.8341,0.1196,0.9418,1
+primary,Germany,93,0.8341,0.1196,0.9418,1
+primary,Germany,94,0.8341,0.1196,0.9418,1
+primary,Germany,95,0.8341,0.1196,0.9418,1
+primary,Germany,96,0.8341,0.1196,0.9418,1
+primary,Germany,97,0.8341,0.1196,0.9418,1
+primary,Germany,98,0.8341,0.1196,0.9418,1
+primary,Germany,99,0.8341,0.1196,0.9418,1
+primary,Germany,100,0.8341,0.1196,0.9418,1
+primary,Germany,101,0.8341,0.1196,0.9418,1
+primary,Germany,102,0.8341,0.1196,0.9418,1
+primary,Germany,103,0.8341,0.1196,0.9418,1
+primary,Germany,104,0.8341,0.1196,0.9418,1
+primary,Germany,105,0.8341,0.1196,0.9418,1
+primary,Germany,106,0.8341,0.1196,0.9418,1
+primary,Germany,107,0.8341,0.1196,0.9418,1
+primary,Germany,108,0.8341,0.1196,0.9418,1
+primary,Germany,109,0.8341,0.1196,0.9418,1
+primary,Germany,110,0.8341,0.1196,0.9418,1
+primary,Germany,111,0.8341,0.1196,0.9418,1
+primary,Germany,112,0.8341,0.1196,0.9418,1
+primary,Germany,113,0.8341,0.1196,0.9418,1
+primary,Germany,114,0.8341,0.1196,0.9418,1
+primary,Germany,115,0.8341,0.1196,0.9418,1
+primary,Germany,116,0.8341,0.1196,0.9418,1
+primary,Germany,117,0.8341,0.1196,0.9418,1
+primary,Germany,118,0.8341,0.1196,0.9418,1
+primary,Germany,119,0.8341,0.1196,0.9418,1
+primary,Germany,120,0.8341,0.1196,0.9418,1
+primary,Italy,0,0.0,0.0,0.0,28
+primary,Italy,1,0.0,0.0,0.0,28
+primary,Italy,2,0.0,0.0,0.0,28
+primary,Italy,3,0.0357,0.0,0.0357,26
+primary,Italy,4,0.0357,0.0,0.0357,25
+primary,Italy,5,0.0357,0.0386,0.0357,24
+primary,Italy,6,0.0357,0.0386,0.0357,24
+primary,Italy,7,0.0357,0.0771,0.0357,23
+primary,Italy,8,0.0357,0.0771,0.0357,22
+primary,Italy,9,0.0357,0.0771,0.0357,22
+primary,Italy,10,0.076,0.1175,0.0816,20
+primary,Italy,11,0.076,0.1175,0.0816,20
+primary,Italy,12,0.1164,0.1175,0.1276,19
+primary,Italy,13,0.1164,0.1175,0.1276,19
+primary,Italy,14,0.1164,0.1175,0.1276,18
+primary,Italy,15,0.2015,0.1175,0.2245,16
+primary,Italy,16,0.2441,0.1175,0.273,15
+primary,Italy,17,0.3353,0.1175,0.3768,12
+primary,Italy,18,0.3809,0.1175,0.4288,11
+primary,Italy,19,0.3809,0.1175,0.4288,11
+primary,Italy,20,0.4265,0.1631,0.4807,9
+primary,Italy,21,0.4265,0.1631,0.4807,9
+primary,Italy,22,0.4265,0.1631,0.4807,9
+primary,Italy,23,0.4721,0.1631,0.5384,8
+primary,Italy,24,0.4721,0.1631,0.5384,8
+primary,Italy,25,0.4721,0.1631,0.5384,8
+primary,Italy,26,0.5177,0.1631,0.5961,7
+primary,Italy,27,0.5633,0.1631,0.6538,6
+primary,Italy,28,0.5633,0.1631,0.6538,6
+primary,Italy,29,0.5633,0.1631,0.6538,6
+primary,Italy,30,0.6089,0.1631,0.7115,5
+primary,Italy,31,0.6545,0.1631,0.7692,4
+primary,Italy,32,0.6545,0.1631,0.7692,4
+primary,Italy,33,0.6545,0.1631,0.7692,4
+primary,Italy,34,0.6545,0.2087,0.7692,3
+primary,Italy,35,0.6545,0.2087,0.7692,3
+primary,Italy,36,0.6545,0.2087,0.7692,3
+primary,Italy,37,0.6545,0.2087,0.7692,3
+primary,Italy,38,0.6545,0.2087,0.7692,3
+primary,Italy,39,0.6545,0.2087,0.7692,3
+primary,Italy,40,0.6545,0.2087,0.7692,3
+primary,Italy,41,0.6545,0.2087,0.7692,3
+primary,Italy,42,0.6545,0.2087,0.7692,3
+primary,Italy,43,0.6545,0.2087,0.7692,3
+primary,Italy,44,0.6545,0.2087,0.7692,3
+primary,Italy,45,0.6545,0.2087,0.7692,3
+primary,Italy,46,0.6545,0.2087,0.7692,3
+primary,Italy,47,0.7001,0.2087,0.8461,2
+primary,Italy,48,0.7001,0.2087,0.8461,2
+primary,Italy,49,0.7001,0.2087,0.8461,2
+primary,Italy,50,0.7001,0.2087,0.8461,2
+primary,Italy,51,0.7001,0.2087,0.8461,2
+primary,Italy,52,0.7001,0.2087,0.8461,2
+primary,Italy,53,0.7001,0.2087,0.8461,2
+primary,Italy,54,0.7001,0.2087,0.8461,2
+primary,Italy,55,0.7001,0.2087,0.8461,2
+primary,Italy,56,0.7001,0.2087,0.8461,2
+primary,Italy,57,0.7001,0.2087,0.8461,2
+primary,Italy,58,0.7001,0.2087,0.8461,2
+primary,Italy,59,0.7001,0.2087,0.8461,2
+primary,Italy,60,0.7001,0.2087,0.8461,2
+primary,Italy,61,0.7001,0.2543,0.8461,1
+primary,Italy,62,0.7001,0.2543,0.8461,1
+primary,Italy,63,0.7001,0.2543,0.8461,1
+primary,Italy,64,0.7001,0.2543,0.8461,1
+primary,Italy,65,0.7001,0.2543,0.8461,1
+primary,Italy,66,0.7001,0.2543,0.8461,1
+primary,Italy,67,0.7001,0.2543,0.8461,1
+primary,Italy,68,0.7001,0.2543,0.8461,1
+primary,Italy,69,0.7001,0.2543,0.8461,1
+primary,Italy,70,0.7001,0.2543,0.8461,1
+primary,Italy,71,0.7001,0.2543,0.8461,1
+primary,Italy,72,0.7001,0.2543,0.8461,1
+primary,Italy,73,0.7001,0.2543,0.8461,1
+primary,Italy,74,0.7001,0.2543,0.8461,1
+primary,Italy,75,0.7001,0.2543,0.8461,1
+primary,Italy,76,0.7001,0.2543,0.8461,1
+primary,Italy,77,0.7001,0.2543,0.8461,1
+primary,Italy,78,0.7001,0.2543,0.8461,1
+primary,Italy,79,0.7001,0.2543,0.8461,1
+primary,Italy,80,0.7001,0.2543,0.8461,1
+primary,Italy,81,0.7001,0.2543,0.8461,1
+primary,Italy,82,0.7001,0.2543,0.8461,1
+primary,Italy,83,0.7001,0.2543,0.8461,1
+primary,Italy,84,0.7001,0.2543,0.8461,1
+primary,Italy,85,0.7001,0.2543,0.8461,1
+primary,Italy,86,0.7001,0.2543,0.8461,1
+primary,Italy,87,0.7001,0.2543,0.8461,1
+primary,Italy,88,0.7001,0.2543,0.8461,1
+primary,Italy,89,0.7001,0.2543,0.8461,1
+primary,Italy,90,0.7001,0.2543,0.8461,1
+primary,Italy,91,0.7001,0.2543,0.8461,1
+primary,Italy,92,0.7001,0.2543,0.8461,1
+primary,Italy,93,0.7001,0.2543,0.8461,1
+primary,Italy,94,0.7001,0.2543,0.8461,1
+primary,Italy,95,0.7001,0.2543,0.8461,1
+primary,Italy,96,0.7001,0.2543,0.8461,1
+primary,Italy,97,0.7001,0.2543,0.8461,1
+primary,Italy,98,0.7001,0.2543,0.8461,1
+primary,Italy,99,0.7001,0.2543,0.8461,1
+primary,Italy,100,0.7001,0.2543,0.8461,1
+primary,Italy,101,0.7001,0.2543,0.8461,1
+primary,Italy,102,0.7001,0.2543,0.8461,1
+primary,Italy,103,0.7001,0.2543,0.8461,1
+primary,Italy,104,0.7001,0.2543,0.8461,1
+primary,Italy,105,0.7001,0.2543,0.8461,1
+primary,Italy,106,0.7001,0.2543,0.8461,1
+primary,Italy,107,0.7001,0.2543,0.8461,1
+primary,Italy,108,0.7001,0.2543,0.8461,1
+primary,Italy,109,0.7001,0.2543,0.8461,1
+primary,Italy,110,0.7001,0.2543,0.8461,1
+primary,Italy,111,0.7001,0.2543,0.8461,1
+primary,Italy,112,0.7001,0.2543,0.8461,1
+primary,Italy,113,0.7001,0.2543,0.8461,1
+primary,Italy,114,0.7001,0.2543,0.8461,1
+primary,Italy,115,0.7001,0.2543,0.8461,1
+primary,Italy,116,0.7001,0.2543,0.8461,1
+primary,Italy,117,0.7001,0.2543,0.8461,1
+primary,Italy,118,0.7001,0.2543,0.8461,1
+primary,Italy,119,0.7001,0.2543,0.8461,1
+primary,Italy,120,0.7001,0.2543,0.8461,1
+primary,United States,0,0.037,0.0,0.037,26
+primary,United States,1,0.037,0.0,0.037,25
+primary,United States,2,0.1141,0.0,0.1141,23
+primary,United States,3,0.2296,0.0,0.2296,20
+primary,United States,4,0.4222,0.0,0.4222,15
+primary,United States,5,0.6533,0.0,0.6533,9
+primary,United States,6,0.6967,0.0,0.6967,7
+primary,United States,7,0.7833,0.0,0.7833,5
+primary,United States,8,0.7833,0.0,0.7833,5
+primary,United States,9,0.8267,0.0,0.8267,4
+primary,United States,10,0.9133,0.0,0.9133,2
+primary,United States,11,1.0,0.0,1.0,0
+primary,United States,12,1.0,0.0,1.0,0
+primary,United States,13,1.0,0.0,1.0,0
+primary,United States,14,1.0,0.0,1.0,0
+primary,United States,15,1.0,0.0,1.0,0
+primary,United States,16,1.0,0.0,1.0,0
+primary,United States,17,1.0,0.0,1.0,0
+primary,United States,18,1.0,0.0,1.0,0
+primary,United States,19,1.0,0.0,1.0,0
+primary,United States,20,1.0,0.0,1.0,0
+primary,United States,21,1.0,0.0,1.0,0
+primary,United States,22,1.0,0.0,1.0,0
+primary,United States,23,1.0,0.0,1.0,0
+primary,United States,24,1.0,0.0,1.0,0
+primary,United States,25,1.0,0.0,1.0,0
+primary,United States,26,1.0,0.0,1.0,0
+primary,United States,27,1.0,0.0,1.0,0
+primary,United States,28,1.0,0.0,1.0,0
+primary,United States,29,1.0,0.0,1.0,0
+primary,United States,30,1.0,0.0,1.0,0
+primary,United States,31,1.0,0.0,1.0,0
+primary,United States,32,1.0,0.0,1.0,0
+primary,United States,33,1.0,0.0,1.0,0
+primary,United States,34,1.0,0.0,1.0,0
+primary,United States,35,1.0,0.0,1.0,0
+primary,United States,36,1.0,0.0,1.0,0
+primary,United States,37,1.0,0.0,1.0,0
+primary,United States,38,1.0,0.0,1.0,0
+primary,United States,39,1.0,0.0,1.0,0
+primary,United States,40,1.0,0.0,1.0,0
+primary,United States,41,1.0,0.0,1.0,0
+primary,United States,42,1.0,0.0,1.0,0
+primary,United States,43,1.0,0.0,1.0,0
+primary,United States,44,1.0,0.0,1.0,0
+primary,United States,45,1.0,0.0,1.0,0
+primary,United States,46,1.0,0.0,1.0,0
+primary,United States,47,1.0,0.0,1.0,0
+primary,United States,48,1.0,0.0,1.0,0
+primary,United States,49,1.0,0.0,1.0,0
+primary,United States,50,1.0,0.0,1.0,0
+primary,United States,51,1.0,0.0,1.0,0
+primary,United States,52,1.0,0.0,1.0,0
+primary,United States,53,1.0,0.0,1.0,0
+primary,United States,54,1.0,0.0,1.0,0
+primary,United States,55,1.0,0.0,1.0,0
+primary,United States,56,1.0,0.0,1.0,0
+primary,United States,57,1.0,0.0,1.0,0
+primary,United States,58,1.0,0.0,1.0,0
+primary,United States,59,1.0,0.0,1.0,0
+primary,United States,60,1.0,0.0,1.0,0
+primary,United States,61,1.0,0.0,1.0,0
+primary,United States,62,1.0,0.0,1.0,0
+primary,United States,63,1.0,0.0,1.0,0
+primary,United States,64,1.0,0.0,1.0,0
+primary,United States,65,1.0,0.0,1.0,0
+primary,United States,66,1.0,0.0,1.0,0
+primary,United States,67,1.0,0.0,1.0,0
+primary,United States,68,1.0,0.0,1.0,0
+primary,United States,69,1.0,0.0,1.0,0
+primary,United States,70,1.0,0.0,1.0,0
+primary,United States,71,1.0,0.0,1.0,0
+primary,United States,72,1.0,0.0,1.0,0
+primary,United States,73,1.0,0.0,1.0,0
+primary,United States,74,1.0,0.0,1.0,0
+primary,United States,75,1.0,0.0,1.0,0
+primary,United States,76,1.0,0.0,1.0,0
+primary,United States,77,1.0,0.0,1.0,0
+primary,United States,78,1.0,0.0,1.0,0
+primary,United States,79,1.0,0.0,1.0,0
+primary,United States,80,1.0,0.0,1.0,0
+primary,United States,81,1.0,0.0,1.0,0
+primary,United States,82,1.0,0.0,1.0,0
+primary,United States,83,1.0,0.0,1.0,0
+primary,United States,84,1.0,0.0,1.0,0
+primary,United States,85,1.0,0.0,1.0,0
+primary,United States,86,1.0,0.0,1.0,0
+primary,United States,87,1.0,0.0,1.0,0
+primary,United States,88,1.0,0.0,1.0,0
+primary,United States,89,1.0,0.0,1.0,0
+primary,United States,90,1.0,0.0,1.0,0
+primary,United States,91,1.0,0.0,1.0,0
+primary,United States,92,1.0,0.0,1.0,0
+primary,United States,93,1.0,0.0,1.0,0
+primary,United States,94,1.0,0.0,1.0,0
+primary,United States,95,1.0,0.0,1.0,0
+primary,United States,96,1.0,0.0,1.0,0
+primary,United States,97,1.0,0.0,1.0,0
+primary,United States,98,1.0,0.0,1.0,0
+primary,United States,99,1.0,0.0,1.0,0
+primary,United States,100,1.0,0.0,1.0,0
+primary,United States,101,1.0,0.0,1.0,0
+primary,United States,102,1.0,0.0,1.0,0
+primary,United States,103,1.0,0.0,1.0,0
+primary,United States,104,1.0,0.0,1.0,0
+primary,United States,105,1.0,0.0,1.0,0
+primary,United States,106,1.0,0.0,1.0,0
+primary,United States,107,1.0,0.0,1.0,0
+primary,United States,108,1.0,0.0,1.0,0
+primary,United States,109,1.0,0.0,1.0,0
+primary,United States,110,1.0,0.0,1.0,0
+primary,United States,111,1.0,0.0,1.0,0
+primary,United States,112,1.0,0.0,1.0,0
+primary,United States,113,1.0,0.0,1.0,0
+primary,United States,114,1.0,0.0,1.0,0
+primary,United States,115,1.0,0.0,1.0,0
+primary,United States,116,1.0,0.0,1.0,0
+primary,United States,117,1.0,0.0,1.0,0
+primary,United States,118,1.0,0.0,1.0,0
+primary,United States,119,1.0,0.0,1.0,0
+primary,United States,120,1.0,0.0,1.0,0
+routine,Australia,0,0.125,0.0,0.125,7
+routine,Australia,1,0.25,0.0,0.25,6
+routine,Australia,2,0.25,0.0,0.25,6
+routine,Australia,3,0.25,0.0,0.25,6
+routine,Australia,4,0.5,0.0,0.5,4
+routine,Australia,5,0.5,0.0,0.5,4
+routine,Australia,6,0.625,0.0,0.625,3
+routine,Australia,7,0.625,0.125,0.625,2
+routine,Australia,8,0.625,0.125,0.625,2
+routine,Australia,9,0.625,0.125,0.625,2
+routine,Australia,10,0.75,0.125,0.8125,1
+routine,Australia,11,0.75,0.125,0.8125,1
+routine,Australia,12,0.75,0.125,0.8125,1
+routine,Australia,13,0.75,0.125,0.8125,1
+routine,Australia,14,0.75,0.125,0.8125,1
+routine,Australia,15,0.75,0.125,0.8125,1
+routine,Australia,16,0.75,0.125,0.8125,1
+routine,Australia,17,0.875,0.125,1.0,0
+routine,Australia,18,0.875,0.125,1.0,0
+routine,Australia,19,0.875,0.125,1.0,0
+routine,Australia,20,0.875,0.125,1.0,0
+routine,Australia,21,0.875,0.125,1.0,0
+routine,Australia,22,0.875,0.125,1.0,0
+routine,Australia,23,0.875,0.125,1.0,0
+routine,Australia,24,0.875,0.125,1.0,0
+routine,Australia,25,0.875,0.125,1.0,0
+routine,Australia,26,0.875,0.125,1.0,0
+routine,Australia,27,0.875,0.125,1.0,0
+routine,Australia,28,0.875,0.125,1.0,0
+routine,Australia,29,0.875,0.125,1.0,0
+routine,Australia,30,0.875,0.125,1.0,0
+routine,Australia,31,0.875,0.125,1.0,0
+routine,Australia,32,0.875,0.125,1.0,0
+routine,Australia,33,0.875,0.125,1.0,0
+routine,Australia,34,0.875,0.125,1.0,0
+routine,Australia,35,0.875,0.125,1.0,0
+routine,Australia,36,0.875,0.125,1.0,0
+routine,Australia,37,0.875,0.125,1.0,0
+routine,Australia,38,0.875,0.125,1.0,0
+routine,Australia,39,0.875,0.125,1.0,0
+routine,Australia,40,0.875,0.125,1.0,0
+routine,Australia,41,0.875,0.125,1.0,0
+routine,Australia,42,0.875,0.125,1.0,0
+routine,Australia,43,0.875,0.125,1.0,0
+routine,Australia,44,0.875,0.125,1.0,0
+routine,Australia,45,0.875,0.125,1.0,0
+routine,Australia,46,0.875,0.125,1.0,0
+routine,Australia,47,0.875,0.125,1.0,0
+routine,Australia,48,0.875,0.125,1.0,0
+routine,Australia,49,0.875,0.125,1.0,0
+routine,Australia,50,0.875,0.125,1.0,0
+routine,Australia,51,0.875,0.125,1.0,0
+routine,Australia,52,0.875,0.125,1.0,0
+routine,Australia,53,0.875,0.125,1.0,0
+routine,Australia,54,0.875,0.125,1.0,0
+routine,Australia,55,0.875,0.125,1.0,0
+routine,Australia,56,0.875,0.125,1.0,0
+routine,Australia,57,0.875,0.125,1.0,0
+routine,Australia,58,0.875,0.125,1.0,0
+routine,Australia,59,0.875,0.125,1.0,0
+routine,Australia,60,0.875,0.125,1.0,0
+routine,Australia,61,0.875,0.125,1.0,0
+routine,Australia,62,0.875,0.125,1.0,0
+routine,Australia,63,0.875,0.125,1.0,0
+routine,Australia,64,0.875,0.125,1.0,0
+routine,Australia,65,0.875,0.125,1.0,0
+routine,Australia,66,0.875,0.125,1.0,0
+routine,Australia,67,0.875,0.125,1.0,0
+routine,Australia,68,0.875,0.125,1.0,0
+routine,Australia,69,0.875,0.125,1.0,0
+routine,Australia,70,0.875,0.125,1.0,0
+routine,Australia,71,0.875,0.125,1.0,0
+routine,Australia,72,0.875,0.125,1.0,0
+routine,Australia,73,0.875,0.125,1.0,0
+routine,Australia,74,0.875,0.125,1.0,0
+routine,Australia,75,0.875,0.125,1.0,0
+routine,Australia,76,0.875,0.125,1.0,0
+routine,Australia,77,0.875,0.125,1.0,0
+routine,Australia,78,0.875,0.125,1.0,0
+routine,Australia,79,0.875,0.125,1.0,0
+routine,Australia,80,0.875,0.125,1.0,0
+routine,Australia,81,0.875,0.125,1.0,0
+routine,Australia,82,0.875,0.125,1.0,0
+routine,Australia,83,0.875,0.125,1.0,0
+routine,Australia,84,0.875,0.125,1.0,0
+routine,Australia,85,0.875,0.125,1.0,0
+routine,Australia,86,0.875,0.125,1.0,0
+routine,Australia,87,0.875,0.125,1.0,0
+routine,Australia,88,0.875,0.125,1.0,0
+routine,Australia,89,0.875,0.125,1.0,0
+routine,Australia,90,0.875,0.125,1.0,0
+routine,Australia,91,0.875,0.125,1.0,0
+routine,Australia,92,0.875,0.125,1.0,0
+routine,Australia,93,0.875,0.125,1.0,0
+routine,Australia,94,0.875,0.125,1.0,0
+routine,Australia,95,0.875,0.125,1.0,0
+routine,Australia,96,0.875,0.125,1.0,0
+routine,Australia,97,0.875,0.125,1.0,0
+routine,Australia,98,0.875,0.125,1.0,0
+routine,Australia,99,0.875,0.125,1.0,0
+routine,Australia,100,0.875,0.125,1.0,0
+routine,Australia,101,0.875,0.125,1.0,0
+routine,Australia,102,0.875,0.125,1.0,0
+routine,Australia,103,0.875,0.125,1.0,0
+routine,Australia,104,0.875,0.125,1.0,0
+routine,Australia,105,0.875,0.125,1.0,0
+routine,Australia,106,0.875,0.125,1.0,0
+routine,Australia,107,0.875,0.125,1.0,0
+routine,Australia,108,0.875,0.125,1.0,0
+routine,Australia,109,0.875,0.125,1.0,0
+routine,Australia,110,0.875,0.125,1.0,0
+routine,Australia,111,0.875,0.125,1.0,0
+routine,Australia,112,0.875,0.125,1.0,0
+routine,Australia,113,0.875,0.125,1.0,0
+routine,Australia,114,0.875,0.125,1.0,0
+routine,Australia,115,0.875,0.125,1.0,0
+routine,Australia,116,0.875,0.125,1.0,0
+routine,Australia,117,0.875,0.125,1.0,0
+routine,Australia,118,0.875,0.125,1.0,0
+routine,Australia,119,0.875,0.125,1.0,0
+routine,Australia,120,0.875,0.125,1.0,0
+routine,Canada,0,0.0,0.0714,0.0,13
+routine,Canada,1,0.0,0.0714,0.0,13
+routine,Canada,2,0.0,0.0714,0.0,13
+routine,Canada,3,0.0,0.0714,0.0,13
+routine,Canada,4,0.0,0.0714,0.0,13
+routine,Canada,5,0.0,0.0714,0.0,13
+routine,Canada,6,0.0,0.0714,0.0,12
+routine,Canada,7,0.0,0.0714,0.0,12
+routine,Canada,8,0.0,0.0714,0.0,12
+routine,Canada,9,0.0,0.0714,0.0,12
+routine,Canada,10,0.0774,0.0714,0.0833,11
+routine,Canada,11,0.0774,0.0714,0.0833,11
+routine,Canada,12,0.0774,0.0714,0.0833,11
+routine,Canada,13,0.0774,0.0714,0.0833,10
+routine,Canada,14,0.0774,0.0714,0.0833,10
+routine,Canada,15,0.0774,0.0714,0.0833,10
+routine,Canada,16,0.0774,0.1565,0.0833,9
+routine,Canada,17,0.0774,0.1565,0.0833,9
+routine,Canada,18,0.1625,0.1565,0.1852,8
+routine,Canada,19,0.1625,0.1565,0.1852,8
+routine,Canada,20,0.2476,0.1565,0.287,7
+routine,Canada,21,0.2476,0.1565,0.287,7
+routine,Canada,22,0.2476,0.1565,0.287,7
+routine,Canada,23,0.3327,0.1565,0.3889,6
+routine,Canada,24,0.4179,0.1565,0.4907,4
+routine,Canada,25,0.4179,0.1565,0.4907,4
+routine,Canada,26,0.4179,0.1565,0.4907,4
+routine,Canada,27,0.4179,0.1565,0.4907,4
+routine,Canada,28,0.4179,0.1565,0.4907,4
+routine,Canada,29,0.4179,0.1565,0.4907,4
+routine,Canada,30,0.4179,0.1565,0.4907,4
+routine,Canada,31,0.4179,0.1565,0.4907,4
+routine,Canada,32,0.4179,0.2629,0.4907,3
+routine,Canada,33,0.4179,0.2629,0.4907,3
+routine,Canada,34,0.4179,0.2629,0.4907,3
+routine,Canada,35,0.4179,0.2629,0.4907,3
+routine,Canada,36,0.4179,0.2629,0.4907,3
+routine,Canada,37,0.4179,0.2629,0.4907,3
+routine,Canada,38,0.4179,0.2629,0.4907,3
+routine,Canada,39,0.4179,0.2629,0.4907,3
+routine,Canada,40,0.4179,0.2629,0.4907,3
+routine,Canada,41,0.4179,0.2629,0.4907,3
+routine,Canada,42,0.4179,0.2629,0.4907,3
+routine,Canada,43,0.4179,0.2629,0.4907,3
+routine,Canada,44,0.4179,0.2629,0.4907,3
+routine,Canada,45,0.4179,0.2629,0.4907,3
+routine,Canada,46,0.4179,0.2629,0.4907,3
+routine,Canada,47,0.4179,0.2629,0.4907,3
+routine,Canada,48,0.4179,0.2629,0.4907,3
+routine,Canada,49,0.4179,0.2629,0.4907,3
+routine,Canada,50,0.4179,0.2629,0.4907,3
+routine,Canada,51,0.4179,0.2629,0.4907,3
+routine,Canada,52,0.4179,0.2629,0.4907,3
+routine,Canada,53,0.4179,0.2629,0.4907,3
+routine,Canada,54,0.4179,0.2629,0.4907,3
+routine,Canada,55,0.4179,0.2629,0.4907,3
+routine,Canada,56,0.4179,0.2629,0.4907,3
+routine,Canada,57,0.4179,0.2629,0.4907,3
+routine,Canada,58,0.4179,0.2629,0.4907,3
+routine,Canada,59,0.4179,0.2629,0.4907,3
+routine,Canada,60,0.4179,0.2629,0.4907,3
+routine,Canada,61,0.4179,0.2629,0.4907,3
+routine,Canada,62,0.4179,0.2629,0.4907,3
+routine,Canada,63,0.4179,0.2629,0.4907,3
+routine,Canada,64,0.4179,0.2629,0.4907,3
+routine,Canada,65,0.4179,0.2629,0.4907,3
+routine,Canada,66,0.4179,0.2629,0.4907,3
+routine,Canada,67,0.5243,0.2629,0.6605,2
+routine,Canada,68,0.5243,0.2629,0.6605,2
+routine,Canada,69,0.5243,0.2629,0.6605,2
+routine,Canada,70,0.5243,0.2629,0.6605,2
+routine,Canada,71,0.5243,0.2629,0.6605,2
+routine,Canada,72,0.5243,0.2629,0.6605,2
+routine,Canada,73,0.5243,0.2629,0.6605,2
+routine,Canada,74,0.5243,0.2629,0.6605,2
+routine,Canada,75,0.5243,0.2629,0.6605,2
+routine,Canada,76,0.5243,0.2629,0.6605,2
+routine,Canada,77,0.5243,0.2629,0.6605,2
+routine,Canada,78,0.5243,0.2629,0.6605,2
+routine,Canada,79,0.5243,0.2629,0.6605,2
+routine,Canada,80,0.5243,0.2629,0.6605,2
+routine,Canada,81,0.5243,0.2629,0.6605,2
+routine,Canada,82,0.6307,0.2629,0.8302,1
+routine,Canada,83,0.6307,0.2629,0.8302,1
+routine,Canada,84,0.6307,0.2629,0.8302,1
+routine,Canada,85,0.6307,0.2629,0.8302,1
+routine,Canada,86,0.6307,0.2629,0.8302,1
+routine,Canada,87,0.6307,0.2629,0.8302,0
+routine,Canada,88,0.6307,0.2629,0.8302,0
+routine,Canada,89,0.6307,0.2629,0.8302,0
+routine,Canada,90,0.6307,0.2629,0.8302,0
+routine,Canada,91,0.6307,0.2629,0.8302,0
+routine,Canada,92,0.6307,0.2629,0.8302,0
+routine,Canada,93,0.6307,0.2629,0.8302,0
+routine,Canada,94,0.6307,0.2629,0.8302,0
+routine,Canada,95,0.6307,0.2629,0.8302,0
+routine,Canada,96,0.6307,0.2629,0.8302,0
+routine,Canada,97,0.6307,0.2629,0.8302,0
+routine,Canada,98,0.6307,0.2629,0.8302,0
+routine,Canada,99,0.6307,0.2629,0.8302,0
+routine,Canada,100,0.6307,0.2629,0.8302,0
+routine,Canada,101,0.6307,0.2629,0.8302,0
+routine,Canada,102,0.6307,0.2629,0.8302,0
+routine,Canada,103,0.6307,0.2629,0.8302,0
+routine,Canada,104,0.6307,0.2629,0.8302,0
+routine,Canada,105,0.6307,0.2629,0.8302,0
+routine,Canada,106,0.6307,0.2629,0.8302,0
+routine,Canada,107,0.6307,0.2629,0.8302,0
+routine,Canada,108,0.6307,0.2629,0.8302,0
+routine,Canada,109,0.6307,0.2629,0.8302,0
+routine,Canada,110,0.6307,0.2629,0.8302,0
+routine,Canada,111,0.6307,0.2629,0.8302,0
+routine,Canada,112,0.6307,0.2629,0.8302,0
+routine,Canada,113,0.6307,0.2629,0.8302,0
+routine,Canada,114,0.6307,0.2629,0.8302,0
+routine,Canada,115,0.6307,0.2629,0.8302,0
+routine,Canada,116,0.6307,0.2629,0.8302,0
+routine,Canada,117,0.6307,0.2629,0.8302,0
+routine,Canada,118,0.6307,0.2629,0.8302,0
+routine,Canada,119,0.6307,0.2629,0.8302,0
+routine,Canada,120,0.6307,0.2629,0.8302,0
+routine,England,0,0.0,0.0,0.0,28
+routine,England,1,0.0,0.0,0.0,28
+routine,England,2,0.0,0.0,0.0,28
+routine,England,3,0.0,0.0,0.0,27
+routine,England,4,0.0,0.0,0.0,26
+routine,England,5,0.0385,0.0385,0.04,24
+routine,England,6,0.0385,0.0385,0.04,24
+routine,England,7,0.0385,0.0385,0.04,24
+routine,England,8,0.0385,0.0385,0.04,23
+routine,England,9,0.0786,0.0385,0.0817,22
+routine,England,10,0.1187,0.1187,0.1235,19
+routine,England,11,0.1589,0.1589,0.1722,17
+routine,England,12,0.1589,0.199,0.1722,16
+routine,England,13,0.1589,0.199,0.1722,16
+routine,England,14,0.199,0.199,0.2239,15
+routine,England,15,0.199,0.199,0.2239,15
+routine,England,16,0.2391,0.199,0.2757,14
+routine,England,17,0.2391,0.199,0.2757,13
+routine,England,18,0.2391,0.2422,0.2757,12
+routine,England,19,0.2391,0.2422,0.2757,12
+routine,England,20,0.2391,0.2422,0.2757,12
+routine,England,21,0.2824,0.2422,0.336,11
+routine,England,22,0.2824,0.2422,0.336,11
+routine,England,23,0.2824,0.2422,0.336,11
+routine,England,24,0.2824,0.2422,0.336,11
+routine,England,25,0.2824,0.2422,0.336,11
+routine,England,26,0.2824,0.2422,0.336,11
+routine,England,27,0.2824,0.2422,0.336,11
+routine,England,28,0.2824,0.2854,0.336,10
+routine,England,29,0.2824,0.2854,0.336,10
+routine,England,30,0.2824,0.2854,0.336,10
+routine,England,31,0.2824,0.2854,0.336,9
+routine,England,32,0.2824,0.2854,0.336,9
+routine,England,33,0.2824,0.2854,0.336,9
+routine,England,34,0.2824,0.3335,0.336,8
+routine,England,35,0.2824,0.3335,0.336,8
+routine,England,36,0.3304,0.3335,0.419,7
+routine,England,37,0.3304,0.3335,0.419,7
+routine,England,38,0.3304,0.3815,0.419,6
+routine,England,39,0.3304,0.3815,0.419,6
+routine,England,40,0.3304,0.3815,0.419,6
+routine,England,41,0.3304,0.3815,0.419,6
+routine,England,42,0.3304,0.3815,0.419,6
+routine,England,43,0.3304,0.3815,0.419,5
+routine,England,44,0.3304,0.3815,0.419,5
+routine,England,45,0.3304,0.3815,0.419,5
+routine,England,46,0.3304,0.3815,0.419,5
+routine,England,47,0.3304,0.3815,0.419,5
+routine,England,48,0.3304,0.3815,0.419,5
+routine,England,49,0.3304,0.3815,0.419,4
+routine,England,50,0.3304,0.3815,0.419,4
+routine,England,51,0.3304,0.3815,0.419,4
+routine,England,52,0.3304,0.3815,0.419,4
+routine,England,53,0.3304,0.3815,0.419,4
+routine,England,54,0.3304,0.3815,0.419,4
+routine,England,55,0.4024,0.3815,0.5643,3
+routine,England,56,0.4024,0.3815,0.5643,3
+routine,England,57,0.4024,0.3815,0.5643,3
+routine,England,58,0.4024,0.3815,0.5643,3
+routine,England,59,0.4024,0.3815,0.5643,3
+routine,England,60,0.4024,0.3815,0.5643,3
+routine,England,61,0.4024,0.4535,0.5643,2
+routine,England,62,0.4024,0.4535,0.5643,2
+routine,England,63,0.4024,0.4535,0.5643,2
+routine,England,64,0.4024,0.4535,0.5643,2
+routine,England,65,0.4024,0.4535,0.5643,2
+routine,England,66,0.4024,0.4535,0.5643,2
+routine,England,67,0.4024,0.4535,0.5643,2
+routine,England,68,0.4024,0.4535,0.5643,2
+routine,England,69,0.4744,0.4535,0.7821,0
+routine,England,70,0.4744,0.4535,0.7821,0
+routine,England,71,0.4744,0.4535,0.7821,0
+routine,England,72,0.4744,0.4535,0.7821,0
+routine,England,73,0.4744,0.4535,0.7821,0
+routine,England,74,0.4744,0.4535,0.7821,0
+routine,England,75,0.4744,0.4535,0.7821,0
+routine,England,76,0.4744,0.4535,0.7821,0
+routine,England,77,0.4744,0.4535,0.7821,0
+routine,England,78,0.4744,0.4535,0.7821,0
+routine,England,79,0.4744,0.4535,0.7821,0
+routine,England,80,0.4744,0.4535,0.7821,0
+routine,England,81,0.4744,0.4535,0.7821,0
+routine,England,82,0.4744,0.4535,0.7821,0
+routine,England,83,0.4744,0.4535,0.7821,0
+routine,England,84,0.4744,0.4535,0.7821,0
+routine,England,85,0.4744,0.4535,0.7821,0
+routine,England,86,0.4744,0.4535,0.7821,0
+routine,England,87,0.4744,0.4535,0.7821,0
+routine,England,88,0.4744,0.4535,0.7821,0
+routine,England,89,0.4744,0.4535,0.7821,0
+routine,England,90,0.4744,0.4535,0.7821,0
+routine,England,91,0.4744,0.4535,0.7821,0
+routine,England,92,0.4744,0.4535,0.7821,0
+routine,England,93,0.4744,0.4535,0.7821,0
+routine,England,94,0.4744,0.4535,0.7821,0
+routine,England,95,0.4744,0.4535,0.7821,0
+routine,England,96,0.4744,0.4535,0.7821,0
+routine,England,97,0.4744,0.4535,0.7821,0
+routine,England,98,0.4744,0.4535,0.7821,0
+routine,England,99,0.4744,0.4535,0.7821,0
+routine,England,100,0.4744,0.4535,0.7821,0
+routine,England,101,0.4744,0.4535,0.7821,0
+routine,England,102,0.4744,0.4535,0.7821,0
+routine,England,103,0.4744,0.4535,0.7821,0
+routine,England,104,0.4744,0.4535,0.7821,0
+routine,England,105,0.4744,0.4535,0.7821,0
+routine,England,106,0.4744,0.4535,0.7821,0
+routine,England,107,0.4744,0.4535,0.7821,0
+routine,England,108,0.4744,0.4535,0.7821,0
+routine,England,109,0.4744,0.4535,0.7821,0
+routine,England,110,0.4744,0.4535,0.7821,0
+routine,England,111,0.4744,0.4535,0.7821,0
+routine,England,112,0.4744,0.4535,0.7821,0
+routine,England,113,0.4744,0.4535,0.7821,0
+routine,England,114,0.4744,0.4535,0.7821,0
+routine,England,115,0.4744,0.4535,0.7821,0
+routine,England,116,0.4744,0.4535,0.7821,0
+routine,England,117,0.4744,0.4535,0.7821,0
+routine,England,118,0.4744,0.4535,0.7821,0
+routine,England,119,0.4744,0.4535,0.7821,0
+routine,England,120,0.4744,0.4535,0.7821,0
+routine,France,0,0.0,0.0,0.0,28
+routine,France,1,0.0,0.0,0.0,28
+routine,France,2,0.0,0.0,0.0,28
+routine,France,3,0.0,0.0,0.0,27
+routine,France,4,0.0,0.0,0.0,26
+routine,France,5,0.0,0.0769,0.0,24
+routine,France,6,0.0,0.0769,0.0,24
+routine,France,7,0.0,0.1538,0.0,22
+routine,France,8,0.0,0.1538,0.0,21
+routine,France,9,0.0,0.1538,0.0,21
+routine,France,10,0.0403,0.2344,0.0476,18
+routine,France,11,0.0806,0.2747,0.1005,16
+routine,France,12,0.0806,0.2747,0.1005,16
+routine,France,13,0.0806,0.2747,0.1005,16
+routine,France,14,0.0806,0.2747,0.1005,15
+routine,France,15,0.0806,0.2747,0.1005,15
+routine,France,16,0.1236,0.2747,0.1605,14
+routine,France,17,0.1236,0.2747,0.1605,13
+routine,France,18,0.1236,0.2747,0.1605,13
+routine,France,19,0.1236,0.2747,0.1605,13
+routine,France,20,0.1699,0.321,0.2251,11
+routine,France,21,0.1699,0.321,0.2251,11
+routine,France,22,0.1699,0.321,0.2251,11
+routine,France,23,0.1699,0.321,0.2251,11
+routine,France,24,0.1699,0.321,0.2251,11
+routine,France,25,0.1699,0.321,0.2251,11
+routine,France,26,0.1699,0.321,0.2251,11
+routine,France,27,0.1699,0.321,0.2251,11
+routine,France,28,0.2161,0.321,0.2955,10
+routine,France,29,0.2161,0.321,0.2955,10
+routine,France,30,0.2624,0.321,0.366,9
+routine,France,31,0.2624,0.321,0.366,9
+routine,France,32,0.2624,0.321,0.366,9
+routine,France,33,0.3087,0.321,0.4364,8
+routine,France,34,0.3087,0.321,0.4364,8
+routine,France,35,0.3087,0.321,0.4364,8
+routine,France,36,0.3087,0.321,0.4364,8
+routine,France,37,0.3087,0.3673,0.4364,7
+routine,France,38,0.3087,0.4136,0.4364,6
+routine,France,39,0.355,0.4136,0.5303,5
+routine,France,40,0.355,0.4136,0.5303,5
+routine,France,41,0.355,0.4136,0.5303,5
+routine,France,42,0.355,0.4136,0.5303,5
+routine,France,43,0.355,0.4136,0.5303,5
+routine,France,44,0.355,0.4136,0.5303,5
+routine,France,45,0.355,0.4136,0.5303,5
+routine,France,46,0.355,0.4136,0.5303,5
+routine,France,47,0.355,0.4136,0.5303,5
+routine,France,48,0.355,0.4136,0.5303,5
+routine,France,49,0.355,0.4136,0.5303,4
+routine,France,50,0.355,0.4136,0.5303,3
+routine,France,51,0.355,0.4136,0.5303,3
+routine,France,52,0.355,0.4136,0.5303,2
+routine,France,53,0.355,0.4136,0.5303,2
+routine,France,54,0.355,0.4136,0.5303,2
+routine,France,55,0.355,0.4136,0.5303,2
+routine,France,56,0.355,0.4136,0.5303,2
+routine,France,57,0.355,0.4136,0.5303,2
+routine,France,58,0.355,0.4136,0.5303,2
+routine,France,59,0.355,0.4136,0.5303,2
+routine,France,60,0.355,0.4136,0.5303,2
+routine,France,61,0.355,0.4136,0.5303,2
+routine,France,62,0.355,0.4136,0.5303,2
+routine,France,63,0.355,0.4136,0.5303,2
+routine,France,64,0.355,0.4136,0.5303,2
+routine,France,65,0.355,0.4136,0.5303,2
+routine,France,66,0.355,0.4136,0.5303,2
+routine,France,67,0.355,0.4136,0.5303,2
+routine,France,68,0.355,0.4136,0.5303,2
+routine,France,69,0.355,0.4136,0.5303,2
+routine,France,70,0.355,0.4136,0.5303,2
+routine,France,71,0.355,0.4136,0.5303,2
+routine,France,72,0.355,0.4136,0.5303,2
+routine,France,73,0.355,0.4136,0.5303,2
+routine,France,74,0.355,0.4136,0.5303,2
+routine,France,75,0.355,0.4136,0.5303,2
+routine,France,76,0.355,0.4136,0.5303,2
+routine,France,77,0.355,0.4136,0.5303,2
+routine,France,78,0.355,0.4136,0.5303,2
+routine,France,79,0.355,0.4136,0.5303,2
+routine,France,80,0.355,0.4136,0.5303,2
+routine,France,81,0.355,0.4136,0.5303,2
+routine,France,82,0.355,0.4136,0.5303,2
+routine,France,83,0.355,0.4136,0.5303,2
+routine,France,84,0.355,0.4136,0.5303,2
+routine,France,85,0.355,0.4136,0.5303,2
+routine,France,86,0.355,0.4136,0.5303,2
+routine,France,87,0.355,0.4136,0.5303,2
+routine,France,88,0.355,0.4136,0.5303,2
+routine,France,89,0.355,0.4136,0.5303,2
+routine,France,90,0.355,0.4136,0.5303,2
+routine,France,91,0.355,0.4136,0.5303,2
+routine,France,92,0.355,0.4136,0.5303,2
+routine,France,93,0.355,0.4136,0.5303,2
+routine,France,94,0.355,0.4136,0.5303,2
+routine,France,95,0.355,0.4136,0.5303,2
+routine,France,96,0.355,0.4136,0.5303,2
+routine,France,97,0.355,0.4136,0.5303,2
+routine,France,98,0.355,0.4136,0.5303,2
+routine,France,99,0.355,0.4136,0.5303,2
+routine,France,100,0.355,0.4136,0.5303,2
+routine,France,101,0.355,0.4136,0.5303,2
+routine,France,102,0.355,0.4136,0.5303,2
+routine,France,103,0.355,0.4136,0.5303,2
+routine,France,104,0.355,0.4136,0.5303,2
+routine,France,105,0.355,0.4136,0.5303,2
+routine,France,106,0.355,0.4136,0.5303,2
+routine,France,107,0.355,0.4136,0.5303,2
+routine,France,108,0.355,0.4136,0.5303,2
+routine,France,109,0.355,0.4136,0.5303,2
+routine,France,110,0.355,0.4136,0.5303,2
+routine,France,111,0.355,0.4136,0.5303,2
+routine,France,112,0.355,0.4136,0.5303,2
+routine,France,113,0.355,0.4136,0.5303,2
+routine,France,114,0.355,0.4136,0.5303,2
+routine,France,115,0.355,0.4136,0.5303,2
+routine,France,116,0.355,0.4136,0.5303,2
+routine,France,117,0.355,0.4136,0.5303,2
+routine,France,118,0.355,0.4136,0.5303,2
+routine,France,119,0.355,0.4136,0.5303,2
+routine,France,120,0.355,0.4136,0.5303,2
+routine,Germany,0,0.0,0.0,0.0,28
+routine,Germany,1,0.0,0.0,0.0,28
+routine,Germany,2,0.0,0.0,0.0,28
+routine,Germany,3,0.037,0.0,0.037,26
+routine,Germany,4,0.037,0.0,0.037,25
+routine,Germany,5,0.037,0.0385,0.037,24
+routine,Germany,6,0.0756,0.0385,0.0772,23
+routine,Germany,7,0.1526,0.0385,0.1574,21
+routine,Germany,8,0.2317,0.0385,0.2398,18
+routine,Germany,9,0.3127,0.0385,0.3242,16
+routine,Germany,10,0.4344,0.0791,0.457,12
+routine,Germany,11,0.5155,0.0791,0.5475,10
+routine,Germany,12,0.556,0.1196,0.5927,8
+routine,Germany,13,0.556,0.1196,0.5927,8
+routine,Germany,14,0.556,0.1196,0.5927,7
+routine,Germany,15,0.6024,0.1196,0.6509,6
+routine,Germany,16,0.6024,0.1196,0.6509,6
+routine,Germany,17,0.6487,0.1196,0.7091,5
+routine,Germany,18,0.6487,0.1196,0.7091,5
+routine,Germany,19,0.695,0.1196,0.7673,4
+routine,Germany,20,0.7414,0.1196,0.8255,3
+routine,Germany,21,0.7414,0.1196,0.8255,3
+routine,Germany,22,0.7414,0.1196,0.8255,3
+routine,Germany,23,0.7877,0.1196,0.8836,2
+routine,Germany,24,0.7877,0.1196,0.8836,2
+routine,Germany,25,0.7877,0.1196,0.8836,2
+routine,Germany,26,0.7877,0.1196,0.8836,2
+routine,Germany,27,0.7877,0.1196,0.8836,2
+routine,Germany,28,0.7877,0.1196,0.8836,2
+routine,Germany,29,0.7877,0.1196,0.8836,2
+routine,Germany,30,0.7877,0.1196,0.8836,2
+routine,Germany,31,0.8341,0.1196,0.9418,1
+routine,Germany,32,0.8341,0.1196,0.9418,1
+routine,Germany,33,0.8341,0.1196,0.9418,1
+routine,Germany,34,0.8341,0.1196,0.9418,1
+routine,Germany,35,0.8341,0.1196,0.9418,1
+routine,Germany,36,0.8341,0.1196,0.9418,1
+routine,Germany,37,0.8341,0.1196,0.9418,1
+routine,Germany,38,0.8341,0.1196,0.9418,1
+routine,Germany,39,0.8341,0.1196,0.9418,1
+routine,Germany,40,0.8341,0.1196,0.9418,1
+routine,Germany,41,0.8341,0.1196,0.9418,1
+routine,Germany,42,0.8341,0.1196,0.9418,1
+routine,Germany,43,0.8341,0.1196,0.9418,1
+routine,Germany,44,0.8341,0.1196,0.9418,1
+routine,Germany,45,0.8341,0.1196,0.9418,1
+routine,Germany,46,0.8341,0.1196,0.9418,1
+routine,Germany,47,0.8341,0.1196,0.9418,1
+routine,Germany,48,0.8341,0.1196,0.9418,1
+routine,Germany,49,0.8341,0.1196,0.9418,1
+routine,Germany,50,0.8341,0.1196,0.9418,1
+routine,Germany,51,0.8341,0.1196,0.9418,1
+routine,Germany,52,0.8341,0.1196,0.9418,1
+routine,Germany,53,0.8341,0.1196,0.9418,1
+routine,Germany,54,0.8341,0.1196,0.9418,1
+routine,Germany,55,0.8341,0.1196,0.9418,1
+routine,Germany,56,0.8341,0.1196,0.9418,1
+routine,Germany,57,0.8341,0.1196,0.9418,1
+routine,Germany,58,0.8341,0.1196,0.9418,1
+routine,Germany,59,0.8341,0.1196,0.9418,1
+routine,Germany,60,0.8341,0.1196,0.9418,1
+routine,Germany,61,0.8341,0.1196,0.9418,1
+routine,Germany,62,0.8341,0.1196,0.9418,1
+routine,Germany,63,0.8341,0.1196,0.9418,1
+routine,Germany,64,0.8341,0.1196,0.9418,1
+routine,Germany,65,0.8341,0.1196,0.9418,1
+routine,Germany,66,0.8341,0.1196,0.9418,1
+routine,Germany,67,0.8341,0.1196,0.9418,1
+routine,Germany,68,0.8341,0.1196,0.9418,1
+routine,Germany,69,0.8341,0.1196,0.9418,1
+routine,Germany,70,0.8341,0.1196,0.9418,1
+routine,Germany,71,0.8341,0.1196,0.9418,1
+routine,Germany,72,0.8341,0.1196,0.9418,1
+routine,Germany,73,0.8341,0.1196,0.9418,1
+routine,Germany,74,0.8341,0.1196,0.9418,1
+routine,Germany,75,0.8341,0.1196,0.9418,1
+routine,Germany,76,0.8341,0.1196,0.9418,1
+routine,Germany,77,0.8341,0.1196,0.9418,1
+routine,Germany,78,0.8341,0.1196,0.9418,1
+routine,Germany,79,0.8341,0.1196,0.9418,1
+routine,Germany,80,0.8341,0.1196,0.9418,1
+routine,Germany,81,0.8341,0.1196,0.9418,1
+routine,Germany,82,0.8341,0.1196,0.9418,1
+routine,Germany,83,0.8341,0.1196,0.9418,1
+routine,Germany,84,0.8341,0.1196,0.9418,1
+routine,Germany,85,0.8341,0.1196,0.9418,1
+routine,Germany,86,0.8341,0.1196,0.9418,1
+routine,Germany,87,0.8341,0.1196,0.9418,1
+routine,Germany,88,0.8341,0.1196,0.9418,1
+routine,Germany,89,0.8341,0.1196,0.9418,1
+routine,Germany,90,0.8341,0.1196,0.9418,1
+routine,Germany,91,0.8341,0.1196,0.9418,1
+routine,Germany,92,0.8341,0.1196,0.9418,1
+routine,Germany,93,0.8341,0.1196,0.9418,1
+routine,Germany,94,0.8341,0.1196,0.9418,1
+routine,Germany,95,0.8341,0.1196,0.9418,1
+routine,Germany,96,0.8341,0.1196,0.9418,1
+routine,Germany,97,0.8341,0.1196,0.9418,1
+routine,Germany,98,0.8341,0.1196,0.9418,1
+routine,Germany,99,0.8341,0.1196,0.9418,1
+routine,Germany,100,0.8341,0.1196,0.9418,1
+routine,Germany,101,0.8341,0.1196,0.9418,1
+routine,Germany,102,0.8341,0.1196,0.9418,1
+routine,Germany,103,0.8341,0.1196,0.9418,1
+routine,Germany,104,0.8341,0.1196,0.9418,1
+routine,Germany,105,0.8341,0.1196,0.9418,1
+routine,Germany,106,0.8341,0.1196,0.9418,1
+routine,Germany,107,0.8341,0.1196,0.9418,1
+routine,Germany,108,0.8341,0.1196,0.9418,1
+routine,Germany,109,0.8341,0.1196,0.9418,1
+routine,Germany,110,0.8341,0.1196,0.9418,1
+routine,Germany,111,0.8341,0.1196,0.9418,1
+routine,Germany,112,0.8341,0.1196,0.9418,1
+routine,Germany,113,0.8341,0.1196,0.9418,1
+routine,Germany,114,0.8341,0.1196,0.9418,1
+routine,Germany,115,0.8341,0.1196,0.9418,1
+routine,Germany,116,0.8341,0.1196,0.9418,1
+routine,Germany,117,0.8341,0.1196,0.9418,1
+routine,Germany,118,0.8341,0.1196,0.9418,1
+routine,Germany,119,0.8341,0.1196,0.9418,1
+routine,Germany,120,0.8341,0.1196,0.9418,1
+routine,Italy,0,0.0,0.0,0.0,28
+routine,Italy,1,0.0,0.0,0.0,28
+routine,Italy,2,0.0,0.0,0.0,28
+routine,Italy,3,0.0357,0.0,0.0357,26
+routine,Italy,4,0.0357,0.0,0.0357,25
+routine,Italy,5,0.0357,0.0386,0.0357,24
+routine,Italy,6,0.0357,0.0386,0.0357,24
+routine,Italy,7,0.0357,0.0771,0.0357,23
+routine,Italy,8,0.0357,0.0771,0.0357,22
+routine,Italy,9,0.0357,0.0771,0.0357,22
+routine,Italy,10,0.076,0.1175,0.0816,20
+routine,Italy,11,0.076,0.1175,0.0816,20
+routine,Italy,12,0.1164,0.1175,0.1276,19
+routine,Italy,13,0.1164,0.1175,0.1276,19
+routine,Italy,14,0.1164,0.1175,0.1276,18
+routine,Italy,15,0.2015,0.1175,0.2245,16
+routine,Italy,16,0.2441,0.1175,0.273,15
+routine,Italy,17,0.3353,0.1175,0.3768,12
+routine,Italy,18,0.3809,0.1175,0.4288,11
+routine,Italy,19,0.3809,0.1175,0.4288,11
+routine,Italy,20,0.4265,0.1631,0.4807,9
+routine,Italy,21,0.4265,0.1631,0.4807,9
+routine,Italy,22,0.4265,0.1631,0.4807,9
+routine,Italy,23,0.4721,0.1631,0.5384,8
+routine,Italy,24,0.4721,0.1631,0.5384,8
+routine,Italy,25,0.4721,0.1631,0.5384,8
+routine,Italy,26,0.5177,0.1631,0.5961,7
+routine,Italy,27,0.5633,0.1631,0.6538,6
+routine,Italy,28,0.5633,0.1631,0.6538,6
+routine,Italy,29,0.5633,0.1631,0.6538,6
+routine,Italy,30,0.6089,0.1631,0.7115,5
+routine,Italy,31,0.6545,0.1631,0.7692,4
+routine,Italy,32,0.6545,0.1631,0.7692,4
+routine,Italy,33,0.6545,0.1631,0.7692,4
+routine,Italy,34,0.6545,0.2087,0.7692,3
+routine,Italy,35,0.6545,0.2087,0.7692,3
+routine,Italy,36,0.6545,0.2087,0.7692,3
+routine,Italy,37,0.6545,0.2087,0.7692,3
+routine,Italy,38,0.6545,0.2087,0.7692,3
+routine,Italy,39,0.6545,0.2087,0.7692,3
+routine,Italy,40,0.6545,0.2087,0.7692,3
+routine,Italy,41,0.6545,0.2087,0.7692,3
+routine,Italy,42,0.6545,0.2087,0.7692,3
+routine,Italy,43,0.6545,0.2087,0.7692,3
+routine,Italy,44,0.6545,0.2087,0.7692,3
+routine,Italy,45,0.6545,0.2087,0.7692,3
+routine,Italy,46,0.6545,0.2087,0.7692,3
+routine,Italy,47,0.7001,0.2087,0.8461,2
+routine,Italy,48,0.7001,0.2087,0.8461,2
+routine,Italy,49,0.7001,0.2087,0.8461,2
+routine,Italy,50,0.7001,0.2087,0.8461,2
+routine,Italy,51,0.7001,0.2087,0.8461,2
+routine,Italy,52,0.7001,0.2087,0.8461,2
+routine,Italy,53,0.7001,0.2087,0.8461,2
+routine,Italy,54,0.7001,0.2087,0.8461,2
+routine,Italy,55,0.7001,0.2087,0.8461,2
+routine,Italy,56,0.7001,0.2087,0.8461,2
+routine,Italy,57,0.7001,0.2087,0.8461,2
+routine,Italy,58,0.7001,0.2087,0.8461,2
+routine,Italy,59,0.7001,0.2087,0.8461,2
+routine,Italy,60,0.7001,0.2087,0.8461,2
+routine,Italy,61,0.7001,0.2543,0.8461,1
+routine,Italy,62,0.7001,0.2543,0.8461,1
+routine,Italy,63,0.7001,0.2543,0.8461,1
+routine,Italy,64,0.7001,0.2543,0.8461,1
+routine,Italy,65,0.7001,0.2543,0.8461,1
+routine,Italy,66,0.7001,0.2543,0.8461,1
+routine,Italy,67,0.7001,0.2543,0.8461,1
+routine,Italy,68,0.7001,0.2543,0.8461,1
+routine,Italy,69,0.7001,0.2543,0.8461,1
+routine,Italy,70,0.7001,0.2543,0.8461,1
+routine,Italy,71,0.7001,0.2543,0.8461,1
+routine,Italy,72,0.7001,0.2543,0.8461,1
+routine,Italy,73,0.7001,0.2543,0.8461,1
+routine,Italy,74,0.7001,0.2543,0.8461,1
+routine,Italy,75,0.7001,0.2543,0.8461,1
+routine,Italy,76,0.7001,0.2543,0.8461,1
+routine,Italy,77,0.7001,0.2543,0.8461,1
+routine,Italy,78,0.7001,0.2543,0.8461,1
+routine,Italy,79,0.7001,0.2543,0.8461,1
+routine,Italy,80,0.7001,0.2543,0.8461,1
+routine,Italy,81,0.7001,0.2543,0.8461,1
+routine,Italy,82,0.7001,0.2543,0.8461,1
+routine,Italy,83,0.7001,0.2543,0.8461,1
+routine,Italy,84,0.7001,0.2543,0.8461,1
+routine,Italy,85,0.7001,0.2543,0.8461,1
+routine,Italy,86,0.7001,0.2543,0.8461,1
+routine,Italy,87,0.7001,0.2543,0.8461,1
+routine,Italy,88,0.7001,0.2543,0.8461,1
+routine,Italy,89,0.7001,0.2543,0.8461,1
+routine,Italy,90,0.7001,0.2543,0.8461,1
+routine,Italy,91,0.7001,0.2543,0.8461,1
+routine,Italy,92,0.7001,0.2543,0.8461,1
+routine,Italy,93,0.7001,0.2543,0.8461,1
+routine,Italy,94,0.7001,0.2543,0.8461,1
+routine,Italy,95,0.7001,0.2543,0.8461,1
+routine,Italy,96,0.7001,0.2543,0.8461,1
+routine,Italy,97,0.7001,0.2543,0.8461,1
+routine,Italy,98,0.7001,0.2543,0.8461,1
+routine,Italy,99,0.7001,0.2543,0.8461,1
+routine,Italy,100,0.7001,0.2543,0.8461,1
+routine,Italy,101,0.7001,0.2543,0.8461,1
+routine,Italy,102,0.7001,0.2543,0.8461,1
+routine,Italy,103,0.7001,0.2543,0.8461,1
+routine,Italy,104,0.7001,0.2543,0.8461,1
+routine,Italy,105,0.7001,0.2543,0.8461,1
+routine,Italy,106,0.7001,0.2543,0.8461,1
+routine,Italy,107,0.7001,0.2543,0.8461,1
+routine,Italy,108,0.7001,0.2543,0.8461,1
+routine,Italy,109,0.7001,0.2543,0.8461,1
+routine,Italy,110,0.7001,0.2543,0.8461,1
+routine,Italy,111,0.7001,0.2543,0.8461,1
+routine,Italy,112,0.7001,0.2543,0.8461,1
+routine,Italy,113,0.7001,0.2543,0.8461,1
+routine,Italy,114,0.7001,0.2543,0.8461,1
+routine,Italy,115,0.7001,0.2543,0.8461,1
+routine,Italy,116,0.7001,0.2543,0.8461,1
+routine,Italy,117,0.7001,0.2543,0.8461,1
+routine,Italy,118,0.7001,0.2543,0.8461,1
+routine,Italy,119,0.7001,0.2543,0.8461,1
+routine,Italy,120,0.7001,0.2543,0.8461,1
+routine,United States,0,0.037,0.0,0.037,26
+routine,United States,1,0.037,0.0,0.037,25
+routine,United States,2,0.1141,0.0,0.1141,23
+routine,United States,3,0.2296,0.0,0.2296,20
+routine,United States,4,0.4222,0.0,0.4222,15
+routine,United States,5,0.6533,0.0,0.6533,9
+routine,United States,6,0.6967,0.0,0.6967,7
+routine,United States,7,0.7833,0.0,0.7833,5
+routine,United States,8,0.7833,0.0,0.7833,5
+routine,United States,9,0.8267,0.0,0.8267,4
+routine,United States,10,0.9133,0.0,0.9133,2
+routine,United States,11,1.0,0.0,1.0,0
+routine,United States,12,1.0,0.0,1.0,0
+routine,United States,13,1.0,0.0,1.0,0
+routine,United States,14,1.0,0.0,1.0,0
+routine,United States,15,1.0,0.0,1.0,0
+routine,United States,16,1.0,0.0,1.0,0
+routine,United States,17,1.0,0.0,1.0,0
+routine,United States,18,1.0,0.0,1.0,0
+routine,United States,19,1.0,0.0,1.0,0
+routine,United States,20,1.0,0.0,1.0,0
+routine,United States,21,1.0,0.0,1.0,0
+routine,United States,22,1.0,0.0,1.0,0
+routine,United States,23,1.0,0.0,1.0,0
+routine,United States,24,1.0,0.0,1.0,0
+routine,United States,25,1.0,0.0,1.0,0
+routine,United States,26,1.0,0.0,1.0,0
+routine,United States,27,1.0,0.0,1.0,0
+routine,United States,28,1.0,0.0,1.0,0
+routine,United States,29,1.0,0.0,1.0,0
+routine,United States,30,1.0,0.0,1.0,0
+routine,United States,31,1.0,0.0,1.0,0
+routine,United States,32,1.0,0.0,1.0,0
+routine,United States,33,1.0,0.0,1.0,0
+routine,United States,34,1.0,0.0,1.0,0
+routine,United States,35,1.0,0.0,1.0,0
+routine,United States,36,1.0,0.0,1.0,0
+routine,United States,37,1.0,0.0,1.0,0
+routine,United States,38,1.0,0.0,1.0,0
+routine,United States,39,1.0,0.0,1.0,0
+routine,United States,40,1.0,0.0,1.0,0
+routine,United States,41,1.0,0.0,1.0,0
+routine,United States,42,1.0,0.0,1.0,0
+routine,United States,43,1.0,0.0,1.0,0
+routine,United States,44,1.0,0.0,1.0,0
+routine,United States,45,1.0,0.0,1.0,0
+routine,United States,46,1.0,0.0,1.0,0
+routine,United States,47,1.0,0.0,1.0,0
+routine,United States,48,1.0,0.0,1.0,0
+routine,United States,49,1.0,0.0,1.0,0
+routine,United States,50,1.0,0.0,1.0,0
+routine,United States,51,1.0,0.0,1.0,0
+routine,United States,52,1.0,0.0,1.0,0
+routine,United States,53,1.0,0.0,1.0,0
+routine,United States,54,1.0,0.0,1.0,0
+routine,United States,55,1.0,0.0,1.0,0
+routine,United States,56,1.0,0.0,1.0,0
+routine,United States,57,1.0,0.0,1.0,0
+routine,United States,58,1.0,0.0,1.0,0
+routine,United States,59,1.0,0.0,1.0,0
+routine,United States,60,1.0,0.0,1.0,0
+routine,United States,61,1.0,0.0,1.0,0
+routine,United States,62,1.0,0.0,1.0,0
+routine,United States,63,1.0,0.0,1.0,0
+routine,United States,64,1.0,0.0,1.0,0
+routine,United States,65,1.0,0.0,1.0,0
+routine,United States,66,1.0,0.0,1.0,0
+routine,United States,67,1.0,0.0,1.0,0
+routine,United States,68,1.0,0.0,1.0,0
+routine,United States,69,1.0,0.0,1.0,0
+routine,United States,70,1.0,0.0,1.0,0
+routine,United States,71,1.0,0.0,1.0,0
+routine,United States,72,1.0,0.0,1.0,0
+routine,United States,73,1.0,0.0,1.0,0
+routine,United States,74,1.0,0.0,1.0,0
+routine,United States,75,1.0,0.0,1.0,0
+routine,United States,76,1.0,0.0,1.0,0
+routine,United States,77,1.0,0.0,1.0,0
+routine,United States,78,1.0,0.0,1.0,0
+routine,United States,79,1.0,0.0,1.0,0
+routine,United States,80,1.0,0.0,1.0,0
+routine,United States,81,1.0,0.0,1.0,0
+routine,United States,82,1.0,0.0,1.0,0
+routine,United States,83,1.0,0.0,1.0,0
+routine,United States,84,1.0,0.0,1.0,0
+routine,United States,85,1.0,0.0,1.0,0
+routine,United States,86,1.0,0.0,1.0,0
+routine,United States,87,1.0,0.0,1.0,0
+routine,United States,88,1.0,0.0,1.0,0
+routine,United States,89,1.0,0.0,1.0,0
+routine,United States,90,1.0,0.0,1.0,0
+routine,United States,91,1.0,0.0,1.0,0
+routine,United States,92,1.0,0.0,1.0,0
+routine,United States,93,1.0,0.0,1.0,0
+routine,United States,94,1.0,0.0,1.0,0
+routine,United States,95,1.0,0.0,1.0,0
+routine,United States,96,1.0,0.0,1.0,0
+routine,United States,97,1.0,0.0,1.0,0
+routine,United States,98,1.0,0.0,1.0,0
+routine,United States,99,1.0,0.0,1.0,0
+routine,United States,100,1.0,0.0,1.0,0
+routine,United States,101,1.0,0.0,1.0,0
+routine,United States,102,1.0,0.0,1.0,0
+routine,United States,103,1.0,0.0,1.0,0
+routine,United States,104,1.0,0.0,1.0,0
+routine,United States,105,1.0,0.0,1.0,0
+routine,United States,106,1.0,0.0,1.0,0
+routine,United States,107,1.0,0.0,1.0,0
+routine,United States,108,1.0,0.0,1.0,0
+routine,United States,109,1.0,0.0,1.0,0
+routine,United States,110,1.0,0.0,1.0,0
+routine,United States,111,1.0,0.0,1.0,0
+routine,United States,112,1.0,0.0,1.0,0
+routine,United States,113,1.0,0.0,1.0,0
+routine,United States,114,1.0,0.0,1.0,0
+routine,United States,115,1.0,0.0,1.0,0
+routine,United States,116,1.0,0.0,1.0,0
+routine,United States,117,1.0,0.0,1.0,0
+routine,United States,118,1.0,0.0,1.0,0
+routine,United States,119,1.0,0.0,1.0,0
+routine,United States,120,1.0,0.0,1.0,0

@@ -1,0 +1,224 @@
+product_key,system,body,indication_key,decision_date,outcome,indication_authorisation_date,authorisation_basis,months_stated_by_agent,months_from_indication_authorisation,is_extension
+kymriah,Italy,AIFA,ALL_ped,2019-08-12,recommended-managed-access,2018-08-23,label event (EMA procedural steps),11.6,11.6,False
+kymriah,Italy,AIFA,LBCL_3L,2019-08-12,recommended-managed-access,2018-08-23,label event (EMA procedural steps),11.6,11.6,False
+kymriah,Italy,AIFA,ALL_ped;LBCL_3L,2022-12-12,recommended-managed-access,2018-08-23,initial EU authorisation,51.6,51.6,False
+kymriah,Italy,AIFA,FL_3L,2023-08-08,recommended-restricted,2022-04-29,label event (EMA procedural steps),14.3,15.3,True
+yescarta,Italy,AIFA,LBCL_3L,2019-11-11,recommended-managed-access,2018-08-23,label event (EMA procedural steps),14.6,14.6,False
+yescarta,Italy,AIFA,LBCL_3L,2022-12-13,recommended-restricted,2018-08-23,label event (EMA procedural steps),51.7,51.7,False
+yescarta,Italy,AIFA,LBCL_2L,2023-11-11,recommended-restricted,2022-10-14,label event (EMA procedural steps),12.8,12.9,True
+yescarta,Italy,AIFA,FL_4L,2023-11-11,recommended-restricted,2018-08-23,initial EU authorisation,16.7,62.6,False
+tecartus,Italy,AIFA,MCL_3L,2022-03-11,recommended-restricted,2020-12-14,initial EU authorisation,14.8,14.8,False
+tecartus,Italy,AIFA,ALL_adult_26plus,2023-12-04,recommended-restricted,2020-12-14,initial EU authorisation,15.1,35.6,False
+abecma,Italy,AIFA,MM_4L,2023-08-19,not-recommended,2021-08-18,label event (EMA procedural steps),24.0,24.0,False
+abecma,Italy,AIFA,MM_4L,2024-02-08,recommended-restricted,2021-08-18,label event (EMA procedural steps),29.7,29.7,False
+abecma,Italy,AIFA,MM_3L,2026-05-20,recommended-restricted,2024-03-19,label event (EMA procedural steps),26.0,26.0,True
+breyanzi,Italy,AIFA,LBCL_3L,2024-02-08,recommended-restricted,2022-04-04,label event (EMA procedural steps),22.2,22.2,False
+breyanzi,Italy,AIFA,LBCL_2L,2025-12-15,recommended-restricted,2023-04-28,label event (EMA procedural steps),31.8,31.6,True
+carvykti,Italy,AIFA,MM_4L,2025-03-24,terminated-or-withdrawn,2022-05-25,label event (EMA procedural steps),34.0,34.0,False
+carvykti,Italy,AIFA,MM_2L,2026-04-03,recommended-restricted,2024-04-19,label event (EMA procedural steps),23.5,23.5,True
+casgevy,Italy,AIFA,TDT_12plus,2025-10-07,recommended-managed-access,2024-02-09,label event (EMA procedural steps),19.9,19.9,False
+casgevy,Italy,AIFA,SCD_VOC_12plus,2025-10-07,recommended-managed-access,2024-02-09,label event (EMA procedural steps),19.9,19.9,False
+hemgenix,Italy,AIFA,HEMB_adult,2025-09-03,recommended-managed-access,2023-02-20,initial EU authorisation,30.4,30.4,False
+roctavian,Italy,AIFA,HEMA_adult,2024-01-22,recommended-restricted,2022-08-24,initial EU authorisation,17.0,17.0,False
+kebilidi,Italy,AIFA,AADC,2023-12-04,recommended-restricted,2022-07-18,initial EU authorisation,16.6,16.6,False
+lenmeldy,Italy,AIFA,MLD_early,2022-04-07,recommended-restricted,2020-12-17,initial EU authorisation,15.6,15.6,False
+lenmeldy,Italy,AIFA,MLD_early,2025-06-17,recommended-restricted,2020-12-17,initial EU authorisation,54.0,54.0,False
+luxturna,Italy,AIFA,RPE65,2021-01-09,recommended-managed-access,2018-11-22,initial EU authorisation,25.6,25.6,False
+zolgensma,Italy,AIFA,SMA_type1,2021-03-13,recommended-managed-access,2020-05-18,initial EU authorisation,9.8,9.8,False
+zolgensma,Italy,AIFA,SMA_type1;SMA_presymptomatic_3SMN2,2024-03-16,recommended-restricted,2020-05-18,initial EU authorisation,45.9,45.9,False
+strimvelis,Italy,AIFA,ADA_SCID,2016-08-01,recommended-managed-access,2016-05-26,initial EU authorisation,2.2,2.2,False
+zalmoxis,Italy,AIFA,haploHSCT_adjunct,2018-02-14,recommended-managed-access,2016-08-18,initial EU authorisation,17.9,17.9,False
+alofisel,Italy,AIFA,CD_perianal_fistula,2018-10-08,not-recommended,2018-03-23,initial EU authorisation,6.5,6.5,False
+ebvallo,Italy,AIFA,EBV_PTLD_2L,2025-03-13,recommended-managed-access,2022-12-16,initial EU authorisation,26.9,26.9,False
+kymriah,Germany,G-BA,ALL_ped,2019-03-07,recommended-restricted,2018-08-23,label event (EMA procedural steps),6.4,6.4,False
+kymriah,Germany,G-BA,LBCL_3L,2019-03-07,recommended-restricted,2018-08-23,label event (EMA procedural steps),6.4,6.4,False
+kymriah,Germany,G-BA,ALL_ped,2020-09-17,recommended-restricted,2018-08-23,label event (EMA procedural steps),24.8,24.8,False
+kymriah,Germany,G-BA,LBCL_3L,2020-09-17,recommended-restricted,2018-08-23,label event (EMA procedural steps),24.8,24.8,False
+kymriah,Germany,G-BA,FL_3L,2022-12-01,recommended-restricted,2022-04-29,label event (EMA procedural steps),7.1,7.1,True
+kymriah,Germany,G-BA,ALL_ped,2024-02-15,recommended-restricted,2018-08-23,label event (EMA procedural steps),65.8,65.8,False
+kymriah,Germany,G-BA,LBCL_3L,2024-02-15,recommended-restricted,2018-08-23,label event (EMA procedural steps),65.8,65.8,False
+yescarta,Germany,G-BA,LBCL_3L,2019-05-02,recommended-restricted,2018-08-23,label event (EMA procedural steps),8.3,8.3,False
+yescarta,Germany,G-BA,PMBCL_3L,2019-05-02,recommended-restricted,2018-08-23,initial EU authorisation,8.3,8.3,False
+yescarta,Germany,G-BA,LBCL_3L,2022-11-03,recommended-restricted,2018-08-23,label event (EMA procedural steps),50.4,50.4,False
+yescarta,Germany,G-BA,PMBCL_3L,2022-11-03,recommended-restricted,2018-08-23,initial EU authorisation,50.4,50.4,False
+yescarta,Germany,G-BA,LBCL_3L,2023-12-21,not-recommended,2018-08-23,label event (EMA procedural steps),63.9,63.9,False
+yescarta,Germany,G-BA,LBCL_3L,2024-06-06,not-recommended,2018-08-23,label event (EMA procedural steps),69.4,69.4,False
+yescarta,Germany,G-BA,LBCL_2L,2023-12-21,recommended-restricted,2022-10-14,label event (EMA procedural steps),14.2,14.2,True
+yescarta,Germany,G-BA,LBCL_2L,2023-12-21,not-recommended,2022-10-14,label event (EMA procedural steps),14.2,14.2,True
+yescarta,Germany,G-BA,LBCL_2L,2024-12-19,recommended,2022-10-14,label event (EMA procedural steps),26.2,26.2,True
+yescarta,Germany,G-BA,FL_4L,2023-12-21,not-recommended,2018-08-23,initial EU authorisation,18.0,63.9,False
+yescarta,Germany,G-BA,FL_4L,2024-06-06,not-recommended,2018-08-23,initial EU authorisation,23.5,69.4,False
+tecartus,Germany,G-BA,MCL_3L,2021-08-05,recommended-restricted,2020-12-14,initial EU authorisation,7.7,7.7,False
+tecartus,Germany,G-BA,ALL_adult,2023-03-16,recommended-restricted,2022-09-02,label event (EMA procedural steps),6.4,6.4,True
+breyanzi,Germany,G-BA,LBCL_3L,2023-04-06,not-recommended,2022-04-04,label event (EMA procedural steps),12.1,12.1,False
+breyanzi,Germany,G-BA,LBCL_3L,2023-06-01,not-recommended,2022-04-04,label event (EMA procedural steps),13.9,13.9,False
+breyanzi,Germany,G-BA,LBCL_2L,2023-11-16,recommended,2023-04-28,label event (EMA procedural steps),6.6,6.6,True
+breyanzi,Germany,G-BA,LBCL_2L,2023-11-16,not-recommended,2023-04-28,label event (EMA procedural steps),6.6,6.6,True
+breyanzi,Germany,G-BA,PMBCL_2L,2023-11-16,not-recommended,2022-04-04,initial EU authorisation,6.6,19.4,False
+breyanzi,Germany,G-BA,FL_3L,2025-10-02,not-recommended,2025-03-12,label event (EMA procedural steps),6.7,6.7,True
+breyanzi,Germany,G-BA,MCL_3L,2026-06-04,not-recommended,2022-04-04,initial EU authorisation,6.4,50.0,False
+abecma,Germany,G-BA,MM_4L,2022-06-16,recommended-restricted,2021-08-18,label event (EMA procedural steps),9.9,9.9,False
+abecma,Germany,G-BA,MM_4L,2024-05-02,terminated-or-withdrawn,2021-08-18,label event (EMA procedural steps),32.5,32.5,False
+abecma,Germany,G-BA,MM_3L,2024-09-19,not-recommended,2024-03-19,label event (EMA procedural steps),6.0,6.0,True
+carvykti,Germany,G-BA,MM_4L,2023-08-17,recommended-restricted,2022-05-25,label event (EMA procedural steps),14.8,14.8,False
+carvykti,Germany,G-BA,MM_2L,2025-05-15,recommended,2024-04-19,label event (EMA procedural steps),12.8,12.8,True
+carvykti,Germany,G-BA,MM_5L,2025-05-15,not-recommended,2022-05-25,initial EU authorisation,12.8,35.7,False
+zolgensma,Germany,G-BA,SMA,2020-12-03,terminated-or-withdrawn,2020-05-18,initial EU authorisation,6.5,6.5,False
+zolgensma,Germany,G-BA,SMA,2021-02-04,recommended-restricted,2020-05-18,initial EU authorisation,8.6,8.6,False
+zolgensma,Germany,G-BA,SMA_type1,2021-11-04,not-recommended,2020-05-18,initial EU authorisation,17.6,17.6,False
+zolgensma,Germany,G-BA,SMA_type2,2021-11-04,not-recommended,2020-05-18,initial EU authorisation,17.6,17.6,False
+zolgensma,Germany,G-BA,SMA_type3,2021-11-04,not-recommended,2020-05-18,initial EU authorisation,17.6,17.6,False
+zolgensma,Germany,G-BA,SMA_presymptomatic,2021-11-04,not-recommended,2020-05-18,initial EU authorisation,17.6,17.6,False
+luxturna,Germany,G-BA,RPE65,2019-10-17,recommended-restricted,2018-11-22,initial EU authorisation,10.8,10.8,False
+luxturna,Germany,G-BA,RPE65,2021-05-20,recommended-restricted,2018-11-22,initial EU authorisation,29.9,29.9,False
+luxturna,Germany,G-BA,RPE65,2022-09-15,recommended,2018-11-22,initial EU authorisation,45.8,45.8,False
+hemgenix,Germany,G-BA,HEMB_adult,2023-05-12,recommended-restricted,2023-02-20,initial EU authorisation,2.7,2.7,False
+hemgenix,Germany,G-BA,HEMB_adult,2023-10-19,recommended-restricted,2023-02-20,initial EU authorisation,7.9,7.9,False
+roctavian,Germany,G-BA,HEMA_adult,2023-02-02,recommended-restricted,2022-08-24,initial EU authorisation,5.3,5.3,False
+roctavian,Germany,G-BA,HEMA_adult,2023-03-16,recommended-restricted,2022-08-24,initial EU authorisation,6.7,6.7,False
+casgevy,Germany,G-BA,TDT_12plus,2025-07-03,recommended-restricted,2024-02-09,label event (EMA procedural steps),16.8,16.8,False
+casgevy,Germany,G-BA,SCD_VOC_12plus,2025-07-03,recommended-restricted,2024-02-09,label event (EMA procedural steps),16.8,16.8,False
+casgevy,Germany,G-BA,SCD_VOC_12plus,2025-09-18,recommended-restricted,2024-02-09,label event (EMA procedural steps),19.3,19.3,False
+zynteglo,Germany,G-BA,TDT_12plus,2020-05-14,recommended-restricted,2019-05-29,initial EU authorisation,11.5,11.5,False
+lenmeldy,Germany,G-BA,MLD_presymptomatic,2021-11-04,recommended-restricted,2020-12-17,initial EU authorisation,10.6,10.6,False
+lenmeldy,Germany,G-BA,MLD_early_symptomatic,2021-11-04,recommended-restricted,2020-12-17,initial EU authorisation,10.6,10.6,False
+lenmeldy,Germany,G-BA,MLD_early,2024-06-20,recommended-restricted,2020-12-17,initial EU authorisation,42.1,42.1,False
+kebilidi,Germany,G-BA,AADC,2023-02-02,recommended-restricted,2022-07-18,initial EU authorisation,6.5,6.5,False
+imlygic,Germany,G-BA,MEL_1L_BRAFmut,2016-12-15,not-recommended,2015-12-16,initial EU authorisation,12.0,12.0,False
+imlygic,Germany,G-BA,MEL_1L_BRAFwt,2016-12-15,not-recommended,2015-12-16,initial EU authorisation,12.0,12.0,False
+imlygic,Germany,G-BA,MEL_2L,2016-12-15,not-recommended,2015-12-16,initial EU authorisation,12.0,12.0,False
+ebvallo,Germany,G-BA,PTLD_2L,2023-10-05,recommended-restricted,2022-12-16,initial EU authorisation,9.6,9.6,False
+alofisel,Germany,G-BA,CD_fistula,2018-11-22,recommended-restricted,2018-03-23,initial EU authorisation,8.0,8.0,False
+provenge,Germany,G-BA,mCRPC_asymptomatic,2015-03-19,recommended-restricted,2013-09-06,initial EU authorisation,18.4,18.4,False
+glybera,Germany,G-BA,LPLD,2015-05-21,recommended-restricted,2012-10-25,initial EU authorisation,30.8,30.8,False
+glybera,Germany,G-BA,LPLD,2016-05-19,recommended-restricted,2012-10-25,initial EU authorisation,42.8,42.8,False
+glybera,Germany,G-BA,LPLD,2017-05-18,recommended-restricted,2012-10-25,initial EU authorisation,54.7,54.7,False
+zalmoxis,Germany,G-BA,haploHSCT_adjunct,2018-07-05,recommended-restricted,2016-08-18,initial EU authorisation,22.5,22.5,False
+vyjuvek,Germany,G-BA,DEB_COL7A1,2026-02-19,recommended-restricted,2025-04-23,initial EU authorisation,9.9,9.9,False
+yescarta,France,HAS-CT,LBCL_3L,2018-12-05,recommended,2018-08-23,label event (EMA procedural steps),3.4,3.4,False
+kymriah,France,HAS-CT,LBCL_3L,2018-12-12,recommended,2018-08-23,label event (EMA procedural steps),3.6,3.6,False
+kymriah,France,HAS-CT,ALL_ped,2018-12-12,recommended,2018-08-23,label event (EMA procedural steps),3.6,3.6,False
+alofisel,France,HAS-CT,CROHN_FISTULA,2019-02-06,recommended-restricted,2018-03-23,initial EU authorisation,10.5,10.5,False
+alofisel,France,HAS-CT,CROHN_FISTULA,2019-02-06,not-recommended,2018-03-23,initial EU authorisation,10.5,10.5,False
+luxturna,France,HAS-CT,RPE65,2019-04-03,recommended,2018-11-22,initial EU authorisation,4.3,4.3,False
+zolgensma,France,HAS-CT,SMA_5q,2020-12-16,recommended-restricted,2020-05-18,initial EU authorisation,7.0,7.0,False
+zolgensma,France,HAS-CT,SMA_5q,2020-12-16,recommended-restricted,2020-05-18,initial EU authorisation,7.0,7.0,False
+zolgensma,France,HAS-CT,SMA_5q,2020-12-16,not-recommended,2020-05-18,initial EU authorisation,7.0,7.0,False
+yescarta,France,HAS-CT,LBCL_3L,2021-03-24,recommended,2018-08-23,label event (EMA procedural steps),31.0,31.0,False
+kymriah,France,HAS-CT,LBCL_3L,2021-03-24,recommended,2018-08-23,label event (EMA procedural steps),31.0,31.0,False
+kymriah,France,HAS-CT,ALL_ped,2021-03-24,recommended,2018-08-23,label event (EMA procedural steps),31.0,31.0,False
+lenmeldy,France,HAS-CT,MLD_early,2021-04-21,recommended-restricted,2020-12-17,initial EU authorisation,4.1,4.1,False
+lenmeldy,France,HAS-CT,MLD_early,2021-04-21,not-recommended,2020-12-17,initial EU authorisation,4.1,4.1,False
+tecartus,France,HAS-CT,MCL_3L,2021-04-21,recommended,2020-12-14,initial EU authorisation,4.2,4.2,False
+zolgensma,France,HAS-CT,SMA_5q,2021-09-08,recommended,2020-05-18,initial EU authorisation,15.7,15.7,False
+zolgensma,France,HAS-CT,SMA_5q,2021-09-08,recommended,2020-05-18,initial EU authorisation,15.7,15.7,False
+abecma,France,HAS-CT,MM_4L,2021-12-15,recommended,2021-08-18,label event (EMA procedural steps),3.9,3.9,False
+carvykti,France,HAS-CT,MM_4L,2022-11-23,recommended,2022-05-25,label event (EMA procedural steps),6.0,6.0,False
+kebilidi,France,HAS-CT,AADC,2022-12-07,recommended,2022-07-18,initial EU authorisation,4.7,4.7,False
+kymriah,France,HAS-CT,FL_3L,2022-12-07,recommended-restricted,2022-04-29,label event (EMA procedural steps),51.5,7.3,True
+kymriah,France,HAS-CT,FL_3L,2022-12-07,not-recommended,2022-04-29,label event (EMA procedural steps),51.5,7.3,True
+yescarta,France,HAS-CT,FL_4L,2023-01-18,recommended,2018-08-23,initial EU authorisation,52.9,52.9,False
+yescarta,France,HAS-CT,LBCL_2L,2023-02-15,recommended,2022-10-14,label event (EMA procedural steps),53.8,4.1,True
+tecartus,France,HAS-CT,ALL_adult_3L,2023-02-15,recommended-restricted,2020-12-14,initial EU authorisation,26.1,26.1,False
+tecartus,France,HAS-CT,ALL_adult_3L,2023-02-15,not-recommended,2020-12-14,initial EU authorisation,26.1,26.1,False
+zolgensma,France,HAS-CT,SMA_5q,2023-05-10,recommended-restricted,2020-05-18,initial EU authorisation,35.7,35.7,False
+zolgensma,France,HAS-CT,SMA_5q,2023-05-10,recommended-restricted,2020-05-18,initial EU authorisation,35.7,35.7,False
+zolgensma,France,HAS-CT,SMA_5q,2023-05-10,not-recommended,2020-05-18,initial EU authorisation,35.7,35.7,False
+ebvallo,France,HAS-CT,PTLD_EBV_2L,2023-06-07,recommended,2022-12-16,initial EU authorisation,5.7,5.7,False
+abecma,France,HAS-CT,MM_4L,2023-06-21,recommended,2021-08-18,label event (EMA procedural steps),22.1,22.1,False
+hemgenix,France,HAS-CT,HEMB_adult,2023-08-30,recommended,2023-02-20,initial EU authorisation,6.3,6.3,False
+kymriah,France,HAS-CT,LBCL_3L,2023-09-06,recommended,2018-08-23,label event (EMA procedural steps),60.4,60.4,False
+kymriah,France,HAS-CT,ALL_ped,2023-09-06,recommended,2018-08-23,label event (EMA procedural steps),60.4,60.4,False
+yescarta,France,HAS-CT,LBCL_3L,2023-09-06,recommended,2018-08-23,label event (EMA procedural steps),60.4,60.4,False
+breyanzi,France,HAS-CT,LBCL_2L,2023-09-20,recommended,2023-04-28,label event (EMA procedural steps),17.5,4.8,True
+luxturna,France,HAS-CT,RPE65,2024-07-17,recommended,2018-11-22,initial EU authorisation,67.8,67.8,False
+abecma,France,HAS-CT,MM_3L,2024-07-17,recommended,2024-03-19,label event (EMA procedural steps),35.0,3.9,True
+casgevy,France,HAS-CT,SCD_VOC_12plus,2024-08-28,recommended-restricted,2024-02-09,label event (EMA procedural steps),6.6,6.6,False
+casgevy,France,HAS-CT,SCD_VOC_12plus,2024-08-28,not-recommended,2024-02-09,label event (EMA procedural steps),6.6,6.6,False
+casgevy,France,HAS-CT,TDT_12plus,2024-09-25,recommended-restricted,2024-02-09,label event (EMA procedural steps),7.5,7.5,False
+casgevy,France,HAS-CT,TDT_12plus,2024-09-25,not-recommended,2024-02-09,label event (EMA procedural steps),7.5,7.5,False
+tecartus,France,HAS-CT,MCL_3L,2024-11-06,recommended,2020-12-14,initial EU authorisation,46.7,46.7,False
+lenmeldy,France,HAS-CT,MLD_early,2024-11-06,recommended,2020-12-17,initial EU authorisation,46.6,46.6,False
+lenmeldy,France,HAS-CT,MLD_early,2024-11-06,recommended,2020-12-17,initial EU authorisation,46.6,46.6,False
+carvykti,France,HAS-CT,MM_2L,2025-07-16,recommended,2024-04-19,label event (EMA procedural steps),37.7,14.9,True
+vyjuvek,France,HAS-CT,DEB,2025-10-08,recommended,2025-04-23,initial EU authorisation,5.5,5.5,False
+breyanzi,France,HAS-CT,FL_3L,2025-12-10,recommended,2025-03-12,label event (EMA procedural steps),44.2,9.0,True
+yescarta,France,HAS-CT,LBCL_2L,2026-05-06,recommended,2022-10-14,label event (EMA procedural steps),92.4,42.7,True
+breyanzi,France,HAS-CT,LBCL_2L,2026-06-03,recommended,2023-04-28,label event (EMA procedural steps),50.0,37.2,True
+zynteglo,France,HAS-CT,TDT_12plus,2020-03-18,recommended-restricted,2019-05-29,initial EU authorisation,9.7,9.7,False
+zynteglo,France,HAS-CT,TDT_35plus,2020-03-18,not-recommended,2019-05-29,initial EU authorisation,9.7,9.7,False
+glybera,France,HAS-CT,LPLD_adult,2015-11-04,not-recommended,2012-10-25,initial EU authorisation,36.3,36.3,False
+roctavian,France,HAS-CT,HEMA_adult,2023-09-06,recommended,2022-08-24,initial EU authorisation,12.4,12.4,False
+abecma,France,ANSM (accès précoce),MM_4L,2021-12-02,recommended-managed-access,2021-08-18,label event (EMA procedural steps),3.5,3.5,False
+abecma,France,ANSM (accès précoce),MM_4L,2021-04-29,recommended-managed-access,2021-08-18,label event (EMA procedural steps),-3.6,-3.6,False
+abecma,France,ANSM (accès précoce),MM_3L,2024-07-25,recommended-managed-access,2024-03-19,label event (EMA procedural steps),35.2,4.2,True
+breyanzi,France,ANSM (accès précoce),LBCL_2L,2023-09-07,recommended-managed-access,2023-04-28,label event (EMA procedural steps),17.1,4.3,True
+casgevy,France,ANSM (accès précoce),TDT_12plus,2024-01-18,recommended-managed-access,2024-02-09,label event (EMA procedural steps),-0.7,-0.7,False
+casgevy,France,ANSM (accès précoce),SCD_VOC_12plus,2024-07-11,recommended-managed-access,2024-02-09,label event (EMA procedural steps),5.0,5.0,False
+ebvallo,France,ANSM (accès précoce),PTLD_EBV_2L,2023-06-01,recommended-managed-access,2022-12-16,initial EU authorisation,5.5,5.5,False
+kebilidi,France,ANSM (accès précoce),AADC,2022-12-15,recommended-managed-access,2022-07-18,initial EU authorisation,4.9,4.9,False
+kymriah,France,ANSM (accès précoce),FL_3L,2021-06-28,recommended-managed-access,2022-04-29,label event (EMA procedural steps),34.2,-10.0,True
+yescarta,France,ANSM (accès précoce),FL_4L,2022-04-14,recommended-managed-access,2018-08-23,initial EU authorisation,43.7,43.7,False
+vyjuvek,France,ANSM (accès précoce),DEB_6m,2024-09-12,recommended-managed-access,2025-04-23,initial EU authorisation,-7.3,-7.3,False
+vyjuvek,France,ANSM (accès précoce),DEB,2025-10-02,recommended-managed-access,2025-04-23,initial EU authorisation,5.3,5.3,False
+zolgensma,France,ANSM (accès précoce),SMA_type1,2020-05-15,recommended-managed-access,2020-05-18,initial EU authorisation,-0.1,-0.1,False
+luxturna,France,ANSM (accès précoce),RPE65,2018-10-19,recommended-managed-access,2018-11-22,initial EU authorisation,-1.1,-1.1,False
+hemgenix,France,JO (inscription),HEMB_adult,2023-12-05,recommended-managed-access,2023-02-20,initial EU authorisation,9.5,9.5,False
+yescarta,France,JO (inscription),LBCL_3L,2019-07-08,recommended,2018-08-23,label event (EMA procedural steps),10.5,10.5,False
+yescarta,France,JO (inscription),LBCL_2L,2024-04-11,recommended,2022-10-14,label event (EMA procedural steps),67.6,17.9,True
+kymriah,France,JO (inscription),ALL_ped,2019-12-20,recommended,2018-08-23,label event (EMA procedural steps),15.9,15.9,False
+kymriah,France,JO (inscription),FL_3L,2023-09-12,recommended,2022-04-29,label event (EMA procedural steps),60.6,16.5,True
+luxturna,France,JO (inscription),RPE65,2021-08-04,recommended,2018-11-22,initial EU authorisation,32.4,32.4,False
+abecma,France,JO (inscription),MM_4L,2024-11-05,recommended,2021-08-18,label event (EMA procedural steps),38.6,38.6,False
+abecma,France,JO (inscription),MM_3L,2025-12-05,recommended,2024-03-19,label event (EMA procedural steps),51.6,20.6,True
+breyanzi,France,JO (inscription),LBCL_2L,2024-07-08,recommended,2023-04-28,label event (EMA procedural steps),27.1,14.4,True
+tecartus,France,JO (inscription),MCL_3L,2022-08-03,recommended,2020-12-14,initial EU authorisation,19.6,19.6,False
+tecartus,France,JO (inscription),ALL_adult_3L,2024-07-08,recommended,2020-12-14,initial EU authorisation,42.8,42.8,False
+ebvallo,France,JO (inscription),PTLD_EBV_2L,2025-06-02,recommended,2022-12-16,initial EU authorisation,29.5,29.5,False
+kymriah,France,CEPS (price),ALL_ped,2019-12-26,recommended,2018-08-23,label event (EMA procedural steps),16.1,16.1,False
+kymriah,France,CEPS (price),FL_3L,2023-09-14,recommended,2022-04-29,label event (EMA procedural steps),60.7,16.5,True
+yescarta,France,CEPS (price),LBCL_3L,2019-07-13,recommended,2018-08-23,label event (EMA procedural steps),10.6,10.6,False
+tecartus,France,CEPS (price),MCL_3L,2022-08-09,recommended,2020-12-14,initial EU authorisation,19.8,19.8,False
+tecartus,France,CEPS (price),ALL_adult_3L,2024-07-04,recommended,2020-12-14,initial EU authorisation,42.6,42.6,False
+abecma,France,CEPS (price),MM_4L,2024-11-13,recommended,2021-08-18,label event (EMA procedural steps),38.9,38.9,False
+breyanzi,France,CEPS (price),LBCL_2L,2024-07-11,recommended,2023-04-28,label event (EMA procedural steps),27.2,14.5,True
+luxturna,France,CEPS (price),RPE65,2021-08-06,recommended,2018-11-22,initial EU authorisation,32.5,32.5,False
+ebvallo,France,CEPS (price),PTLD_EBV_2L,2025-07-04,recommended,2022-12-16,initial EU authorisation,30.6,30.6,False
+kymriah,England,NICE,ALL_ped,2018-12-21,recommended-managed-access,2018-08-23,label event (EMA procedural steps),3.9,3.9,False
+kymriah,England,NICE,ALL_ped,2024-05-15,recommended,2018-08-23,label event (EMA procedural steps),68.7,68.7,False
+kymriah,England,NICE,LBCL_3L,2019-03-13,recommended-managed-access,2018-08-23,label event (EMA procedural steps),6.6,6.6,False
+kymriah,England,NICE,LBCL_3L,2023-11-29,terminated-or-withdrawn,2018-08-23,label event (EMA procedural steps),63.2,63.2,False
+kymriah,England,NICE,FL_3L,2022-11-22,terminated-or-withdrawn,2022-04-29,label event (EMA procedural steps),51.0,6.8,True
+kymriah,England,NICE,LBCL_2L,2022-12-21,terminated-or-withdrawn,2018-08-23,initial EU authorisation,51.9,51.9,False
+yescarta,England,NICE,LBCL_3L,2019-01-23,recommended-managed-access,2018-08-23,label event (EMA procedural steps),5.0,5.0,False
+yescarta,England,NICE,LBCL_3L,2023-02-28,recommended,2018-08-23,label event (EMA procedural steps),54.2,54.2,False
+yescarta,England,NICE,LBCL_2L,2023-06-07,recommended-managed-access,2022-10-14,label event (EMA procedural steps),57.5,7.8,True
+yescarta,England,NICE,FL_4L,2023-06-07,not-recommended,2018-08-23,initial EU authorisation,57.5,57.5,False
+tecartus,England,NICE,MCL_3L,2021-02-24,recommended-managed-access,2020-12-14,initial EU authorisation,2.4,2.4,False
+tecartus,England,NICE,ALL_adult_26plus,2023-06-07,recommended-managed-access,2020-12-14,initial EU authorisation,29.7,29.7,False
+breyanzi,England,NICE,LBCL_3L,2024-07-10,terminated-or-withdrawn,2022-04-04,label event (EMA procedural steps),27.2,27.2,False
+breyanzi,England,NICE,LBCL_3L,2026-06-03,recommended-restricted,2022-04-04,label event (EMA procedural steps),50.0,50.0,False
+breyanzi,England,NICE,LBCL_2L_ASCT_suitable,2025-03-26,recommended-restricted,2022-04-04,initial EU authorisation,35.7,35.7,False
+breyanzi,England,NICE,LBCL_2L_ASCT_unsuitable,2025-07-23,terminated-or-withdrawn,2022-04-04,initial EU authorisation,39.6,39.6,False
+breyanzi,England,NICE,FL_3L,2026-08-20,terminated-or-withdrawn,2025-03-12,label event (EMA procedural steps),52.5,17.3,True
+breyanzi,England,NICE,CLL_SLL,2026-02-18,terminated-or-withdrawn,2022-04-04,initial EU authorisation,46.5,46.5,False
+abecma,England,NICE,MM_4L,2023-11-30,terminated-or-withdrawn,2021-08-18,label event (EMA procedural steps),27.4,27.4,False
+abecma,England,NICE,MM_3L,2025-07-23,terminated-or-withdrawn,2024-03-19,label event (EMA procedural steps),47.1,16.1,True
+carvykti,England,NICE,MM_4L,2023-05-17,terminated-or-withdrawn,2022-05-25,label event (EMA procedural steps),11.7,11.7,False
+aucatzyl,England,NICE,ALL_adult_26plus,2025-12-11,recommended-restricted,2025-07-17,initial EU authorisation,4.8,4.8,False
+casgevy,England,NICE,TDT_12plus,2024-09-11,recommended-managed-access,2024-02-09,label event (EMA procedural steps),7.1,7.1,False
+casgevy,England,NICE,SCD_VOC_12plus,2025-02-26,recommended-managed-access,2024-02-09,label event (EMA procedural steps),12.6,12.6,False
+zolgensma,England,NICE,SMA_type1,2021-07-07,recommended-restricted,2020-05-18,initial EU authorisation,13.6,13.6,False
+zolgensma,England,NICE,SMA_presymptomatic,2023-04-19,recommended,2020-05-18,initial EU authorisation,35.0,35.0,False
+luxturna,England,NICE,RPE65,2019-10-09,recommended,2018-11-22,initial EU authorisation,10.5,10.5,False
+hemgenix,England,NICE,HEMB_adult,2024-07-24,recommended-managed-access,2023-02-20,initial EU authorisation,17.1,17.1,False
+lenmeldy,England,NICE,MLD_early,2022-03-28,recommended,2020-12-17,initial EU authorisation,15.3,15.3,False
+kebilidi,England,NICE,AADC_severe_18m_plus,2023-04-19,recommended,2022-07-18,initial EU authorisation,9.0,9.0,False
+strimvelis,England,NICE,ADA_SCID,2018-02-07,recommended,2016-05-26,initial EU authorisation,20.4,20.4,False
+zynteglo,England,NICE,TDT_12plus,2022-12-16,terminated-or-withdrawn,2019-05-29,initial EU authorisation,42.6,42.6,False
+skysona,England,NICE,CALD,2023-02-10,terminated-or-withdrawn,2021-07-16,initial EU authorisation,18.9,18.9,False
+beqvez,England,NICE,HEMB_adult,2026-06-04,terminated-or-withdrawn,2024-07-24,initial EU authorisation,22.3,22.3,False
+ebvallo,England,NICE,EBV_PTLD,2023-10-19,terminated-or-withdrawn,2022-12-16,initial EU authorisation,10.1,10.1,False
+alofisel,England,NICE,CD_perianal_fistula,2019-01-09,not-recommended,2018-03-23,initial EU authorisation,9.6,9.6,False
+imlygic,England,NICE,MEL_unresectable_3B_4M1a,2016-09-28,recommended-restricted,2015-12-16,initial EU authorisation,9.4,9.4,False
+provenge,England,NICE,mCRPC_asymptomatic,2015-02-23,not-recommended,2013-09-06,initial EU authorisation,17.6,17.6,False

@@ -49,3 +49,21 @@ eligible row for an indication in force, the range of another product with the s
 geography is borrowed and flagged; when none exists the pool omits that indication and the flag says so.
 The per-quarter pools are written to `data/uptake/pool_quarterly.csv`; `milestones.csv` carries a
 `pool_basis` column. Products without label events keep the static pool and their rows are unchanged.
+
+**Access stage as time-to-event, 7 September 2026 (F047).** `research/findings/access_time_to_event_2026-09-07.py`
+implements steps 1 to 3 and 5 for the access stage. Unit: product x system. Origin: the authorisation that puts the
+product at risk in that system (EU authorisation for England, Germany, France and Italy; the Health Canada or TGA date
+stated in the rows for Canada and Australia; FDA approval for the United States, where the at-risk set is limited to
+products whose sponsor reports product revenue). Every authorised product is at risk, so never-submitted products are
+censored at the data cutoff (5 September 2026) rather than dropped. Primary endpoint, defined once: the first decision that
+makes the product available at public expense to part of its label population (NICE guidance including the Cancer Drugs
+Fund and managed access; G-BA Beschluss; pCPA letter of intent; for France paid early access, JO inscription or a CEPS
+price, whichever is first; AIFA determination; MSAC or PBAC support or a funding start; first revenue quarter in the
+United States). Routine-listing sensitivity: France without early access; England without managed access. Competing
+events: a refusal or a sponsor-terminated appraisal not followed by a positive step or a live resubmission; withdrawal of
+the marketing authorisation. Estimators: Aalen-Johansen cumulative incidence (primary), Kaplan-Meier with competing
+events censored (upper bound), bootstrap over products for the 60-month share. Outputs `data/access/access_time_to_event.csv`,
+`access_survival_curves.csv`, `access_survival_summary.csv`. Extension indications are re-dated from the EMA procedural
+steps in `label_events.csv` in `access_indication_durations.csv`; the product-level clock keeps the initial authorisation.
+Known limits: no MHRA dates for products authorised after 2020 (England uses the EU date); Canada and Australia at-risk
+sets depend on the rows stating a national authorisation; Australia has eight products.

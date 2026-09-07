@@ -22,6 +22,8 @@ and the reasons the gatekeeper states.
 
 - Governance signatures by system (F045): England argues cost-effectiveness, Germany evidence and price, France population and comparator, Italy price with managed entry, Canada price and durability with conditions, Australia deferrals. Table: `data/access/governance_by_region.csv`; reader page `manuscript/governance_by_region.md`.
 
+- Access as time-to-event (F047): with every authorised product at risk and refusals and withdrawals as competing events, the share of products with funded access by 60 months is Germany 0.83, Italy 0.70, England 0.53, France 0.48 (with early access), Canada 0.42, Australia 0.88 (eight products); the naive shares in D013 overstated Europe and Canada. Tables: `data/access/access_survival_summary.csv`, `access_time_to_event.csv`.
+
 ## Sources
 NICE technology appraisals and highly specialised technologies guidance; G-BA resolutions and IQWiG dossiers; HAS transparency committee opinions and CEPS prices; AIFA decisions; CDA-AMC reimbursement reviews and pCPA outcomes; PBAC and MSAC outcomes; S07, S08, S09, S10, S23.
 
@@ -30,7 +32,7 @@ Per product per system: approval date, submission date where public, decision da
 
 ## Tasks
 1. Month 1: confirm each body's document archive is searchable by product and yields decision dates. **Done 2026-09-05: NICE (curl), G-BA, AIFA (Gazzetta Ufficiale and TrovaNormeFarmaco), CDA-AMC (via NCBI Bookshelf and CJHT; cda-amc.ca returns 403) and HAS (via the BDPM bulk extracts; has-sante.fr returns 403) all yield dates; PBAC and MSAC via pbs.gov.au PSDs and Wayback (msac.gov.au and tga.gov.au unreachable).**
-2. Month 2: build `data/access/decisions.csv` for the cohort across six systems. **First pass done 2026-09-05 for six systems (F043); extension-indication approval dates and Australian funding start dates still to fill.**
+2. Month 2: build `data/access/decisions.csv` for the cohort across six systems. **First pass done 2026-09-05 for six systems (F043); extension-indication dates re-derived from the EMA label events for 37 rows 2026-09-07 (F047); Australian funding start dates still to fill.**
 3. Month 2: draft and pilot the reason schema on 30 documents; human-code a validation sample. **Keyword schema piloted on all 294 usable rows 2026-09-06 (F045); human validation sample still to code.**
 4. Month 2: compute approval-to-decision durations by class and system. **By system done 2026-09-05 (F043); by class next.**
 

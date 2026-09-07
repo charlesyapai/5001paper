@@ -1,0 +1,323 @@
+endpoint,product_key,product,platform_class,genetic_modification,system,origin_date,origin_basis,event,event_date,months,n_usable_rows,first_negative_reversed
+primary,abecma,Abecma,autologous CAR-T,yes,England,2021-08-18,EU authorisation,refused-or-terminated,2023-11-30,27.4,2,False
+primary,abecma,Abecma,autologous CAR-T,yes,Germany,2021-08-18,EU authorisation,funded,2022-06-16,9.9,3,False
+primary,abecma,Abecma,autologous CAR-T,yes,France,2021-08-18,EU authorisation,funded,2021-04-29,0.0,9,False
+primary,abecma,Abecma,autologous CAR-T,yes,Italy,2021-08-18,EU authorisation,funded,2024-02-08,29.7,3,True
+primary,abecma,Abecma,autologous CAR-T,yes,Canada,2021-05-26,Health Canada notice of compliance (stated in the row),refused-or-terminated,2021-05-14,0.0,3,False
+primary,abecma,Abecma,autologous CAR-T,yes,United States,2021-03-26,FDA approval; at risk only if the sponsor reports product revenue,funded,2021-06-30,3.2,0,False
+primary,adstiladrin,Adstiladrin,adenoviral intravesical,yes,England,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+primary,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Germany,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+primary,adstiladrin,Adstiladrin,adenoviral intravesical,yes,France,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+primary,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Italy,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+primary,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Canada,2026-03-16,Health Canada notice of compliance (stated in the row),censored,2026-09-05,5.7,0,False
+primary,amtagvi,Amtagvi,tumour-infiltrating lymphocytes,no,Canada,2025-08-15,Health Canada notice of compliance (stated in the row),censored,2026-09-05,12.7,0,False
+primary,amtagvi,Amtagvi,tumour-infiltrating lymphocytes,no,United States,2024-02-16,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-06-30,4.4,0,False
+primary,aucatzyl,Aucatzyl,autologous CAR-T,yes,England,2025-07-17,EU authorisation,funded,2025-12-11,4.8,1,False
+primary,aucatzyl,Aucatzyl,autologous CAR-T,yes,Germany,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+primary,aucatzyl,Aucatzyl,autologous CAR-T,yes,France,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+primary,aucatzyl,Aucatzyl,autologous CAR-T,yes,Italy,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+primary,aucatzyl,Aucatzyl,autologous CAR-T,yes,United States,2024-11-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-03-31,4.7,0,False
+primary,beqvez,Beqvez / Durveqtix,AAV systemic,yes,England,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,1,False
+primary,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Germany,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+primary,beqvez,Beqvez / Durveqtix,AAV systemic,yes,France,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+primary,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Italy,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+primary,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Canada,2023-12-27,Health Canada notice of compliance (stated in the row),refused-or-terminated,2025-04-04,15.2,2,False
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,England,2022-04-04,EU authorisation,funded,2025-03-26,35.7,6,True
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,Germany,2022-04-04,EU authorisation,funded,2023-11-16,19.4,7,True
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,France,2022-04-04,EU authorisation,funded,2023-09-07,17.1,6,False
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,Italy,2022-04-04,EU authorisation,funded,2024-02-08,22.2,2,False
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,Canada,2022-05-06,Health Canada notice of compliance (stated in the row),funded,2023-12-12,19.2,4,False
+primary,breyanzi,Breyanzi,autologous CAR-T,yes,United States,2021-02-05,FDA approval; at risk only if the sponsor reports product revenue,funded,2021-06-30,4.8,0,False
+primary,carvykti,Carvykti,autologous CAR-T,yes,England,2022-05-25,EU authorisation,refused-or-terminated,2023-05-17,11.7,1,False
+primary,carvykti,Carvykti,autologous CAR-T,yes,Germany,2022-05-25,EU authorisation,funded,2023-08-17,14.8,3,False
+primary,carvykti,Carvykti,autologous CAR-T,yes,France,2022-05-25,EU authorisation,censored,2026-09-05,51.4,2,False
+primary,carvykti,Carvykti,autologous CAR-T,yes,Italy,2022-05-25,EU authorisation,funded,2026-04-03,46.3,2,True
+primary,carvykti,Carvykti,autologous CAR-T,yes,Canada,2023-02-09,Health Canada notice of compliance (stated in the row),refused-or-terminated,2025-09-18,31.3,4,False
+primary,carvykti,Carvykti,autologous CAR-T,yes,Australia,2023-06-06,TGA registration,funded,2024-04-04,10.0,4,True
+primary,carvykti,Carvykti,autologous CAR-T,yes,United States,2022-02-28,FDA approval; at risk only if the sponsor reports product revenue,funded,2022-06-30,4.0,0,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,England,2024-02-09,EU authorisation,funded,2024-09-11,7.1,2,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,Germany,2024-02-09,EU authorisation,funded,2025-07-03,16.8,3,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,France,2024-02-09,EU authorisation,funded,2024-01-18,0.0,6,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,Italy,2024-02-09,EU authorisation,funded,2025-10-07,19.9,2,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,Canada,2024-09-23,Health Canada notice of compliance (stated in the row),censored,2026-09-05,23.4,2,False
+primary,casgevy,Casgevy,CRISPR ex vivo,yes,United States,2023-12-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-09-30,9.8,0,False
+primary,elevidys,Elevidys,AAV systemic,yes,United States,2023-06-22,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,3.3,0,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,England,2023-02-20,EU authorisation,funded,2024-07-24,17.1,1,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,Germany,2023-02-20,EU authorisation,funded,2023-05-12,2.7,2,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,France,2023-02-20,EU authorisation,funded,2023-12-05,9.5,2,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,Italy,2023-02-20,EU authorisation,funded,2025-09-03,30.4,1,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,Canada,2023-10-23,Health Canada notice of compliance (stated in the row),funded,2025-09-22,23.0,2,False
+primary,hemgenix,Hemgenix,AAV systemic,yes,Australia,2024-03-19,TGA registration,funded,2025-07-31,16.4,3,True
+primary,hemgenix,Hemgenix,AAV systemic,yes,United States,2022-11-22,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,10.2,0,False
+primary,imlygic,Imlygic,oncolytic HSV,yes,England,2015-12-16,EU authorisation,funded,2016-09-28,9.4,1,False
+primary,imlygic,Imlygic,oncolytic HSV,yes,Germany,2015-12-16,EU authorisation,refused-or-terminated,2016-12-15,12.0,3,False
+primary,imlygic,Imlygic,oncolytic HSV,yes,France,2015-12-16,EU authorisation,censored,2026-09-05,128.6,0,False
+primary,imlygic,Imlygic,oncolytic HSV,yes,Italy,2015-12-16,EU authorisation,censored,2026-09-05,128.6,0,False
+primary,imlygic,Imlygic,oncolytic HSV,yes,Australia,2015-12-21,TGA registration,refused-or-terminated,2016-07-01,6.3,2,False
+primary,itvisma,Itvisma,AAV intrathecal,yes,England,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+primary,itvisma,Itvisma,AAV intrathecal,yes,Germany,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+primary,itvisma,Itvisma,AAV intrathecal,yes,France,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+primary,itvisma,Itvisma,AAV intrathecal,yes,Italy,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+primary,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,England,2022-07-18,EU authorisation,funded,2023-04-19,9.0,1,False
+primary,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,Germany,2022-07-18,EU authorisation,funded,2023-02-02,6.5,1,False
+primary,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,France,2022-07-18,EU authorisation,funded,2022-12-15,4.9,2,False
+primary,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,Italy,2022-07-18,EU authorisation,funded,2023-12-04,16.6,1,False
+primary,kresladi,Kresladi,lentiviral ex vivo,yes,United States,2026-03-26,FDA approval; at risk only if the sponsor reports product revenue,censored,2026-09-05,5.4,0,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,England,2018-08-23,EU authorisation,funded,2018-12-21,3.9,6,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,Germany,2018-08-23,EU authorisation,funded,2019-03-07,6.4,7,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,France,2018-08-23,EU authorisation,funded,2019-12-20,15.9,13,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,Italy,2018-08-23,EU authorisation,funded,2019-08-12,11.6,4,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,Canada,2018-09-05,Health Canada notice of compliance (stated in the row),funded,2025-06-12,81.2,2,False
+primary,kymriah,Kymriah,autologous CAR-T,yes,Australia,2018-12-19,TGA registration,funded,2019-04-09,3.6,9,True
+primary,kymriah,Kymriah,autologous CAR-T,yes,United States,2017-08-30,FDA approval; at risk only if the sponsor reports product revenue,funded,2017-12-31,4.0,0,False
+primary,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,England,2020-12-17,EU authorisation,funded,2022-03-28,15.3,1,False
+primary,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,Germany,2020-12-17,EU authorisation,funded,2021-11-04,10.6,3,False
+primary,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,France,2020-12-17,EU authorisation,refused-or-terminated,2021-04-21,4.1,4,False
+primary,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,Italy,2020-12-17,EU authorisation,funded,2022-04-07,15.6,2,False
+primary,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,United States,2024-03-18,FDA approval; at risk only if the sponsor reports product revenue,funded,2022-03-31,0.0,0,False
+primary,luxturna,Luxturna,AAV subretinal,yes,England,2018-11-22,EU authorisation,funded,2019-10-09,10.5,1,False
+primary,luxturna,Luxturna,AAV subretinal,yes,Germany,2018-11-22,EU authorisation,funded,2019-10-17,10.8,3,False
+primary,luxturna,Luxturna,AAV subretinal,yes,France,2018-11-22,EU authorisation,funded,2018-10-19,0.0,5,False
+primary,luxturna,Luxturna,AAV subretinal,yes,Italy,2018-11-22,EU authorisation,funded,2021-01-09,25.6,1,False
+primary,luxturna,Luxturna,AAV subretinal,yes,Canada,2020-10-13,Health Canada notice of compliance (stated in the row),funded,2022-09-16,23.1,2,False
+primary,luxturna,Luxturna,AAV subretinal,yes,Australia,2020-08-05,TGA registration,funded,2020-11-26,3.7,2,False
+primary,luxturna,Luxturna,AAV subretinal,yes,United States,2017-12-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2018-03-31,3.4,0,False
+primary,lyfgenia,Lyfgenia,lentiviral ex vivo,yes,United States,2023-12-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-09-30,9.8,0,False
+primary,omisirge,Omisirge,expanded cord blood,no,United States,2023-04-17,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,5.5,0,False
+primary,papzimeos,Papzimeos,adenoviral immunotherapy,yes,United States,2025-08-14,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-12-31,4.6,0,False
+primary,roctavian,Roctavian,AAV systemic,yes,England,2022-08-24,EU authorisation,censored,2026-09-05,48.4,0,False
+primary,roctavian,Roctavian,AAV systemic,yes,Germany,2022-08-24,EU authorisation,funded,2023-02-02,5.3,2,False
+primary,roctavian,Roctavian,AAV systemic,yes,France,2022-08-24,EU authorisation,censored,2026-09-05,48.4,1,False
+primary,roctavian,Roctavian,AAV systemic,yes,Italy,2022-08-24,EU authorisation,funded,2024-01-22,17.0,1,False
+primary,roctavian,Roctavian,AAV systemic,yes,United States,2023-06-30,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,3.0,0,False
+primary,ryoncil,Ryoncil,mesenchymal stromal cells,no,United States,2024-12-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-06-30,6.3,0,False
+primary,skysona,Skysona,lentiviral ex vivo,yes,England,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,1,False
+primary,skysona,Skysona,lentiviral ex vivo,yes,Germany,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+primary,skysona,Skysona,lentiviral ex vivo,yes,France,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+primary,skysona,Skysona,lentiviral ex vivo,yes,Italy,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+primary,skysona,Skysona,lentiviral ex vivo,yes,United States,2022-09-16,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-03-31,6.4,0,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,England,2020-12-14,EU authorisation,funded,2021-02-24,2.4,2,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,Germany,2020-12-14,EU authorisation,funded,2021-08-05,7.7,2,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,France,2020-12-14,EU authorisation,funded,2022-08-03,19.6,8,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,Italy,2020-12-14,EU authorisation,funded,2022-03-11,14.8,2,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,Canada,2021-06-08,Health Canada notice of compliance (stated in the row),funded,2022-11-10,17.1,4,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,Australia,2021-07-21,TGA registration,funded,2021-07-29,0.3,5,False
+primary,tecartus,Tecartus,autologous CAR-T,yes,United States,2020-07-24,FDA approval; at risk only if the sponsor reports product revenue,funded,2020-09-30,2.2,0,False
+primary,tecelra,Tecelra,TCR-T,yes,United States,2024-08-01,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-12-31,5.0,0,False
+primary,tudriqev,Tudriqev,oncolytic HSV,yes,United States,2026-08-06,FDA approval; at risk only if the sponsor reports product revenue,censored,2026-09-05,1.0,0,False
+primary,vyjuvek,Vyjuvek,HSV topical,yes,England,2025-04-23,EU authorisation,censored,2026-09-05,16.4,0,False
+primary,vyjuvek,Vyjuvek,HSV topical,yes,Germany,2025-04-23,EU authorisation,funded,2026-02-19,9.9,1,False
+primary,vyjuvek,Vyjuvek,HSV topical,yes,France,2025-04-23,EU authorisation,funded,2024-09-12,0.0,3,False
+primary,vyjuvek,Vyjuvek,HSV topical,yes,Italy,2025-04-23,EU authorisation,censored,2026-09-05,16.4,0,False
+primary,vyjuvek,Vyjuvek,HSV topical,yes,United States,2023-05-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,4.4,0,False
+primary,waskyra,Waskyra,lentiviral ex vivo,yes,England,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+primary,waskyra,Waskyra,lentiviral ex vivo,yes,Germany,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+primary,waskyra,Waskyra,lentiviral ex vivo,yes,France,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+primary,waskyra,Waskyra,lentiviral ex vivo,yes,Italy,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,England,2018-08-23,EU authorisation,funded,2019-01-23,5.0,4,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,Germany,2018-08-23,EU authorisation,funded,2019-05-02,8.3,11,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,France,2018-08-23,EU authorisation,funded,2019-07-08,10.5,10,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,Italy,2018-08-23,EU authorisation,funded,2019-11-11,14.6,4,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,Canada,2019-02-13,Health Canada notice of compliance (stated in the row),funded,2024-09-06,66.8,4,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,Australia,2020-02-11,TGA registration,funded,2020-01-16,0.0,8,False
+primary,yescarta,Yescarta,autologous CAR-T,yes,United States,2017-10-18,FDA approval; at risk only if the sponsor reports product revenue,funded,2017-12-31,2.4,0,False
+primary,zevaskyn,Zevaskyn,gene-modified keratinocyte sheets,yes,United States,2025-04-28,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-12-31,8.1,0,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,England,2020-05-18,EU authorisation,funded,2021-07-07,13.6,2,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,Germany,2020-05-18,EU authorisation,funded,2021-02-04,8.6,6,True
+primary,zolgensma,Zolgensma,AAV systemic,yes,France,2020-05-18,EU authorisation,funded,2020-05-15,0.0,9,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,Italy,2020-05-18,EU authorisation,funded,2021-03-13,9.8,2,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,Canada,2020-12-15,Health Canada notice of compliance (stated in the row),funded,2021-10-08,9.8,3,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,Australia,2021-03-04,TGA registration,funded,2021-09-01,5.9,6,False
+primary,zolgensma,Zolgensma,AAV systemic,yes,United States,2019-05-24,FDA approval; at risk only if the sponsor reports product revenue,funded,2019-06-30,1.2,0,False
+primary,zynteglo,Zynteglo,lentiviral ex vivo,yes,England,2019-05-29,EU authorisation,withdrawn-from-market,2022-03-24,33.8,1,False
+primary,zynteglo,Zynteglo,lentiviral ex vivo,yes,Germany,2019-05-29,EU authorisation,funded,2020-05-14,11.5,1,False
+primary,zynteglo,Zynteglo,lentiviral ex vivo,yes,France,2019-05-29,EU authorisation,refused-or-terminated,2020-03-18,9.7,2,False
+primary,zynteglo,Zynteglo,lentiviral ex vivo,yes,Italy,2019-05-29,EU authorisation,withdrawn-from-market,2022-03-24,33.8,0,False
+primary,zynteglo,Zynteglo,lentiviral ex vivo,yes,United States,2022-08-17,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-06-30,10.4,0,False
+primary,provenge,Provenge,autologous cellular immunotherapy,no,England,2013-09-06,EU authorisation,refused-or-terminated,2015-02-23,17.6,1,False
+primary,provenge,Provenge,autologous cellular immunotherapy,no,Germany,2013-09-06,EU authorisation,funded,2015-03-19,18.4,1,False
+primary,provenge,Provenge,autologous cellular immunotherapy,no,France,2013-09-06,EU authorisation,withdrawn-from-market,2015-05-06,19.9,0,False
+primary,provenge,Provenge,autologous cellular immunotherapy,no,Italy,2013-09-06,EU authorisation,withdrawn-from-market,2015-05-06,19.9,0,False
+primary,provenge,Provenge,autologous cellular immunotherapy,no,United States,2010-04-29,FDA approval; at risk only if the sponsor reports product revenue,funded,2010-06-30,2.0,0,False
+primary,glybera,Glybera,AAV intramuscular,yes,England,2012-10-25,EU authorisation,withdrawn-from-market,2017-10-28,60.1,0,False
+primary,glybera,Glybera,AAV intramuscular,yes,Germany,2012-10-25,EU authorisation,funded,2015-05-21,30.8,3,False
+primary,glybera,Glybera,AAV intramuscular,yes,France,2012-10-25,EU authorisation,refused-or-terminated,2015-11-04,36.3,1,False
+primary,glybera,Glybera,AAV intramuscular,yes,Italy,2012-10-25,EU authorisation,withdrawn-from-market,2017-10-28,60.1,0,False
+primary,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,England,2016-05-26,EU authorisation,funded,2018-02-07,20.4,1,False
+primary,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,Germany,2016-05-26,EU authorisation,censored,2026-09-05,123.3,0,False
+primary,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,France,2016-05-26,EU authorisation,censored,2026-09-05,123.3,0,False
+primary,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,Italy,2016-05-26,EU authorisation,funded,2016-08-01,2.2,1,False
+primary,zalmoxis,Zalmoxis,gene-modified T cells,yes,England,2016-08-18,EU authorisation,withdrawn-from-market,2019-10-09,37.7,0,False
+primary,zalmoxis,Zalmoxis,gene-modified T cells,yes,Germany,2016-08-18,EU authorisation,funded,2018-07-05,22.5,1,False
+primary,zalmoxis,Zalmoxis,gene-modified T cells,yes,France,2016-08-18,EU authorisation,withdrawn-from-market,2019-10-09,37.7,0,False
+primary,zalmoxis,Zalmoxis,gene-modified T cells,yes,Italy,2016-08-18,EU authorisation,funded,2018-02-14,17.9,1,False
+primary,alofisel,Alofisel,allogeneic MSC,no,England,2018-03-23,EU authorisation,refused-or-terminated,2019-01-09,9.6,1,False
+primary,alofisel,Alofisel,allogeneic MSC,no,Germany,2018-03-23,EU authorisation,funded,2018-11-22,8.0,1,False
+primary,alofisel,Alofisel,allogeneic MSC,no,France,2018-03-23,EU authorisation,refused-or-terminated,2019-02-06,10.5,2,False
+primary,alofisel,Alofisel,allogeneic MSC,no,Italy,2018-03-23,EU authorisation,refused-or-terminated,2018-10-08,6.5,1,False
+primary,alofisel,Alofisel,allogeneic MSC,no,Canada,2019-06-05,Health Canada notice of compliance (stated in the row),censored,2026-09-05,87.0,0,False
+primary,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,England,2022-12-16,EU authorisation,refused-or-terminated,2023-10-19,10.1,1,False
+primary,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,Germany,2022-12-16,EU authorisation,funded,2023-10-05,9.6,1,False
+primary,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,France,2022-12-16,EU authorisation,funded,2023-06-01,5.5,4,False
+primary,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,Italy,2022-12-16,EU authorisation,funded,2025-03-13,26.9,1,False
+routine,abecma,Abecma,autologous CAR-T,yes,England,2021-08-18,EU authorisation,refused-or-terminated,2023-11-30,27.4,2,False
+routine,abecma,Abecma,autologous CAR-T,yes,Germany,2021-08-18,EU authorisation,funded,2022-06-16,9.9,3,False
+routine,abecma,Abecma,autologous CAR-T,yes,France,2021-08-18,EU authorisation,funded,2024-11-05,38.6,9,False
+routine,abecma,Abecma,autologous CAR-T,yes,Italy,2021-08-18,EU authorisation,funded,2024-02-08,29.7,3,True
+routine,abecma,Abecma,autologous CAR-T,yes,Canada,2021-05-26,Health Canada notice of compliance (stated in the row),refused-or-terminated,2021-05-14,0.0,3,False
+routine,abecma,Abecma,autologous CAR-T,yes,United States,2021-03-26,FDA approval; at risk only if the sponsor reports product revenue,funded,2021-06-30,3.2,0,False
+routine,adstiladrin,Adstiladrin,adenoviral intravesical,yes,England,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+routine,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Germany,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+routine,adstiladrin,Adstiladrin,adenoviral intravesical,yes,France,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+routine,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Italy,2026-05-28,EU authorisation,censored,2026-09-05,3.3,0,False
+routine,adstiladrin,Adstiladrin,adenoviral intravesical,yes,Canada,2026-03-16,Health Canada notice of compliance (stated in the row),censored,2026-09-05,5.7,0,False
+routine,amtagvi,Amtagvi,tumour-infiltrating lymphocytes,no,Canada,2025-08-15,Health Canada notice of compliance (stated in the row),censored,2026-09-05,12.7,0,False
+routine,amtagvi,Amtagvi,tumour-infiltrating lymphocytes,no,United States,2024-02-16,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-06-30,4.4,0,False
+routine,aucatzyl,Aucatzyl,autologous CAR-T,yes,England,2025-07-17,EU authorisation,funded,2025-12-11,4.8,1,False
+routine,aucatzyl,Aucatzyl,autologous CAR-T,yes,Germany,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+routine,aucatzyl,Aucatzyl,autologous CAR-T,yes,France,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+routine,aucatzyl,Aucatzyl,autologous CAR-T,yes,Italy,2025-07-17,EU authorisation,censored,2026-09-05,13.6,0,False
+routine,aucatzyl,Aucatzyl,autologous CAR-T,yes,United States,2024-11-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-03-31,4.7,0,False
+routine,beqvez,Beqvez / Durveqtix,AAV systemic,yes,England,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,1,False
+routine,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Germany,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+routine,beqvez,Beqvez / Durveqtix,AAV systemic,yes,France,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+routine,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Italy,2024-07-24,EU authorisation,withdrawn-from-market,2025-05-15,9.7,0,False
+routine,beqvez,Beqvez / Durveqtix,AAV systemic,yes,Canada,2023-12-27,Health Canada notice of compliance (stated in the row),refused-or-terminated,2025-04-04,15.2,2,False
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,England,2022-04-04,EU authorisation,funded,2025-03-26,35.7,6,True
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,Germany,2022-04-04,EU authorisation,funded,2023-11-16,19.4,7,True
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,France,2022-04-04,EU authorisation,funded,2024-07-08,27.1,6,False
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,Italy,2022-04-04,EU authorisation,funded,2024-02-08,22.2,2,False
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,Canada,2022-05-06,Health Canada notice of compliance (stated in the row),funded,2023-12-12,19.2,4,False
+routine,breyanzi,Breyanzi,autologous CAR-T,yes,United States,2021-02-05,FDA approval; at risk only if the sponsor reports product revenue,funded,2021-06-30,4.8,0,False
+routine,carvykti,Carvykti,autologous CAR-T,yes,England,2022-05-25,EU authorisation,refused-or-terminated,2023-05-17,11.7,1,False
+routine,carvykti,Carvykti,autologous CAR-T,yes,Germany,2022-05-25,EU authorisation,funded,2023-08-17,14.8,3,False
+routine,carvykti,Carvykti,autologous CAR-T,yes,France,2022-05-25,EU authorisation,censored,2026-09-05,51.4,2,False
+routine,carvykti,Carvykti,autologous CAR-T,yes,Italy,2022-05-25,EU authorisation,funded,2026-04-03,46.3,2,True
+routine,carvykti,Carvykti,autologous CAR-T,yes,Canada,2023-02-09,Health Canada notice of compliance (stated in the row),refused-or-terminated,2025-09-18,31.3,4,False
+routine,carvykti,Carvykti,autologous CAR-T,yes,Australia,2023-06-06,TGA registration,funded,2024-04-04,10.0,4,True
+routine,carvykti,Carvykti,autologous CAR-T,yes,United States,2022-02-28,FDA approval; at risk only if the sponsor reports product revenue,funded,2022-06-30,4.0,0,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,England,2024-02-09,EU authorisation,censored,2026-09-05,30.8,2,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,Germany,2024-02-09,EU authorisation,funded,2025-07-03,16.8,3,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,France,2024-02-09,EU authorisation,refused-or-terminated,2024-08-28,6.6,6,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,Italy,2024-02-09,EU authorisation,funded,2025-10-07,19.9,2,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,Canada,2024-09-23,Health Canada notice of compliance (stated in the row),censored,2026-09-05,23.4,2,False
+routine,casgevy,Casgevy,CRISPR ex vivo,yes,United States,2023-12-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-09-30,9.8,0,False
+routine,elevidys,Elevidys,AAV systemic,yes,United States,2023-06-22,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,3.3,0,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,England,2023-02-20,EU authorisation,censored,2026-09-05,42.5,1,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,Germany,2023-02-20,EU authorisation,funded,2023-05-12,2.7,2,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,France,2023-02-20,EU authorisation,funded,2023-12-05,9.5,2,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,Italy,2023-02-20,EU authorisation,funded,2025-09-03,30.4,1,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,Canada,2023-10-23,Health Canada notice of compliance (stated in the row),funded,2025-09-22,23.0,2,False
+routine,hemgenix,Hemgenix,AAV systemic,yes,Australia,2024-03-19,TGA registration,funded,2025-07-31,16.4,3,True
+routine,hemgenix,Hemgenix,AAV systemic,yes,United States,2022-11-22,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,10.2,0,False
+routine,imlygic,Imlygic,oncolytic HSV,yes,England,2015-12-16,EU authorisation,funded,2016-09-28,9.4,1,False
+routine,imlygic,Imlygic,oncolytic HSV,yes,Germany,2015-12-16,EU authorisation,refused-or-terminated,2016-12-15,12.0,3,False
+routine,imlygic,Imlygic,oncolytic HSV,yes,France,2015-12-16,EU authorisation,censored,2026-09-05,128.6,0,False
+routine,imlygic,Imlygic,oncolytic HSV,yes,Italy,2015-12-16,EU authorisation,censored,2026-09-05,128.6,0,False
+routine,imlygic,Imlygic,oncolytic HSV,yes,Australia,2015-12-21,TGA registration,refused-or-terminated,2016-07-01,6.3,2,False
+routine,itvisma,Itvisma,AAV intrathecal,yes,England,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+routine,itvisma,Itvisma,AAV intrathecal,yes,Germany,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+routine,itvisma,Itvisma,AAV intrathecal,yes,France,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+routine,itvisma,Itvisma,AAV intrathecal,yes,Italy,2026-06-30,EU authorisation,censored,2026-09-05,2.2,0,False
+routine,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,England,2022-07-18,EU authorisation,funded,2023-04-19,9.0,1,False
+routine,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,Germany,2022-07-18,EU authorisation,funded,2023-02-02,6.5,1,False
+routine,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,France,2022-07-18,EU authorisation,censored,2026-09-05,49.6,2,False
+routine,kebilidi,Kebilidi / Upstaza,AAV intraputaminal,yes,Italy,2022-07-18,EU authorisation,funded,2023-12-04,16.6,1,False
+routine,kresladi,Kresladi,lentiviral ex vivo,yes,United States,2026-03-26,FDA approval; at risk only if the sponsor reports product revenue,censored,2026-09-05,5.4,0,False
+routine,kymriah,Kymriah,autologous CAR-T,yes,England,2018-08-23,EU authorisation,funded,2024-05-15,68.7,6,True
+routine,kymriah,Kymriah,autologous CAR-T,yes,Germany,2018-08-23,EU authorisation,funded,2019-03-07,6.4,7,False
+routine,kymriah,Kymriah,autologous CAR-T,yes,France,2018-08-23,EU authorisation,funded,2019-12-20,15.9,13,False
+routine,kymriah,Kymriah,autologous CAR-T,yes,Italy,2018-08-23,EU authorisation,funded,2019-08-12,11.6,4,False
+routine,kymriah,Kymriah,autologous CAR-T,yes,Canada,2018-09-05,Health Canada notice of compliance (stated in the row),funded,2025-06-12,81.2,2,False
+routine,kymriah,Kymriah,autologous CAR-T,yes,Australia,2018-12-19,TGA registration,funded,2019-04-09,3.6,9,True
+routine,kymriah,Kymriah,autologous CAR-T,yes,United States,2017-08-30,FDA approval; at risk only if the sponsor reports product revenue,funded,2017-12-31,4.0,0,False
+routine,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,England,2020-12-17,EU authorisation,funded,2022-03-28,15.3,1,False
+routine,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,Germany,2020-12-17,EU authorisation,funded,2021-11-04,10.6,3,False
+routine,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,France,2020-12-17,EU authorisation,refused-or-terminated,2021-04-21,4.1,4,False
+routine,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,Italy,2020-12-17,EU authorisation,funded,2022-04-07,15.6,2,False
+routine,lenmeldy,Lenmeldy / Libmeldy,lentiviral ex vivo,yes,United States,2024-03-18,FDA approval; at risk only if the sponsor reports product revenue,funded,2022-03-31,0.0,0,False
+routine,luxturna,Luxturna,AAV subretinal,yes,England,2018-11-22,EU authorisation,funded,2019-10-09,10.5,1,False
+routine,luxturna,Luxturna,AAV subretinal,yes,Germany,2018-11-22,EU authorisation,funded,2019-10-17,10.8,3,False
+routine,luxturna,Luxturna,AAV subretinal,yes,France,2018-11-22,EU authorisation,funded,2021-08-04,32.4,5,False
+routine,luxturna,Luxturna,AAV subretinal,yes,Italy,2018-11-22,EU authorisation,funded,2021-01-09,25.6,1,False
+routine,luxturna,Luxturna,AAV subretinal,yes,Canada,2020-10-13,Health Canada notice of compliance (stated in the row),funded,2022-09-16,23.1,2,False
+routine,luxturna,Luxturna,AAV subretinal,yes,Australia,2020-08-05,TGA registration,funded,2020-11-26,3.7,2,False
+routine,luxturna,Luxturna,AAV subretinal,yes,United States,2017-12-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2018-03-31,3.4,0,False
+routine,lyfgenia,Lyfgenia,lentiviral ex vivo,yes,United States,2023-12-08,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-09-30,9.8,0,False
+routine,omisirge,Omisirge,expanded cord blood,no,United States,2023-04-17,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,5.5,0,False
+routine,papzimeos,Papzimeos,adenoviral immunotherapy,yes,United States,2025-08-14,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-12-31,4.6,0,False
+routine,roctavian,Roctavian,AAV systemic,yes,England,2022-08-24,EU authorisation,censored,2026-09-05,48.4,0,False
+routine,roctavian,Roctavian,AAV systemic,yes,Germany,2022-08-24,EU authorisation,funded,2023-02-02,5.3,2,False
+routine,roctavian,Roctavian,AAV systemic,yes,France,2022-08-24,EU authorisation,censored,2026-09-05,48.4,1,False
+routine,roctavian,Roctavian,AAV systemic,yes,Italy,2022-08-24,EU authorisation,funded,2024-01-22,17.0,1,False
+routine,roctavian,Roctavian,AAV systemic,yes,United States,2023-06-30,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,3.0,0,False
+routine,ryoncil,Ryoncil,mesenchymal stromal cells,no,United States,2024-12-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-06-30,6.3,0,False
+routine,skysona,Skysona,lentiviral ex vivo,yes,England,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,1,False
+routine,skysona,Skysona,lentiviral ex vivo,yes,Germany,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+routine,skysona,Skysona,lentiviral ex vivo,yes,France,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+routine,skysona,Skysona,lentiviral ex vivo,yes,Italy,2021-07-16,EU authorisation,withdrawn-from-market,2021-11-18,4.1,0,False
+routine,skysona,Skysona,lentiviral ex vivo,yes,United States,2022-09-16,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-03-31,6.4,0,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,England,2020-12-14,EU authorisation,censored,2026-09-05,68.7,2,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,Germany,2020-12-14,EU authorisation,funded,2021-08-05,7.7,2,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,France,2020-12-14,EU authorisation,funded,2022-08-03,19.6,8,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,Italy,2020-12-14,EU authorisation,funded,2022-03-11,14.8,2,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,Canada,2021-06-08,Health Canada notice of compliance (stated in the row),funded,2022-11-10,17.1,4,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,Australia,2021-07-21,TGA registration,funded,2021-07-29,0.3,5,False
+routine,tecartus,Tecartus,autologous CAR-T,yes,United States,2020-07-24,FDA approval; at risk only if the sponsor reports product revenue,funded,2020-09-30,2.2,0,False
+routine,tecelra,Tecelra,TCR-T,yes,United States,2024-08-01,FDA approval; at risk only if the sponsor reports product revenue,funded,2024-12-31,5.0,0,False
+routine,tudriqev,Tudriqev,oncolytic HSV,yes,United States,2026-08-06,FDA approval; at risk only if the sponsor reports product revenue,censored,2026-09-05,1.0,0,False
+routine,vyjuvek,Vyjuvek,HSV topical,yes,England,2025-04-23,EU authorisation,censored,2026-09-05,16.4,0,False
+routine,vyjuvek,Vyjuvek,HSV topical,yes,Germany,2025-04-23,EU authorisation,funded,2026-02-19,9.9,1,False
+routine,vyjuvek,Vyjuvek,HSV topical,yes,France,2025-04-23,EU authorisation,censored,2026-09-05,16.4,3,False
+routine,vyjuvek,Vyjuvek,HSV topical,yes,Italy,2025-04-23,EU authorisation,censored,2026-09-05,16.4,0,False
+routine,vyjuvek,Vyjuvek,HSV topical,yes,United States,2023-05-19,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-09-30,4.4,0,False
+routine,waskyra,Waskyra,lentiviral ex vivo,yes,England,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+routine,waskyra,Waskyra,lentiviral ex vivo,yes,Germany,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+routine,waskyra,Waskyra,lentiviral ex vivo,yes,France,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+routine,waskyra,Waskyra,lentiviral ex vivo,yes,Italy,2026-01-09,EU authorisation,censored,2026-09-05,7.9,0,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,England,2018-08-23,EU authorisation,funded,2023-02-28,54.2,4,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,Germany,2018-08-23,EU authorisation,funded,2019-05-02,8.3,11,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,France,2018-08-23,EU authorisation,funded,2019-07-08,10.5,10,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,Italy,2018-08-23,EU authorisation,funded,2019-11-11,14.6,4,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,Canada,2019-02-13,Health Canada notice of compliance (stated in the row),funded,2024-09-06,66.8,4,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,Australia,2020-02-11,TGA registration,funded,2020-01-16,0.0,8,False
+routine,yescarta,Yescarta,autologous CAR-T,yes,United States,2017-10-18,FDA approval; at risk only if the sponsor reports product revenue,funded,2017-12-31,2.4,0,False
+routine,zevaskyn,Zevaskyn,gene-modified keratinocyte sheets,yes,United States,2025-04-28,FDA approval; at risk only if the sponsor reports product revenue,funded,2025-12-31,8.1,0,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,England,2020-05-18,EU authorisation,funded,2021-07-07,13.6,2,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,Germany,2020-05-18,EU authorisation,funded,2021-02-04,8.6,6,True
+routine,zolgensma,Zolgensma,AAV systemic,yes,France,2020-05-18,EU authorisation,refused-or-terminated,2020-12-16,7.0,9,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,Italy,2020-05-18,EU authorisation,funded,2021-03-13,9.8,2,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,Canada,2020-12-15,Health Canada notice of compliance (stated in the row),funded,2021-10-08,9.8,3,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,Australia,2021-03-04,TGA registration,funded,2021-09-01,5.9,6,False
+routine,zolgensma,Zolgensma,AAV systemic,yes,United States,2019-05-24,FDA approval; at risk only if the sponsor reports product revenue,funded,2019-06-30,1.2,0,False
+routine,zynteglo,Zynteglo,lentiviral ex vivo,yes,England,2019-05-29,EU authorisation,withdrawn-from-market,2022-03-24,33.8,1,False
+routine,zynteglo,Zynteglo,lentiviral ex vivo,yes,Germany,2019-05-29,EU authorisation,funded,2020-05-14,11.5,1,False
+routine,zynteglo,Zynteglo,lentiviral ex vivo,yes,France,2019-05-29,EU authorisation,refused-or-terminated,2020-03-18,9.7,2,False
+routine,zynteglo,Zynteglo,lentiviral ex vivo,yes,Italy,2019-05-29,EU authorisation,withdrawn-from-market,2022-03-24,33.8,0,False
+routine,zynteglo,Zynteglo,lentiviral ex vivo,yes,United States,2022-08-17,FDA approval; at risk only if the sponsor reports product revenue,funded,2023-06-30,10.4,0,False
+routine,provenge,Provenge,autologous cellular immunotherapy,no,England,2013-09-06,EU authorisation,refused-or-terminated,2015-02-23,17.6,1,False
+routine,provenge,Provenge,autologous cellular immunotherapy,no,Germany,2013-09-06,EU authorisation,funded,2015-03-19,18.4,1,False
+routine,provenge,Provenge,autologous cellular immunotherapy,no,France,2013-09-06,EU authorisation,withdrawn-from-market,2015-05-06,19.9,0,False
+routine,provenge,Provenge,autologous cellular immunotherapy,no,Italy,2013-09-06,EU authorisation,withdrawn-from-market,2015-05-06,19.9,0,False
+routine,provenge,Provenge,autologous cellular immunotherapy,no,United States,2010-04-29,FDA approval; at risk only if the sponsor reports product revenue,funded,2010-06-30,2.0,0,False
+routine,glybera,Glybera,AAV intramuscular,yes,England,2012-10-25,EU authorisation,withdrawn-from-market,2017-10-28,60.1,0,False
+routine,glybera,Glybera,AAV intramuscular,yes,Germany,2012-10-25,EU authorisation,funded,2015-05-21,30.8,3,False
+routine,glybera,Glybera,AAV intramuscular,yes,France,2012-10-25,EU authorisation,refused-or-terminated,2015-11-04,36.3,1,False
+routine,glybera,Glybera,AAV intramuscular,yes,Italy,2012-10-25,EU authorisation,withdrawn-from-market,2017-10-28,60.1,0,False
+routine,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,England,2016-05-26,EU authorisation,funded,2018-02-07,20.4,1,False
+routine,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,Germany,2016-05-26,EU authorisation,censored,2026-09-05,123.3,0,False
+routine,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,France,2016-05-26,EU authorisation,censored,2026-09-05,123.3,0,False
+routine,strimvelis,Strimvelis,gammaretroviral ex vivo,yes,Italy,2016-05-26,EU authorisation,funded,2016-08-01,2.2,1,False
+routine,zalmoxis,Zalmoxis,gene-modified T cells,yes,England,2016-08-18,EU authorisation,withdrawn-from-market,2019-10-09,37.7,0,False
+routine,zalmoxis,Zalmoxis,gene-modified T cells,yes,Germany,2016-08-18,EU authorisation,funded,2018-07-05,22.5,1,False
+routine,zalmoxis,Zalmoxis,gene-modified T cells,yes,France,2016-08-18,EU authorisation,withdrawn-from-market,2019-10-09,37.7,0,False
+routine,zalmoxis,Zalmoxis,gene-modified T cells,yes,Italy,2016-08-18,EU authorisation,funded,2018-02-14,17.9,1,False
+routine,alofisel,Alofisel,allogeneic MSC,no,England,2018-03-23,EU authorisation,refused-or-terminated,2019-01-09,9.6,1,False
+routine,alofisel,Alofisel,allogeneic MSC,no,Germany,2018-03-23,EU authorisation,funded,2018-11-22,8.0,1,False
+routine,alofisel,Alofisel,allogeneic MSC,no,France,2018-03-23,EU authorisation,refused-or-terminated,2019-02-06,10.5,2,False
+routine,alofisel,Alofisel,allogeneic MSC,no,Italy,2018-03-23,EU authorisation,refused-or-terminated,2018-10-08,6.5,1,False
+routine,alofisel,Alofisel,allogeneic MSC,no,Canada,2019-06-05,Health Canada notice of compliance (stated in the row),censored,2026-09-05,87.0,0,False
+routine,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,England,2022-12-16,EU authorisation,refused-or-terminated,2023-10-19,10.1,1,False
+routine,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,Germany,2022-12-16,EU authorisation,funded,2023-10-05,9.6,1,False
+routine,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,France,2022-12-16,EU authorisation,funded,2025-06-02,29.5,4,False
+routine,ebvallo,Ebvallo,allogeneic EBV-specific T cells,no,Italy,2022-12-16,EU authorisation,funded,2025-03-13,26.9,1,False

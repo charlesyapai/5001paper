@@ -1,0 +1,103 @@
+idx,why,category
+2,A business decision was made to not initiate this study.,"Funding, business or strategic decision"
+5,Administrative decision,"Investigator, site or administrative"
+8,"All treatment arms met the futility criteria for efficacy during the pre-planned interim analysis, therefore the study was stopped.",Efficacy failure or futility
+11,Available clinical data has shown limited anti-tumor activity and reaching target study drug dose levels may not be feasible.,Efficacy failure or futility
+14,Business Decision,"Funding, business or strategic decision"
+17,Business decision,"Funding, business or strategic decision"
+20,Business objectives have changed,"Funding, business or strategic decision"
+23,Business reasons,"Funding, business or strategic decision"
+26,CMC challenges,Manufacturing or product supply
+29,Change in Research Direction,"Funding, business or strategic decision"
+32,"Clinical development strategy adjustment, non-safety reason","Funding, business or strategic decision"
+35,Company decision,"Funding, business or strategic decision"
+38,Company strategy adjustment,"Funding, business or strategic decision"
+41,"Considering that the high budget will affect the subsequent development, it is decided to terminate the test voluntarily","Funding, business or strategic decision"
+44,Current study design couldn't support futher development on this indication.,Protocol redesign or replacement
+47,Data from part 2 no longer deemed necessary for this program.,"Funding, business or strategic decision"
+50,"Despite many risk-minimization strategies, the combination of ipatasertib, atezolizumab and docetaxel was challenging due to multiple study treatment modifications required to manage toxicity, making further enrollment inappropriate.",Safety or toxicity
+53,Development program terminated.,"Funding, business or strategic decision"
+56,Difficulty recruiting,Recruitment or feasibility failure
+59,Due to MOH request.,Regulatory or ethics hold
+62,Due to lack of efficacy shown at the time of the interim analysis.,Efficacy failure or futility
+65,Due to strategic decision made by the sponsor the study was terminated,"Funding, business or strategic decision"
+68,"Due to the adjustment of the R\&D strategy, Suzhou Junjing Biosciences Co., Ltd. decided to terminate this study in September 2023","Funding, business or strategic decision"
+71,EF-50/LUNAR-4 was terminated because available real-world data are expected to enable Novocure to achieve the study objectives without an interventional clinical study. Termination was not due to safety concerns.,"Funding, business or strategic decision"
+74,Efficacy signal substantial enough to move to a larger sturdy,Protocol redesign or replacement
+77,Enough data has been collected to allow analysis of the safety profile and risk-benefit.,"Funding, business or strategic decision"
+80,Feasibility concerns due to changes in standard of care,Recruitment or feasibility failure
+83,"Following completion of Phase 1b, the Sponsor decided not to initiate Part 2 of the trial.","Funding, business or strategic decision"
+86,"For technical reasons, it was decided by the sponsor to close the ongoing ovarian cancer study, AM ATX101-03, immediately.","Funding, business or strategic decision"
+89,Genmab has decided to discontinue the clinical development of GEN1107 as the overall benefit-risk profile no longer supports continuation,Safety or toxicity
+92,IND Inactive Status,Regulatory or ethics hold
+95,Indefinite hold due to protocol revisions relating to the exclusion criteria for concurrent medications.,Protocol redesign or replacement
+98,Insufficient enrollment,Recruitment or feasibility failure
+101,Lack of clinical benefit,Efficacy failure or futility
+104,Lack of enrollment,Recruitment or feasibility failure
+107,Limited resources and strategic priorities,"Funding, business or strategic decision"
+110,Low enrollment,Recruitment or feasibility failure
+113,No participants enrolled,Recruitment or feasibility failure
+116,"Oncternal Therapeutics, Inc. announced on 12 SEP 2024 its decision to discontinue its clinical trials evaluating ONCT-534, its dual action androgen receptor inhibitor for the treatment of patients with metastatic castration resistant cancer.","Funding, business or strategic decision"
+119,Overarching portfolio-level review of the company's oncology pipeline resulted in early termination of the study. The study was not terminated due to safety.,"Funding, business or strategic decision"
+122,Patient recruitment problems.,Recruitment or feasibility failure
+125,Per sponsor request. Premature closure was not prompted by any safety or efficacy concerns.,"Funding, business or strategic decision"
+128,Prioritization,"Funding, business or strategic decision"
+131,R\&d strategy adjustment,"Funding, business or strategic decision"
+134,Required re-formulation of DFMO from IV to capsule to maintain safety,Safety or toxicity
+137,Slow recruitment,Recruitment or feasibility failure
+140,Sponsor cancelled study,"Funding, business or strategic decision"
+143,"Sponsor decision (not related to safety, efficacy or quality).","Funding, business or strategic decision"
+146,Sponsor decision based on strategic re-alignment,"Funding, business or strategic decision"
+149,Sponsor decision to terminate after monotherapy dose escalation.,"Funding, business or strategic decision"
+152,Sponsor decision.,"Funding, business or strategic decision"
+155,Sponsor determined the data was no longer needed.,"Funding, business or strategic decision"
+158,Sponsor made the decision to terminate the COAST study to refocus the OPD5 clinical program.,"Funding, business or strategic decision"
+161,Sponsor terminated the study due to strategic considerations,"Funding, business or strategic decision"
+164,Sponsor's clinical development strategy adjustment,"Funding, business or strategic decision"
+167,Sponsor's decision considering the changing treatment landscape for NSCLC,"Funding, business or strategic decision"
+170,Stopped for futility. Phase 3 studies not likely to meet primary endpoints.,Efficacy failure or futility
+173,Strategic decision,"Funding, business or strategic decision"
+176,Strategic decision to discontinue the study based on adjusted clinical development plan. This decision is not based on any safety concerns.,"Funding, business or strategic decision"
+179,Study didn't proceed to FDA submission,"Funding, business or strategic decision"
+182,Study halted prematurely and will not resume; participants are no longer being examined or receiving intervention,Unclear
+185,Study is terminated by Sponsor decision due to recruitment challenges.,Recruitment or feasibility failure
+188,Study not needed,"Funding, business or strategic decision"
+191,Study terminated based on internal business considerations and was not based on safety reasons,"Funding, business or strategic decision"
+194,Study terminated due to recruitment challenges,Recruitment or feasibility failure
+197,Study termination by the Sponsor,"Funding, business or strategic decision"
+200,Study was stopped due to low enrollment and lack of clinical activity.,Efficacy failure or futility
+203,Study was terminated due to lack of lack of enrollment and difficult patient population.,Recruitment or feasibility failure
+206,Study was terminated early due to a lack of improved efficacy.,Efficacy failure or futility
+209,"Study's goals have been achieved based on a preliminary analysis of available pharmacokinetic and safety data, which demonstrate that sufficient information has been obtained.","Funding, business or strategic decision"
+212,Terminated by sponsor.,"Funding, business or strategic decision"
+215,"The Sponsor has made the decision to terminate this study due to the lack of promising efficacy, internal prioritization, and highly competitive landscape.",Efficacy failure or futility
+218,The company decided to interrupt the development of the drug in all oncological indications,"Funding, business or strategic decision"
+221,The decision was made to terminate the study after the completion of Phase 1b enrollment and not proceed with Phase 2. Trial termination was not due to patient safety or data concerns.,"Funding, business or strategic decision"
+224,The risk benefit in the study population does not favor continuation of the study,Safety or toxicity
+227,The sponsor voluntarily terminated the study,"Funding, business or strategic decision"
+230,The study has been stopped for strategic and business reasons.,"Funding, business or strategic decision"
+233,The study is not stopped but the enrollment is suspended until a further decision from sponsor.,"Funding, business or strategic decision"
+236,The study terminated because the clinical development programme for Adavosertib has been discontinued,"Funding, business or strategic decision"
+239,The study was discontinued early by the Sponsor for business reasons on 06 Dec 2024,"Funding, business or strategic decision"
+242,The study was stopped due to imbalance in randomization stratification of severe patients.,Protocol redesign or replacement
+245,The study was terminated as no drug-drug interactions were observed in Part-A of the study and therefore Part-B of the study was not required as per protocol.,"Investigator, site or administrative"
+248,The study was terminated due to a strategic decision to discontinue development.,"Funding, business or strategic decision"
+251,The study was terminated due to program discontinuation.,"Funding, business or strategic decision"
+254,The study was terminated early due to the difficulties to enrol participant,Recruitment or feasibility failure
+257,The study was terminated on 16JUN2017 for safety reasons,Safety or toxicity
+260,The study was withdraw due to the fast spread of Omicron variant worldwide,COVID-19 disruption
+263,The trial was terminated for strategic reasons. The decision was not based on any safety concerns,"Funding, business or strategic decision"
+266,This decision is due to a company business decision with a strategy change on the BGB-R046 development in Advanced or Metastatic Solid Tumors.,"Funding, business or strategic decision"
+269,This study was closed due to business reasons. Closure was not prompted by any safety or efficacy concerns.,"Funding, business or strategic decision"
+272,This study was terminated based on a business decision by the Sponsor.,"Funding, business or strategic decision"
+275,"This trial was terminated voluntarily by the Sponsor for reasons related to its corporate strategic development, with no safety concerns or efficacy signals related to the investigational product identified.","Funding, business or strategic decision"
+278,Trial not initiated,Unclear
+281,Trial terminated because of lack of efficacy in the short term acute phase.,Efficacy failure or futility
+284,Trial withdrawn based on re-prioritization of the clinical development path for tuvusertib. No subjects were enrolled.,"Funding, business or strategic decision"
+287,United Neuroscience has decided to terminate V203-AD-EXT study based on a treatment assignment error,"Investigator, site or administrative"
+290,Withdrawn,Unclear
+293,covid 19,COVID-19 disruption
+296,insufficient suitable drug supply,Manufacturing or product supply
+299,patients treated through compassionate use program,Administrative rollover or transfer (not a failure)
+302,strategic considerations,"Funding, business or strategic decision"
+305,withdrawn due to COVID-19,COVID-19 disruption

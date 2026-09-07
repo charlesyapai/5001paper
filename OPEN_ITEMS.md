@@ -36,6 +36,10 @@ strengthen it.
 
 ## 2. The non-molecular comparator (the one extension that changes the paper's standing)
 
+**Run 7 September 2026 (F052).** 378 industry-sponsored halted drug trials matched on phase and start year, classified under the same
+instruction: business-cited share 0.60 against the cell's 0.64 (p 0.34). Under the pre-registered ten-point rule the specificity claim is dead;
+the paper is a study of how commercial sponsors report stopping. Tables under `data/companion/`; the text below is kept as the record.
+
 Every comparison in this study is within molecular precision medicine. A reader cannot
 currently tell whether a 66%-versus-22% split is remarkable or simply what
 ClinicalTrials.gov looks like when *any* therapeutic area is stratified by sponsor class.
@@ -56,6 +60,9 @@ first thing a referee will ask for, and it is one query plus one classification 
 ---
 
 ## 3. Human validation of the halt classification
+
+**Prepared 7 September 2026.** The blank 200-string sheet is `data/companion/halt_human_coding_sheet.csv`; `research/findings/halt_kappa_2026-09-07.py`
+computes the kappa once it is coded. The coding itself is outstanding.
 
 The largest methodological gap. Every count rests on a single machine coder with no
 inter-rater statistic. `02_classify_halts.py --sample 200` writes a blank coding sheet;

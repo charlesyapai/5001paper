@@ -29,3 +29,16 @@ uses, earliest genetic modality to reach pivotal trials, which AAV holds uniquel
 non-molecular comparator at Section 8 item 5, which is the human-validation item; the comparator is
 now Section 8 item 6 and the note points there. The header version, which still read v3, is
 corrected. No number in the paper changed.
+
+## v8, 7 September 2026
+
+The matched non-molecular comparator (Section 8 item 6 since v7) has been run (F052; `data/companion/`): 378
+industry-sponsored halted drug trials outside molecular medicine, matched on phase and start year and classified under
+the same instruction, cite business reasons at 60% against the cell's 64% (p = 0.34). Under the rule set before the
+pull (within ten points ends the specificity claim), the industry-therapeutic elevation is generic to industry-sponsored
+early-phase drug trials. Changes: one sentence in the abstract; new Section 3.5 with the result and its caveat (a later
+version of the same model family labelled the comparator strings under the identical instruction; the keyword flags
+agree); Limitation 3c now cites the comparator; Section 8 item 6 records the run; the References note points to
+Section 3.5. The title and the headline stratified contrast are unchanged; the interpretation that the pattern is a
+property of commercial sponsors rather than of molecular biology is now supported by the comparator rather than argued
+from the stratification alone. The blank human-coding sheet (item 5) is `data/companion/halt_human_coding_sheet.csv`.

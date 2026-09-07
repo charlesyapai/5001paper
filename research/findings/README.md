@@ -53,6 +53,10 @@ Later scripts (run from this folder with `../../.venv/bin/python`):
 | `figures_projection_2026-09-07.py` | `figures/Figure_P1` to `Figure_P4` (F050) |
 | `ex_us_price_variant_2026-09-07.py` | `data/uptake/ex_us_price_series.csv`, `ex_us_price_summary.csv`, `patients_quarterly_exus_variant.csv`, `raw/ecb_fx_annual.csv` (F051; live ECB fetch with the saved file as fallback) |
 | `reason_kappa_2026-09-07.py` | `data/access/reason_kappa.csv` from the human-coded `reason_validation_sample.csv` against `reason_validation_key.csv` (topic 02 task 3; waits for the coder) |
+| `fetch_comparator_2026-09-07.py [--no-fetch]` | `data/companion/raw/comparator_pull.csv`, `comparator_matched.csv`, `comparator_strings_to_code.csv` (F052) |
+| `build_comparator_2026-09-07.py` | `data/companion/comparator_result.csv`, `comparator_labelled.csv` from the labelled batches (F052) |
+| `halt_kappa_2026-09-07.py` | `data/companion/halt_kappa.csv` once `halt_human_coding_sheet.csv` is coded |
+| `build_audit_2026-09-07.py` | `data/audit/audit_results.csv`, `audit_summary.csv` from `data/audit/raw/audit_*.csv` |
 | `render_ledger_view.py` | `ledger.md`, the Pages view of this ledger; run after every ledger change |
 
 Order after a raw-table change: `build_uptake_series`, `build_eligible_ranges`, `curate_label_events`, `build_milestones`, then the

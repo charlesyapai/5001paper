@@ -1,0 +1,102 @@
+idx,why,category
+3,A decision has been made to prioritize other pipeline programs and terminate this study.,"Funding, business or strategic decision"
+6,"After completion of Phase 1 Dose Escalation of this study the sponsor decided not to proceed with Phase 2a due to strategic reasons. Thus, no participants were enrolled for Phase 2a and the study was terminated early.","Funding, business or strategic decision"
+9,Amgen made a business decision to discontinue AMG 160 20180273,"Funding, business or strategic decision"
+12,Based on the adjustment of clinical research and development strategy，sponsor decided to terminate the study,"Funding, business or strategic decision"
+15,Business Decision: No Safety or Efficacy Concerns,"Funding, business or strategic decision"
+18,Business decision to discontinue the study based on strategic prioritization.,"Funding, business or strategic decision"
+21,Business priorities,"Funding, business or strategic decision"
+24,Business reasons (not safety related),"Funding, business or strategic decision"
+27,Cancelled by Sponsor,"Funding, business or strategic decision"
+30,Change in clinical strategy,"Funding, business or strategic decision"
+33,Company Decision,"Funding, business or strategic decision"
+36,Company operational decision. Decision to stop study is not due to safety or efficacy concerns.,"Funding, business or strategic decision"
+39,Company's decision,"Funding, business or strategic decision"
+42,Corporate Decision,"Funding, business or strategic decision"
+45,DLBCL and FL cohorts met the pre-specified futility criteria and will not proceed. The MCL cohort was terminated due to slow recruitment and aggressive disease.,Efficacy failure or futility
+48,Decision to obtain PK data at a later date,"Funding, business or strategic decision"
+51,"Despite robust, sustained reductions in poly(GP), no clinical benefit was seen at 24 weeks, and reductions in poly(GP) were not associated with stabilization in functional outcomes. Based on these data, Wave decided to stop development of WVE-004.",Efficacy failure or futility
+54,Development project was discontinued,"Funding, business or strategic decision"
+57,"Discontinuation based on a strategic sponsor decision, not driven by safety concerns.","Funding, business or strategic decision"
+60,Due to a strategic business decision Kura has stopped development of KO-947. Neither safety nor efficacy reasons were the cause of study termination.,"Funding, business or strategic decision"
+63,Due to new preclinical findings in a chronic toxicology study.,Safety or toxicity
+66,"Due to the COVID-19 epidemic situation, the sponsor has decided to terminate the project.",COVID-19 disruption
+69,"Due to the company's development strategy adjustment, Innovent Biologics has decided not to continue this study after consultation with investigators.","Funding, business or strategic decision"
+72,"Efficacy endpoint met; however, overall experimental dosing regimen is not considered optimal to support further clinical development in this patient population","Funding, business or strategic decision"
+75,Emerging SARS-CoV-2 variants impacting susceptibility to study drug,Efficacy failure or futility
+78,Enrollment paused,Unclear
+81,"Following Completion of dose escalation, the study has been discontinued as part of the Company's strategic priorization of its pipeline.","Funding, business or strategic decision"
+84,"Following recommendation by SOLAR Study IDMC, Astellas closed enrollment in ASP8273 studies.",Unclear
+87,Funding,"Funding, business or strategic decision"
+90,Genmab has decided to terminate the GEN1286 program due to an unfavorable benefit-risk profile not supporting further development.,Safety or toxicity
+93,Impacted by viraemia resulting in higher than expected admissions,Safety or toxicity
+96,Insufficient Patient Recruitment Rates,Recruitment or feasibility failure
+99,Janssen made the strategic decision to discontinue the CROCuS study. This decision is not based on any safety concerns.,"Funding, business or strategic decision"
+102,Lack of efficacy,Efficacy failure or futility
+105,Lack of recruitment and sponsor's priority changes,Recruitment or feasibility failure
+108,Little evidence of clinical activity in tumor types enrolled,Efficacy failure or futility
+111,Major challenge for enrollment of participants.,Recruitment or feasibility failure
+114,No participants were enrolled in Phase 2 as Phase I was terminated early due to the lack of a clear signal of robust clinical activity.,Efficacy failure or futility
+117,Only Part A (single dosing) was conducted due to business considerations,"Funding, business or strategic decision"
+120,"Part 1 was completed, Part 2 and Part 3 of the study were not conducted under this study protocol due to subject recruitment difficulty.",Recruitment or feasibility failure
+123,Pediatric clinical study is not feasible.,Recruitment or feasibility failure
+126,"Phase 1b portion completed. Sponsor decided not to proceed with P2 portion of study. Vecabrutinib was very well tolerated, there was insufficient evidence of activity at the doses tested in the Phase 1b to advance to Phase 2.",Efficacy failure or futility
+129,Prioritization of other pipeline assets. No safety or efficacy issues were observed.,"Funding, business or strategic decision"
+132,Reassessing corporate priorities.,"Funding, business or strategic decision"
+135,Slow Recruitment,Recruitment or feasibility failure
+138,Sponsor Decision,"Funding, business or strategic decision"
+141,Sponsor decided to stop for lack of efficacy,Efficacy failure or futility
+144,Sponsor decision based on limited clinical benefit observed in both Multiple Myeloma and Non-Hodgkin Lymphoma cohorts,Efficacy failure or futility
+147,Sponsor decision to discontinue study.,"Funding, business or strategic decision"
+150,Sponsor decision to terminate because limited investigational agent activity was observed.,Efficacy failure or futility
+153,Sponsor decision. All remaining participants (21 total) were rolled over from Part 2 to study PHA022121-C307 (NCT06679881).,Administrative rollover or transfer (not a failure)
+156,Sponsor discontinued IPF Program on 23-Oct. 2017 based on POC studies,"Funding, business or strategic decision"
+159,Sponsor reprioritization of active trials.,"Funding, business or strategic decision"
+162,Sponsor terminated the study.,"Funding, business or strategic decision"
+165,Sponsor's decision,"Funding, business or strategic decision"
+168,Sponsor's decision to terminate the study after Phase 1; will not proceed with Phase 2.,"Funding, business or strategic decision"
+171,Strategic business decision,"Funding, business or strategic decision"
+174,Strategic decision by sponsor.,"Funding, business or strategic decision"
+177,Strategy adjustment,"Funding, business or strategic decision"
+180,Study discontinued due to business reasons. There were no safety concerns in the decision to stop study and no changes to sponsor's assessment of the risk-benefit profile for participants who received sisunatovir in the study,"Funding, business or strategic decision"
+183,Study has been prematurely terminated as the Interim Analysis 1 efficacy results met the prespecified futility criteria related to the primary endpoint.,Efficacy failure or futility
+186,Study no longer required,"Funding, business or strategic decision"
+189,Study placed on hold.,Unclear
+192,Study terminated by the Sponsor. All study participants completed at least 12 months of safety follow-up instead of 24 mo. The reason for earlier termination was due to a corporate decision; not any safety concerns of EA-2353.,"Funding, business or strategic decision"
+195,Study terminated due to strategic portfolio decision to reallocate resources to higher-priority programs,"Funding, business or strategic decision"
+198,Study was determined not to initiate.,Unclear
+201,"Study was terminated due to decision made not to proceed with the clinical trial DDRiver 521, that has not yet commenced enrolment, for strategic reasons.","Funding, business or strategic decision"
+204,Study was terminated due to sponsor decision. This decision was not related to safety concerns with REC-2282.,"Funding, business or strategic decision"
+207,Study was terminated early due to futility.,Efficacy failure or futility
+210,"Subject benefit-risk ratio changes, sponsor decides to voluntarily terminate study",Safety or toxicity
+213,Terminated due to sponsor strategic development reprioritization.,"Funding, business or strategic decision"
+216,The adjustment of the sponsor's research and development strategy,"Funding, business or strategic decision"
+219,"The decision to discontinue the study was made based on the totality of the clinical, pharmacokinetic, and pharmacodynamic findings. No safety concerns were observed.",Efficacy failure or futility
+222,"The enrolment task cannot be gotten within the planned time.It mainly includes patients with non-small cell lung cancer failed in standard treatment,with a short survival period.It is hard to obtain observational endpoints for bone-related events.",Recruitment or feasibility failure
+225,The sponsor adjusts the clinical development strategy.,"Funding, business or strategic decision"
+228,The sponsor's R\&D strategy is adjusted.,"Funding, business or strategic decision"
+231,The study has been terminated early by the sponsor due to business decision.,"Funding, business or strategic decision"
+234,The study is stopped based upon strategic considerations impacting the clinical development of exenatide once-weekly suspension in China,"Funding, business or strategic decision"
+237,The study was closed because the sponsor decided not to continue the development of certain treatment combinations.,"Funding, business or strategic decision"
+240,The study was stopped as all post-marketing commitments had been fulfilled or released,"Investigator, site or administrative"
+243,The study was stopped early (n=35) enabling the data to guide design of the subsequent clinical study.,Protocol redesign or replacement
+246,The study was terminated because of sponsor's development strategy change,"Funding, business or strategic decision"
+249,The study was terminated due to enrollment challenges.,Recruitment or feasibility failure
+252,The study was terminated early as the study had met its goals of providing preliminary safety and efficacy information for atezolizumab monotherapy alone and in combination with BCG in NMIBC.,"Investigator, site or administrative"
+255,The study was terminated for business decision reasons.,"Funding, business or strategic decision"
+258,The study was terminated prematurely by the Sponsor due to observation of dose-limiting adverse events meeting the protocol-defined stopping criteria.,Safety or toxicity
+261,The trial was prematurely discontinued due to the financial situation of the sponsor and not for safety or efficacy reasons.,"Funding, business or strategic decision"
+264,The withdrawal is due to a strategic realignment and is not related to any particular safety or efficacy concern.,"Funding, business or strategic decision"
+267,This study has been cancelled due to business reasons.,"Funding, business or strategic decision"
+270,This study was discontinued due to an interim analysis which indicated that ralmitaront was unlikely to meet its primary endpoint.,Efficacy failure or futility
+273,This study was terminated due to limited efficacy and not due to safety reasons.,Efficacy failure or futility
+276,This was a strategic business decision. There were no safety concerns contributing to this decision.,"Funding, business or strategic decision"
+279,Trial terminated based on benefit-risk profile assessment,Safety or toxicity
+282,"Trial terminated due to business decision, not based on any safety or efficacy concerns.","Funding, business or strategic decision"
+285,Tusamitamab ravtansine clinical development program is discontinued as CARMEN-LC03 trial did not meet dual primary endpoint of improving progression-free survival. The decision is not related to any safety concern.,Efficacy failure or futility
+288,"Valneva has contacted regulators to align on potential adjustments to the previously agreed Pediatric Investigational Plan. Valneva has suspended VLA2001 pediatric development, and study VLA2001-321 will not commence.","Funding, business or strategic decision"
+291,Withdrawn: Study halted prior to enrollment of first participant,Unclear
+294,due to business decisions,"Funding, business or strategic decision"
+297,low recruitment rate,Recruitment or feasibility failure
+300,program discontinued,"Funding, business or strategic decision"
+303,study no longer required in current format,Protocol redesign or replacement

@@ -2,8 +2,10 @@
 
 ### A registry analysis of 14,061 clinical trials and 784 halted trial registrations across 21 gene, editing, proteomic and precision-medicine technologies
 
-**Draft v7 — 5 September 2026.** All counts computed from ClinicalTrials.gov (API v2) and PubMed records retrieved on
-that date. Every number is traceable to a named column in the supplementary tables.
+**Draft v8 — 7 September 2026.** All counts computed from ClinicalTrials.gov (API v2) and PubMed records retrieved on
+5 September 2026, plus the matched non-molecular comparator retrieved on 7 September 2026 (Section 3.5, F052). Every
+number is traceable to a named column in the supplementary tables. v8 adds the comparator result to the abstract,
+Section 3, Limitation 3c and Section 8; the revision note is in `review/revision_notes.md`.
 
 ---
 
@@ -21,8 +23,11 @@ times larger among industry sponsors than among non-industry ones (OR 5.54, p = 
 OR 1.07, p = 0.41 at trial level; 6.10 versus 1.72 with one row per sponsor), and sponsor class
 is the stronger exposure within therapeutic programs (OR 6.36, p = 5 × 10⁻¹⁵) while doing nothing
 within diagnostics (1.23, p = 0.27). The interaction survives excluding the dominant subfamily
-and survives collapsing to one row per sponsor. The effect is therefore a property of programs carried by a
-commercial sponsor making a portfolio decision, not of therapeutic biology. It is most visible in
+and survives collapsing to one row per sponsor. It does not survive the comparison that matters most: 378
+industry-sponsored halted drug trials outside molecular medicine, matched on phase and start year and classified
+under the same instruction, cite business reasons at 60% against the cell's 64% (p = 0.34). The effect is therefore a
+property of programs carried by a commercial sponsor making a portfolio decision, not of therapeutic biology and not
+of molecular precision medicine in particular. It is most visible in
 the earliest therapeutic modality to reach pivotal trials: AAV gene transfer, with 32 Phase 3 or
 later trials since 2003, has 18 of 24 halted trials citing business reasons and 1 citing science.
 Post-approval, gene therapies have been withdrawn from markets over reimbursement rather than
@@ -447,6 +452,26 @@ architecture has changed.
 
 ---
 
+### 3.5 The elevation is not specific to molecular precision medicine
+
+The comparison the earlier drafts lacked was run on 7 September 2026 (F052; `data/companion/`). From the 4,136
+industry-sponsored interventional drug trials of phase 1 or 2 started 2015 to 2025 and halted, we removed the 63 that
+match any genetic, cell-therapy, nucleic-acid or biomarker-selection pattern and the 56 already in this study, and drew
+three comparators at random for each industry-therapeutic halt within strata of phase bucket and start-year bin (126 of
+the 144 halts have a registered phase and so a stratum). Their 305 distinct reason strings were classified under the
+same system instruction and eleven-label schema as Section 7. Funding, business or strategic decision accounts for 60%
+of the comparators (225 of 378; 95% CI 55 to 64) against 64% of the matched cell (81 of 126; 56 to 72), a difference of
+4.8 points (z = 0.95, p = 0.34); against the full cell of 144 the difference is 6.4 points (p = 0.18). No stratum
+separates the two at p below 0.04, and the start-year gradient of Section 2.1 appears in the comparators too (39%,
+63%, 69% for trials started 2015 to 2018, 2019 to 2021 and 2022 to 2025). The coder-independent keyword flags agree:
+a financial or business word appears in 37% of the cell's statements and 35% of the comparators'. Under the rule set
+before the pull (a gap within ten points ends the specificity claim), the industry-therapeutic elevation is a property
+of industry-sponsored early-phase drug trials in general. What is specific to molecular medicine in this study is
+therefore not the rate of business-attributed stopping but the maturity structure around it (Sections 2.3 to 2.8) and
+the post-approval record (Section 2.6). One caveat belongs here: the comparator strings were labelled by a later
+version of the same model family than the study's own strings, under the identical instruction; the keyword flags,
+which do not depend on the coder, give the same answer.
+
 ## 4. Discussion
 
 ### 4.1 Two failure modes require two remedies
@@ -648,8 +673,9 @@ Four things follow that a reader can act on.
 3c. **No external baseline.** We do not establish that these rates are unusual for
    ClinicalTrials.gov as a whole. Registry-wide termination analyses report recruitment as
    dominant and business causes as substantial across all therapeutic areas, so part of what we
-   measure may be a registry-wide property rather than a property of molecular medicine. Running
-   the same classification on a matched non-molecular comparator is the first thing we would add.
+   measure may be a registry-wide property rather than a property of molecular medicine. The matched
+   comparator of Section 3.5 confirms this for the headline cell: the business-cited share among
+   industry-sponsored early-phase drug halts outside molecular medicine is within five points of ours.
 4. **US-registry bias.** ClinicalTrials.gov under-represents trials registered only in CTIS,
    the Chinese registry or jRCT, which affects both the geography estimates and the halt rates.
 5. **Post-approval evidence is curated, not systematic.** Figure 6 rests on six hand-selected
@@ -774,11 +800,9 @@ alphabetical assignment had biased.
    the required fields are already in the published trial table.
 5. **Human validation of the halt-reason classification** on a stratified sample, with
    inter-rater agreement reported.
-6. **A matched non-molecular comparator.** The same regex re-filter and the same classifier run
-   on industry-sponsored Phase 1 and Phase 1/2 oncology small molecules and antibodies started
-   2015 or later, matched on phase and start year, to test whether the industry-therapeutic
-   elevation is specific to molecular precision medicine or generic to industry-sponsored
-   early-phase trials (Limitation 3c). Neither prior referee round saw this run.
+6. **A matched non-molecular comparator.** Run on 7 September 2026 (Section 3.5, F052): the
+   industry-therapeutic elevation is generic to industry-sponsored early-phase drug trials. What
+   remains is a second coder on both sets (item 5) and a comparator restricted to small molecules.
 
 ---
 
@@ -819,8 +843,8 @@ checked against its primary announcement before publication. Retrieved 2–3 Sep
     withdrawal from conventional AAV approaches.
 
 **Not cited because not consulted.** The registry-wide clinical-trial termination literature
-referenced in Limitation 3c is invoked as a general expectation, not as a specific finding, and
-the non-molecular comparator that would test it has not been run (Section 8, item 6).
+referenced in Limitation 3c is invoked as a general expectation, not as a specific finding; the
+matched comparator that tests it directly is in Section 3.5.
 
 ---
 

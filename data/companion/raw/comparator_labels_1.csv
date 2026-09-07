@@ -1,0 +1,103 @@
+idx,why,category
+1,A business decision was made by Pfizer to terminate and remove the Phase 2 expansion of this study for administrative reasons. The reason for study termination is not due to any safety concerns or requests from regulatory authorities.,"Funding, business or strategic decision"
+4,According to sponsor strategy,"Funding, business or strategic decision"
+7,"After completion of the dose-escalation part of the study, the safety profile of MP0317 in monotherapy is considered adequately characterized in the dose-escalation part of the study.","Funding, business or strategic decision"
+10,At end of Phase 1 excessive high pill burden (18 capsules/day),Manufacturing or product supply
+13,Budget,"Funding, business or strategic decision"
+16,Business Reasons,"Funding, business or strategic decision"
+19,Business decision.,"Funding, business or strategic decision"
+22,Business reason,"Funding, business or strategic decision"
+25,Business reasons and not due to any safety concerns,"Funding, business or strategic decision"
+28,"Change in FDA required patient population decision prior to study start, new protocol developed, this protocol withdrawn",Protocol redesign or replacement
+31,Clinical Futility of TAK 500 met. No further development with this compound,Efficacy failure or futility
+34,Company Operational Strategy Adjustment,"Funding, business or strategic decision"
+37,Company strategic decision,"Funding, business or strategic decision"
+40,Completed primary objective.,"Investigator, site or administrative"
+43,Covid-19,COVID-19 disruption
+46,Data don't support further development,Efficacy failure or futility
+49,Despite demonstrated safety and tolerability the trial was terminated early due to program re-prioritization in light of the competitive landscape.,"Funding, business or strategic decision"
+52,Determined that enrollment would be limited due to the change in care setting.,Recruitment or feasibility failure
+55,Difficulties recruiting new subjects,Recruitment or feasibility failure
+58,Dose limiting tox is observed. Study put on full clinical hold.,Safety or toxicity
+61,Due to business reasons,"Funding, business or strategic decision"
+64,"Due to pandemic status changing in Canada prior to investigative sites being initiated for participation, and that concurrent participant recruitment in the global study BHC-RIB-5401-GL will achieve target enrollment across all countries.",COVID-19 disruption
+67,"Due to the adjustment of our company's research and development strategy, we are now prematurely terminating this project.","Funding, business or strategic decision"
+70,"Due to the difficulty to recruit enough patients, the study was terminated.",Recruitment or feasibility failure
+73,Efficacy signal substantial enough to more to larger study,Protocol redesign or replacement
+76,Emerging data demonstrates challenge for EXS21546 to reach suitable therapeutic index.,Efficacy failure or futility
+79,FDA and EMA agreed existing data are appropriate for approval and no further BE studies are required.,Regulatory or ethics hold
+82,"Following a thorough review of safety data, preliminary efficacy data and an evaluation of overall risk-benefit, Sponsor made the decision to end the study.",Safety or toxicity
+85,Following the primary phase (24 weeks post last vaccination) the predefined efficacy endpoint was not met. Noting the lack of efficacy and with the objective to prioritize participants' safety GSK has decided on the early termination of the study.,Efficacy failure or futility
+88,Further development of GSK3494245 has been halted based on assessment of clinical data indicating that predicted efficacious doses cannot be achieved in line with dosing requirements outlined in the target product profile for the proposed indication.,Efficacy failure or futility
+91,Has not shown its expected therapeutic potential for the enrolled patients in this trial,Efficacy failure or futility
+94,Incomplete effect,Efficacy failure or futility
+97,Insufficient efficacy in Phase 1 dose-escalation portion of study,Efficacy failure or futility
+100,"Kaleido Biosciences, Inc. closed the K020-218 trial due to business reasons, and not due to any safety concerns.","Funding, business or strategic decision"
+103,Lack of efficacy of study compound,Efficacy failure or futility
+106,Lagging Enrollment and Administrative Reasons,Recruitment or feasibility failure
+109,Logistical considerations,"Investigator, site or administrative"
+112,New agents for the same indication impacted on patients' recruitment,Recruitment or feasibility failure
+115,Not approved by CFDA,Regulatory or ethics hold
+118,Optimization of protocol,Protocol redesign or replacement
+121,Partnership activities ongoing,"Funding, business or strategic decision"
+124,"Per business decision, but not due to safety concerns or regulatory request.","Funding, business or strategic decision"
+127,Phase 2 portion of the study was not performed due to redirection of the rivoceranib development plan by the Sponsor.,"Funding, business or strategic decision"
+130,Program terminated prior to enrolling subjects,"Funding, business or strategic decision"
+133,Replaced by new study in progress,Protocol redesign or replacement
+136,Slow enrolment,Recruitment or feasibility failure
+139,Sponsor Termination,"Funding, business or strategic decision"
+142,Sponsor decision,"Funding, business or strategic decision"
+145,Sponsor decision based on portfolio prioritization,"Funding, business or strategic decision"
+148,Sponsor decision to terminate,"Funding, business or strategic decision"
+151,"Sponsor decision, not related to safety concerns","Funding, business or strategic decision"
+154,Sponsor decision. Not related to safety concern.,"Funding, business or strategic decision"
+157,Sponsor internal strategy change.,"Funding, business or strategic decision"
+160,"Sponsor terminated the study due to non-safety reasons. Based on the data and the current competitive landscape, Sponsor made the decision to close the study.","Funding, business or strategic decision"
+163,Sponsor's Research and Development strategy adjustment,"Funding, business or strategic decision"
+166,Sponsor's decision and not due to any safety concerns,"Funding, business or strategic decision"
+169,Stopped due to a strategic decision.,"Funding, business or strategic decision"
+172,Strategic considerations,"Funding, business or strategic decision"
+175,Strategic decision made following an assessment of preliminary PK data from the Part 1 portion of the trial showing a lack of dose proportional exposure and the increasing complexity and associated development costs in this landscape.,"Funding, business or strategic decision"
+178,Study did not achieve its primary objective due to early termination of the study,Unclear
+181,Study drug dosing was permanently discontinued at the Sponsor's discretion based on frequency and nature of skin and subcutaneous tissue disorders.,Safety or toxicity
+184,Study has been terminated after Phase I part on 23 February 2023,Unclear
+187,Study no longer required.,"Funding, business or strategic decision"
+190,Study stopped on business grounds,"Funding, business or strategic decision"
+193,Study terminated due to lack of efficacy.,Efficacy failure or futility
+196,Study terminated early due to Antiva business decision.,"Funding, business or strategic decision"
+199,Study was stopped by sponsers internal reason.,"Funding, business or strategic decision"
+202,Study was terminated due to lack of funding to continue the study.,"Funding, business or strategic decision"
+205,Study was terminated due to strategic considerations and not due to safety.,"Funding, business or strategic decision"
+208,Study was withdrawn due to challenges in site recruitment and lack of patient enrollment,Recruitment or feasibility failure
+211,Terminated Early,Unclear
+214,The Sponsor encountered difficulties in recruiting patients for clinical trial D8330C00004 and decided to end the study earlier for business reasons not affecting the benefit-risk balance.,Recruitment or feasibility failure
+217,The cessation of the development project for neladenoson bialanate.,"Funding, business or strategic decision"
+220,The decision to terminate has been taken by the Sponsor. The decision is not due to safety concerns but reflects business prioritizations of the company.,"Funding, business or strategic decision"
+223,The primary reason for early termination was budget constraint.,"Funding, business or strategic decision"
+226,The sponsor decided to stop recruitment and to early terminate the trial with 9 enrolled patients.,"Funding, business or strategic decision"
+229,The sponsor's development strategy adjustment resolution is terminated,"Funding, business or strategic decision"
+232,The study has ended,Unclear
+235,The study stopped due to futility.,Efficacy failure or futility
+238,The study was completed following review of the assumptions underlying the power calculation and it was deemed that enough subjects had been recruited to complete enrollment,Protocol redesign or replacement
+241,The study was stopped as per EMA waiver granted on 20July2018.,Regulatory or ethics hold
+244,"The study was terminated after determination of the RP2D, prior to opening expansion cohorts)","Funding, business or strategic decision"
+247,The study was terminated by the Sponsor.,"Funding, business or strategic decision"
+250,The study was terminated due to lack of efficacy.,Efficacy failure or futility
+253,The study was terminated early due to sponsor's strategic business decision.,"Funding, business or strategic decision"
+256,The study was terminated for strategic reasons.,"Funding, business or strategic decision"
+259,The study was terminated prior to Phase 2 due to slow accrual.,Recruitment or feasibility failure
+262,The trial was terminated for strategic business reasons; the decision was not based on any safety and/or efficacy concerns.,"Funding, business or strategic decision"
+265,"There was no enrolment of participants.Unscheduled Clinical Study Closure - Eisai Network Company Decision, November 12, 2020.","Funding, business or strategic decision"
+268,This study was cancelled before enrolling any patients for business related reasons.,"Funding, business or strategic decision"
+271,This study was integrated into BRE-AD01-001 study,Administrative rollover or transfer (not a failure)
+274,"This study was terminated early as per protocol Section 4.4, based on overall risk-benefit profile observed to date. No safety concerns reported. Only Substudy 1 Part A was started; Parts B \& C were not started. Entire Master Protocol was terminated.",Efficacy failure or futility
+277,To be replaced with a randomized placebo-controlled study.,Protocol redesign or replacement
+280,Trial terminated because of lack of efficacy in the short term acute phase,Efficacy failure or futility
+283,Trial terminated due to difficult recruitment,Recruitment or feasibility failure
+286,Unable to recruit patient population,Recruitment or feasibility failure
+289,Very slow recruitment of patients and the current COVID-19 pandemic situation.,Recruitment or feasibility failure
+292,business/strategic reason,"Funding, business or strategic decision"
+295,funding,"Funding, business or strategic decision"
+298,no recruitment,Recruitment or feasibility failure
+301,sponsor decision,"Funding, business or strategic decision"
+304,study terminated due to business realignment,"Funding, business or strategic decision"
